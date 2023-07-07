@@ -1,24 +1,31 @@
-import {useState} from 'react'
+import {useEffect, useState} from 'react'
 import './App.css'
 
 import {Checkbox} from "@fluentui/react-components";
 import {Dictionary} from './Dictionary';
 import {Card} from "./model/Card.ts";
 
-const cards: Card[] = [
-  {en: 'sun', he: 'שמש'},
-  {en: 'moon', he: 'ירח'},
-  {en: 'tree', he: 'עֵץ'}
-
-];
+async function loadDeck(): Promise<Card[]> {
+  const resp = await fetch('wordfiles/01_NatureBeginner.json');
+  if (!resp.ok) {
+    throw new Error('Cannot load deck');
+  }
+  return await resp.json() as Card[];
+}
 
 function App() {
   const [count, setCount] = useState(0)
+  const [deck, setDeck] = useState([] as Card[])
+
+  useEffect(() => {
+    loadDeck().then(newDeck => setDeck(newDeck));
+  }, [])
+
 
   return (
     <>
       <h1>Flashcards</h1>
-      <Dictionary cards={cards}/>
+      <Dictionary cards={deck}/>
       <Checkbox label="My Checkbox"/>
 
       <div className="card">
