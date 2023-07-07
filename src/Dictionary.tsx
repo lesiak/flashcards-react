@@ -10,6 +10,8 @@ import {
 import React from "react";
 import {Card} from "./model/Card.ts";
 
+import './Dictionary.css'
+
 const columns = [
   {columnKey: "en", label: "English"},
   {columnKey: "he", label: "Hebrew"},
@@ -35,7 +37,7 @@ export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards
         {cards.map((card) => (
           <TableRow key={card.en}>
             <TableCell>{card.en}</TableCell>
-            <TableCell>{card.he}</TableCell>
+            <TableCell className='hebrewFont'>{card.he}</TableCell>
           </TableRow>
         ))}
       </TableBody>
