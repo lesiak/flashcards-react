@@ -1,4 +1,15 @@
 [
+  {"en": "one (masculine)",  "he": "אחד"},
+  {"en": "one (feminine)",  "he": "אחת"},
+  {"en": "two (masculine)",  "he": "שניים"},
+  {"en": "two (feminine)",  "he": "שתיים"},
+  {"en": "three (masculine)",  "he": "שלושה"},
+  {"en": "three (feminine)",  "he": "שלוש"},
+  {"en": "four (masculine)",  "he": "ארבעה"},
+  {"en": "four (feminine)",  "he": "ארבע"},
+  {"en": "five (masculine)",  "he": "חמישה"},
+  {"en": "five (feminine)",  "he": "ארבע"},
+
   {"en": "fire",  "he": "אש"},
   {"en": "light", "he": "אור"},
   {"en": "water", "he": "מים"},
