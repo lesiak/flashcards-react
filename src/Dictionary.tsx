@@ -37,7 +37,7 @@ export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards
         {cards.map((card) => (
           <TableRow key={card.en}>
             <TableCell>{card.en}</TableCell>
-            <TableCell className='hebrewFont'>{card.he}</TableCell>
+            <TableCell className='hebrewFont'>{card.word}</TableCell>
           </TableRow>
         ))}
       </TableBody>
