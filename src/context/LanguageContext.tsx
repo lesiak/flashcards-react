@@ -1,5 +1,5 @@
 import React, {PropsWithChildren, useState} from "react";
-import {brazilianPortuguese, hebrew, LanguageInfo} from '../model/LanguageInfo.ts';
+import {brazilianPortuguese, finnish, hebrew, LanguageInfo} from '../model/LanguageInfo.ts';
 
 type LanguageContextProps = {
   currentLanguage: LanguageInfo,
@@ -11,7 +11,7 @@ const initialLanguageProps: LanguageContextProps = {
   changeLanguage: () => {}
 };
 
-const appLangs = [hebrew, brazilianPortuguese];
+const appLangs = [finnish, hebrew, brazilianPortuguese];
 
 export const LanguageContext = React.createContext(initialLanguageProps);
 

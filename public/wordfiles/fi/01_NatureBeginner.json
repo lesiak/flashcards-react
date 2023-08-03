@@ -1,0 +1,10 @@
+[
+  {"en": "fire",  "word": "palo"},
+  {"en": "light", "word": "valo"},
+  {"en": "water", "word": "vesi"},
+  {"en": "river", "word": "joki"},
+  {"en": "sea",   "word": "meri"},
+  {"en": "sun",   "word": "aurinko"},
+  {"en": "moon",  "word": "kuu"},
+  {"en": "tree",  "word": "puu"}
+]
