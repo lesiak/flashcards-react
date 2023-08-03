@@ -1,13 +1,18 @@
-import {useEffect, useState} from 'react'
+import {useContext, useEffect, useState} from 'react'
 import './App.css'
 import {Button, Checkbox} from "@fluentui/react-components";
 import {Dictionary} from './Dictionary';
 import {Card} from "./model/Card.ts";
 import {getForvoPronunciations} from "./service/PronounciationManager.ts";
 import flagOfIsrael from '/images/Flag_of_Israel.svg'
+import {LanguageContext} from "./context/LanguageContext.tsx";
 
-async function loadDeck(): Promise<Card[]> {
-  const resp = await fetch('wordfiles/01_NatureBeginner.json');
+const deckNames = [
+  '01_NatureBeginner'
+]
+
+async function loadDeck(lang: string, deckName: string): Promise<Card[]> {
+  const resp = await fetch(`wordfiles/${lang}/${deckName}.json`);
   if (!resp.ok) {
     throw new Error('Cannot load deck');
   }
@@ -15,11 +20,13 @@ async function loadDeck(): Promise<Card[]> {
 }
 
 function App() {
+  const langContext = useContext(LanguageContext);
   const [count, setCount] = useState(0)
   const [deck, setDeck] = useState([] as Card[])
+  const deckName = deckNames[0];
 
   useEffect(() => {
-    loadDeck().then(newDeck => setDeck(newDeck));
+    loadDeck(langContext.currentLanguage, deckName).then(newDeck => setDeck(newDeck));
   }, [])
 
 
