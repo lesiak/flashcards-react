@@ -1,10 +1,10 @@
 import {useEffect, useState} from 'react'
 import './App.css'
-
 import {Button, Checkbox} from "@fluentui/react-components";
 import {Dictionary} from './Dictionary';
 import {Card} from "./model/Card.ts";
 import {getForvoPronunciations} from "./service/PronounciationManager.ts";
+import flagOfIsrael from '/images/Flag_of_Israel.svg'
 
 async function loadDeck(): Promise<Card[]> {
   const resp = await fetch('wordfiles/01_NatureBeginner.json');
@@ -35,6 +35,9 @@ function App() {
   return (
     <>
       <h1>Flashcards</h1>
+      <div>
+        <img src={flagOfIsrael} className="logo" alt="Flag" />
+      </div>
       <Dictionary cards={deck}/>
       <Checkbox label="My Checkbox"/>
       <Button onClick={getProno}>sasa</Button>
