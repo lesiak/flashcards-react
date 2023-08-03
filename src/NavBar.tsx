@@ -1,5 +1,19 @@
-import {makeStyles, shorthands, Tab, TabList, TabValue} from '@fluentui/react-components';
 import React from 'react';
+import {
+  Avatar,
+  makeStyles,
+  Menu,
+  MenuItemLink,
+  MenuList,
+  MenuPopover,
+  MenuTrigger,
+  shorthands,
+  Tab,
+  TabList,
+  TabValue
+} from '@fluentui/react-components';
+
+import {PersonRegular} from '@fluentui/react-icons';
 import {SelectTabEventHandler} from '@fluentui/react-tabs';
 
 type NavBarProps = {
@@ -25,6 +39,19 @@ export const NavBar: React.FC<NavBarProps> = ({selectedTab, onTabSelect}) => {
     <TabList selectedValue={selectedTab} onTabSelect={onTabSelect}>
       <Tab value="homeTab" autoFocus={true}>Home</Tab>
       <Tab value="dictionaryTab">Dictionary</Tab>
+      <Menu>
+        <MenuTrigger disableButtonEnhancement>
+          <Avatar icon={<PersonRegular />} aria-label="Group" />
+        </MenuTrigger>
+
+        <MenuPopover>
+          <MenuList>
+            <MenuItemLink href="/logout">Logout</MenuItemLink>
+          </MenuList>
+        </MenuPopover>
+      </Menu>
+
     </TabList>
+
   </nav>
 }

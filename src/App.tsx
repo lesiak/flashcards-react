@@ -39,6 +39,19 @@ function App() {
   };
 
   useEffect(() => {
+    async function getUserInfo() {
+      const response = await fetch('/.auth/me');
+      const payload = await response.json();
+      const { clientPrincipal } = payload;
+      return clientPrincipal;
+    }
+
+    (async () => {
+      console.log(await getUserInfo());
+    })();
+  }, [])
+
+  useEffect(() => {
     loadDeck(currentLanguage.code, deckName).then(newDeck => setDeck(newDeck));
   }, [currentLanguage.code])
 
