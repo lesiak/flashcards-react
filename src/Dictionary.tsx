@@ -5,32 +5,26 @@ import {
   Table,
   TableHeader,
   TableHeaderCell,
-} from "@fluentui/react-components";
+} from '@fluentui/react-components';
 
-import React from "react";
-import {Card} from "./model/Card.ts";
+import React from 'react';
+import {Card} from './model/Card.ts';
 
 import './Dictionary.css'
-
-const columns = [
-  {columnKey: "en", label: "English"},
-  {columnKey: "he", label: "Hebrew"},
-];
+import {LanguageInfo} from './model/LanguageInfo.ts';
 
 type DictionaryTableProps = {
   cards: Card[]
+  currentLanguage: LanguageInfo
 }
 
-export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards}) => {
+export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards, currentLanguage }) => {
   return (
     <Table arial-label="Default table">
       <TableHeader>
         <TableRow>
-          {columns.map((column) => (
-            <TableHeaderCell key={column.columnKey}>
-              {column.label}
-            </TableHeaderCell>
-          ))}
+          <TableHeaderCell>English</TableHeaderCell>
+          <TableHeaderCell>{currentLanguage.fullName}</TableHeaderCell>
         </TableRow>
       </TableHeader>
       <TableBody>

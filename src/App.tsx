@@ -4,7 +4,6 @@ import {Button, Checkbox} from "@fluentui/react-components";
 import {Dictionary} from './Dictionary';
 import {Card} from "./model/Card.ts";
 import {getForvoPronunciations} from "./service/PronounciationManager.ts";
-import flagOfIsrael from '/images/Flag_of_Israel.svg'
 import {LanguageContext} from "./context/LanguageContext.tsx";
 
 const deckNames = [
@@ -20,13 +19,13 @@ async function loadDeck(lang: string, deckName: string): Promise<Card[]> {
 }
 
 function App() {
-  const langContext = useContext(LanguageContext);
+  const { currentLanguage } = useContext(LanguageContext);
   const [count, setCount] = useState(0)
   const [deck, setDeck] = useState([] as Card[])
   const deckName = deckNames[0];
 
   useEffect(() => {
-    loadDeck(langContext.currentLanguage, deckName).then(newDeck => setDeck(newDeck));
+    loadDeck(currentLanguage.code, deckName).then(newDeck => setDeck(newDeck));
   }, [])
 
 
@@ -43,9 +42,9 @@ function App() {
     <>
       <h1>Flashcards</h1>
       <div>
-        <img src={flagOfIsrael} className="logo" alt="Flag" />
+        <img src={currentLanguage.flagUrl} className="logo" alt="Flag" />
       </div>
-      <Dictionary cards={deck}/>
+      <Dictionary cards={deck} currentLanguage={currentLanguage}/>
       <Checkbox label="My Checkbox"/>
       <Button onClick={getProno}>sasa</Button>
       <div className="card">
