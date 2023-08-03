@@ -1,20 +1,28 @@
-import React, {PropsWithChildren} from "react";
-import {LanguageInfo} from "../model/LanguageInfo.ts";
-import flagOfIsrael from '/images/Flag_of_Israel.svg'
+import React, {PropsWithChildren, useState} from "react";
+import {brazilianPortuguese, hebrew, LanguageInfo} from '../model/LanguageInfo.ts';
 
-const initialLanguageProps: {currentLanguage: LanguageInfo} = {
-  currentLanguage: {
-    code: 'he',
-    fullName: 'Hebrew',
-    flagUrl: flagOfIsrael
-  }
+type LanguageContextProps = {
+  currentLanguage: LanguageInfo,
+  changeLanguage: () => void
+}
+
+const initialLanguageProps: LanguageContextProps = {
+  currentLanguage: hebrew,
+  changeLanguage: () => {}
 };
+
+const appLangs = [hebrew, brazilianPortuguese];
 
 export const LanguageContext = React.createContext(initialLanguageProps);
 
 export const LanguageContextProvider: React.FC<PropsWithChildren> = (props) => {
+  const [currentLanguageIdx, setCurrentLanguageIdx] = useState(0);
+  const currentLanguage = appLangs[currentLanguageIdx];
   return (
-    <LanguageContext.Provider value={initialLanguageProps}>
+    <LanguageContext.Provider value={{
+      currentLanguage: currentLanguage,
+      changeLanguage: () => setCurrentLanguageIdx((prevIdx) => (prevIdx + 1) % appLangs.length )
+    }}>
       {props.children}
     </LanguageContext.Provider>
   );

@@ -1,0 +1,10 @@
+[
+  {"en": "fire",  "word": "fogo"},
+  {"en": "light", "word": "luz"},
+  {"en": "water", "word": "água"},
+  {"en": "river", "word": "rio"},
+  {"en": "sea",   "word": "mar"},
+  {"en": "sun",   "word": "sol"},
+  {"en": "moon",  "word": "lua"},
+  {"en": "tree",  "word": "árvore"}
+]

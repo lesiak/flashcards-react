@@ -19,14 +19,14 @@ async function loadDeck(lang: string, deckName: string): Promise<Card[]> {
 }
 
 function App() {
-  const { currentLanguage } = useContext(LanguageContext);
+  const { currentLanguage, changeLanguage } = useContext(LanguageContext);
   const [count, setCount] = useState(0)
   const [deck, setDeck] = useState([] as Card[])
   const deckName = deckNames[0];
 
   useEffect(() => {
     loadDeck(currentLanguage.code, deckName).then(newDeck => setDeck(newDeck));
-  }, [])
+  }, [currentLanguage.code])
 
 
   const getProno = async () =>  {
@@ -42,7 +42,7 @@ function App() {
     <>
       <h1>Flashcards</h1>
       <div>
-        <img src={currentLanguage.flagUrl} className="logo" alt="Flag" />
+        <img src={currentLanguage.flagUrl} className="logo" alt="Flag" onClick={changeLanguage} />
       </div>
       <Dictionary cards={deck} currentLanguage={currentLanguage}/>
       <Checkbox label="My Checkbox"/>
