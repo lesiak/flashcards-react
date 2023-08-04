@@ -6,6 +6,8 @@ import {
 } from "@fluentui/react-components";
 import {LanguageContext} from "./context/LanguageContext.tsx";
 import {getForvoPronunciations} from "./service/PronounciationManager.ts";
+import {ForvoResponse} from './model/forvo/Forvo.ts';
+
 
 export function HomePage() {
   const {currentLanguage} = useContext(LanguageContext);
@@ -14,9 +16,9 @@ export function HomePage() {
   const getProno = async () => {
     const resp = await getForvoPronunciations('fi', 'puu');
     console.log(resp.ok);
-    console.log(resp);
-    const body = await resp.json();
-    console.log(body);
+    const body: ForvoResponse = await resp.json();
+    console.log("AAA respJson", body);
+    console.log("AAA respJson items", body.items);
   }
 
   return (
