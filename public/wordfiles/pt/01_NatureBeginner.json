@@ -1,10 +1,39 @@
-[
-  {"en": "fire",  "word": "fogo"},
-  {"en": "light", "word": "luz"},
-  {"en": "water", "word": "água"},
-  {"en": "river", "word": "rio"},
-  {"en": "sea",   "word": "mar"},
-  {"en": "sun",   "word": "sol"},
-  {"en": "moon",  "word": "lua"},
-  {"en": "tree",  "word": "árvore"}
-]
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1538703012804-b74999aa11b9",
+  "cards": [
+    {
+      "en": "fire",
+      "word": "fogo"
+    },
+    {
+      "en": "light",
+      "word": "luz"
+    },
+    {
+      "en": "water",
+      "word": "água"
+    },
+    {
+      "en": "river",
+      "word": "rio"
+    },
+    {
+      "en": "sea",
+      "word": "mar"
+    },
+    {
+      "en": "sun",
+      "word": "sol"
+    },
+    {
+      "en": "moon",
+      "word": "lua"
+    },
+    {
+      "en": "tree",
+      "word": "árvore"
+    }
+  ]
+}

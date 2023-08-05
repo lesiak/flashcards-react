@@ -1,10 +1,39 @@
-[
-  {"en": "fire",  "word": "אש"},
-  {"en": "light", "word": "אור"},
-  {"en": "water", "word": "מים"},
-  {"en": "river", "word": "נהר"},
-  {"en": "sea",   "word": "ים"},
-  {"en": "sun",   "word": "שמש"},
-  {"en": "moon",  "word": "ירח"},
-  {"en": "tree",  "word": "עֵץ"}
-]
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1587569862806-804104bb47f6",
+  "cards": [
+    {
+      "en": "fire",
+      "word": "אש"
+    },
+    {
+      "en": "light",
+      "word": "אור"
+    },
+    {
+      "en": "water",
+      "word": "מים"
+    },
+    {
+      "en": "river",
+      "word": "נהר"
+    },
+    {
+      "en": "sea",
+      "word": "ים"
+    },
+    {
+      "en": "sun",
+      "word": "שמש"
+    },
+    {
+      "en": "moon",
+      "word": "ירח"
+    },
+    {
+      "en": "tree",
+      "word": "עֵץ"
+    }
+  ]
+}

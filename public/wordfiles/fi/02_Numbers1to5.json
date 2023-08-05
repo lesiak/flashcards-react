@@ -1,0 +1,27 @@
+{
+  "name": "Numbers",
+  "description": "Numbers",
+  "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
+  "cards": [
+    {
+      "en": "one",
+      "word": "yksi"
+    },
+    {
+      "en": "two",
+      "word": "kaksi"
+    },
+    {
+      "en": "three",
+      "word": "kolme"
+    },
+    {
+      "en": "four",
+      "word": "neljä"
+    },
+    {
+      "en": "five",
+      "word": "viisi"
+    }
+  ]
+}

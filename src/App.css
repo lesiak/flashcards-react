@@ -5,6 +5,15 @@
   text-align: center;
 }
 
+.lesson-card {
+
+  will-change: filter;
+  transition: filter 300ms;
+}
+.lesson-card:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -14,5 +23,6 @@
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 
 

@@ -10,38 +10,19 @@ import {Card} from "./model/Card.ts";
 import {LanguageContext} from "./context/LanguageContext.tsx";
 import {NavBar} from './NavBar.tsx';
 import {HomePage} from './HomePage.tsx';
-import {LanguageInfo} from './model/LanguageInfo.ts';
+import {loadAllDLessonsIgnoringErrors} from './service/DeckLoader.ts';
+import {Lesson} from './model/Lesson.ts';
 
 const deckNames = [
   '01_NatureBeginner',
-  '02_Numbers1to5'
+  '02_Numbers1to5',
+  '03_City'
 ]
-
-async function loadDeck(lang: string, deckName: string): Promise<Card[]> {
-  const deckUrl = `wordfiles/${lang}/${deckName}.json`;
-  const resp = await fetch(deckUrl);
-  if (!resp.ok) {
-    throw new Error(`Cannot load deck ${deckUrl}`);
-  }
-  return await resp.json() as Card[];
-}
-
-function loadAllDecksIgnoringErrors(lang: LanguageInfo, deckNames: string[]): Promise<Card[][]> {
-  const loadDeckIgnoringErrors = (deckName: string) => loadDeck(lang.code, deckName)
-    .catch(e => {
-      console.log('AAA', e);
-      return [];
-    });
-
-  const loadTasks = deckNames.map(loadDeckIgnoringErrors);
-  return Promise.all(loadTasks);
-}
 
 function App() {
   const {currentLanguage} = useContext(LanguageContext);
-  const [_, setDeck] = useState([] as Card[])
+  const [lessons, setLessons] = useState([] as Lesson[])
   const [allCards, setAllCards] = useState([] as Card[])
-  const deckIdx = 0;
   const [selectedTab, setSelectedTab] = useState<TabValue>("homeTab");
 
   const onTabSelect = (_: SelectTabEvent, data: SelectTabData) => {
@@ -63,17 +44,17 @@ function App() {
 
   useEffect(() => {
 
-    loadAllDecksIgnoringErrors(currentLanguage, deckNames).then(values => {
-        const newAllCards = values.flatMap(v => v)
+    loadAllDLessonsIgnoringErrors(currentLanguage, deckNames).then(lessons => {
+        setLessons(lessons);
+        const newAllCards = lessons.flatMap(l => l.cards)
         setAllCards(newAllCards);
-        setDeck(values[deckIdx]);
       })
     }, [currentLanguage.code])
 
     return (
       <>
         <NavBar selectedTab={selectedTab} onTabSelect={onTabSelect}/>
-        {selectedTab === 'homeTab' && <HomePage/>}
+        {selectedTab === 'homeTab' && <HomePage lessons={lessons}/>}
         {selectedTab === 'dictionaryTab' && <Dictionary cards={allCards} currentLanguage={currentLanguage}/>}
       </>
     )

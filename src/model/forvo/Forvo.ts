@@ -1,8 +1,8 @@
 export type ForvoResponse = {
   attributes: {
-    total: number
-  },
-  items: ForvoItem[]
+    total: number;
+  };
+  items: ForvoItem[];
 }
 
 export type ForvoItem = {

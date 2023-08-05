@@ -1,4 +1,4 @@
 export interface Card {
-    en: string
-    word: string
+    en: string;
+    word: string;
 }
