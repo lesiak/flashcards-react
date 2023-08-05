@@ -3,25 +3,24 @@ import {brazilianPortuguese, finnish, hebrew, LanguageInfo} from '../model/Langu
 
 type LanguageContextProps = {
   currentLanguage: LanguageInfo,
-  changeLanguage: () => void
+  setCurrentLanguage: (lang: LanguageInfo) => void
 }
 
 const initialLanguageProps: LanguageContextProps = {
   currentLanguage: hebrew,
-  changeLanguage: () => {}
+  setCurrentLanguage: () => {}
 };
 
-const appLangs = [finnish, hebrew, brazilianPortuguese];
+export const appLangs = [finnish, hebrew, brazilianPortuguese];
 
 export const LanguageContext = React.createContext(initialLanguageProps);
 
 export const LanguageContextProvider: React.FC<PropsWithChildren> = (props) => {
-  const [currentLanguageIdx, setCurrentLanguageIdx] = useState(0);
-  const currentLanguage = appLangs[currentLanguageIdx];
+  const [currentLanguage, setCurrentLanguage] = useState(finnish);
   return (
     <LanguageContext.Provider value={{
       currentLanguage: currentLanguage,
-      changeLanguage: () => setCurrentLanguageIdx((prevIdx) => (prevIdx + 1) % appLangs.length )
+      setCurrentLanguage: setCurrentLanguage
     }}>
       {props.children}
     </LanguageContext.Provider>
