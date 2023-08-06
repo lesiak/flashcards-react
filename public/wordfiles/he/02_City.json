@@ -1,0 +1,111 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1500990702037-7620ccb6a60a",
+  "cards": [
+    {
+      "en": "city",
+      "word": "עִיר"
+    },
+    {
+      "en": "village",
+      "word": "כפר"
+    },
+    {
+      "en": "road",
+      "word": "כביש"
+    },
+    {
+      "en": "street",
+      "word": "רחוב"
+    },
+    {
+      "en": "avenue",
+      "word": "שדרה"
+    },
+    {
+      "en": "bridge",
+      "word": "?"
+    },
+    {
+      "en": "square (in city)",
+      "word": "aukio"
+    },
+    {
+      "en": "(city) centre",
+      "word": "keskusta"
+    },
+    {
+      "en": "church",
+      "word": "כנסייה"
+    },
+    {
+      "en": "pharmacy",
+      "word": "בית מרקחת"
+    },
+    {
+      "en": "castle",
+      "word": "טירה"
+    },
+    {
+      "en": "building",
+      "word": "rakennus"
+    },
+    {
+      "en": "school",
+      "word": "koulu"
+    },
+    {
+      "en": "museum",
+      "word": "museo"
+    },
+    {
+      "en": "alley, backstreet",
+      "word": "kuja"
+    },
+    {
+      "en": "(street) corner",
+      "word": "kadunkulma"
+    },
+    {
+      "en": "bank",
+      "word": "pankki"
+    },
+    {
+      "en": "town hall",
+      "word": "kaupungintalo"
+    },
+    {
+      "en": "fountain",
+      "word": "suihkulähde"
+    },
+    {
+      "en": "bench",
+      "word": "penkki"
+    },
+    {
+      "en": "suburb",
+      "word": "esikaupunki"
+    },
+    {
+      "en": "neighborhood (district)",
+      "word": "kaupunginosa"
+    },
+    {
+      "en": "factory",
+      "word": "tehdas"
+    },
+    {
+      "en": "statue",
+      "word": "patsas"
+    },
+    {
+      "en": "gallery",
+      "word": "galleria, taidegalleria"
+    },
+    {
+      "en": "urban",
+      "word": "kaupunki-"
+    }
+  ]
+}

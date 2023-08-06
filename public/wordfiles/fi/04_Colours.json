@@ -1,0 +1,28 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+
+    { "en": "yellow", 	 "word": "keltainen"},
+    { "en": "white",     "word": "valkoinen"},
+    { "en": "black",     "word": "musta" },
+    { "en": "red",       "word": "punainen"},
+    { "en": "blue",      "word": "sininen" },
+    { "en": "green",     "word": "vihreä" },
+    { "en": "orange",    "word": "oranssi"},
+    { "en": "pink",      "word": "vaaleanpunainen"},
+    { "en": "brown",     "word": "ruskea"},
+    { "en": "grey",      "word": "harmaa"},
+    { "en": "violet",    "word": "violetti" },
+    { "en": "purple",    "word": "sinipunainen, violetti" },
+
+    { "en": "colour",    "word": "väri"},
+    { "en": "colorful",  "word": "värikäs"},
+    { "en": "colourless","word": "väritön"},
+
+    { "en": "light (colour)",   "word": "vaalea"},
+    { "en": "dark (colour)",    "word": "tumma"},
+    { "en": "bright (colour)",  "word": "kirkas"}
+  ]
+}
