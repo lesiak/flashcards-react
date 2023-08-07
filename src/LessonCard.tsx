@@ -42,7 +42,7 @@ export const LessonCard: React.FC<LessonCardProps> = ({lesson}) => {
       <CardPreview>
         {lesson.image && <Image
             fit='cover'
-            src={lesson.image}
+            src={lesson.image + "?width=720"}
             alt={lesson.description}
         />}
         {!lesson.image && <div>{lesson.name}</div>}
