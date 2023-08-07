@@ -1,0 +1,111 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1555990794-6d00be0d6f95",
+  "cards": [
+    {
+      "en": "city",
+      "word": "grad"
+    },
+    {
+      "en": "village",
+      "word": "selo"
+    },
+    {
+      "en": "road",
+      "word": "cesta, put"
+    },
+    {
+      "en": "street",
+      "word": "ulica"
+    },
+    {
+      "en": "avenue",
+      "word": "avenija"
+    },
+    {
+      "en": "bridge",
+      "word": "most"
+    },
+    {
+      "en": "square (in city)",
+      "word": "trg"
+    },
+    {
+      "en": "(city) centre",
+      "word": "središte (grada)"
+    },
+    {
+      "en": "church",
+      "word": "crkva"
+    },
+    {
+      "en": "pharmacy",
+      "word": "ljekarna"
+    },
+    {
+      "en": "castle",
+      "word": "dvorac, zamak"
+    },
+    {
+      "en": "building",
+      "word": "zgrada"
+    },
+    {
+      "en": "school",
+      "word": "škola"
+    },
+    {
+      "en": "museum",
+      "word": "muzej"
+    },
+    {
+      "en": "alley, backstreet",
+      "word": "sporedna ulica"
+    },
+    {
+      "en": "(street) corner",
+      "word": "ugao ulice"
+    },
+    {
+      "en": "bank",
+      "word": "banka"
+    },
+    {
+      "en": "town hall",
+      "word": "gradska vijećnica"
+    },
+    {
+      "en": "fountain",
+      "word": "fontana"
+    },
+    {
+      "en": "bench",
+      "word": "klupa"
+    },
+    {
+      "en": "suburb",
+      "word": "predgrađe"
+    },
+    {
+      "en": "neighborhood (district)",
+      "word": "okrug"
+    },
+    {
+      "en": "factory",
+      "word": "tvornica, fabrika"
+    },
+    {
+      "en": "statue",
+      "word": "statua"
+    },
+    {
+      "en": "gallery",
+      "word": "galerija"
+    },
+    {
+      "en": "urban",
+      "word": "gradski"
+    }
+  ]
+}

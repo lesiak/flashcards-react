@@ -13,12 +13,10 @@ import {
   TabValue
 } from '@fluentui/react-components';
 
-import {appLangs} from './context/LanguageContext.tsx';
-
 import {PersonRegular} from '@fluentui/react-icons';
 import {SelectTabEventHandler} from '@fluentui/react-tabs';
 import {LanguageContext} from './context/LanguageContext.tsx';
-import {LanguageInfo} from './model/LanguageInfo.ts';
+import {LanguageInfo, appLangs} from './model/LanguageInfo.ts';
 
 type NavBarProps = {
   selectedTab: TabValue,
