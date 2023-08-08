@@ -10,14 +10,8 @@ import {Card} from "./model/Card.ts";
 import {LanguageContext} from "./context/LanguageContext.tsx";
 import {NavBar} from './NavBar.tsx';
 import {HomePage} from './HomePage.tsx';
-import {loadAllDLessonsIgnoringErrors} from './service/DeckLoader.ts';
+import {loadAllDLessonsIgnoringErrors, loadDeckNames} from './service/DeckLoader.ts';
 import {Lesson} from './model/Lesson.ts';
-
-const deckNames = [
-  '01_NatureBeginner',
-  '02_Numbers1to5',
-  '03_City'
-]
 
 function App() {
   const {currentLanguage} = useContext(LanguageContext);
@@ -43,12 +37,14 @@ function App() {
   }, [])
 
   useEffect(() => {
-
-    loadAllDLessonsIgnoringErrors(currentLanguage, deckNames).then(lessons => {
-        setLessons(lessons);
-        const newAllCards = lessons.flatMap(l => l.cards)
-        setAllCards(newAllCards);
-      })
+    const fetchData = async () => {
+      const deckNames = await loadDeckNames();
+      const lessons = await loadAllDLessonsIgnoringErrors(currentLanguage, deckNames);
+      setLessons(lessons);
+      const newAllCards = lessons.flatMap(l => l.cards)
+      setAllCards(newAllCards);
+    }
+    fetchData().catch(console.error);
     }, [currentLanguage.code])
 
     return (

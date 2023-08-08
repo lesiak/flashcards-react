@@ -1,6 +1,15 @@
 import {Lesson} from '../model/Lesson.ts';
 import {LanguageInfo} from '../model/LanguageInfo.ts';
 
+export async function loadDeckNames(): Promise<string[]> {
+  const url = 'wordfiles/Lessons.json';
+  const resp = await fetch(url);
+  if (!resp.ok) {
+    throw new Error(`Cannot load deck names ${url}`);
+  }
+  return await resp.json() as string[];
+}
+
 export async function loadLesson(lang: string, deckName: string): Promise<Lesson> {
   const deckUrl = `wordfiles/${lang}/${deckName}.json`;
   const resp = await fetch(deckUrl);
