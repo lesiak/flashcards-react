@@ -4,11 +4,14 @@
   "image": "https://images.unsplash.com/photo-1534604361877-35f278ca3756",
   "cards": [
     { "en": "fruit",      "word": "hedelmä"      },
+
     { "en": "apple",      "word": "omena"        },
     { "en": "pear",       "word": "päärynä"      },
-    { "en": "peach",      "word": "persikka"     },
-    { "en": "banana",     "word": "banaani"      },
+
     { "en": "plum",       "word": "luumu"        },
+    { "en": "cherry",     "word": "kirsikka"     },
+    { "en": "peach",      "word": "persikka"     },
+    { "en": "apricot",    "word": "aprikoosi"    },
 
     { "en": "strawberry", "word": "mansikka"     },
     { "en": "raspberry",  "word": "vadelma"      },
@@ -17,8 +20,12 @@
     { "en": "cloudberry", "word": "lakka"        },
     { "en": "buckthorn",  "word": "tyrni"        },
 
-    { "en": "lemon",      "word": "sitruuna"     },
     { "en": "grape",      "word": "viinirypäle"  },
+    { "en": "currant",    "word": "herukka"      },
+    { "en": "gooseberry", "word": "karviainen"   },
+
+    { "en": "banana",     "word": "banaani"      },
+    { "en": "lemon",      "word": "sitruuna"     },
     { "en": "pineapple",  "word": "ananas"       },
     { "en": "watermelon", "word": "vesimeloni"   },
 

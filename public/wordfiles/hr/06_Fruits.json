@@ -1,0 +1,38 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1517496768306-b5a5d671f013",
+  "cards": [
+    { "en": "fruit",      "word": "voće"         },
+
+    { "en": "apple",      "word": "jabuka"       },
+    { "en": "pear",       "word": "kruška"       },
+    { "en": "fig",        "word": "smokva"       },
+
+    { "en": "plum",       "word": "šljiva"       },
+    { "en": "cherry",     "word": "višnja"       },
+    { "en": "peach",      "word": "breskva"      },
+    { "en": "apricot",    "word": "marelica"     },
+
+    { "en": "strawberry", "word": "jagoda"       },
+    { "en": "raspberry",  "word": "malina"       },
+    { "en": "blackberry", "word": "kupina"       },
+    { "en": "blueberry",  "word": "borovnica"    },
+
+    { "en": "grape",      "word": "grožđe"       },
+    { "en": "currant",    "word": "ribiz"        },
+    { "en": "gooseberry", "word": "ogrozd"       },
+
+    { "en": "banana",     "word": "banana"       },
+    { "en": "lemon",      "word": "limun"        },
+    { "en": "pineapple",  "word": "ananas"       },
+    { "en": "watermelon", "word": "lubenica"     },
+
+    { "en": "nut",        "word": "orah"         },
+    { "en": "hazelnut",   "word": "lješnjak"     },
+    { "en": "walnut",     "word": "orah"         },
+    { "en": "almond",     "word": "badem"        },
+
+    { "en": "ripe",       "word": "zrelo"        }
+  ]
+}
