@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {LanguageInfo} from './model/LanguageInfo.ts';
 import {Lesson} from './model/Lesson.ts';
 import {
@@ -25,13 +25,19 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
 
   const [currentCardIdx, setCurrentCardIdx] = useState(0);
   const [pronos, setPronos] = useState([] as ForvoItem[]);
-
-
   const card = lesson.cards[currentCardIdx];
+
+  useEffect(() => {
+    getProno(currentLanguage, card.word).then(items => setPronos(items))
+  }, [card.word, currentLanguage]);
 
   const gotoNextCard = () => {
     setCurrentCardIdx((prevIdx) => (prevIdx +1) % lesson.cards.length);
     setPronos([]);
+  }
+
+  const playAudio = (url: string): Promise<void> => {
+    return new Audio(url).play();
   }
 
   return <>
@@ -46,18 +52,16 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
       <CardPreview>
         <h1>{card.en}</h1>
         <h1>{card.word}</h1>
-        {pronos.map((fi => (<figure>
-          <figcaption>{fi.username} - {fi.country}</figcaption>
-          <audio controls src={fi.pathmp3}>
-            <a href={fi.pathmp3}> Download audio </a>
-          </audio>
-        </figure>)))}
+        <div>
+        {pronos.map((fItem => (<Button onClick={() => playAudio(fItem.pathmp3)}>
+          {fItem.username} - {fItem.country}
+        </Button>
+          )))}
+        </div>
       </CardPreview>
 
       <CardFooter>
         <Button onClick={gotoNextCard}>Next</Button>
-        <Button onClick={() => getProno(currentLanguage, card.word).then(items => setPronos(items))}>Get Prono</Button>
-
       </CardFooter>
     </Card>
     </>
