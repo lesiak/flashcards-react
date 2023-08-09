@@ -6,7 +6,7 @@
       "direction": "in",
       "name": "req",
       "methods": [ "get" ],
-      "route": "word-pronunciations/word/{word:alpha}/language/{lang:alpha}"
+      "route": "word-pronunciations/word/{word}/language/{lang:alpha}"
     },
     {
       "type": "http",
