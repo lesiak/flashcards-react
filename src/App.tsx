@@ -37,6 +37,20 @@ function App() {
   }, [])
 
   useEffect(() => {
+    async function getApiMessage() {
+      const response = await fetch('/api/message');
+      const payload = await response;
+      console.log('AAAA', response);
+      return payload;
+    }
+
+    (async () => {
+      console.log(await getApiMessage());
+    })();
+  }, [])
+
+
+useEffect(() => {
     const fetchData = async () => {
       const deckNames = await loadDeckNames();
       const lessons = await loadAllDLessonsIgnoringErrors(currentLanguage, deckNames);
