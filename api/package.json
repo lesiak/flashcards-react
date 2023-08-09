@@ -6,6 +6,9 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {},
   "devDependencies": {}
 }
