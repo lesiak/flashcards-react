@@ -10,6 +10,7 @@ import {
 } from '@fluentui/react-components';
 import {getForvoPronunciations} from './service/PronounciationManager.ts';
 import {ForvoItem, ForvoResponse} from './model/forvo/Forvo.ts';
+import {sanitizeWordEntry} from "./service/CardUtils.ts";
 
 const getProno = async (lang: LanguageInfo, word: string): Promise<ForvoItem[]> => {
   const resp = await getForvoPronunciations(lang.code, word);
@@ -28,7 +29,8 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
   const card = lesson.cards[currentCardIdx];
 
   useEffect(() => {
-    getProno(currentLanguage, card.word).then(items => setPronos(items))
+    const sanitizedWord = sanitizeWordEntry(currentLanguage.code, card.word);
+    getProno(currentLanguage, sanitizedWord).then(items => setPronos(items))
   }, [card.word, currentLanguage]);
 
   const gotoNextCard = () => {
