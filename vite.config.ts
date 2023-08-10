@@ -9,10 +9,10 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': {
+      '/api/word-pronunciations': {
         target: 'https://apifree.forvo.com',
         changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, `/key/${forvoKey}`),
+        rewrite: (path) => path.replace(/^\/api\/word-pronunciations/, `/key/${forvoKey}/format/json/action/word-pronunciations`),
         configure: (proxy, _options) => {
           proxy.on('error', (err, _req, _res) => {
             console.log('VITE_PROXY error', err);
