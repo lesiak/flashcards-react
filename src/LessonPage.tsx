@@ -55,9 +55,11 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
         <h1>{card.en}</h1>
         <h1>{card.word}</h1>
         <div>
-        {pronos.map((fItem => (<Button onClick={() => playAudio(fItem.pathmp3)}>
-          {fItem.username} - {fItem.country}
-        </Button>
+        {pronos.map((fItem => (
+          <Button key={`${card.word}-${fItem.username}`}
+                  onClick={() => playAudio(fItem.pathmp3)}>
+            {fItem.username} - {fItem.country}
+          </Button>
           )))}
         </div>
       </CardPreview>
