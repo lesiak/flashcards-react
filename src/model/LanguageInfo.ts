@@ -1,7 +1,8 @@
 import flagOfFinland from '/images/Flag_of_Finland.svg'
-import flagOfIsrael from '/images/Flag_of_Israel.svg'
 import flagOfBrazil from '/images/Flag_of_Brazil.svg'
 import flagOfCroatia from '/images/Flag_of_Croatia.svg'
+import flagOfNetherlands from '/images/Flag_of_the_Netherlands.svg'
+import flagOfIsrael from '/images/Flag_of_Israel.svg'
 
 export interface LanguageInfo {
   code: string;
@@ -13,12 +14,6 @@ export const finnish: LanguageInfo = {
   code: 'fi',
   fullName: 'Finnish',
   flagUrl: flagOfFinland
-}
-
-export const hebrew: LanguageInfo = {
-  code: 'he',
-  fullName: 'Hebrew',
-  flagUrl: flagOfIsrael
 }
 
 export const brazilianPortuguese: LanguageInfo = {
@@ -33,4 +28,15 @@ export const croatian: LanguageInfo = {
   flagUrl: flagOfCroatia
 }
 
-export const appLangs = [finnish, hebrew, brazilianPortuguese, croatian];
+export const dutch: LanguageInfo = {
+  code: 'nl',
+  fullName: 'Dutch',
+  flagUrl: flagOfNetherlands
+}
+export const hebrew: LanguageInfo = {
+  code: 'he',
+  fullName: 'Hebrew',
+  flagUrl: flagOfIsrael
+}
+
+export const appLangs = [finnish, brazilianPortuguese, croatian, dutch, hebrew];

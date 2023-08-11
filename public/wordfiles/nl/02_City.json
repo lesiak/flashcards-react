@@ -1,0 +1,111 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1584352703598-7e6f2bbaf77c",
+  "cards": [
+    {
+      "en": "city",
+      "word": "stad"
+    },
+    {
+      "en": "village",
+      "word": "??"
+    },
+    {
+      "en": "road",
+      "word": "estrada"
+    },
+    {
+      "en": "street",
+      "word": "rua"
+    },
+    {
+      "en": "avenue",
+      "word": "avenida"
+    },
+    {
+      "en": "bridge",
+      "word": "ponte"
+    },
+    {
+      "en": "square (in city)",
+      "word": "aukio"
+    },
+    {
+      "en": "(city) centre",
+      "word": "centro (da cidade)"
+    },
+    {
+      "en": "church",
+      "word": "igreja"
+    },
+    {
+      "en": "pharmacy",
+      "word": "farmacia"
+    },
+    {
+      "en": "castle",
+      "word": "castelo"
+    },
+    {
+      "en": "building",
+      "word": "edifício"
+    },
+    {
+      "en": "school",
+      "word": "escola"
+    },
+    {
+      "en": "museum",
+      "word": "museo"
+    },
+    {
+      "en": "alley, backstreet",
+      "word": "ruela"
+    },
+    {
+      "en": "(street) corner",
+      "word": "esquina (da rua)"
+    },
+    {
+      "en": "bank",
+      "word": "banco"
+    },
+    {
+      "en": "town hall",
+      "word": "prefeitura"
+    },
+    {
+      "en": "fountain",
+      "word": "fonte"
+    },
+    {
+      "en": "bench",
+      "word": "banco"
+    },
+    {
+      "en": "suburb",
+      "word": "subúrbio"
+    },
+    {
+      "en": "neighborhood (district)",
+      "word": "bairro"
+    },
+    {
+      "en": "factory",
+      "word": "fábrica"
+    },
+    {
+      "en": "statue",
+      "word": "estátua"
+    },
+    {
+      "en": "gallery",
+      "word": "galeria"
+    },
+    {
+      "en": "urban",
+      "word": "urbano"
+    }
+  ]
+}
