@@ -29,15 +29,21 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
   const card = lesson.cards[currentCardIdx];
 
   useEffect(() => {
-    const sanitizedWord = sanitizeWordEntry(currentLanguage.code, card.word);
-    getProno(currentLanguage, sanitizedWord).then(items => setPronos(items))
+    async function getAndPlaySounds() {
+      const sanitizedWord = sanitizeWordEntry(currentLanguage.code, card.word);
+      const items = await getProno(currentLanguage, sanitizedWord);
+      setPronos(items);
+      if (items.length > 0) {
+        await playAudio(items[0].pathmp3);
+      }
+    }
+    getAndPlaySounds();
   }, [card.word, currentLanguage]);
 
   const gotoNextCard = () => {
     setCurrentCardIdx((prevIdx) => (prevIdx +1) % lesson.cards.length);
     setPronos([]);
   }
-
   const playAudio = (url: string): Promise<void> => {
     return new Audio(url).play();
   }
