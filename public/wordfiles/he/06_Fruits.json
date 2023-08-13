@@ -1,0 +1,40 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1629738601425-494c3d6ba3e2",
+  "cards": [
+    { "en": "fruit",      "word": "פרי"         },
+
+    { "en": "apple",      "word": "תפוח עץ"       },
+    { "en": "pear",       "word": "אגס"       },
+    { "en": "fig",        "word": "תאנה"       },
+
+    { "en": "plum",       "word": "שזיף"       },
+    { "en": "cherry",     "word": "דובדבן"       },
+    { "en": "peach",      "word": "אפרסק"      },
+    { "en": "apricot",    "word": "משמש"     },
+
+    { "en": "strawberry", "word": "תות"       },
+    { "en": "raspberry",  "word": "פטל"       },
+    { "en": "blackberry", "word": "אוכמניות"       },
+    { "en": "blueberry",  "word": "אוכמנית"    },
+
+    { "en": "grape",      "word": "ענב"       },
+    { "en": "currant",    "word": "דומדמניות"        },
+    { "en": "gooseberry", "word": "דומדמנית"       },
+
+    { "en": "banana",     "word": "בננה"       },
+    { "en": "lemon",      "word": "לימון"        },
+    { "en": "pineapple",  "word": "אננס"       },
+    { "en": "watermelon", "word": "אבטיח"     },
+    { "en": "date",       "word": "תמר"     },
+    { "en": "pomegranate","word": "רימון"     },
+
+    { "en": "nut",        "word": "אגוז"         },
+    { "en": "hazelnut",   "word": "אגוז לוז"     },
+    { "en": "walnut",     "word": "אגוז מלך"         },
+    { "en": "almond",     "word": "שקד"        },
+
+    { "en": "ripe",       "word": "בָּשֵׁל"        }
+  ]
+}
