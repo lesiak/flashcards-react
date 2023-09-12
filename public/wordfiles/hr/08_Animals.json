@@ -1,0 +1,34 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",       	"word": "mačka"   },
+    { "en": "dog",       	"word": "pas"     },
+    { "en": "chicken",   	"word": "pile"    },
+    { "en": "pig",      	"word": "svinja"  },
+    { "en": "cow",      	"word": "krava"   },
+    { "en": "horse",        "word": "konj"    },
+    { "en": "sheep",        "word": "ovca"    },
+    { "en": "goat",         "word": "koza"    },
+
+    { "en": "donkey",       "word": "magarac" },
+
+    { "en": "puppy",        "word": "štene"   },
+    { "en": "hamster",      "word": "hrčak"   },
+    { "en": "guinea pig",   "word": "zamorac"},
+
+
+    { "en": "cage",         "word": ""},
+    { "en": "aquarium",     "word": "" },
+    { "en": "leash",        "word": "povodac" },
+    { "en": "pet crate",    "word": ""},
+    { "en": "nest",         "word": "gnijezdo"},
+
+    { "en": "female (animals)","word": "" },
+    { "en": "male (animals)",  "word": "" },
+
+    { "en": "cattle",     "word": ""},
+    { "en": "vet",        "word": "veterinar" }
+  ]
+}
