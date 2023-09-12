@@ -16,7 +16,13 @@ export async function loadLesson(lang: string, deckName: string): Promise<Lesson
   if (!resp.ok) {
     throw new Error(`Cannot load deck ${deckUrl}`);
   }
-  return await resp.json() as Lesson;
+  const lesson = await resp.json() as Lesson;
+  for (const card of lesson.cards) {
+    if (card.en === undefined || card.word === undefined) {
+      console.log(`Invalid deck ${deckName}`);
+    }
+  }
+  return lesson;
 }
 
 

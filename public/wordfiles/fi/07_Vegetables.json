@@ -1,0 +1,29 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "valkosipuli" },
+    { "en": "cucumber",     "word": "kurkku"      },
+    { "en": "carrot",       "word": "porkkana"    },
+    { "en": "aubergine",    "word": "munakoiso"   },
+    { "en": "potato",       "word": "peruna"      },
+    { "en": "tomato",       "word": "tomaatti"    },
+
+    { "en": "pumpkin",      "word": "kurpitsa"    },
+    { "en": "courgette",    "word": "kesäkurpitsa"},
+    { "en": "avocado",      "word": "avokado"     },
+
+    { "en": "cabbage",      "word": "kaali"       },
+    { "en": "cauliflower",  "word": "kukkakaali"  },
+    { "en": "broccoli",     "word": "parsakaali"  },
+    { "en": "spinach",      "word": "pinaatti"    },
+    { "en": "bell pepper",  "word": "paprika"     },
+    { "en": "lettuce",      "word": "lehtisalaatti"},
+
+    { "en": "onion",        "word": "sipuli"      },
+
+
+    { "en": "hot pepper", "word": "kuuma pippuria" }
+  ]
+}

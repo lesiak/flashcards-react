@@ -3,10 +3,7 @@
   "description": "City",
   "image": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5",
   "cards": [
-    {
-      "en": "city",
-      "word": "kaupunki"
-    },
+
     {
       "en": "map",
       "word": "kartta"

@@ -1,0 +1,36 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",       	"word": "kissa"   },
+    { "en": "dog",       	"word": "koira"   },
+    { "en": "chicken",   	"word": "kana"    },
+    { "en": "pig",      	"word": "sika"    },
+    { "en": "cow",      	"word": "lehmä"   },
+    { "en": "horse",      "word": "hevonen" },
+    { "en": "sheep",      "word": "lammas"  },
+    { "en": "goat",       "word": "vuohi"   },
+
+    { "en": "donkey",     "word": "aasi"  },
+
+    { "en": "puppy",      "word": "pentu"},
+
+
+    { "en": "hamster",    "word": "hamsteri"},
+    { "en": "guinea pig", "word": "marsu"},
+
+
+    { "en": "cage",       "word": "häkki"},
+    { "en": "aquarium",   "word": "akvaario" },
+    { "en": "leash",      "word": "talutin" },
+    { "en": "pet crate",  "word": ""},
+    { "en": "nest",       "word": "pesä"},
+
+    { "en": "female (animals)","word": "naaras" },
+    { "en": "male (animals)",  "word": "" },
+
+    { "en": "cattle",     "word": ""},
+    { "en": "vet",        "word": "eläinlääkäri" }
+  ]
+}
