@@ -1,0 +1,35 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",       	"word": "חתול"   },
+    { "en": "dog",       	"word": "כלב"     },
+    { "en": "chicken",   	"word": ""    },
+    { "en": "pig",      	"word": "חזיר"  },
+    { "en": "cow",      	"word": "פרה"   },
+    { "en": "horse",        "word": "סוס"    },
+    { "en": "sheep",        "word": ""    },
+    { "en": "goat",         "word": ""    },
+
+    { "en": "donkey",       "word": "" },
+    { "en": "mouse",        "word": "עכבר"   },
+
+    { "en": "puppy",        "word": ""   },
+    { "en": "hamster",      "word": ""   },
+    { "en": "guinea pig",   "word": ""},
+
+
+    { "en": "cage",         "word": ""},
+    { "en": "aquarium",     "word": "" },
+    { "en": "leash",        "word": "" },
+    { "en": "pet crate",    "word": ""},
+    { "en": "nest",         "word": ""},
+
+    { "en": "female (animals)","word": "" },
+    { "en": "male (animals)",  "word": "" },
+
+    { "en": "cattle",     "word": ""},
+    { "en": "vet",        "word": "" }
+  ]
+}

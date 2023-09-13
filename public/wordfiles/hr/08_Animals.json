@@ -13,10 +13,11 @@
     { "en": "goat",         "word": "koza"    },
 
     { "en": "donkey",       "word": "magarac" },
+    { "en": "mouse",        "word": "miš"     },
 
     { "en": "puppy",        "word": "štene"   },
     { "en": "hamster",      "word": "hrčak"   },
-    { "en": "guinea pig",   "word": "zamorac"},
+    { "en": "guinea pig",   "word": "zamorac" },
 
 
     { "en": "cage",         "word": ""},
