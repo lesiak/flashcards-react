@@ -21,6 +21,16 @@ const getProno = async (lang: LanguageInfo, word: string): Promise<ForvoItem[]> 
   return body.items;
 }
 
+const poorPronoUsers: Record<string, readonly string[]> = {
+  'tr': ['rogers']
+} as const;
+
+
+const filterOutPoorProno = (lang: LanguageInfo, items: ForvoItem[]): ForvoItem[] => {
+  const poorUsersForLang = poorPronoUsers[lang.code] ?? [];
+  const filteredItems =  items.filter(item => !poorUsersForLang.includes(item.username));
+  return filteredItems ? filteredItems : items;
+}
 
 export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson}> = ({currentLanguage, lesson}) => {
 
@@ -32,9 +42,10 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
     async function getAndPlaySounds() {
       const sanitizedWord = sanitizeWordEntry(currentLanguage.code, card.word);
       const items = await getProno(currentLanguage, sanitizedWord);
-      setPronos(items);
-      if (items.length > 0) {
-        await playAudio(items[0].pathmp3);
+      const goodPronos = filterOutPoorProno(currentLanguage, items);
+      setPronos(goodPronos);
+      if (goodPronos.length > 0) {
+        await playAudio(goodPronos[0].pathmp3);
       }
     }
     getAndPlaySounds();
