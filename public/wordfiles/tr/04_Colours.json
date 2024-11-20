@@ -1,0 +1,28 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+
+    { "en": "yellow", 	 "word": "sarı"},
+    { "en": "white",     "word": "beyaz"},
+    { "en": "black",     "word": "siyah" },
+    { "en": "red",       "word": "kırmızı"},
+    { "en": "blue",      "word": "mavi" },
+    { "en": "green",     "word": "yeşil" },
+    { "en": "orange",    "word": "turuncu"},
+    { "en": "pink",      "word": "pembe"},
+    { "en": "brown",     "word": "kahverengi"},
+    { "en": "grey",      "word": "gri"},
+    { "en": "violet",    "word": "menekşe" },
+    { "en": "purple",    "word": "mor" },
+
+    { "en": "colour",    "word": "renk"},
+    { "en": "colorful",  "word": "renkli"},
+    { "en": "colourless","word": "renksiz"},
+
+    { "en": "light (colour)",   "word": "açık"},
+    { "en": "dark (colour)",    "word": "koyu"},
+    { "en": "bright (colour)",  "word": "parlak"}
+  ]
+}
