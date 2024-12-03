@@ -1,0 +1,39 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1718634147043-cf1c90202a44",
+  "cards": [
+    { "en": "fruit",      "word": "meyve"      },
+
+    { "en": "apple",      "word": "elma"        },
+    { "en": "pear",       "word": "armut"      },
+
+    { "en": "plum",       "word": "erik"        },
+    { "en": "cherry",     "word": "kiraz"       },
+    { "en": "sour cherry", "word": "vişne"       },
+    
+    { "en": "peach",      "word": "şeftali"     },
+    { "en": "apricot",    "word": "kayısı"    },
+
+    { "en": "strawberry", "word": "çilek"     },
+    { "en": "raspberry",  "word": "ahududu"      },
+    { "en": "blackberry", "word": "böğürtlen"},
+    { "en": "blueberry",  "word": "yabanmersini"     },
+
+    { "en": "grape",      "word": "üzüm"  },
+    { "en": "currant",    "word": "frenk üzümü"      },
+    { "en": "gooseberry", "word": "bektaşi üzümü"   },
+
+    { "en": "banana",     "word": "muz"      },
+    { "en": "lemon",      "word": "limon"     },
+    { "en": "pineapple",  "word": "ananas"       },
+    { "en": "watermelon", "word": "karpuz"   },
+
+    { "en": "nut",        "word": "ceviz"      },
+    { "en": "hazelnut",   "word": "fındık"},
+    { "en": "walnut",     "word": "ceviz"},
+    { "en": "almond",     "word": "badem"      },
+
+    { "en": "ripe",       "word": "olgun"        }
+  ]
+}
