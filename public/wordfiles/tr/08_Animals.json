@@ -1,0 +1,35 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",         	"word": "kedi"    },
+    { "en": "dog",         	"word": "köpek"   },
+    { "en": "chicken",   	  "word": "tavuk"   },
+    { "en": "pig",      	  "word": "domuz"   },
+    { "en": "cow",      	  "word": "inek "   },
+    { "en": "horse",        "word": "atış"    },
+    { "en": "sheep",        "word": "koyun"   },
+    { "en": "goat",         "word": "keçi"    },
+
+    { "en": "donkey",       "word": "eşek"    },
+    { "en": "mouse",        "word": "fare"    },
+
+    { "en": "puppy",        "word": "yavru köpek"   },
+    { "en": "hamster",      "word": "hamster"},
+    { "en": "guinea pig",   "word": "kobay"   },
+
+
+    { "en": "cage",         "word": "kafes"},
+    { "en": "aquarium",     "word": "akvaryum" },
+    { "en": "leash",        "word": "tasma" },
+    { "en": "pet crate",    "word": ""},
+    { "en": "nest",         "word": "yuva"},
+
+    { "en": "female (animals)","word": "dişi" },
+    { "en": "male (animals)",  "word": "erkek" },
+
+    { "en": "cattle",     "word": "sığır"},
+    { "en": "vet",        "word": "veteriner" }
+  ]
+}
