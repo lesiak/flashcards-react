@@ -11,6 +11,7 @@ import {
 import {getForvoPronunciations} from './service/PronounciationManager.ts';
 import {ForvoItem, ForvoResponse} from './model/forvo/Forvo.ts';
 import {sanitizeWordEntry} from "./service/CardUtils.ts";
+import { makeStyles } from '@fluentui/react-components';
 
 const getProno = async (lang: LanguageInfo, word: string): Promise<ForvoItem[]> => {
   const resp = await getForvoPronunciations(lang.code, word);
@@ -32,12 +33,23 @@ const filterOutPoorProno = (lang: LanguageInfo, items: ForvoItem[]): ForvoItem[]
   return filteredItems ? filteredItems : items;
 }
 
-export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson}> = ({currentLanguage, lesson}) => {
+const useStyles = makeStyles({
+  qaCardPreview: {
+    height: '200px',
+  },
+  qaCardPreviewContents: {
+    marginLeft: '10px'
+  }
+});
 
+export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson}> = ({currentLanguage, lesson}) => {
+  const classes = useStyles();
   const [currentCardIdx, setCurrentCardIdx] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
   const [pronos, setPronos] = useState([] as ForvoItem[]);
   const card = lesson.cards[currentCardIdx];
+
+
 
   useEffect(() => {
     async function getAndPlaySounds() {
@@ -84,7 +96,9 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
             height={32}
           />}
         />
-        <CardPreview>
+        <CardPreview className={classes.qaCardPreview}>
+
+          <div className={classes.qaCardPreviewContents}> {/* needed because CardPreview gives its child 100 */}
           <h1>{card.en}</h1>
           {showAnswer &&  <h1>{card.word}</h1>}
           {showAnswer &&
@@ -98,6 +112,7 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
               </div>
 
           }
+          </div>
         </CardPreview>
 
         <CardFooter>
