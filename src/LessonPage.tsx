@@ -35,6 +35,7 @@ const filterOutPoorProno = (lang: LanguageInfo, items: ForvoItem[]): ForvoItem[]
 export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson}> = ({currentLanguage, lesson}) => {
 
   const [currentCardIdx, setCurrentCardIdx] = useState(0);
+  const [showAnswer, setShowAnswer] = useState(false);
   const [pronos, setPronos] = useState([] as ForvoItem[]);
   const card = lesson.cards[currentCardIdx];
 
@@ -44,46 +45,67 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
       const items = await getProno(currentLanguage, sanitizedWord);
       const goodPronos = filterOutPoorProno(currentLanguage, items);
       setPronos(goodPronos);
-      if (goodPronos.length > 0) {
-        await playAudio(goodPronos[0].pathmp3);
-      }
     }
     getAndPlaySounds();
   }, [card.word, currentLanguage]);
 
+  useEffect(() => {
+    async function playSounds() {
+      if (pronos.length > 0) {
+        await playAudio(pronos[0].pathmp3);
+      }
+    }
+    playSounds();
+  }, [card.word, currentLanguage, showAnswer]);
+
+
+
   const gotoNextCard = () => {
+    setShowAnswer(false);
     setCurrentCardIdx((prevIdx) => (prevIdx +1) % lesson.cards.length);
     setPronos([]);
   }
+
+  const onShowAnswerClicked = () => {
+    setShowAnswer(true);
+  }
+
   const playAudio = (url: string): Promise<void> => {
     return new Audio(url).play();
   }
 
   return <>
-    <Card>
-      <CardHeader
-        image={<img
-          src={currentLanguage.flagUrl}
-          width={32}
-          height={32}
-        />}
-      />
-      <CardPreview>
-        <h1>{card.en}</h1>
-        <h1>{card.word}</h1>
-        <div>
-        {pronos.map((fItem => (
-          <Button key={`${card.word}-${fItem.username}`}
-                  onClick={() => playAudio(fItem.pathmp3)}>
-            {fItem.username} - {fItem.country}
-          </Button>
-          )))}
-        </div>
-      </CardPreview>
+    <div>
+      <Card>
+        <CardHeader
+          image={<img
+            src={currentLanguage.flagUrl}
+            width={32}
+            height={32}
+          />}
+        />
+        <CardPreview>
+          <h1>{card.en}</h1>
+          {showAnswer &&  <h1>{card.word}</h1>}
+          {showAnswer &&
+              <div>
+              {pronos.map((fItem => (
+                <Button key={`${card.word}-${fItem.username}`}
+                        onClick={() => playAudio(fItem.pathmp3)}>
+                  {fItem.username} - {fItem.country}
+                </Button>
+                )))}
+              </div>
 
-      <CardFooter>
-        <Button onClick={gotoNextCard}>Next</Button>
-      </CardFooter>
-    </Card>
-    </>
+          }
+        </CardPreview>
+
+        <CardFooter>
+          {!showAnswer ? <Button onClick={onShowAnswerClicked}>Show Answer</Button> :
+            <Button onClick={gotoNextCard}>Next</Button>}
+
+        </CardFooter>
+      </Card>
+    </div>
+  </>
 }
