@@ -1,0 +1,115 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+  "cards": [
+    {
+      "en": "city",
+      "word": "şehir"
+    },
+    {
+      "en": "village",
+      "word": "köy"
+    },
+    {
+      "en": "road",
+      "word": "yol"
+    },
+    {
+      "en": "street",
+      "word": "sokak"
+    },
+    {
+      "en": "avenue",
+      "word": "cadde"
+    },
+    {
+      "en": "bridge",
+      "word": "köprü"
+    },
+    {
+      "en": "square (in city)",
+      "word": "meydan"
+    },
+    {
+      "en": "(city) centre",
+      "word": "merkez"
+    },
+    {
+      "en": "church",
+      "word": "kilise"
+    },
+    {
+      "en": "mosque",
+      "word": "cami"
+    },
+    {
+      "en": "pharmacy",
+      "word": "eczane"
+    },
+    {
+      "en": "castle",
+      "word": "kale"
+    },
+    {
+      "en": "building",
+      "word": "bina"
+    },
+    {
+      "en": "school",
+      "word": "okul"
+    },
+    {
+      "en": "museum",
+      "word": "müze"
+    },
+    {
+      "en": "alley, backstreet",
+      "word": "sokak"
+    },
+    {
+      "en": "(street) corner",
+      "word": "sokak köşesi"
+    },
+    {
+      "en": "bank",
+      "word": "banka"
+    },
+    {
+      "en": "town hall",
+      "word": "belediye binası"
+    },
+    {
+      "en": "fountain",
+      "word": "çeşme"
+    },
+    {
+      "en": "bench",
+      "word": "tezgah"
+    },
+    {
+      "en": "suburb",
+      "word": "banliyö"
+    },
+    {
+      "en": "neighborhood (district)",
+      "word": "semt"
+    },
+    {
+      "en": "factory",
+      "word": "fabrika"
+    },
+    {
+      "en": "statue",
+      "word": "heykel"
+    },
+    {
+      "en": "gallery",
+      "word": "galeri"
+    },
+    {
+      "en": "urban",
+      "word": "kentsel, şehir"
+    }
+  ]
+}
