@@ -13,7 +13,7 @@ import {
 import {Lesson} from './model/Lesson.ts';
 import React from 'react';
 
-interface LessonCardProps {
+interface LessonIndexCardProps {
   lesson: Lesson;
 }
 
@@ -25,7 +25,7 @@ const useStyles = makeStyles({
   },
 });
 
-export const LessonCard: React.FC<LessonCardProps> = ({lesson}) => {
+export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
   const styles = useStyles();
 
   return (

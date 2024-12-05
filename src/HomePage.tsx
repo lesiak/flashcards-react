@@ -1,7 +1,7 @@
 import React, {useContext, useState} from 'react'
 import {LanguageContext} from "./context/LanguageContext.tsx";
 import {Lesson} from './model/Lesson';
-import {LessonCard} from './LessonCard.tsx';
+import {LessonIndexCard} from './LessonIndexCard.tsx';
 import {LessonPage} from './LessonPage.tsx';
 import './App.css'
 import {Button} from '@fluentui/react-components';
@@ -18,7 +18,7 @@ export const HomePage: React.FC<HomePageProps> = ({lessons}) => {
     <>
       {!currentLesson && lessons.map(lesson =>
         <div key={`${currentLanguage.code}-${lesson.name}`} className="lesson-card" onClick={() => setCurrentLesson(lesson)}>
-        <LessonCard lesson={lesson}/>
+        <LessonIndexCard lesson={lesson}/>
         </div>)
       }
       {currentLesson && <>
