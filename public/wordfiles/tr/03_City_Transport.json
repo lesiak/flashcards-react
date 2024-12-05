@@ -1,0 +1,59 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1490079397423-a3931fd75940",
+  "cards": [
+    {
+      "en": "car",
+      "word": "araba"
+    },
+    {
+      "en": "train",
+      "word": "tren"
+    },
+    {
+      "en": "bus",
+      "word": "otobüs"
+    },
+    {
+      "en": "metro",
+      "word": "metro"
+    },
+    {
+      "en": "tram",
+      "word": "tramvay"
+    },
+    {
+      "en": "bicycle",
+      "word": "bisiklet"
+    },
+    {
+      "en": "ship",
+      "word": "gemi"
+    },
+    {
+      "en": "motorcycle",
+      "word": "motosiklet"
+    },
+    {
+      "en": "bus stop",
+      "word": "otobüs durağı"
+    },
+    {
+      "en": "railway",
+      "word": "demiryolu"
+    },
+    {
+      "en": "railway station",
+      "word": "tren istasyonu"
+    },
+    {
+      "en": "ticket",
+      "word": "bilet"
+    },
+    {
+      "en": "validate (a ticket)",
+      "word": ""
+    }
+  ]
+}
