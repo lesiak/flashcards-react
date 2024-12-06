@@ -1,0 +1,72 @@
+{
+  "name": "Food",
+  "description": "Food",
+  "image": "https://images.unsplash.com/photo-1610439901577-cf832e5c2320",
+  "cards": [
+    { "en": "bread",        "word": "leipä"     },
+    { "en": "salt",         "word": "suola"      },
+    { "en": "sugar",        "word": "sokeri"     },
+
+    { "en": "rice",         "word": "riisi"      },
+
+    { "en": "tea",          "word": "tee"        },
+    { "en": "coffee",       "word": "kahvi"       },
+    { "en": "juice",        "word": "mehu"      },
+
+    { "en": "cheese",       "word": "juusto"     },
+    { "en": "french fries", "word": "ranskalaiset"},
+
+    { "en": "mushroom",     "word": "sieni"    },
+
+
+    { "en": "soup",         "word": "keitto" },
+    { "en": "meat",         "word": "liha" },
+    { "en": "bacon",        "word": "pekoni"},
+    { "en": "egg",          "word": "muna"},
+    { "en": "oil",          "word": "öljy"},
+    { "en": "salad",        "word": "salaatti"},
+
+    { "en": "ice",          "word": "jää"},
+    { "en": "hot pepper",   "word": "kuuma pippuria" },
+    { "en": "milk",         "word": "maito" },
+    { "en": "butter",       "word": "voi" },
+    { "en": "cream",        "word": "kerma" },
+    { "en": "cake",         "word": "kakku"},
+
+    { "en": "beer",         "word": "olut"         },
+    { "en": "vodka",        "word": "vodka" },
+    { "en": "wine",         "word": "viini"},
+    { "en": "honey",        "word": "hunaja"},
+    { "en": "candy",        "word": "karkki, karamelli"},
+    { "en": "cookie",       "word": "pikkuleipä"},
+
+    { "en": "sandwich",     "word": "voileipä"},
+    { "en": "sushi",        "word": "sushi"},
+
+    { "en": "pancake",        "word": "ohukainen" },
+    { "en": "scrambled eggs", "word": "munakokkeli" },
+    { "en": "omelette",       "word": "munakas" },
+    { "en": "sausage",        "word": "makkara"},
+
+
+    { "en": "ice cream",      "word": "jätski, jäätelö" },
+    { "en": "alcohol",        "word": "alkoholi" },
+    { "en": "sesame",         "word": "seesami" },
+    { "en": "powder",         "word": "jauhe"     },
+    { "en": "flour",          "word": "jauhot"      },
+
+    { "en": "sweet",        "word": "makea"},
+    { "en": "bitter",       "word": "kitkerä" },
+    { "en": "sour",         "word": "hapan" },
+    { "en": "spicy (hot)",  "word": "mausteinen" },
+    { "en": "mild",         "word": "mieto" },
+    { "en": "fresh",        "word": "tuore" },
+    { "en": "refreshing",   "word": "virkistävä"},
+    { "en": "tasty",        "word": ""},
+    { "en": "delicious",    "word": ""},
+    { "en": "disgusting",   "word": ""}
+
+
+
+  ]
+}
