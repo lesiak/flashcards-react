@@ -1,0 +1,72 @@
+{
+  "name": "Food",
+  "description": "Food",
+  "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
+  "cards": [
+    { "en": "bread",        "word": "kruh"     },
+    { "en": "salt",         "word": "sol"      },
+    { "en": "sugar",        "word": "šećer"     },
+
+    { "en": "rice",         "word": "riža"      },
+
+    { "en": "tea",          "word": "čaj"        },
+    { "en": "coffee",       "word": "kava"       },
+    { "en": "juice",        "word": "sok"      },
+
+    { "en": "cheese",       "word": "sir"     },
+    { "en": "french fries", "word": "pomfrit"},
+
+    { "en": "mushroom",     "word": "gljiva"    },
+
+
+    { "en": "soup",         "word": "juha, čorba" },
+    { "en": "meat",         "word": "meso" },
+    { "en": "bacon",        "word": "slanina"},
+    { "en": "egg",          "word": "jaje"},
+    { "en": "oil",          "word": "ulje"},
+    { "en": "salad",        "word": "salata"},
+
+    { "en": "ice",          "word": "led"},
+    { "en": "hot pepper",   "word": "ljuta papričica" },
+    { "en": "milk",         "word": "mlijeko" },
+    { "en": "butter",       "word": "maslac" },
+    { "en": "cream",        "word": "" },
+    { "en": "cake",         "word": "torta"},
+
+    { "en": "beer",         "word": "pivo"         },
+    { "en": "vodka",        "word": "votka" },
+    { "en": "wine",         "word": "vino"},
+    { "en": "honey",        "word": "med"},
+    { "en": "candy",        "word": "bombon"},
+    { "en": "cookie",       "word": "kolačić"},
+
+    { "en": "sandwich",     "word": "sendvič"},
+    { "en": "sushi",        "word": "sushi"},
+
+    { "en": "pancake",        "word": "palačinka" },
+    { "en": "scrambled eggs", "word": "kajgana" },
+    { "en": "omelette",       "word": "omlet" },
+    { "en": "sausage",        "word": "kobasica"},
+
+
+    { "en": "ice cream",      "word": "sladoled" },
+    { "en": "alcohol",        "word": "alkohol" },
+    { "en": "sesame",         "word": "sezam" },
+    { "en": "powder",         "word": "puder, prah"     },
+    { "en": "flour",          "word": "brašno"      },
+
+    { "en": "sweet",        "word": "slatko"},
+    { "en": "bitter",       "word": "gorak" },
+    { "en": "sour",         "word": "kiselo" },
+    { "en": "spicy (hot)",  "word": "začinjeno" },
+    { "en": "mild",         "word": "blaga" },
+    { "en": "fresh",        "word": "svježe" },
+    { "en": "refreshing",   "word": "osvježavajući"},
+    { "en": "tasty",        "word": ""},
+    { "en": "delicious",    "word": ""},
+    { "en": "disgusting",   "word": ""}
+
+
+
+  ]
+}
