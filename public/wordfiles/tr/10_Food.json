@@ -1,0 +1,71 @@
+{
+  "name": "Food",
+  "description": "Food",
+  "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
+  "cards": [
+    { "en": "bread",        "word": "ekmek"     },
+    { "en": "salt",         "word": "tuz"      },
+    { "en": "sugar",        "word": "şeker"     },
+
+    { "en": "rice",         "word": "pirinç"      },
+
+    { "en": "tea",          "word": "çay"        },
+    { "en": "coffee",       "word": "kahve"       },
+    { "en": "juice",        "word": "meyve suyu"      },
+
+    { "en": "cheese",       "word": "peynir"     },
+    { "en": "french fries", "word": "patates kızartması"},
+
+    { "en": "mushroom",     "word": "mantar"    },
+
+
+    { "en": "soup",         "word": "çorba" },
+    { "en": "meat",         "word": "et" },
+    { "en": "egg",          "word": "yumurta"},
+    { "en": "oil",          "word": "yağ"},
+    { "en": "salad",        "word": "salata"},
+
+    { "en": "ice",          "word": "buz"},
+    { "en": "hot pepper",   "word": "acı biber" },
+    { "en": "milk",         "word": "süt" },
+    { "en": "butter",       "word": "tereyağı" },
+    { "en": "cream",        "word": "krema" },
+    { "en": "cake",         "word": "kek"},
+
+    { "en": "beer",         "word": "bira"         },
+    { "en": "vodka",        "word": "votka" },
+    { "en": "wine",         "word": "şarap"},
+    { "en": "honey",        "word": "bal"},
+    { "en": "candy",        "word": "şeker"},
+    { "en": "cookie",       "word": "kurabiye"},
+
+    { "en": "sandwich",     "word": "sandviç"},
+    { "en": "sushi",        "word": "suşi"},
+
+    { "en": "pancake",        "word": "krep" },
+    { "en": "scrambled eggs", "word": "yağda yumurta" },
+    { "en": "omelette",       "word": "omlet" },
+    { "en": "sausage",        "word": "sosis"},
+
+
+    { "en": "ice cream",      "word": "dondurma" },
+    { "en": "alcohol",        "word": "alkol" },
+    { "en": "sesame",         "word": "susam" },
+    { "en": "powder",         "word": "toz"     },
+    { "en": "flour",          "word": "un"      },
+
+    { "en": "sweet",        "word": "tatlı"},
+    { "en": "bitter",       "word": "acı" },
+    { "en": "sour",         "word": "ekşi" },
+    { "en": "spicy (hot)",  "word": "baharatlı" },
+    { "en": "mild",         "word": "yumuşak" },
+    { "en": "fresh",        "word": "taze" },
+    { "en": "refreshing",   "word": "ferahlatıcı"},
+    { "en": "tasty",        "word": "lezzetli"},
+    { "en": "delicious",    "word": "lezzetli"},
+    { "en": "disgusting",   "word": "iğrenç"}
+
+
+
+  ]
+}
