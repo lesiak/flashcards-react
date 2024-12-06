@@ -1,0 +1,28 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+
+    { "en": "yellow", 	 "word": "žuta, žuti"},
+    { "en": "white",     "word": "bijela, bijeli"},
+    { "en": "black",     "word": "crna, crni" },
+    { "en": "red",       "word": "crvena, crveni"},
+    { "en": "blue",      "word": "plava, plavi" },
+    { "en": "green",     "word": "zelena, zeleni" },
+    { "en": "orange",    "word": "narančasta, narančasti"},
+    { "en": "pink",      "word": ""},
+    { "en": "brown",     "word": ""},
+    { "en": "grey",      "word": ""},
+    { "en": "violet",    "word": "" },
+    { "en": "purple",    "word": "" },
+
+    { "en": "colour",    "word": "boja"},
+    { "en": "colorful",  "word": ""},
+    { "en": "colourless","word": ""},
+
+    { "en": "light (colour)",   "word": ""},
+    { "en": "dark (colour)",    "word": ""},
+    { "en": "bright (colour)",  "word": ""}
+  ]
+}
