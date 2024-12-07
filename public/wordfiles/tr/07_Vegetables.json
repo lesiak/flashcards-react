@@ -1,0 +1,30 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "sarımsak" },
+    { "en": "cucumber",     "word": "salatalık"      },
+    { "en": "carrot",       "word": "havuç"    },
+    { "en": "aubergine",    "word": "patlıcan"   },
+    { "en": "potato",       "word": "patates"      },
+    { "en": "tomato",       "word": "domates"    },
+
+    { "en": "pumpkin",      "word": "kabak"    },
+    { "en": "courgette",    "word": "kabak"},
+    { "en": "avocado",      "word": "avokado"     },
+
+    { "en": "cabbage",      "word": "lahana"       },
+    { "en": "cauliflower",  "word": "karnabahar"  },
+    { "en": "broccoli",     "word": "brokoli"  },
+    { "en": "spinach",      "word": "ıspanak"    },
+    { "en": "bell pepper",  "word": "dolmalık biber"     },
+    { "en": "lettuce",      "word": "marul"},
+    { "en": "leek",         "word": "pırasa"},
+
+    { "en": "onion",        "word": "soğan"      },
+
+
+    { "en": "hot pepper", "word": "acı biber" }
+  ]
+}
