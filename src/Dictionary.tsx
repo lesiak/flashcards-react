@@ -30,12 +30,6 @@ function deduplicateByProperty<T, K>(elements: T[], getProperty: (element: T) =>
   }, []);
 }
 
-// Example usage:
-interface Element {
-  id: number;
-  name: string;
-}
-
 export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards, currentLanguage}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const searchTermInputId = useId("search-term-input");
