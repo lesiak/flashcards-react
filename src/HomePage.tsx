@@ -5,6 +5,7 @@ import {LessonIndexCard} from './LessonIndexCard.tsx';
 import {LessonPage} from './LessonPage.tsx';
 import './App.css'
 import {Button} from '@fluentui/react-components';
+import {LessonChooser} from './LessonChooser.tsx';
 
 interface HomePageProps {
   lessons: Lesson[];
@@ -16,11 +17,9 @@ export const HomePage: React.FC<HomePageProps> = ({lessons}) => {
 
   return (
     <>
-      {!currentLesson && lessons.map(lesson =>
-        <div key={`${currentLanguage.code}-${lesson.name}`} className="lesson-card" onClick={() => setCurrentLesson(lesson)}>
-        <LessonIndexCard lesson={lesson}/>
-        </div>)
-      }
+      {!currentLesson && <LessonChooser
+          lessons={lessons}
+          onLessonSelected={setCurrentLesson}/>}
       {currentLesson && <>
           <Button onClick={() => setCurrentLesson(null)}>Close Lesson</Button>
           <LessonPage currentLanguage={currentLanguage} lesson={currentLesson}/>
