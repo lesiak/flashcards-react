@@ -1,0 +1,17 @@
+{
+  "name": "Appearance",
+  "description": "Appearance",
+  "image": "https://images.unsplash.com/photo-1648942521610-68024b5d6e29",
+  "cards": [
+    { "en": "big",          "word": "iso, suuri" },
+    { "en": "small",        "word": "pieni"      },
+    { "en": "long",         "word": "pitkä"      },
+    { "en": "short",        "word": "lyhyt"      },
+
+    { "en": "new",          "word": "uusi"       },
+    { "en": "old",          "word": "vanha"      },
+
+    { "en": "clean",        "word": "puhdas"     },
+    { "en": "dirty",        "word": "likainen"   }
+  ]
+}
