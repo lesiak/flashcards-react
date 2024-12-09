@@ -1,0 +1,55 @@
+{
+  "name": "Family",
+  "description": "Family",
+  "image": "https://images.unsplash.com/photo-1560328055-e938bb2ed50a",
+  "cards": [
+    { "en": "family",      "word": "perhe"        },
+    { "en": "father",      "word": "isä"          },
+    { "en": "mother",      "word": "äiti"         },
+    { "en": "child",       "word": "lapsi"        },
+    { "en": "son",         "word": "poika"        },
+    { "en": "daughter",    "word": "tytär"        },
+    { "en": "baby",        "word": "vauva, beibi" },
+    { "en": "wife",        "word": "vaimo"        },
+    { "en": "husband",     "word": "aviomies"     },
+
+    { "en": "sister",      "word": "sisar, sisko" },
+    { "en": "brother",     "word": "veli"         },
+    { "en": "twin",        "word": "kaksonen"     },
+
+    { "en": "parents",      "word": "vanhemmat"   },
+    { "en": "single parent","word": "yksinhuoltaja" },
+    { "en": "relatives",    "word": "sukulaiset"  },
+
+    { "en": "grandmother",  "word": "isoäiti"     },
+    { "en": "grandma",      "word": "mummo"       },
+
+    { "en": "grandson",      "word": "pojanpoika" },
+    { "en": "granddaughter", "word": "tyttärentytär" },
+
+    { "en": "uncle",         "word": "setä, eno"  },
+    { "en": "aunt",          "word": "täti"       },
+
+    { "en": "cousin",        "word": "serkku"     },
+    { "en": "stepmother",    "word": ""           },
+    { "en": "stepfather",    "word": ""           },
+
+    { "en": "generation",    "word": "sukupolvi"  },
+    { "en": "a couple",          "fi": "pari"     },
+    { "en": "boyfriend",         "fi": "poikaystävä"},
+    { "en": "marriage",          "fi": "avioliitto, häät"},
+    { "en": "married",           "fi": "naimisissa"},
+    { "en": "to get married (to), marry", "fi": "mennä naimisiin"},
+
+    { "en": "single, unmarried", "fi": "naimaton"         },
+
+    { "en": "bride",       "fi": "morsian"   },
+    { "en": "groom",       "fi": "sulhanen"  },
+
+    { "en": "fiancé",       "fi": "sulhanen" },
+    { "en": "partner",        "fi": "kumppani, partneri" }
+
+
+
+  ]
+}
