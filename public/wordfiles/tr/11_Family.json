@@ -1,0 +1,56 @@
+{
+  "name": "Family",
+  "description": "Family",
+  "image": "https://images.unsplash.com/photo-1560328055-e938bb2ed50a",
+  "cards": [
+    { "en": "family",      "word": "aile"         },
+    { "en": "father",      "word": "baba"         },
+    { "en": "mother",      "word": "anne"         },
+    { "en": "child",       "word": "çocuk"        },
+    { "en": "son",         "word": "oğul"         },
+    { "en": "daughter",    "word": "kız çocuğu"   },
+    { "en": "baby",        "word": "bebek"        },
+    { "en": "wife",        "word": "eş"           },
+    { "en": "husband",     "word": "koca"         },
+
+    { "en": "sister",      "word": "kız kardeş"   },
+    { "en": "brother",     "word": "erkek kardeş" },
+    { "en": "twin",        "word": "ikiz"         },
+
+    { "en": "parents",      "word": "ebeveynler"  },
+    { "en": "single parent","word": "tek ebeveyn" },
+    { "en": "relatives",    "word": "akrabalar"   },
+
+    { "en": "grandmother",  "word": "büyükanne"   },
+
+    { "en": "grandson",      "word": "torun"      },
+    { "en": "granddaughter", "word": "torunu"     },
+
+    { "en": "paternal uncle","word": "amca"       },
+    { "en": "maternal uncle","word": "dayı"       },
+    { "en": "paternal aunt", "word": "hala"       },
+    { "en": "maternal aunt", "word": "teyze"      },
+
+    { "en": "cousin",        "word": "kuzen"      },
+    { "en": "stepmother",    "word": "üvey anne"  },
+    { "en": "stepfather",    "word": "üvey baba"  },
+
+    { "en": "generation",    "word": "nesil"  },
+    { "en": "a couple",      "word": "çift"     },
+    { "en": "boyfriend",     "word": "erkek arkadaş"},
+    { "en": "marriage",      "word": "evlilik"},
+    { "en": "married",       "word": "naimisissa"},
+    { "en": "to get married","word": "evlenmek"},
+
+    { "en": "single, unmarried", "word": "evlenmemiş"         },
+
+    { "en": "bride",       "word": "gelin"   },
+    { "en": "groom",       "word": "damat"  },
+
+    { "en": "fiancé",       "word": "nişanlı" },
+    { "en": "partner",      "word": "partner" }
+
+
+
+  ]
+}
