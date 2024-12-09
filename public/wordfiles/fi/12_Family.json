@@ -35,19 +35,19 @@
     { "en": "stepfather",    "word": ""           },
 
     { "en": "generation",    "word": "sukupolvi"  },
-    { "en": "a couple",          "fi": "pari"     },
-    { "en": "boyfriend",         "fi": "poikaystävä"},
-    { "en": "marriage",          "fi": "avioliitto, häät"},
-    { "en": "married",           "fi": "naimisissa"},
-    { "en": "to get married (to), marry", "fi": "mennä naimisiin"},
+    { "en": "a couple",          "word": "pari"     },
+    { "en": "boyfriend",         "word": "poikaystävä"},
+    { "en": "marriage",          "word": "avioliitto, häät"},
+    { "en": "married",           "word": "naimisissa"},
+    { "en": "to get married (to), marry", "word": "mennä naimisiin"},
 
-    { "en": "single, unmarried", "fi": "naimaton"         },
+    { "en": "single, unmarried", "word": "naimaton"         },
 
-    { "en": "bride",       "fi": "morsian"   },
-    { "en": "groom",       "fi": "sulhanen"  },
+    { "en": "bride",       "word": "morsian"   },
+    { "en": "groom",       "word": "sulhanen"  },
 
-    { "en": "fiancé",       "fi": "sulhanen" },
-    { "en": "partner",        "fi": "kumppani, partneri" }
+    { "en": "fiancé",       "word": "sulhanen" },
+    { "en": "partner",        "word": "kumppani, partneri" }
 
 
 
