@@ -20,11 +20,27 @@ type DictionaryTableProps = {
   currentLanguage: LanguageInfo
 }
 
+function deduplicateByProperty<T, K>(elements: T[], getProperty: (element: T) => K): T[] {
+  return elements.reduce((acc: T[], current: T) => {
+    const property = getProperty(current);
+    if (!acc.some(item => getProperty(item) === property)) {
+      acc.push(current);
+    }
+    return acc;
+  }, []);
+}
+
+// Example usage:
+interface Element {
+  id: number;
+  name: string;
+}
+
 export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards, currentLanguage}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const searchTermInputId = useId("search-term-input");
 
-  const filteredCards = cards
+  const filteredCards = deduplicateByProperty(cards, card => card.en)
     .filter(card => card.en.includes(searchTerm) || card.word.includes(searchTerm))
     .sort((c1, c2) => c1.en.localeCompare(c2.en));
 
