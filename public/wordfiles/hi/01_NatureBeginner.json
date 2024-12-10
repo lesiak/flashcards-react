@@ -1,0 +1,43 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1472064146360-66a6ffda8552",
+  "cards": [
+    {
+      "en": "fire",
+      "word": "आग"
+    },
+    {
+      "en": "light",
+      "word": "रोशनी"
+    },
+    {
+      "en": "water",
+      "word": "पानी"
+    },
+    {
+      "en": "river",
+      "word": "नदी"
+    },
+    {
+      "en": "sea",
+      "word": "समुद्र"
+    },
+    {
+      "en": "sun",
+      "word": "(el) sol"
+    },
+    {
+      "en": "moon",
+      "word": "(la) luna"
+    },
+    {
+      "en": "tree",
+      "word": "(el) árbol"
+    },
+    {
+      "en": "forest",
+      "word": "(el) bosque"
+    }
+  ]
+}
