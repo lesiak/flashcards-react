@@ -1,0 +1,12 @@
+{
+  "name": "Plants Basic",
+  "description": "Plants Basic",
+  "image": "https://images.unsplash.com/photo-1419222482462-d92ccdd0ef61",
+  "cards": [
+    { "en": "tree",       "word": "ağaç"   },
+    { "en": "forest",     "word": "orman"  },
+    { "en": "leaf",       "word": "yaprak" },
+    { "en": "bush",       "word": "çalı"   },
+    { "en": "grass",      "word": "çim"    }
+  ]
+}
