@@ -1,0 +1,12 @@
+{
+  "name": "Plants Basic",
+  "description": "Plants Basic",
+  "image": "https://images.unsplash.com/photo-1419222482462-d92ccdd0ef61",
+  "cards": [
+    { "en": "tree",       "word": "puu"     },
+    { "en": "forest",     "word": "metsä"   },
+    { "en": "leaf",       "word": "lehti"   },
+    { "en": "bush",       "word": "pensas"  },
+    { "en": "grass",      "word": "ruoho, nurmi"  }
+  ]
+}
