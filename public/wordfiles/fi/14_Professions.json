@@ -1,0 +1,65 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "photographer",  "word": "valokuvaaja" },
+    { "en": "cook",          "word": "kokki"       },
+  
+    { "en": "manager",       "word": "johtaja"     },
+    { "en": "secretary",     "word": "sihteeri"    },
+    { "en": "intern",        "word": "harjoittelija" },
+    { "en": "department",    "word": "osasto"      },
+    { "en": "head of department", "word": "osastopäällikkö" },
+    { "en": "accountant",    "word": "kirjanpitäjä" },
+    { "en": "cashier",       "word": ""            },
+
+
+    { "en": "dancer",        "word": "tanssija"    },
+    { "en": "painter",       "word": "maalari"     },
+    { "en": "artist",        "word": "taiteilija"  },
+    { "en": "designer",      "word": "suunnittelija,muotoilija" },
+    { "en": "sculptor",       "word": ""           },
+
+    { "en": "scientist",     "word": "tiedemies, tutkija" },
+    { "en": "engineer",      "word": "insinööri"     },
+    { "en": "farmer",        "word": "maanviljelijä" },
+    { "en": "hunter",        "word": "metsästäjä"    },
+
+    { "en": "fashion model", "word": "malli"         },
+    { "en": "pilot",         "word": "pilotti"       },
+    { "en": "stewardess",    "word": "lentoemäntä"   },
+
+    { "en": "fisherman",     "word": "kalastaja"     },
+    { "en": "miner",         "word": "kaivosmies"    },
+    { "en": "mine",          "word": "kaivos"        },
+
+    { "en": "lawyer",        "word": "lakimies"      },
+    { "en": "prosecutor",    "word": "syyttäjä"      },
+    { "en": "judge",         "word": "tuomari"       },
+
+    { "en": "waiter",        "word": "tarjoilija"    },
+
+
+    { "en": "policeman",     "word": "poliisi"       },
+    { "en": "fireman",       "word": "palomies"      },
+    { "en": "journalist",    "word": "toimittaja"    },
+
+    { "en": "baker",         "word": "leipuri"     },
+    { "en": "hairdresser",   "word": "kampaaja"    },
+    { "en": "electrician",   "word": "sähköasentaja, sähkömies" },
+    { "en": "plumber",       "word": "putkimies"   },
+    { "en": "mechanic",      "word": "mekaanikko"  },
+    { "en": "locksmith",     "word": "lukkoseppä"  },
+    { "en": "carpenter",     "word": "puuseppä"    },
+    { "en": "welder",        "word": "hitsaaja"    },
+    { "en": "butcher",       "word": "teurastaja"  },
+    { "en": "watchmaker",    "word": "kelloseppä"  },
+    { "en": "cleaner",       "word": "siivooja"    },
+    { "en": "barman",        "word": "baarimikko"  },
+    { "en": "worker",        "word": ""            },
+
+    { "en": "teacher",       "word": "opettaja"      }
+
+  ]
+}
