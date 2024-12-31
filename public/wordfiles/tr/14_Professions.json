@@ -1,0 +1,67 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "photographer",  "word": "fotoğrafçı" },
+    { "en": "cook",          "word": "aşçı"       },
+  
+    { "en": "manager",       "word": "müdür"      },
+    { "en": "secretary",     "word": "sekreter"   },
+    { "en": "intern",        "word": "stajyer"    },
+    { "en": "department",    "word": "bölüm"      },
+    { "en": "head of department", "word": "bölüm başkanı" },
+    { "en": "accountant",    "word": "muhasebeci" },
+    { "en": "cashier",       "word": "kasiyer"    },
+
+
+    { "en": "dancer",        "word": "dansçı"     },
+    { "en": "painter",       "word": "ressam"     },
+    { "en": "artist",        "word": "sanatçı"    },
+    { "en": "designer",      "word": "tasarımcı,desinatör" },
+    { "en": "sculptor",       "word": "heykeltıraş"        },
+
+ 
+    { "en": "scientist",     "word": "bilim adamı" },
+    { "en": "engineer",      "word": "mühendis" },
+    
+    { "en": "farmer",        "word": "çiftçi"      },
+    { "en": "hunter",        "word": "avcı"        },
+
+    { "en": "fashion model", "word": "modeli"      },
+    { "en": "pilot",         "word": "pilot"       },
+    { "en": "stewardess",    "word": "hostes"      },
+
+    { "en": "fisherman",     "word": "balıkçı"     },
+    { "en": "miner",         "word": "madenci"     },
+    { "en": "mine",          "word": "maden"       },
+
+    { "en": "lawyer",        "word": "avukat"      },
+    { "en": "prosecutor",    "word": "savcı"       },
+    { "en": "judge",         "word": "yargıç"      },
+
+    { "en": "waiter",        "word": "garson"      },
+
+
+    { "en": "policeman",     "word": "polis memuru" },
+    { "en": "fireman",       "word": "itfaiyeci, ateşçi"      },
+    { "en": "journalist",    "word": "gazeteci"    },
+
+    { "en": "baker",         "word": "fırıncı, ekmekçi"     },
+    { "en": "hairdresser",   "word": "kuaför"      },
+    { "en": "electrician",   "word": "elektrikçi"  },
+    { "en": "plumber",       "word": "tesisatçı"   },
+    { "en": "mechanic",      "word": "mekanik"     },
+    { "en": "locksmith",     "word": "çilingir"    },
+    { "en": "carpenter",     "word": "marangoz"    },
+    { "en": "welder",        "word": "kaynakçı"    },
+    { "en": "butcher",       "word": "kasap"       },
+    { "en": "watchmaker",    "word": "saatçi"      },
+    { "en": "cleaner",       "word": "temizleyici" },
+    { "en": "barman",        "word": "barmen"      },
+    { "en": "worker",        "word": "işçi"        },
+
+    { "en": "teacher",       "word": "öğretmen"    }
+
+  ]
+}
