@@ -1,0 +1,46 @@
+{
+  "name": "Greetings",
+  "description": "Greetings",
+  "image": "https://plus.unsplash.com/premium_photo-1683121291576-786e1d36fc2c",
+  "cards": [
+    { "en": "hello",                     "word": "merhaba"      },
+    { "en": "hi",                        "word": "selam"        },
+    { "en": "welcome",                   "word": "hoş geldiniz" },
+    { "en": "thanks for your welcome",   "word": "hoş bulduk"   },
+    { "en": "have a nice day",           "word": "iyi günler"   },
+    { "en": "good afternoon",            "word": "tünaydın"     },
+    { "en": "good evening",              "word": "iyi akşamlar" },
+    { "en": "good night",                "word": "iyi geceler"  },
+
+    { "en": "see you",                   "word": "görüşürüz"         },
+    { "en": "see you later",             "word": "sonra görüşürüz"   },
+    { "en": "goodbye",                   "word": "güle güle, hoşça kal, allahaısmarladık" },
+    { "en": "I don't understand",        "word": "anlamıyorum"         },
+    { "en": "take care (of yourself)",   "word": "kendine iyi bak"  },
+    { "en": "how are you (formal)",      "word": "nasılsınız" },
+    { "en": "how are you (informal)",    "word": "nasılsın"   },
+    
+    { "en": "sorry (formal)",            "word": "kusura bakma"   },
+    { "en": "sorry (informal)",          "word": "kusura bakmayın"   },
+
+    { "en": "yes",                       "word": "evet"      },
+    { "en": "no",                        "word": "hayır"      },
+
+    { "en": "excuse me",                 "word": "affedersiniz, pardon"     },
+    { "en": "please",                    "word": "lütfen"          },
+    { "en": "thank you",                 "word": "teşekkür ederim" },
+    { "en": "thanks (informal)",         "word": "teşekkürler"     },
+    { "en": "thanks (more informal)",    "word": "sağ ol"          },
+
+    { "en": "not at all, you're welcome","word": "bir şey değil"   },
+    { "en": "not at all (very formal)",  "word": "rica ederim"     },
+
+    { "en": "OK, all right",             "word": "tamam"           },
+    { "en": "get well soon",             "word": "geçmiş olsun"    },
+    { "en": "good luck",                 "word": "iyi şanslar"     },
+    { "en": "well done",                 "word": "aferin"          },
+    { "en": "congratulations",           "word": "tebrikler"       },
+    { "en": "what's up",                 "word": "ne haber"        },
+    { "en": "say hello",                 "word": "selam söyle"     }
+  ]
+}
