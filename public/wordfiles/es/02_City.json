@@ -1,0 +1,33 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4",
+  "cards": [
+    { "en": "city",             "word": "(la) ciudad"   },
+    { "en": "village",          "word": "(el) pueblo"   },
+    { "en": "road",             "word": "(el) camino, (la) carretera"      },
+    { "en": "street",           "word": "(la) calle"    },
+    { "en": "avenue",           "word": "(la) avenida"  },
+    { "en": "bridge",           "word": "(el) puente"   },
+    { "en": "square (in city)", "word": "(la) plaza"    },
+    { "en": "(city) centre",    "word": "(el) centro"   },
+    { "en": "church",           "word": "(la) iglesia"  },
+    { "en": "pharmacy",         "word": "(la) farmacia" },
+    { "en": "castle",           "word": "(el) castillo" },
+    { "en": "building",         "word": "(el) edificio" },
+    { "en": "school",           "word": "(la) escuela"  },
+    { "en": "museum",           "word": "(el) museo"    },
+    { "en": "alley, backstreet","word": "(el) callejón" },
+    { "en": "(street) corner",  "word": "(la) esquina"  },
+    { "en": "bank",             "word": "(el) banco"    },
+    { "en": "town hall",        "word": "(el) ayuntamiento" },
+    { "en": "fountain",         "word": "(la) fuente"   },
+    { "en": "bench",            "word": "(el) banco"    },
+    { "en": "suburb",           "word": "(el) suburbio" },
+    { "en": "neighborhood (district)", "word": "(el) barrio" },
+    { "en": "factory",          "word": "(la) fábrica"  },
+    { "en": "statue",           "word": "(la) estatua"  },
+    { "en": "gallery",          "word": "(la) galería"  },
+    { "en": "urban",            "word": "urbano"        }
+  ]
+}
