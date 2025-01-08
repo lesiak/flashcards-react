@@ -3,109 +3,31 @@
   "description": "City",
   "image": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5",
   "cards": [
-    {
-      "en": "city",
-      "word": "kaupunki"
-    },
-    {
-      "en": "village",
-      "word": "kylä"
-    },
-    {
-      "en": "road",
-      "word": "tie"
-    },
-    {
-      "en": "street",
-      "word": "katu"
-    },
-    {
-      "en": "avenue",
-      "word": "katu"
-    },
-    {
-      "en": "bridge",
-      "word": "silta"
-    },
-    {
-      "en": "square (in city)",
-      "word": "aukio"
-    },
-    {
-      "en": "(city) centre",
-      "word": "keskusta"
-    },
-    {
-      "en": "church",
-      "word": "kirkko"
-    },
-    {
-      "en": "pharmacy",
-      "word": "apteekki"
-    },
-    {
-      "en": "castle",
-      "word": "linna"
-    },
-    {
-      "en": "building",
-      "word": "rakennus"
-    },
-    {
-      "en": "school",
-      "word": "koulu"
-    },
-    {
-      "en": "museum",
-      "word": "museo"
-    },
-    {
-      "en": "alley, backstreet",
-      "word": "kuja"
-    },
-    {
-      "en": "(street) corner",
-      "word": "kadunkulma"
-    },
-    {
-      "en": "bank",
-      "word": "pankki"
-    },
-    {
-      "en": "town hall",
-      "word": "kaupungintalo"
-    },
-    {
-      "en": "fountain",
-      "word": "suihkulähde"
-    },
-    {
-      "en": "bench",
-      "word": "penkki"
-    },
-    {
-      "en": "suburb",
-      "word": "esikaupunki"
-    },
-    {
-      "en": "neighborhood (district)",
-      "word": "kaupunginosa"
-    },
-    {
-      "en": "factory",
-      "word": "tehdas"
-    },
-    {
-      "en": "statue",
-      "word": "patsas"
-    },
-    {
-      "en": "gallery",
-      "word": "galleria, taidegalleria"
-    },
-    {
-      "en": "urban",
-      "word": "kaupunki-"
-    }
+    { "en": "city",             "word": "kaupunki" },
+    { "en": "village",          "word": "kylä"     },
+    { "en": "road",             "word": "tie"      },
+    { "en": "street",           "word": "katu"     },
+    { "en": "avenue",           "word": "katu"     },
+    { "en": "bridge",           "word": "silta"    },
+    { "en": "square (in city)", "word": "aukio"    },
+    { "en": "(city) centre",    "word": "keskusta" },
+    { "en": "church",           "word": "kirkko"    },
+    { "en": "pharmacy",         "word": "apteekki"  },
+    { "en": "castle",           "word": "linna"     },
+    { "en": "building",         "word": "rakennus"  },
+    { "en": "school",           "word": "koulu"     },
+    { "en": "museum",           "word": "museo"     },
+    { "en": "alley, backstreet","word": "kuja" },
+    { "en": "(street) corner",  "word": "kadunkulma" },
+    { "en": "bank",             "word": "pankki"    },
+    { "en": "town hall",        "word": "kaupungintalo" },
+    { "en": "fountain",         "word": "suihkulähde"   },
+    { "en": "bench",            "word": "penkki"    },
+    { "en": "suburb",           "word": "esikaupunki" },
+    { "en": "neighborhood (district)", "word": "kaupunginosa" },
+    { "en": "factory",          "word": "tehdas" },
+    { "en": "statue",           "word": "patsas" },
+    { "en": "gallery",          "word": "galleria, taidegalleria" },
+    { "en": "urban",            "word": "kaupunki-"  }
   ]
 }
