@@ -35,7 +35,7 @@ const filterOutPoorProno = (lang: LanguageInfo, items: ForvoItem[]): ForvoItem[]
 
 const useStyles = makeStyles({
   qaCardPreview: {
-    height: '200px',
+    minHeight: '200px',
   },
   qaCardPreviewContents: {
     marginLeft: '10px'
