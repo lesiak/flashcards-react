@@ -1,0 +1,28 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+
+    { "en": "yellow", 	 "word": "amarillo"  },
+    { "en": "white",     "word": "blanco"    },
+    { "en": "black",     "word": "negro"     },
+    { "en": "red",       "word": "rojo"      },
+    { "en": "blue",      "word": "azul"      },
+    { "en": "green",     "word": "verde"     },
+    { "en": "orange",    "word": "naranja"   },
+    { "en": "pink",      "word": "rosa"      },
+    { "en": "brown",     "word": "marrón"    },
+    { "en": "grey",      "word": "gris"      },
+    { "en": "violet",    "word": "violeta"   },
+    { "en": "purple",    "word": "morado, lila"  },
+
+    { "en": "colour",    "word": "el) color"     },
+    { "en": "colorful",  "word": "colorido"      },
+    { "en": "colourless","word": "incoloro"      },
+
+    { "en": "light (colour)", "word": "claro"    },
+    { "en": "dark (colour)",  "word": "oscuro"   },
+    { "en": "bright (colour)","word": "brillante"}
+  ]
+}
