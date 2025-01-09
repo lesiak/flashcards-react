@@ -1,0 +1,37 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1517496768306-b5a5d671f013",
+  "cards": [
+    { "en": "fruit",      "word": "(la) fruta"   },
+
+    { "en": "apple",      "word": "(la) manzana" },
+    { "en": "pear",       "word": "(la) pera"    },
+
+    { "en": "plum",       "word": "(la) ciruela" },
+    { "en": "cherry",     "word": "(la) cereza"  },
+    { "en": "peach",      "word": "(el) melocotón"  },
+    { "en": "apricot",    "word": "(el) albaricoque"},
+
+    { "en": "strawberry", "word": "(la) fresa"     },
+    { "en": "raspberry",  "word": "(la) frambuesa" },
+    { "en": "blackberry", "word": "(la) mora"      },
+    { "en": "blueberry",  "word": "(el) arándano"  },
+
+    { "en": "grape",      "word": "(la) uva"      },
+    { "en": "currant",    "word": "(la) grosella" },
+    { "en": "gooseberry", "word": "(la) grosella"   },
+
+    { "en": "banana",     "word": "(el) plátano" },
+    { "en": "lemon",      "word": "(el) limón"   },
+    { "en": "pineapple",  "word": "(la) piña"    },
+    { "en": "watermelon", "word": "(la) sandía"  },
+
+    { "en": "nut",        "word": "(la) nuez"    },
+    { "en": "hazelnut",   "word": "(la) avellana"},
+    { "en": "walnut",     "word": "(la) nuez"    },
+    { "en": "almond",     "word": "(la) almendra"},
+
+    { "en": "ripe",       "word": "maduro"       }
+  ]
+}
