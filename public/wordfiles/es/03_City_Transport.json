@@ -1,0 +1,20 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
+  "cards": [
+    { "en": "car",        "word": "(el) coche"       },
+    { "en": "train",      "word": "(el) tren"        },
+    { "en": "bus",        "word": "(el) autobús"     },
+    { "en": "metro",      "word": "(el) metro"       },
+    { "en": "tram",       "word": "(el) tranvía"     },
+    { "en": "bicycle",    "word": "(la) bicicleta"   },
+    { "en": "ship",       "word": "(el) barco"       },
+    { "en": "motorcycle", "word": "(la) motocicleta" },
+    { "en": "bus stop",   "word": "(la) parada de autobús" },
+    { "en": "railway",    "word": "(el) ferrocarril"       },
+    { "en": "railway station", "word": "(la) estación de ferrocarril" },
+    { "en": "ticket",     "word": "(el) billete"     },
+    { "en": "validate (a ticket)", "word": "picar"   }
+  ]
+}

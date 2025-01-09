@@ -1,7 +1,7 @@
 {
   "name": "City",
   "description": "City",
-  "image": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4",
+  "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1",
   "cards": [
     { "en": "city",             "word": "(la) ciudad"   },
     { "en": "village",          "word": "(el) pueblo"   },
