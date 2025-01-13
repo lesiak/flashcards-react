@@ -11,6 +11,12 @@
     { "en": "sun",    "word": "(el) sol"     },
     { "en": "moon",   "word": "(la) luna"    },
     { "en": "tree",   "word": "(el) árbol"   },
-    { "en": "forest", "word": "(el) bosque"  }
+    { "en": "forest", "word": "(el) bosque"  },
+    { "en": "air",    "word": "(el) aire"    },
+    { "en": "star",   "word": "(la) estrella"},
+    { "en": "fog",    "word": "(la) niebla"  },
+    { "en": "sky",    "word": "(el) cielo"   },
+    { "en": "cloud",  "word": "(la) nube"    },
+    { "en": "rainbow","word": "(el) arco iris"   }
   ]
 }
