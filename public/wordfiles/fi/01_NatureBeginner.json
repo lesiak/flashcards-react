@@ -9,6 +9,13 @@
     { "en": "river",      "word": "joki"    },
     { "en": "sea",        "word": "meri"    },
     { "en": "sun",        "word": "aurinko" },
-    { "en": "moon",       "word": "kuu"     }
+    { "en": "moon",       "word": "kuu"     },
+    { "en": "air",        "word": "ilma"    },
+    { "en": "star",       "word": "tähti"   },
+    { "en": "fog",        "word": "sumu"    },
+    { "en": "sky",        "word": "taivas"  },
+    { "en": "cloud",     "word": "pilvi"    },
+    { "en": "rainbow",   "word": "sateenkaari" }
+
   ]
 }
