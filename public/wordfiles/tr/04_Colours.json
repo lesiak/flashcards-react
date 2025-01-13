@@ -5,8 +5,8 @@
   "cards": [
 
     { "en": "yellow", 	 "word": "sarı"},
-    { "en": "white",     "word": "beyaz"},
-    { "en": "black",     "word": "siyah" },
+    { "en": "white",     "word": "beyaz, ak"},
+    { "en": "black",     "word": "siyah, kara" },
     { "en": "red",       "word": "kırmızı"},
     { "en": "blue",      "word": "mavi" },
     { "en": "green",     "word": "yeşil" },
