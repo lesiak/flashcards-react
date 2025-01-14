@@ -1,0 +1,47 @@
+{
+    "name": "Appearance People",
+    "description": "Appearance People",
+    "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+    "cards": [
+      { "en": "short (height)", "word": "bajo"     },
+      { "en": "tall (man)",     "word": "alto"     },
+
+      { "en": "beautiful",      "word": "hermoso"  },
+      { "en": "pretty",         "word": "bonito"   },
+      { "en": "cute",           "word": "nono"     },
+      { "en": "elegant",        "word": "elegante" },
+
+      { "en": "charming",       "word": "encantador"},
+      { "en": "attractive",     "word": "atractivo"},
+      { "en": "handsome",       "word": "hermoso"  },
+
+      { "en": "ugly",           "word": "feo"      },
+
+      { "en": "slim",           "word": "delgado"  },
+      { "en": "slender",        "word": "esbelto"  },
+      { "en": "skinny",         "word": "flaco"    },
+      { "en": "fat",            "word": "gordo"    },
+
+      { "en": "petite",         "word": "chiquita" },
+
+      { "en": "good-looking",       "word": "guapo"                  },
+      { "en": "(one's) figure",     "word": "(la) figura"            },
+      { "en": "a slender figure",   "word":"(la) esbelta figura"     },
+      { "en": "obesity",            "word":"(la) obesidad"           },
+      { "en": "(the) overweight",   "word": "(el) sobrepeso"         },
+      { "en": "to lose weight",     "word": "adelgazar, perder peso" },
+      { "en": "to put on weight",   "word": "engordar, ganar peso"   },
+
+
+      { "en": "straight (hair)",    "word": "liso"           },
+      { "en": "curly (hair)",       "word": "rizado"         },
+      { "en": "blonde (hair)",      "word": "rubio"          },
+      { "en": "dark (hair)",        "word": "moreno"         },
+      { "en": "red-haired",         "word": "pelirrojo"      },
+
+
+      { "en": "makeup",             "word": "(el) maquillaje"}, 
+      { "en": "style",              "word": "(el) estilo"    }
+
+    ]
+  }
