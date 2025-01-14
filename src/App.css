@@ -24,5 +24,134 @@
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 
+/*
+@mixin flUI-span($span, $start: auto, $row: auto) {
+  grid-column: $start / span $span;
+  grid-row: $row;
+  
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
+
+@function px-to-rem($pixel) {
+  @return ($pixel / 16) * 1rem;
+}
+
+%gridContainer {
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+}
+*/
+
+.fl-grid {
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  margin: auto 0.5rem;
+
+  /* > 1366 pixel */
+  column-gap: 2rem;
+  row-gap: 2rem;
+  /* < 1366 pixel */
+  @media screen and (max-width: 1366px) {
+    column-gap: 1.5rem;
+    row-gap: 1.5rem;
+  }
+  /* <= 640 pixel */
+  @media screen and (max-width: 640px) {
+    column-gap: 1rem;
+    row-gap: 1rem;
+  }
+}
+
+.fl-span12 {
+  /* gridContainer */
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+  /* @include flUI-span(12); */
+  grid-column: auto / span 12;
+  grid-row: auto;
+  /* media query for small devices */
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
+
+.fl-span4{
+  /* gridContainer */
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+  /* @include flUI-span(12); */
+  grid-column: auto / span 4;
+  grid-row: auto;
+  /* media query for small devices */
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
+
+.fl-span8{
+  /* gridContainer */
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+  /* @include flUI-span(8); */
+  grid-column: auto / span 8;
+  grid-row: auto;
+  /* media query for small devices */
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
+
+.fl-span6c{
+  /* gridContainer */
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+  /* @include flUI-span(6, 4, 3); */ 
+  grid-column: 4 / span 6;
+  grid-row: 3;
+  
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
+
+.fl-span8c{
+  /* gridContainer */
+  box-sizing: border-box;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  background-color: silver;
+  /* @include flUI-span(6, 4, 3); */ 
+  grid-column: 3 / span 8;
+  grid-row: auto;
+  
+  @media screen and (max-width: 480px){
+    grid-column: 1 / span 12;
+    grid-row: auto;
+  }
+}
 
 
