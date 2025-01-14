@@ -1,0 +1,56 @@
+{
+  "name": "Family",
+  "description": "Family",
+  "image": "https://images.unsplash.com/photo-1560328055-e938bb2ed50a",
+  "cards": [
+    { "en": "family",      "word": "(la) familia"  },
+    { "en": "father",      "word": "(el) padre"    },
+    { "en": "mother",      "word": "(la) madre"    },
+    { "en": "child",       "word": "(el) niño"     },
+    { "en": "son",         "word": "(el) hijo"     },
+    { "en": "daughter",    "word": "(la) hija"     },
+    { "en": "baby",        "word": "(el) bebé"     },
+    { "en": "wife",        "word": "(la) mujer, (la) esposa" },
+    { "en": "husband",     "word": "(el) marido"   },
+
+    { "en": "sister",      "word": "(la) hermana"  },
+    { "en": "brother",     "word": "(el) hermano"  },
+    { "en": "twin",        "word": "(el) gemelo"   },
+
+    { "en": "parents",      "word": "(los) padres" },
+    { "en": "single parent","word": "" },
+    { "en": "relatives",    "word": "(los) parientes" },
+
+    { "en": "grandmother",  "word": "(la) abuela"   },
+    { "en": "grandma",      "word": "(la) abuelita" },
+
+
+    { "en": "grandson",      "word": "(el) nieto"     },
+    { "en": "granddaughter", "word": "(la) nieta"     },
+
+    { "en": "uncle",         "word": "(el) tío"       },
+    { "en": "aunt",          "word": "(la) tía"       },
+
+    { "en": "cousin",        "word": "(el) primo"      },
+    { "en": "stepmother",    "word": "(la) madrastra"  },
+    { "en": "stepfather",    "word": "(el) padrastro"  },
+
+    { "en": "generation",    "word": "(la) generación"  },
+    { "en": "a couple",      "word": "(la) pareja"      },
+    { "en": "boyfriend",     "word": "(el) novio"       },
+    { "en": "marriage",      "word": "(el) matrimonio"  },
+    { "en": "married",       "word": "casado"           },
+    { "en": "to get married","word": "casarse (con)"    },
+
+    { "en": "single, unmarried", "word": "soltero"      },
+
+    { "en": "bride",       "word": ""   },
+    { "en": "groom",       "word": "(el) novio"  },
+
+    { "en": "fiancé",       "word": "(el) novio, (el) prometido" },
+    { "en": "partner",      "word": "(la) pareja" }
+
+
+
+  ]
+}
