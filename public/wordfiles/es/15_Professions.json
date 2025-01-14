@@ -1,0 +1,68 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "photographer",  "word": "(el) fotógrafo"  },
+    { "en": "cook",          "word": "(el) cocinero"   },
+  
+    { "en": "manager",       "word": "(el) gerente"    },
+    { "en": "secretary",     "word": "(la) secretaria" },
+    { "en": "intern",        "word": "(el) becario"    },
+    { "en": "department",    "word": ""                },
+    { "en": "head of department", "word": "(el) jefe del departamento" },
+    { "en": "accountant",    "word": "(el/la) contable, (el) contado"  },
+    { "en": "cashier",       "word": "(el) cajero"     },
+
+
+    { "en": "dancer",        "word": "(el) bailarín"   },
+    { "en": "painter",       "word": "(el) pintor"     },
+    { "en": "artist",        "word": "(el/la) artista" },
+    { "en": "designer",      "word": "(el) diseñador"  },
+    { "en": "sculptor",       "word": ""               },
+
+ 
+    { "en": "scientist",     "word": "(el) científico" },
+    { "en": "engineer",      "word": "(el) ingeniero " },
+    
+    { "en": "farmer",        "word": "(el) granjero, (el) agricultor"      },
+    { "en": "hunter",        "word": "(el) cazador"    },
+
+    { "en": "fashion model", "word": "(el/la!) modelo" },
+    { "en": "pilot",         "word": "(el/la!) piloto" },
+    { "en": "stewardess",    "word": "(la) azafata"    },
+    { "en": "taxi driver",   "word": "(el) taxista"    },
+
+    { "en": "fisherman",     "word": "(el) pescador"   },
+    { "en": "miner",         "word": "(el) minero"     },
+    { "en": "mine",          "word": "(la) mina"       },
+
+    { "en": "lawyer",        "word": "(el) abogado"    },
+    { "en": "prosecutor",    "word": "(el) fiscal"     },
+    { "en": "judge",         "word": "(el) juez"       },
+
+    { "en": "waiter",        "word": "(el) camarero"   },
+
+
+    { "en": "policeman",     "word": "(el) policía"    },
+    { "en": "fireman",       "word": "(el) bombero"    },
+    { "en": "journalist",    "word": "(el) periodista" },
+
+    { "en": "baker",         "word": "(el) panadero"       },
+    { "en": "hairdresser",   "word": "(el) peluquero"      },
+    { "en": "electrician",   "word": "(el) electricista"   },
+    { "en": "plumber",       "word": "(el) fontanero, plomero"   },
+    { "en": "mechanic",      "word": "(el) mecánico"     },
+    { "en": "locksmith",     "word": "(el) cerrajero"    },
+    { "en": "carpenter",     "word": "(el) carpintero"   },
+    { "en": "welder",        "word": "(el) soldador"     },
+    { "en": "butcher",       "word": "(el) carnicero"    },
+    { "en": "watchmaker",    "word": "(el) relojero"     },
+    { "en": "cleaner",       "word": "(el) limpiador"    },
+    { "en": "barman",        "word": "(el/la) barman"    },
+    { "en": "worker",        "word": "(el) obrero"       },
+
+    { "en": "teacher",       "word": "(el) profesor, (el) maestro"    }
+
+  ]
+}
