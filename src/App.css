@@ -129,7 +129,7 @@
   background-color: silver;
   /* @include flUI-span(6, 4, 3); */ 
   grid-column: 4 / span 6;
-  grid-row: 3;
+  grid-row: auto;
   
   @media screen and (max-width: 480px){
     grid-column: 1 / span 12;

@@ -27,14 +27,17 @@ export const LessonChooser: React.FC<LessonChooserProps> = ({lessons, onLessonSe
     <div class="fl-span8c">
     8 columns centered
   </div>
-</div>
+
       {lessons.map(lesson =>
         // onClick={() => setCurrentLesson(lesson)}
-        <div key={`${lesson.name}`} className="lesson-card" onClick={() => onLessonSelected(lesson)}>
+        <div key={`${lesson.name}`} className="lesson-card fl-span8c" onClick={() => onLessonSelected(lesson)}>
           <LessonIndexCard lesson={lesson}/>
         </div>)
       }
-    </div>
+  
+  
+</div>
+</div>
   )
 }
 
