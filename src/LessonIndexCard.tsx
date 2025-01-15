@@ -2,7 +2,7 @@ import {
   makeStyles,
   Body1,
   Caption1,
-  shorthands, Image,
+  Image,
 } from "@fluentui/react-components";
 import {
   Card,
