@@ -11,7 +11,7 @@ export const LessonChooser: React.FC<LessonChooserProps> = ({lessons, onLessonSe
   return (
     <div>
       <h1>Fluent UI Grid</h1>
-      <div class="fl-grid">
+      <div className="fl-grid">
       {lessons.map(lesson =>
         // onClick={() => setCurrentLesson(lesson)}
         <div key={`${lesson.name}`} className="lesson-card fl-span4" onClick={() => onLessonSelected(lesson)}>
