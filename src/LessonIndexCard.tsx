@@ -19,9 +19,9 @@ interface LessonIndexCardProps {
 
 const useStyles = makeStyles({
   card: {
-    ...shorthands.margin("10px", "auto"),
-    width: "720px",
-    maxWidth: "100%",
+    //...shorthands.margin("10px", "auto"),
+    //width: "720px",
+    //maxWidth: "100%",
   },
 });
 
