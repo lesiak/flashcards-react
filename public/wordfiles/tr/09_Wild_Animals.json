@@ -1,0 +1,80 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "https://images.unsplash.com/photo-1549317689-39fc2eded51f",
+  "cards": [
+    { "en": "bear",       "word": "ayı"       },
+    { "en": "moose, elch","word": "geyik"     },
+    { "en": "deer",       "word": "geyik"     },
+    { "en": "reindeer",   "word": "ren geyiği"},
+    { "en": "wolf",       "word": "kurt"      },
+    { "en": "fox",        "word": "tilki"     },
+    { "en": "hedgehog",   "word": "kirpi"     },
+    { "en": "rabbit",     "word": "tavşan"    },
+    { "en": "hare",       "word": "tavşan"    },
+    { "en": "wild boar",  "word": "yaban domuzu" },
+    { "en": "squirrel",   "word": "sincap"    },
+    { "en": "caracal",    "word": "karakulak" },
+
+    { "en": "frog",       "word": "sammakko"  },
+    { "en": "snake",      "word": "käärme"    },
+
+    { "en": "tiger",      "word": "tiikeri"   },
+    { "en": "lion",       "word": "leijona"   },
+    { "en": "elephant",   "word": "norsu"     },
+    { "en": "camel",      "word": "kameli"    },
+    { "en": "giraffe",    "word": "kirahvi"   },
+    { "en": "crocodile",  "word": "krokotiili"},
+    { "en": "monkey",     "word": "apina"     },
+
+
+    { "en": "bird",       "word": "lintu"  },
+    { "en": "duck",       "word": "ankka" },
+    { "en": "goose",      "word": "hahni"  },
+    { "en": "pigeon",     "word": "kyyhkynen"},
+    { "en": "eagle",      "word": "kotka" },
+    { "en": "sparrow",    "word": "varpunen"},
+    { "en": "swan",       "word": "joutsen"},
+    { "en": "stork",      "word": "haikara"},
+    { "en": "gull",       "word": "lokki" },
+    { "en": "owl",        "word": "pöllö"},
+    { "en": "parrot",     "word": "papukaija" },
+
+    { "en": "fish",       "word": "kala"     },
+    { "en": "dolphin",    "word": "delfiini" },
+    { "en": "shark",      "word": "hai"      },
+    { "en": "eel",        "word": "ankerias" },
+    { "en": "tuna",       "word": ""},
+    { "en": "starfish",   "word": ""},
+    { "en": "seahorse",   "word": ""},
+    { "en": "gill",       "word": "" },
+    { "en": "fin",        "word": "" },
+
+    { "en": "animal",     "word": "eläin"  },
+    { "en": "wing",       "word": "siipi"  },
+    { "en": "horn",       "word": "sarvi"  },
+    { "en": "tail",       "word": "häntä"  },
+    { "en": "beak",       "word": "nokka"  },
+    { "en": "fur",        "word": "turkki" },
+
+    { "en": "ant",        "word": "muurahainen" },
+    { "en": "butterfly",  "word": "perhonen"},
+    { "en": "bee",        "word": "mehiläinen"},
+    { "en": "wasp",       "word": ""       },
+    { "en": "bug",        "word": ""      },
+    { "en": "a fly",      "word": ""},
+    { "en": "a mosquito", "word": ""},
+    { "en": "a spider",   "word": ""},
+
+    { "en": "to bite",    "word": "purra"},
+    { "en": "to wag",     "word": ""},
+    { "en": "to bark",    "word": ""},
+    { "en": "to meow",    "word": ""},
+    { "en": "to moo",     "word": ""},
+    { "en": "to croak",   "word": ""},
+    { "en": "to caw (raven)",    "word": ""},
+
+    { "en": "to hibernate",    "word": "" }
+
+  ]
+}
