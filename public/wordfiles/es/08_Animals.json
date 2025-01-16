@@ -1,0 +1,35 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",         	"word": "(el) gato"    },
+    { "en": "dog",         	"word": "(el) perro"   },
+    { "en": "chicken",   	  "word": "(el) pollo"   },
+    { "en": "pig",      	  "word": "(el) cerdo"   },
+    { "en": "cow",      	  "word": "(la) vaca "   },
+    { "en": "horse",        "word": "(el) caballo" },
+    { "en": "sheep",        "word": "(la) oveja"   },
+    { "en": "goat",         "word": "(la) cabra"   },
+
+    { "en": "donkey",       "word": "(el) burro"    },
+    { "en": "mouse",        "word": ""    },
+
+    { "en": "puppy",        "word": "(el) cachorro" },
+    { "en": "hamster",      "word": "(el) hámster"},
+    { "en": "guinea pig",   "word": "(el) conejillo de indias"   },
+
+
+    { "en": "cage",         "word": "(la) jaula"   },
+    { "en": "aquarium",     "word": "(el) acuario" },
+    { "en": "leash",        "word": "(la) correa"  },
+    { "en": "pet crate",    "word": "(el) transportín"},
+    { "en": "nest",         "word": "(el) nido"    },
+
+    { "en": "female (animals)","word": "(la) hembra" },
+    { "en": "male (animals)",  "word": "(el) macho" },
+
+    { "en": "cattle",     "word": "(el) ganado"},
+    { "en": "vet",        "word": "(el) veterinario" }
+  ]
+}
