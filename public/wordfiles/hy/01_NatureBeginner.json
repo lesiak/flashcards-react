@@ -1,0 +1,20 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1658204127941-cc3c51b73328",
+  "cards": [
+    { "en": "fire",    "word": "կրակ (krak),հուր (hur, somewhat formal)"    },
+    { "en": "light",   "word": "լույս (luys)"     },
+    { "en": "water",   "word": "ջուր (jur)"      },
+    { "en": "river",   "word": "գետ (get)"      },
+    { "en": "sea",     "word": "ծով (tsov)"      },
+    { "en": "sun",     "word": "արև (arev)"      },
+    { "en": "moon",    "word": "լուսին (lusin)"   },
+    { "en": "air",     "word": "օդ (od)"         },
+    { "en": "star",    "word": "աստղ (astgh)"   },
+    { "en": "fog",     "word": "մառախուղ (marrakhugh)"  },
+    { "en": "sky",     "word": "երկինք (yerkink’)"},
+    { "en": "cloud",   "word": "ամպ (amp)"       },
+    { "en": "rainbow", "word": "ծիածան (tsiatsan)"   }
+  ]
+}
