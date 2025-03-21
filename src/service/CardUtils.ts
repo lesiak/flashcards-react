@@ -1,8 +1,8 @@
 
 
-const IN_PARENTHESES = new RegExp("\\(.+?\\)");
+const IN_PARENTHESES = new RegExp("\\(.+?\\)", "g");
 
-const IN_BRACKETS = new RegExp("\\[.+?\\]");
+const IN_BRACKETS = new RegExp("\\[.+?\\]", "g");
 
 export function sanitizeWordEntry(lang: string, word: string) {
   word = _removeCommentsInParentheses(word);
