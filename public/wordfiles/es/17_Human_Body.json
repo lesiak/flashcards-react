@@ -1,0 +1,66 @@
+{
+    "name": "Appearance People",
+    "description": "Appearance People",
+    "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+    "cards": [
+      { "en": "chest",     "es": "(el) pecho"    },
+      { "en": "heart",     "es": "(el) corazón"  },
+      { "en": "leg",       "es": "(la) pierna",  "it": "(la) gamba",  "hu": "láb",     "ko": "다리"    },
+      { "en": "foot",      "es": "(el) pie",    "hu": "láb",     "ko": "발"      },
+      
+      { "en": "head",      "es": "(la) cabeza", "hu": "fej",     "ko": "머리" },
+      { "en": "eye",       "es": "(el) ojo",    "hu": "szem",    "ko": "얼굴" },
+      { "en": "face",      "es": "(la) cara, (el) rostro",   "hu": "arc",     "ko": "눈"   },
+      { "en": "brain",     "es": "(el) cerebro","hu": "agy",     "ko": "뇌"   },
+      { "en": "neck",      "es": "(el) cuello", "hu": "nyak",    "ko": "목"   },
+      { "en": "tongue",    "es": "(la) lengua", "hu": "nyelv",   "ko": "혀"   },
+      { "en": "ear",       "es": "(la) oreja",  "hu": "fül",     "ko": "귀"   },
+      { "en": "body",      "es": "(el) cuerpo", "hu": "",        "ko": "몸"   },
+      { "en": "hand",      "es": "(la) mano",   "hu": "",        "ko": "손"   },
+      { "en": "arm",       "es": "(el) brazo",  "hu": "",        "ko": ""   },
+      { "en": "left",      "es": "izquierdo",   "ko": "왼"       },
+      { "en": "right",     "es": "derecho",     "ko": "오른"     },
+      { "en": "finger",    "es": "(el) dedo",   "ko": "손가락"     },
+      { "en": "fingerprint","es": "(la) huella dactilar",   "ko": "지문"  },
+      
+      
+      { "en": "nose",      "es": "(la) nariz",  "hu": "orr",      "ko": "코"   },
+      { "en": "mouth",     "es": "(la) boca",   "hu": "száj",     "ko": "입"   },
+      { "en": "lip",       "es": "(el) labio",   "hu": "",     "ko": ""   },
+      { "en": "skin",      "es": "(la) piel",                     "ko": "피부"  },
+      { "en": "hair",      "fi": "tukka, hiukset","fr": "cheveux", "es": "(el) pelo",               "ko": "머리" },
+      { "en": "cheek",     "fi": "poski",     "fr": "joue",        "es": "(la) mejilla",            "ko": "볼" },
+      { "en": "chin",      "fi": "leuka",     "fr": "menton",      "es": "(la) barbilla",           "ko": "턱" },
+      { "en": "jaw",       "fi": "leuka",     "fr": "mâchoire",    "es": "(la) mandíbula",          "ko": "턱"},
+      { "en": "eyebrow",   "fi": "kulmakarva","fr": "sourcil",     "es": "(la) ceja",               "ko": "눈썹" },
+      { "en": "freckle",   "fi": "pisama, kesakko","fr": "",       "es": "(la) peca",               "ko": "" },
+      { "en": "forehead",  "fi": "otsa",      "fr": "front",       "es": "(la) frente",             "ko": "이마" },
+      
+      { "en": "beard",     "fi": "parta",     "fr": "barbe",       "es": "(la) barba",               "ko": "" },
+      { "en": "moustache", "fi": "viikset",   "fr": "moustache",   "es": "(el) bigote",               "ko": "" },
+      { "en": "bald",      "fi": "",          "fr": "",            "es": "calvo",               "ko": "" },
+      { "en": "wrinkle",      "fi": "",       "fr": "",            "es": "(la) arruga",               "ko": "" },
+      { "en": "(facial) features",      "fi": "",       "fr": "",            "es": "(los) rasgos",               "ko": "" },
+      
+      
+      
+      { "en": "to raise",  "fi": "",          "fr": "",            "es": "elevar",      "ko": "들다" },
+      
+      { "en": "belly",     "fi": "vatsa",     "fr":"ventre",      "es": "(la) barriga", "ko": "배"},
+      { "en": "waist",     "fi": "vyötärö",   "fr":"taille",      "es": "(la) cintura", "ko": "허리"},
+      
+      { "en": "a bone",    "fi": "luu" ,      "fr":"os",          "es": "(el) hueso",   "ko": "뼈"},
+      { "en": "skeleton",    "fi": "luuranko" ,      "fr":"squelette",          "es": "(el) esqueleto",   "ko": ""},
+      { "en": "blood",     "fi": "veri" ,     "fr":"sang",        "es": "(la) sangre",  "ko": "피"},
+      { "en": "lung",      "fi": "keuhko",    "fr":"poumon",      "es": "(el) pulmón",  "ko": "폐"},
+      { "en": "stomach",   "fi": "maha",      "fr":"estomac",     "es": "(el) estómago","ko": "위"},
+      { "en": "liver",     "fi": "maksa",     "fr": "foie",      "es": "(el) hígado",  "ko": "간" },
+      { "en": "skull",     "fi": "kallo",     "fr": "crâne",       "es": "(el) cráneo, (la) calavera",               "ko": "" },
+      
+      { "en": "female",    "fi": "nainen",    "fr": "femelle",    "ko": "여성" },
+      
+      
+      { "en": "side (body)", "fi": "kylki",     "fr": "",      "es": "",  "ko": "" }
+
+    ]
+  }
