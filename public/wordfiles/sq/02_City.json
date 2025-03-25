@@ -1,0 +1,33 @@
+{
+    "name": "City",
+    "description": "City",
+    "image": "https://images.unsplash.com/photo-1528563066973-f5e4230fc89f",
+    "cards": [
+      { "en": "city",             "word": "qytet" },
+      { "en": "village",          "word": "fshat" },
+      { "en": "road",             "word": "rrugë" },
+      { "en": "street",           "word": "rrugë" },
+      { "en": "avenue",           "word": "bulevard" },
+      { "en": "bridge",           "word": "urë" },
+      { "en": "square (in city)", "word": "shesh" },
+      { "en": "(city) centre",    "word": "qendër" },
+      { "en": "church",           "word": "kishë" },
+      { "en": "pharmacy",         "word": "farmaci" },
+      { "en": "castle",           "word": "kështjellë" },
+      { "en": "building",         "word": "ndërtesë" },
+      { "en": "school",           "word": "shkollë" },
+      { "en": "museum",           "word": "muze" },
+      { "en": "alley, backstreet","word": "rrugicë" },
+      { "en": "(street) corner",  "word": "cep i rrugës" },
+      { "en": "bank",             "word": "bankë" },
+      { "en": "town hall",        "word": "bashki" },
+      { "en": "fountain",         "word": "shatërvan" },
+      { "en": "bench",            "word": "stol" },
+      { "en": "suburb",           "word": "periferi" },
+      { "en": "neighborhood (district)", "word": "lagje" },
+      { "en": "factory",          "word": "fabrikë" },
+      { "en": "statue",           "word": "statuja" },
+      { "en": "gallery",          "word": "galeri" },
+      { "en": "urban",            "word": "urban" }
+    ]
+  }
