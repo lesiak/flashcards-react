@@ -1,0 +1,33 @@
+{
+    "name": "City",
+    "description": "City",
+    "image": "https://images.unsplash.com/photo-1616395440367-150e91e98510",
+    "cards": [
+      { "en": "city",             "word": "քաղաք (k’aghak’)" },
+      { "en": "village",          "word": "գյուղ (gyugh)" },
+      { "en": "road",             "word": "ճանապարհ (chanaparh)" },
+      { "en": "street",           "word": "փողոց (p’oghots’)" },
+      { "en": "avenue",           "word": "պողոտա (p’oghot’a)" },
+      { "en": "bridge",           "word": "կամուրջ (kamurj)" },
+      { "en": "square (in city)", "word": "հրապարակ (hrap’arak)" },
+      { "en": "(city) centre",    "word": "կենտրոն (kentron)" },
+      { "en": "church",           "word": "եկեղեցի (yekeghets’i)" },
+      { "en": "pharmacy",         "word": "դեղատուն (deghatun)" },
+      { "en": "castle",           "word": "ամրոց (amrots’)" },
+      { "en": "building",         "word": "շենք (shenk’)" },
+      { "en": "school",           "word": "դպրոց (dprots’)" },
+      { "en": "museum",           "word": "թանգարան (t’angaran)" },
+      { "en": "alley, backstreet","word": "նրբանցք (nrbants’k’)" },
+      { "en": "(street) corner",  "word": "փողոցի անկյուն (p’oghots’i ankyun)" },
+      { "en": "bank",             "word": "բանկ (bank)" },
+      { "en": "town hall",        "word": "քաղաքապետարան (k’aghak’apetaran)" },
+      { "en": "fountain",         "word": "շատրվան (shatrvans)" },
+      { "en": "bench",            "word": "նստարան (nstarans)" },
+      { "en": "suburb",           "word": "ծայրամաս (ts’ayramas)" },
+      { "en": "neighborhood (district)", "word": "թաղամաս (t’aghamas)" },
+      { "en": "factory",          "word": "գործարան (gortsaran)" },
+      { "en": "statue",           "word": "արձան (ardzan)" },
+      { "en": "gallery",          "word": "պատկերասրահ (patkerasrah)" },
+      { "en": "urban",            "word": "քաղաքային (k’aghak’ayin)" }
+    ]
+  }
