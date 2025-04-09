@@ -1,0 +1,27 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",    "word": "դեղին (deghin)" },
+    { "en": "white",     "word": "սպիտակ (spitak)" },
+    { "en": "black",     "word": "սև (sev)" },
+    { "en": "red",       "word": "կարմիր (karmir)" },
+    { "en": "blue",      "word": "կապույտ (kapuyt)" },
+    { "en": "green",     "word": "կանաչ (kanach’)" },
+    { "en": "orange",    "word": "նարնջագույն (narnjaguyn)" },
+    { "en": "pink",      "word": "վարդագույն (vardaguyn)" },
+    { "en": "brown",     "word": "դարչնագույն (darch’naguyn)" },
+    { "en": "grey",      "word": "մոխրագույն (mokhraguyn)" },
+    { "en": "violet",    "word": "մանուշակագույն (manushakaguyn)" },
+    { "en": "purple",    "word": "հաշմանդամ (hashmandam)" },
+
+    { "en": "colour",    "word": "գույն (guyn)" },
+    { "en": "colorful",  "word": "գունավոր (gunavor)" },
+    { "en": "colourless","word": "անգույն (anguyn)" },
+
+    { "en": "light (colour)",   "word": "բաց (bats’)" },
+    { "en": "dark (colour)",    "word": "մուգ (mug)" },
+    { "en": "bright (colour)",  "word": "վառ (varr)" }
+  ]
+}
