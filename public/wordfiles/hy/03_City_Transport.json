@@ -1,0 +1,20 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1522885411213-fed07f49473d",
+  "cards": [
+    { "en": "car",        "word": "ավտոմեքենա (avtomek’ena)" },
+    { "en": "train",      "word": "գնացք (gnats’k’)" },
+    { "en": "bus",        "word": "ավտոբուս (avtobus)" },
+    { "en": "metro",      "word": "մետրո (metro)" },
+    { "en": "tram",       "word": "տրամվայ (tramvay)" },
+    { "en": "bicycle",    "word": "հեծանիվ (hetsaniv)" },
+    { "en": "ship",       "word": "նավ (nav)" },
+    { "en": "motorcycle", "word": "մոտոցիկլետ (motots’iklet)" },
+    { "en": "bus stop",   "word": "կանգառ (kangarr)" },
+    { "en": "railway",    "word": "երկաթուղի (erkat’ughi)" },
+    { "en": "railway station", "word": "կայարան (kayaran)" },
+    { "en": "ticket",     "word": "տոմս (toms)" },
+    { "en": "validate (a ticket)", "word": "հաստատել (hastatel)" }
+  ]
+}
