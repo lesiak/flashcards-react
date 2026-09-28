@@ -1,0 +1,66 @@
+{
+    "name": "Anatomy",
+    "description": "Anatomy",
+    "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+    "cards": [
+      { "en": "chest",     "word": "(el) pecho"    },
+      { "en": "heart",     "word": "(el) corazón"  },
+      { "en": "leg",       "word": "(la) pierna"   },
+      { "en": "foot",      "word": "(el) pie"      },
+      
+      { "en": "head",      "word": "(la) cabeza"   },
+      { "en": "eye",       "word": "(el) ojo"      },
+      { "en": "face",      "word": "(la) cara, (el) rostro"  },
+      { "en": "brain",     "word": "(el) cerebro"  },
+      { "en": "neck",      "word": "(el) cuello"   },
+      { "en": "tongue",    "word": "(la) lengua"   },
+      { "en": "ear",       "word": "(la) oreja"    },
+      { "en": "body",      "word": "(el) cuerpo"   },
+      { "en": "hand",      "word": "(la) mano"     },
+      { "en": "arm",       "word": "(el) brazo"    },
+      { "en": "left",      "word": "izquierdo"     },
+      { "en": "right",     "word": "derecho"       },
+      { "en": "finger",    "word": "(el) dedo"     },
+      { "en": "fingerprint","word": "(la) huella dactilar"  },
+      
+      
+      { "en": "nose",      "word": "(la) nariz" },
+      { "en": "mouth",     "word": "(la) boca"  },
+      { "en": "lip",       "word": "(el) labio" },
+      { "en": "skin",      "word": "(la) piel"  },
+      { "en": "hair",      "word": "(el) pelo"  },
+      { "en": "cheek",     "word": "(la) mejilla"   },
+      { "en": "chin",      "word": "(la) barbilla"  },
+      { "en": "jaw",       "word": "(la) mandíbula" },
+      { "en": "eyebrow",   "word": "(la) ceja"      },
+      { "en": "freckle",   "word": "(la) peca"      },
+      { "en": "forehead",  "word": "(la) frente"    },
+      
+      { "en": "beard",                 "word": "(la) barba" },
+      { "en": "moustache", "word": "(el) bigote"  },
+      { "en": "bald",      "word": "calvo"        },
+      { "en": "wrinkle",   "word": "(la) arruga"  },
+      { "en": "(facial) features",   "word": "(los) rasgos" },
+      
+      
+      
+      { "en": "to raise",   "word": "elevar" },
+      
+      { "en": "belly",      "word": "(la) barriga" },
+      { "en": "waist",      "word": "(la) cintura" },
+      
+      { "en": "a bone",     "word": "(el) hueso"   },
+      { "en": "skeleton",   "word": "(el) esqueleto" },
+      { "en": "blood",      "word": "(la) sangre" },
+      { "en": "lung",       "word": "(el) pulmón" },
+      { "en": "stomach",    "word": "(el) estómago" },
+      { "en": "liver",      "word": "(el) hígado"   },
+      { "en": "skull",      "word": "(el) cráneo, (la) calavera" },
+      
+      { "en": "female",     "word": "(la) hembra" },
+      
+      
+      { "en": "side (body)", "word": "(el) costado"  }
+
+    ]
+  }
