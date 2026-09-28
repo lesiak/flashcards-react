@@ -1,0 +1,13 @@
+{
+  "fi": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "es": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "pt": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "hr": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "nl": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "tr": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "hi": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "he": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "hy": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "sq": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "sl": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" }
+}
