@@ -8,6 +8,7 @@ import flagOfIndia from '/images/Flag_of_India.svg'
 import flagOfIsrael from '/images/Flag_of_Israel.svg'
 import flagOfArmenia from '/images/Flag_of_Armenia.svg'
 import flagOfAlbania from '/images/Flag_of_Albania.svg'
+import flagOfSlovenia from '/images/Flag_of_Slovenia.svg'
 
 export interface LanguageInfo {
   code: string;
@@ -75,15 +76,22 @@ export const albanian: LanguageInfo = {
   flagUrl: flagOfAlbania
 }
 
+export const slovenian: LanguageInfo = {
+  code: 'sl',
+  fullName: 'Slovenian',
+  flagUrl: flagOfSlovenia
+}
+
 export const appLangs = [
-  finnish, 
-  spanish, 
-  brazilianPortuguese, 
-  croatian, 
-  dutch, 
-  turkish, 
-  hindi, 
+  finnish,
+  spanish,
+  brazilianPortuguese,
+  croatian,
+  dutch,
+  turkish,
+  hindi,
   hebrew,
   armenian,
-  albanian
+  albanian,
+  slovenian
 ];
