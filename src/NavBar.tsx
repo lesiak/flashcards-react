@@ -25,12 +25,17 @@ type NavBarProps = {
 
 const useStyles = makeStyles({
   root: {
-    alignItems: "flex-start",
+    alignItems: "center",
     display: "flex",
-    flexDirection: "column",
-    justifyContent: "flex-start",
+    flexDirection: "row",
+    justifyContent: "space-between",
     ...shorthands.padding("10px", "20px"),
-    rowGap: "20px",
+    columnGap: "20px",
+  },
+  rightIcons: {
+    alignItems: "center",
+    display: "flex",
+    columnGap: "12px",
   },
   circularImg: {
     objectFit: 'cover'
@@ -54,6 +59,9 @@ export const NavBar: React.FC<NavBarProps> = ({selectedTab, onTabSelect}) => {
     <TabList selectedValue={selectedTab} onTabSelect={onTabSelect}>
       <Tab value="homeTab" autoFocus={true}>Home</Tab>
       <Tab value="dictionaryTab">Dictionary</Tab>
+    </TabList>
+
+    <div className={styles.rightIcons}>
       <Menu>
         <MenuTrigger disableButtonEnhancement>
           <Avatar icon={<PersonRegular/>} aria-label="Group"/>
@@ -80,14 +88,12 @@ export const NavBar: React.FC<NavBarProps> = ({selectedTab, onTabSelect}) => {
         <MenuPopover>
           <MenuList>
             <MenuGroupHeader>Select Language</MenuGroupHeader>
-            {appLangs.map(lang => <ChangeLanguageMenuItem lang={lang}
+            {appLangs.map(lang => <ChangeLanguageMenuItem key={lang.code}
+                                                          lang={lang}
                                                           onLangClicked={lang => setCurrentLanguage(lang)}/>)}
           </MenuList>
         </MenuPopover>
       </Menu>
-
-
-    </TabList>
-
+    </div>
   </nav>
 }
