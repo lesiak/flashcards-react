@@ -13,7 +13,6 @@ import {SearchRegular} from '@fluentui/react-icons';
 import {Card} from './model/Card';
 import {LanguageInfo} from './model/LanguageInfo';
 
-import './Dictionary.css'
 
 type DictionaryTableProps = {
   cards: Card[]
@@ -58,7 +57,10 @@ export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards
           {filteredCards.map((card) => (
             <TableRow key={card.en}>
               <TableCell>{card.en}</TableCell>
-              <TableCell className='hebrewFont'>{card.word}</TableCell>
+              <TableCell className={currentLanguage.code === 'he' ? 'hebrewFont' : undefined}
+                         dir={currentLanguage.rtl ? 'rtl' : undefined}>
+                {card.word}
+              </TableCell>
             </TableRow>
           ))}
         </TableBody>
