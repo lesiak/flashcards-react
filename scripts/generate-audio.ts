@@ -22,29 +22,13 @@ import { basename, dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { audioFilePath, deriveVoicedTexts } from '../src/service/AudioNaming.ts';
 import type { Lesson } from '../src/model/Lesson.ts';
+import type {
+  AudioManifest as Manifest,
+  AudioManifestEntry as ManifestEntry,
+  VoiceConfig,
+} from '../src/model/AudioManifest.ts';
 
 // ---------------------------------------------------------------- types
-
-interface VoiceConfig {
-  voiceId: string;
-  modelId: string;
-  outputFormat: string;
-}
-
-interface ManifestEntry {
-  text: string;
-  file: string;
-}
-
-/** One per language at audio-cache/{lang}/manifest.json. */
-interface Manifest {
-  version: 1;
-  lang: string;
-  /** Voice settings in force when the manifest was last written. */
-  voice: VoiceConfig;
-  /** Keyed by the raw deck `word`; one entry per voiced synonym. */
-  entries: Record<string, ManifestEntry[]>;
-}
 
 interface Options {
   files: string[];

@@ -12,6 +12,21 @@ import {getForvoPronunciations} from './service/PronounciationManager.ts';
 import {ForvoItem, ForvoResponse} from './model/forvo/Forvo.ts';
 import {sanitizeWordEntry} from "./service/CardUtils.ts";
 import { makeStyles } from '@fluentui/react-components';
+import {useAudioManifest} from './service/AudioManifestLoader.ts';
+import {playCachedAudio} from './service/AudioCache.ts';
+import {audioUrl} from './service/AudioNaming.ts';
+import {AudioManifestEntry} from './model/AudioManifest.ts';
+
+// Stable empty list so effects depending on it do not re-run every render.
+const NO_TTS_ENTRIES: AudioManifestEntry[] = [];
+
+const playAudio = (url: string): Promise<void> => {
+  return new Audio(url).play();
+}
+
+const playTts = (entry: AudioManifestEntry) => {
+  playCachedAudio(audioUrl(entry.file)).catch((e) => console.warn(`Cannot play "${entry.text}"`, e));
+}
 
 const getProno = async (lang: LanguageInfo, word: string): Promise<ForvoItem[]> => {
   const resp = await getForvoPronunciations(lang.code, word);
@@ -48,6 +63,8 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
   const [showAnswer, setShowAnswer] = useState(false);
   const [pronos, setPronos] = useState([] as ForvoItem[]);
   const card = lesson.cards[currentCardIdx];
+  const audioManifest = useAudioManifest(currentLanguage.code);
+  const ttsEntries = audioManifest?.entries[card.word] ?? NO_TTS_ENTRIES;
 
 
 
@@ -61,14 +78,17 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
     getAndPlaySounds();
   }, [card.word, currentLanguage]);
 
+  // Autoplay when the answer is revealed: generated TTS first, Forvo as fallback.
   useEffect(() => {
-    async function playSounds() {
-      if (pronos.length > 0) {
-        await playAudio(pronos[0].pathmp3);
-      }
+    if (!showAnswer) {
+      return;
     }
-    playSounds();
-  }, [card.word, currentLanguage, showAnswer]);
+    if (ttsEntries.length > 0) {
+      playTts(ttsEntries[0]);
+    } else if (pronos.length > 0) {
+      playAudio(pronos[0].pathmp3).catch((e) => console.warn('Autoplay blocked', e));
+    }
+  }, [card.word, currentLanguage, showAnswer, ttsEntries, pronos]);
 
 
 
@@ -80,10 +100,6 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
 
   const onShowAnswerClicked = () => {
     setShowAnswer(true);
-  }
-
-  const playAudio = (url: string): Promise<void> => {
-    return new Audio(url).play();
   }
 
   return <>
@@ -103,6 +119,11 @@ export const LessonPage: React.FC<{currentLanguage: LanguageInfo, lesson: Lesson
           {showAnswer &&  <h1>{card.word}</h1>}
           {showAnswer &&
               <div>
+              {ttsEntries.map((entry) => (
+                <Button key={entry.file} appearance="primary" onClick={() => playTts(entry)}>
+                  🔊 {entry.text}
+                </Button>
+              ))}
               {pronos.map((fItem => (
                 <Button key={`${card.word}-${fItem.username}`}
                         onClick={() => playAudio(fItem.pathmp3)}>

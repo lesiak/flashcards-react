@@ -14,5 +14,11 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
-  "include": ["scripts", "src/service/AudioNaming.ts", "src/model/Lesson.ts", "src/model/Card.ts"]
+  "include": [
+    "scripts",
+    "src/service/AudioNaming.ts",
+    "src/model/AudioManifest.ts",
+    "src/model/Lesson.ts",
+    "src/model/Card.ts"
+  ]
 }
