@@ -9,41 +9,16 @@ import {
   shorthands,
   tokens,
 } from '@fluentui/react-components';
-import {ChevronLeftRegular, ChevronRightRegular, PlayRegular, Speaker2Regular} from '@fluentui/react-icons';
-import {getForvoPronunciations} from './service/PronounciationManager.ts';
-import {ForvoItem, ForvoResponse} from './model/forvo/Forvo.ts';
-import {sanitizeWordEntry} from "./service/CardUtils.ts";
+import {ChevronLeftRegular, ChevronRightRegular, Speaker2Regular} from '@fluentui/react-icons';
 import {useAudioManifest} from './service/AudioManifestLoader.ts';
 import {playCachedAudio} from './service/AudioCache.ts';
 import {audioUrl} from './service/AudioNaming.ts';
 import {AudioManifestEntry} from './model/AudioManifest.ts';
 
-const getProno = async (lang: LanguageInfo, word: string): Promise<ForvoItem[]> => {
-  const resp = await getForvoPronunciations(lang.code, word);
-  if (!resp.ok) {
-    return [];
-  }
-  const body: ForvoResponse = await resp.json();
-  return body.items ?? [];
-}
-
-const poorPronoUsers: Record<string, readonly string[]> = {
-  'tr': ['rogers']
-} as const;
-
-const filterOutPoorProno = (lang: LanguageInfo, items: ForvoItem[]): ForvoItem[] => {
-  const poorUsersForLang = poorPronoUsers[lang.code] ?? [];
-  return items.filter(item => !poorUsersForLang.includes(item.username));
-}
-
 // Stable empty list so effects depending on it do not re-run every render.
-const NO_TTS_ENTRIES: AudioManifestEntry[] = [];
+const NO_PRONUNCIATIONS: AudioManifestEntry[] = [];
 
-const playAudio = (url: string): Promise<void> => {
-  return new Audio(url).play();
-}
-
-const playTts = (entry: AudioManifestEntry) => {
+const playPronunciation = (entry: AudioManifestEntry) => {
   playCachedAudio(audioUrl(entry.file)).catch((e) => console.warn(`Cannot play "${entry.text}"`, e));
 }
 
@@ -111,16 +86,6 @@ const useStyles = makeStyles({
     columnGap: tokens.spacingHorizontalS,
     rowGap: tokens.spacingVerticalS,
   },
-  forvo: {
-    display: 'flex',
-    flexWrap: 'wrap',
-    alignItems: 'center',
-    justifyContent: 'center',
-    columnGap: tokens.spacingHorizontalXS,
-    rowGap: tokens.spacingVerticalXS,
-    color: tokens.colorNeutralForeground3,
-    fontSize: tokens.fontSizeBase200,
-  },
   footer: {
     display: 'flex',
     justifyContent: 'flex-start',
@@ -140,36 +105,17 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
   const styles = useStyles();
   const [currentCardIdx, setCurrentCardIdx] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
-  const [pronos, setPronos] = useState([] as ForvoItem[]);
   const card = lesson.cards[currentCardIdx];
   const isLastCard = currentCardIdx === lesson.cards.length - 1;
   const audioManifest = useAudioManifest(currentLanguage.code);
-  const ttsEntries = audioManifest?.entries[card.word] ?? NO_TTS_ENTRIES;
+  const pronunciations = audioManifest?.entries[card.word] ?? NO_PRONUNCIATIONS;
 
+  // Autoplay the first pronunciation when the answer is revealed.
   useEffect(() => {
-    let cancelled = false;
-    const sanitizedWord = sanitizeWordEntry(currentLanguage.code, card.word);
-    getProno(currentLanguage, sanitizedWord)
-      .then((items) => {
-        if (!cancelled) setPronos(filterOutPoorProno(currentLanguage, items));
-      })
-      .catch((e) => console.warn('Forvo lookup failed', e));
-    return () => {
-      cancelled = true;
-    };
-  }, [card.word, currentLanguage]);
-
-  // Autoplay when the answer is revealed: generated TTS first, Forvo as fallback.
-  useEffect(() => {
-    if (!showAnswer) {
-      return;
+    if (showAnswer && pronunciations.length > 0) {
+      playPronunciation(pronunciations[0]);
     }
-    if (ttsEntries.length > 0) {
-      playTts(ttsEntries[0]);
-    } else if (pronos.length > 0) {
-      playAudio(pronos[0].pathmp3).catch((e) => console.warn('Autoplay blocked', e));
-    }
-  }, [card.word, currentLanguage, showAnswer, ttsEntries, pronos]);
+  }, [showAnswer, pronunciations]);
 
   const revealAnswer = useCallback(() => setShowAnswer(true), []);
 
@@ -179,7 +125,6 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
       return;
     }
     setShowAnswer(false);
-    setPronos([]);
     setCurrentCardIdx((prevIdx) => prevIdx + 1);
   }, [isLastCard, onClose]);
 
@@ -237,29 +182,14 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
             {card.word}
           </p>
 
-          {showAnswer && ttsEntries.length > 0 &&
+          {showAnswer && pronunciations.length > 0 &&
             <div className={styles.clips}>
-              {ttsEntries.map((entry) => (
+              {pronunciations.map((entry) => (
                 <Button key={entry.file}
                         appearance="primary"
                         icon={<Speaker2Regular/>}
-                        onClick={() => playTts(entry)}>
+                        onClick={() => playPronunciation(entry)}>
                   {entry.text}
-                </Button>
-              ))}
-            </div>
-          }
-          {showAnswer && pronos.length > 0 &&
-            <div className={styles.forvo}>
-              <span>Forvo</span>
-              {pronos.map((fItem) => (
-                <Button key={fItem.id}
-                        appearance="subtle"
-                        size="small"
-                        icon={<PlayRegular/>}
-                        title={`${fItem.username}, ${fItem.country}`}
-                        onClick={() => playAudio(fItem.pathmp3).catch((e) => console.warn('Cannot play', e))}>
-                  {fItem.country}
                 </Button>
               ))}
             </div>
