@@ -17,9 +17,8 @@ dist-ssr
 .env.*
 !.env.example
 
-# Generated pronunciation audio (regenerate with `npm run audio`); the manifest is tracked
-audio-cache/*
-!audio-cache/manifest.json
+# Generated pronunciation audio (regenerate with `npm run audio`); per-language manifests are tracked
+audio-cache/**/*.mp3
 
 # Editor directories and files
 .vscode/*

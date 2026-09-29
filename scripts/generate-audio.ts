@@ -2,7 +2,7 @@
  * Generates pronunciation audio for the cards in one or more deck files
  * using the ElevenLabs text-to-speech API and stores the mp3s under
  * audio-cache/{lang}/{voiceId}/{name}.mp3, recording each in
- * audio-cache/manifest.json. Changing a language's voice therefore
+ * audio-cache/{lang}/manifest.json. Changing a language's voice therefore
  * starts a fresh directory and never overwrites earlier recordings.
  *
  * Usage:
@@ -36,10 +36,14 @@ interface ManifestEntry {
   file: string;
 }
 
+/** One per language at audio-cache/{lang}/manifest.json. */
 interface Manifest {
   version: 1;
-  voices: Record<string, VoiceConfig>;
-  entries: Record<string, Record<string, ManifestEntry[]>>;
+  lang: string;
+  /** Voice settings in force when the manifest was last written. */
+  voice: VoiceConfig;
+  /** Keyed by the raw deck `word`; one entry per voiced synonym. */
+  entries: Record<string, ManifestEntry[]>;
 }
 
 interface Options {
@@ -52,7 +56,6 @@ interface Options {
 
 const REPO_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const AUDIO_ROOT = join(REPO_ROOT, 'audio-cache');
-const MANIFEST_PATH = join(AUDIO_ROOT, 'manifest.json');
 const VOICES_PATH = join(REPO_ROOT, 'scripts', 'audio-voices.json');
 const ELEVENLABS_URL = 'https://api.elevenlabs.io/v1/text-to-speech';
 
@@ -97,16 +100,24 @@ function readJson<T>(path: string): T {
   return JSON.parse(readFileSync(path, 'utf8')) as T;
 }
 
-function loadManifest(): Manifest {
-  if (existsSync(MANIFEST_PATH)) {
-    return readJson<Manifest>(MANIFEST_PATH);
+function manifestPath(lang: string): string {
+  return join(AUDIO_ROOT, lang, 'manifest.json');
+}
+
+function loadManifest(lang: string, voice: VoiceConfig): Manifest {
+  const path = manifestPath(lang);
+  if (existsSync(path)) {
+    const manifest = readJson<Manifest>(path);
+    manifest.voice = voice;
+    return manifest;
   }
-  return { version: 1, voices: {}, entries: {} };
+  return { version: 1, lang, voice, entries: {} };
 }
 
 function saveManifest(manifest: Manifest): void {
-  mkdirSync(AUDIO_ROOT, { recursive: true });
-  writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n');
+  const path = manifestPath(manifest.lang);
+  mkdirSync(dirname(path), { recursive: true });
+  writeFileSync(path, JSON.stringify(manifest, null, 2) + '\n');
 }
 
 function langFromPath(file: string): string {
@@ -151,15 +162,14 @@ interface Counters {
 
 async function processDeck(
   file: string,
-  lang: string,
-  voice: VoiceConfig,
   manifest: Manifest,
   options: Options,
   apiKey: string,
   counters: Counters,
 ): Promise<void> {
+  const { lang, voice } = manifest;
   const lesson = readJson<Lesson>(file);
-  const langEntries = (manifest.entries[lang] ??= {});
+  const langEntries = manifest.entries;
   // Detects two different texts collapsing onto one file name within this run.
   const claimedNames = new Map<string, string>();
 
@@ -224,7 +234,7 @@ async function main(): Promise<void> {
   }
 
   const voices = readJson<Record<string, VoiceConfig>>(VOICES_PATH);
-  const manifest = loadManifest();
+  const manifests = new Map<string, Manifest>();
   const counters: Counters = { generated: 0, skipped: 0, errors: 0 };
 
   for (const file of options.files) {
@@ -233,11 +243,17 @@ async function main(): Promise<void> {
     const voice = voices[lang];
     if (!voice) fail(`No voice configured for language "${lang}" in ${VOICES_PATH}`);
 
-    manifest.voices[lang] = voice;
-    await processDeck(file, lang, voice, manifest, options, apiKey, counters);
+    let manifest = manifests.get(lang);
+    if (!manifest) {
+      manifest = loadManifest(lang, voice);
+      manifests.set(lang, manifest);
+    }
+    await processDeck(file, manifest, options, apiKey, counters);
   }
 
-  if (!options.dryRun) saveManifest(manifest);
+  if (!options.dryRun) {
+    for (const manifest of manifests.values()) saveManifest(manifest);
+  }
 
   const verb = options.dryRun ? 'would generate' : 'generated';
   console.log(`\nDone: ${counters.generated} ${verb}, ${counters.skipped} skipped, ${counters.errors} errors`);
