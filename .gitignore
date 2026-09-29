@@ -30,3 +30,6 @@ audio-cache/**/*.mp3
 *.njsproj
 *.sln
 *.sw?
+
+# TypeScript incremental build info (written by composite tsconfig.node.json)
+*.tsbuildinfo
