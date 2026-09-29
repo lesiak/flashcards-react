@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "lang": "sl",
+  "voice": {
+    "voiceId": "WwFMMxYWrkm6h88c7f0n",
+    "modelId": "eleven_v4",
+    "outputFormat": "mp3_44100_128"
+  },
+  "entries": {
+    "ogenj": [
+      {
+        "text": "ogenj",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/ogenj.mp3"
+      }
+    ],
+    "svetloba, luč": [
+      {
+        "text": "svetloba",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/svetloba.mp3"
+      },
+      {
+        "text": "luč",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/luč.mp3"
+      }
+    ],
+    "voda": [
+      {
+        "text": "voda",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/voda.mp3"
+      }
+    ],
+    "reka": [
+      {
+        "text": "reka",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/reka.mp3"
+      }
+    ],
+    "morje": [
+      {
+        "text": "morje",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/morje.mp3"
+      }
+    ],
+    "sonce": [
+      {
+        "text": "sonce",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/sonce.mp3"
+      }
+    ],
+    "luna, mesec": [
+      {
+        "text": "luna",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/luna.mp3"
+      },
+      {
+        "text": "mesec",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/mesec.mp3"
+      }
+    ],
+    "drevo": [
+      {
+        "text": "drevo",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/drevo.mp3"
+      }
+    ],
+    "gozd": [
+      {
+        "text": "gozd",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/gozd.mp3"
+      }
+    ],
+    "zrak": [
+      {
+        "text": "zrak",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/zrak.mp3"
+      }
+    ],
+    "zvezda": [
+      {
+        "text": "zvezda",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/zvezda.mp3"
+      }
+    ],
+    "megla": [
+      {
+        "text": "megla",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/megla.mp3"
+      }
+    ],
+    "nebo": [
+      {
+        "text": "nebo",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/nebo.mp3"
+      }
+    ],
+    "oblak": [
+      {
+        "text": "oblak",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/oblak.mp3"
+      }
+    ],
+    "mavrica": [
+      {
+        "text": "mavrica",
+        "file": "sl/WwFMMxYWrkm6h88c7f0n/mavrica.mp3"
+      }
+    ]
+  }
+}
