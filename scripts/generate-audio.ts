@@ -15,6 +15,11 @@
  * are skipped, so rerunning is cheap and only voices new words.
  *
  * Requires ELEVENLABS_API_KEY in the environment or in a .env file.
+ *
+ * Afterwards, `npm run audio:sync` uploads audio-cache/ to the private
+ * "pronunciations" container of the flashcardsresources storage account
+ * (needs the Azure CLI and `az login`). Only new or changed files are
+ * uploaded; local deletions are not propagated.
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
