@@ -14,6 +14,8 @@ export interface LanguageInfo {
   code: string;
   fullName: string;
   flagUrl: string;
+  /** Written right to left; text in this language gets dir="rtl". */
+  rtl?: boolean;
 }
 
 export const finnish: LanguageInfo = {
@@ -61,7 +63,8 @@ export const hindi: LanguageInfo = {
 export const hebrew: LanguageInfo = {
   code: 'he',
   fullName: 'Hebrew',
-  flagUrl: flagOfIsrael
+  flagUrl: flagOfIsrael,
+  rtl: true
 }
 
 export const armenian: LanguageInfo = {

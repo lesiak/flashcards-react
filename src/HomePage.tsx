@@ -3,7 +3,6 @@ import {LanguageContext} from "./context/LanguageContext.tsx";
 import {Lesson} from './model/Lesson';
 import {LessonPage} from './LessonPage.tsx';
 import './App.css'
-import {Button} from '@fluentui/react-components';
 import {LessonChooser} from './LessonChooser.tsx';
 
 interface HomePageProps {
@@ -19,13 +18,9 @@ export const HomePage: React.FC<HomePageProps> = ({lessons}) => {
       {!currentLesson && <LessonChooser
           lessons={lessons}
           onLessonSelected={setCurrentLesson}/>}
-      {currentLesson && <>
-          <Button onClick={() => setCurrentLesson(null)}>Close Lesson</Button>
-          <LessonPage currentLanguage={currentLanguage} lesson={currentLesson}/>
-      </>
-      }
+      {currentLesson && <LessonPage currentLanguage={currentLanguage}
+                                    lesson={currentLesson}
+                                    onClose={() => setCurrentLesson(null)}/>}
     </>
   )
 }
-
-
