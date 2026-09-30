@@ -19,7 +19,10 @@
  * Afterwards, `npm run audio:sync` uploads audio-cache/ to the private
  * "pronunciations" container of the flashcardsresources storage account
  * (needs the Azure CLI and `az login`). Only new or changed files are
- * uploaded; local deletions are not propagated.
+ * uploaded. The script passes --delete-destination false on purpose:
+ * `az storage blob sync` mirrors by default and would otherwise delete
+ * every blob missing from the local directory, which is only a partial
+ * cache on most machines.
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
