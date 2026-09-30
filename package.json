@@ -13,7 +13,8 @@
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "audio": "tsx scripts/generate-audio.ts",
-    "audio:sync": "az storage blob sync --account-name flashcardsresources --container pronunciations --source audio-cache --delete-destination false",
+    "audio:normalize": "tsx scripts/normalize-audio-names.ts",
+    "audio:sync": "npm run audio:normalize && az storage blob sync --account-name flashcardsresources --container pronunciations --source audio-cache --delete-destination false --exclude-pattern .DS_Store",
     "check:scripts": "tsc -p tsconfig.scripts.json"
   },
   "dependencies": {
