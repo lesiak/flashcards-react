@@ -1,0 +1,22 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1607729990584-b2bbaab4c1e4",
+  "cards": [
+    { "en": "fire",     "word": "(het) vuur" },
+    { "en": "light",    "word": "(het) licht" },
+    { "en": "water",    "word": "(het) water" },
+    { "en": "river",    "word": "(de) rivier" },
+    { "en": "sea",      "word": "(de) zee" },
+    { "en": "sun",      "word": "(de) zon" },
+    { "en": "moon",     "word": "(de) maan" },
+    { "en": "tree",     "word": "(de) boom" },
+    { "en": "forest",   "word": "(het) bos, (het) woud" },
+    { "en": "air",      "word": "(de) lucht" },
+    { "en": "star",     "word": "(de) ster" },
+    { "en": "fog",      "word": "(de) mist, (de) nevel" },
+    { "en": "sky",      "word": "(de) hemel, (de) lucht" },
+    { "en": "cloud",    "word": "(de) wolk" },
+    { "en": "rainbow",  "word": "(de) regenboog" }
+  ]
+}

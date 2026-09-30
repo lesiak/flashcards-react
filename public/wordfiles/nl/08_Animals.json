@@ -1,0 +1,29 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",               "word": "(de) kat" },
+    { "en": "dog",               "word": "(de) hond" },
+    { "en": "chicken",           "word": "(de) kip" },
+    { "en": "pig",               "word": "(het) varken" },
+    { "en": "cow",               "word": "(de) koe" },
+    { "en": "horse",             "word": "(het) paard" },
+    { "en": "sheep",             "word": "(het) schaap" },
+    { "en": "goat",              "word": "(de) geit" },
+    { "en": "donkey",            "word": "(de) ezel" },
+    { "en": "mouse",             "word": "(de) muis" },
+    { "en": "puppy",             "word": "(de) puppy" },
+    { "en": "hamster",           "word": "(de) hamster" },
+    { "en": "guinea pig",        "word": "(de) cavia" },
+    { "en": "cage",              "word": "(de) kooi" },
+    { "en": "aquarium",          "word": "(het) aquarium" },
+    { "en": "leash",             "word": "(de) riem, (de) hondenriem" },
+    { "en": "pet crate",         "word": "(de) transportbox, (de) reismand" },
+    { "en": "nest",              "word": "(het) nest" },
+    { "en": "female (animals)",  "word": "(het) vrouwtje, (het) wijfje" },
+    { "en": "male (animals)",    "word": "(het) mannetje" },
+    { "en": "cattle",            "word": "(het) vee" },
+    { "en": "vet",               "word": "(de) dierenarts" }
+  ]
+}

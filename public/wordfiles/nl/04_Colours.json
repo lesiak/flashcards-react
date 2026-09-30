@@ -1,0 +1,25 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",           "word": "geel" },
+    { "en": "white",            "word": "wit" },
+    { "en": "black",            "word": "zwart" },
+    { "en": "red",              "word": "rood" },
+    { "en": "blue",             "word": "blauw" },
+    { "en": "green",            "word": "groen" },
+    { "en": "orange",           "word": "oranje" },
+    { "en": "pink",             "word": "roze" },
+    { "en": "brown",            "word": "bruin" },
+    { "en": "grey",             "word": "grijs" },
+    { "en": "violet",           "word": "violet" },
+    { "en": "purple",           "word": "paars" },
+    { "en": "colour",           "word": "(de) kleur" },
+    { "en": "colorful",         "word": "kleurrijk, bont" },
+    { "en": "colourless",       "word": "kleurloos" },
+    { "en": "light (colour)",   "word": "licht" },
+    { "en": "dark (colour)",    "word": "donker" },
+    { "en": "bright (colour)",  "word": "fel, helder" }
+  ]
+}

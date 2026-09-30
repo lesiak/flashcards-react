@@ -1,111 +1,33 @@
 {
   "name": "City",
   "description": "City",
-  "image": "https://images.unsplash.com/photo-1584352703598-7e6f2bbaf77c",
+  "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1",
   "cards": [
-    {
-      "en": "city",
-      "word": "stad"
-    },
-    {
-      "en": "village",
-      "word": "??"
-    },
-    {
-      "en": "road",
-      "word": "estrada"
-    },
-    {
-      "en": "street",
-      "word": "rua"
-    },
-    {
-      "en": "avenue",
-      "word": "avenida"
-    },
-    {
-      "en": "bridge",
-      "word": "ponte"
-    },
-    {
-      "en": "square (in city)",
-      "word": "aukio"
-    },
-    {
-      "en": "(city) centre",
-      "word": "centro (da cidade)"
-    },
-    {
-      "en": "church",
-      "word": "igreja"
-    },
-    {
-      "en": "pharmacy",
-      "word": "farmacia"
-    },
-    {
-      "en": "castle",
-      "word": "castelo"
-    },
-    {
-      "en": "building",
-      "word": "edifício"
-    },
-    {
-      "en": "school",
-      "word": "escola"
-    },
-    {
-      "en": "museum",
-      "word": "museo"
-    },
-    {
-      "en": "alley, backstreet",
-      "word": "ruela"
-    },
-    {
-      "en": "(street) corner",
-      "word": "esquina (da rua)"
-    },
-    {
-      "en": "bank",
-      "word": "banco"
-    },
-    {
-      "en": "town hall",
-      "word": "prefeitura"
-    },
-    {
-      "en": "fountain",
-      "word": "fonte"
-    },
-    {
-      "en": "bench",
-      "word": "banco"
-    },
-    {
-      "en": "suburb",
-      "word": "subúrbio"
-    },
-    {
-      "en": "neighborhood (district)",
-      "word": "bairro"
-    },
-    {
-      "en": "factory",
-      "word": "fábrica"
-    },
-    {
-      "en": "statue",
-      "word": "estátua"
-    },
-    {
-      "en": "gallery",
-      "word": "galeria"
-    },
-    {
-      "en": "urban",
-      "word": "urbano"
-    }
+    { "en": "city",                     "word": "(de) stad" },
+    { "en": "village",                  "word": "(het) dorp" },
+    { "en": "road",                     "word": "(de) weg" },
+    { "en": "street",                   "word": "(de) straat" },
+    { "en": "avenue",                   "word": "(de) laan" },
+    { "en": "bridge",                   "word": "(de) brug" },
+    { "en": "square (in city)",         "word": "(het) plein" },
+    { "en": "(city) centre",            "word": "(het) centrum" },
+    { "en": "church",                   "word": "(de) kerk" },
+    { "en": "pharmacy",                 "word": "(de) apotheek" },
+    { "en": "castle",                   "word": "(het) kasteel" },
+    { "en": "building",                 "word": "(het) gebouw" },
+    { "en": "school",                   "word": "(de) school" },
+    { "en": "museum",                   "word": "(het) museum" },
+    { "en": "alley, backstreet",        "word": "(de) steeg" },
+    { "en": "(street) corner",          "word": "(de) hoek" },
+    { "en": "bank",                     "word": "(de) bank" },
+    { "en": "town hall",                "word": "(het) stadhuis, (het) gemeentehuis" },
+    { "en": "fountain",                 "word": "(de) fontein" },
+    { "en": "bench",                    "word": "(het) bankje, (de) bank" },
+    { "en": "suburb",                   "word": "(de) buitenwijk, (de) voorstad" },
+    { "en": "neighborhood (district)",  "word": "(de) wijk, (de) buurt" },
+    { "en": "factory",                  "word": "(de) fabriek" },
+    { "en": "statue",                   "word": "(het) standbeeld" },
+    { "en": "gallery",                  "word": "(de) galerie" },
+    { "en": "urban",                    "word": "stedelijk" }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
+  "cards": [
+    { "en": "car",                  "word": "(de) auto" },
+    { "en": "train",                "word": "(de) trein" },
+    { "en": "bus",                  "word": "(de) bus" },
+    { "en": "metro",                "word": "(de) metro" },
+    { "en": "tram",                 "word": "(de) tram" },
+    { "en": "bicycle",              "word": "(de) fiets" },
+    { "en": "ship",                 "word": "(het) schip" },
+    { "en": "motorcycle",           "word": "(de) motor, (de) motorfiets" },
+    { "en": "bus stop",             "word": "(de) bushalte" },
+    { "en": "railway",              "word": "(de) spoorweg" },
+    { "en": "railway station",      "word": "(het) station, (het) treinstation" },
+    { "en": "ticket",               "word": "(het) kaartje, (het) ticket" },
+    { "en": "validate (a ticket)",  "word": "inchecken, afstempelen" }
+  ]
+}

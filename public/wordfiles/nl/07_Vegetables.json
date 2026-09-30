@@ -1,0 +1,25 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "(de) knoflook" },
+    { "en": "cucumber",     "word": "(de) komkommer" },
+    { "en": "carrot",       "word": "(de) wortel" },
+    { "en": "aubergine",    "word": "(de) aubergine" },
+    { "en": "potato",       "word": "(de) aardappel" },
+    { "en": "tomato",       "word": "(de) tomaat" },
+    { "en": "pumpkin",      "word": "(de) pompoen" },
+    { "en": "courgette",    "word": "(de) courgette" },
+    { "en": "avocado",      "word": "(de) avocado" },
+    { "en": "cabbage",      "word": "(de) kool" },
+    { "en": "cauliflower",  "word": "(de) bloemkool" },
+    { "en": "broccoli",     "word": "(de) broccoli" },
+    { "en": "spinach",      "word": "(de) spinazie" },
+    { "en": "bell pepper",  "word": "(de) paprika" },
+    { "en": "lettuce",      "word": "(de) sla" },
+    { "en": "leek",         "word": "(de) prei" },
+    { "en": "onion",        "word": "(de) ui" },
+    { "en": "hot pepper",   "word": "(de) chilipeper, (het) pepertje" }
+  ]
+}

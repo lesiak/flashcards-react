@@ -1,0 +1,30 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1517496768306-b5a5d671f013",
+  "cards": [
+    { "en": "fruit",       "word": "(het) fruit" },
+    { "en": "apple",       "word": "(de) appel" },
+    { "en": "pear",        "word": "(de) peer" },
+    { "en": "plum",        "word": "(de) pruim" },
+    { "en": "cherry",      "word": "(de) kers" },
+    { "en": "peach",       "word": "(de) perzik" },
+    { "en": "apricot",     "word": "(de) abrikoos" },
+    { "en": "strawberry",  "word": "(de) aardbei" },
+    { "en": "raspberry",   "word": "(de) framboos" },
+    { "en": "blackberry",  "word": "(de) braam" },
+    { "en": "blueberry",   "word": "(de) blauwe bes, (de) bosbes" },
+    { "en": "grape",       "word": "(de) druif" },
+    { "en": "currant",     "word": "(de) aalbes, (de) bes" },
+    { "en": "gooseberry",  "word": "(de) kruisbes" },
+    { "en": "banana",      "word": "(de) banaan" },
+    { "en": "lemon",       "word": "(de) citroen" },
+    { "en": "pineapple",   "word": "(de) ananas" },
+    { "en": "watermelon",  "word": "(de) watermeloen" },
+    { "en": "nut",         "word": "(de) noot" },
+    { "en": "hazelnut",    "word": "(de) hazelnoot" },
+    { "en": "walnut",      "word": "(de) walnoot" },
+    { "en": "almond",      "word": "(de) amandel" },
+    { "en": "ripe",        "word": "rijp" }
+  ]
+}
