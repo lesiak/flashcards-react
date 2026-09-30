@@ -5,7 +5,7 @@
   "cards": [
     { "en": "cat",       	"word": "mačka"   },
     { "en": "dog",       	"word": "pas"     },
-    { "en": "chicken",   	"word": "pile"    },
+    { "en": "chicken",   	"word": "kokoš, pile" },
     { "en": "pig",      	"word": "svinja"  },
     { "en": "cow",      	"word": "krava"   },
     { "en": "horse",        "word": "konj"    },
@@ -20,16 +20,16 @@
     { "en": "guinea pig",   "word": "zamorac" },
 
 
-    { "en": "cage",         "word": ""},
-    { "en": "aquarium",     "word": "" },
+    { "en": "cage",         "word": "kavez"},
+    { "en": "aquarium",     "word": "akvarij" },
     { "en": "leash",        "word": "povodac" },
-    { "en": "pet crate",    "word": ""},
+    { "en": "pet crate",    "word": "transporter"},
     { "en": "nest",         "word": "gnijezdo"},
 
-    { "en": "female (animals)","word": "" },
-    { "en": "male (animals)",  "word": "" },
+    { "en": "female (animals)","word": "ženka" },
+    { "en": "male (animals)",  "word": "mužjak" },
 
-    { "en": "cattle",     "word": ""},
+    { "en": "cattle",     "word": "stoka, goveda"},
     { "en": "vet",        "word": "veterinar" }
   ]
 }

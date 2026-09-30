@@ -11,18 +11,18 @@
     { "en": "blue",      "word": "plava, plavi" },
     { "en": "green",     "word": "zelena, zeleni" },
     { "en": "orange",    "word": "narančasta, narančasti"},
-    { "en": "pink",      "word": ""},
-    { "en": "brown",     "word": ""},
-    { "en": "grey",      "word": ""},
-    { "en": "violet",    "word": "" },
-    { "en": "purple",    "word": "" },
+    { "en": "pink",      "word": "ružičasta, ružičasti"},
+    { "en": "brown",     "word": "smeđa, smeđi"},
+    { "en": "grey",      "word": "siva, sivi"},
+    { "en": "violet",    "word": "ljubičasta, ljubičasti" },
+    { "en": "purple",    "word": "purpurna, purpurni" },
 
     { "en": "colour",    "word": "boja"},
-    { "en": "colorful",  "word": ""},
-    { "en": "colourless","word": ""},
+    { "en": "colorful",  "word": "šarena, šareni"},
+    { "en": "colourless","word": "bezbojna, bezbojni"},
 
-    { "en": "light (colour)",   "word": ""},
-    { "en": "dark (colour)",    "word": ""},
-    { "en": "bright (colour)",  "word": ""}
+    { "en": "light (colour)",   "word": "svijetla, svijetli"},
+    { "en": "dark (colour)",    "word": "tamna, tamni"},
+    { "en": "bright (colour)",  "word": "jarka, jarki"}
   ]
 }

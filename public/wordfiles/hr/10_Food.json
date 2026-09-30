@@ -30,7 +30,7 @@
     { "en": "hot pepper",   "word": "ljuta papričica" },
     { "en": "milk",         "word": "mlijeko" },
     { "en": "butter",       "word": "maslac" },
-    { "en": "cream",        "word": "" },
+    { "en": "cream",        "word": "vrhnje, krema" },
     { "en": "cake",         "word": "torta"},
 
     { "en": "beer",         "word": "pivo"         },
@@ -52,19 +52,19 @@
     { "en": "ice cream",      "word": "sladoled" },
     { "en": "alcohol",        "word": "alkohol" },
     { "en": "sesame",         "word": "sezam" },
-    { "en": "powder",         "word": "puder, prah"     },
+    { "en": "powder",         "word": "prah"     },
     { "en": "flour",          "word": "brašno"      },
 
     { "en": "sweet",        "word": "slatko"},
-    { "en": "bitter",       "word": "gorak" },
+    { "en": "bitter",       "word": "gorko" },
     { "en": "sour",         "word": "kiselo" },
-    { "en": "spicy (hot)",  "word": "začinjeno" },
-    { "en": "mild",         "word": "blaga" },
+    { "en": "spicy (hot)",  "word": "ljuto" },
+    { "en": "mild",         "word": "blago" },
     { "en": "fresh",        "word": "svježe" },
-    { "en": "refreshing",   "word": "osvježavajući"},
-    { "en": "tasty",        "word": ""},
-    { "en": "delicious",    "word": ""},
-    { "en": "disgusting",   "word": ""}
+    { "en": "refreshing",   "word": "osvježavajuće"},
+    { "en": "tasty",        "word": "ukusno"},
+    { "en": "delicious",    "word": "prefino, izvrsno"},
+    { "en": "disgusting",   "word": "odvratno"}
 
 
 
