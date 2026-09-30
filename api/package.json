@@ -9,6 +9,7 @@
   "engines": {
     "node": ">=22.0.0"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@azure/storage-blob": "^12.34.0"
+  }
 }
