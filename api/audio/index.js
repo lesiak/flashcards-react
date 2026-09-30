@@ -79,6 +79,11 @@ function createHandler(getClient) {
     };
     if (properties.etag) {
       headers['ETag'] = properties.etag;
+      // Revalidation: the browser sends the ETag it holds; if unchanged, skip the body.
+      if (etagMatches(req.headers && req.headers['if-none-match'], properties.etag)) {
+        context.res = { status: 304, headers };
+        return;
+      }
     }
 
     // Safari asks for media with Range requests and refuses to play without 206 support.
@@ -121,6 +126,19 @@ function resolveBlobName(rawPath) {
     return null;
   }
   return segments.join('/');
+}
+
+/**
+ * True if the If-None-Match header names the current ETag. The header may list
+ * several tags, use a W/ weak prefix, or be "*"; the platform may also strip
+ * the quotes, so compare the bare values.
+ */
+function etagMatches(header, etag) {
+  if (!header) return false;
+  if (header.trim() === '*') return true;
+  const bare = (tag) => tag.trim().replace(/^W\//, '').replace(/^"|"$/g, '');
+  const current = bare(etag);
+  return header.split(',').some((tag) => bare(tag) === current);
 }
 
 function extensionOf(name) {
