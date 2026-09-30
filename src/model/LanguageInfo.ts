@@ -1,5 +1,6 @@
 import flagOfFinland from '/images/Flag_of_Finland.svg'
 import flagOfSpain from '/images/Flag_of_Spain.svg'
+import flagOfFrance from '/images/Flag_of_France.svg'
 import flagOfBrazil from '/images/Flag_of_Brazil.svg'
 import flagOfCroatia from '/images/Flag_of_Croatia.svg'
 import flagOfNetherlands from '/images/Flag_of_the_Netherlands.svg'
@@ -28,6 +29,12 @@ export const spanish: LanguageInfo = {
   code: 'es',
   fullName: 'Spanish',
   flagUrl: flagOfSpain
+}
+
+export const french: LanguageInfo = {
+  code: 'fr',
+  fullName: 'French',
+  flagUrl: flagOfFrance
 }
 
 export const brazilianPortuguese: LanguageInfo = {
@@ -88,6 +95,7 @@ export const slovenian: LanguageInfo = {
 export const appLangs = [
   finnish,
   spanish,
+  french,
   brazilianPortuguese,
   croatian,
   dutch,
