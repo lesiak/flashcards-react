@@ -1,0 +1,25 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "(l')ail" },
+    { "en": "cucumber",     "word": "(le) concombre" },
+    { "en": "carrot",       "word": "(la) carotte" },
+    { "en": "aubergine",    "word": "(l')aubergine" },
+    { "en": "potato",       "word": "(la) pomme de terre" },
+    { "en": "tomato",       "word": "(la) tomate" },
+    { "en": "pumpkin",      "word": "(la) citrouille, (le) potiron" },
+    { "en": "courgette",    "word": "(la) courgette" },
+    { "en": "avocado",      "word": "(l')avocat" },
+    { "en": "cabbage",      "word": "(le) chou" },
+    { "en": "cauliflower",  "word": "(le) chou-fleur" },
+    { "en": "broccoli",     "word": "(le) brocoli" },
+    { "en": "spinach",      "word": "(les) épinards" },
+    { "en": "bell pepper",  "word": "(le) poivron" },
+    { "en": "lettuce",      "word": "(la) salade, (la) laitue" },
+    { "en": "leek",         "word": "(le) poireau" },
+    { "en": "onion",        "word": "(l')oignon" },
+    { "en": "hot pepper",   "word": "(le) piment" }
+  ]
+}

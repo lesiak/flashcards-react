@@ -1,0 +1,30 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1517496768306-b5a5d671f013",
+  "cards": [
+    { "en": "fruit",       "word": "(le) fruit" },
+    { "en": "apple",       "word": "(la) pomme" },
+    { "en": "pear",        "word": "(la) poire" },
+    { "en": "plum",        "word": "(la) prune" },
+    { "en": "cherry",      "word": "(la) cerise" },
+    { "en": "peach",       "word": "(la) pêche" },
+    { "en": "apricot",     "word": "(l')abricot" },
+    { "en": "strawberry",  "word": "(la) fraise" },
+    { "en": "raspberry",   "word": "(la) framboise" },
+    { "en": "blackberry",  "word": "(la) mûre" },
+    { "en": "blueberry",   "word": "(la) myrtille" },
+    { "en": "grape",       "word": "(le) raisin" },
+    { "en": "currant",     "word": "(la) groseille" },
+    { "en": "gooseberry",  "word": "(la) groseille à maquereau" },
+    { "en": "banana",      "word": "(la) banane" },
+    { "en": "lemon",       "word": "(le) citron" },
+    { "en": "pineapple",   "word": "(l')ananas" },
+    { "en": "watermelon",  "word": "(la) pastèque" },
+    { "en": "nut",         "word": "(la) noix" },
+    { "en": "hazelnut",    "word": "(la) noisette" },
+    { "en": "walnut",      "word": "(la) noix" },
+    { "en": "almond",      "word": "(l')amande" },
+    { "en": "ripe",        "word": "mûr" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1599780606256-6e2d673f9c3f",
+  "cards": [
+    { "en": "city",                     "word": "(la) ville" },
+    { "en": "village",                  "word": "(le) village" },
+    { "en": "road",                     "word": "(la) route" },
+    { "en": "street",                   "word": "(la) rue" },
+    { "en": "avenue",                   "word": "(l')avenue" },
+    { "en": "bridge",                   "word": "(le) pont" },
+    { "en": "square (in city)",         "word": "(la) place" },
+    { "en": "(city) centre",            "word": "(le) centre-ville" },
+    { "en": "church",                   "word": "(l')église" },
+    { "en": "pharmacy",                 "word": "(la) pharmacie" },
+    { "en": "castle",                   "word": "(le) château" },
+    { "en": "building",                 "word": "(le) bâtiment, (l')immeuble" },
+    { "en": "school",                   "word": "(l')école" },
+    { "en": "museum",                   "word": "(le) musée" },
+    { "en": "alley, backstreet",        "word": "(la) ruelle" },
+    { "en": "(street) corner",          "word": "(le) coin de la rue" },
+    { "en": "bank",                     "word": "(la) banque" },
+    { "en": "town hall",                "word": "(la) mairie, (l')hôtel de ville" },
+    { "en": "fountain",                 "word": "(la) fontaine" },
+    { "en": "bench",                    "word": "(le) banc" },
+    { "en": "suburb",                   "word": "(la) banlieue" },
+    { "en": "neighborhood (district)",  "word": "(le) quartier" },
+    { "en": "factory",                  "word": "(l')usine" },
+    { "en": "statue",                   "word": "(la) statue" },
+    { "en": "gallery",                  "word": "(la) galerie" },
+    { "en": "urban",                    "word": "urbain" }
+  ]
+}

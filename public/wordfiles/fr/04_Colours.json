@@ -1,0 +1,25 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",           "word": "jaune" },
+    { "en": "white",            "word": "blanc" },
+    { "en": "black",            "word": "noir" },
+    { "en": "red",              "word": "rouge" },
+    { "en": "blue",             "word": "bleu" },
+    { "en": "green",            "word": "vert" },
+    { "en": "orange",           "word": "orange" },
+    { "en": "pink",             "word": "rose" },
+    { "en": "brown",            "word": "marron, brun" },
+    { "en": "grey",             "word": "gris" },
+    { "en": "violet",           "word": "violet" },
+    { "en": "purple",           "word": "pourpre, violet" },
+    { "en": "colour",           "word": "(la) couleur" },
+    { "en": "colorful",         "word": "coloré" },
+    { "en": "colourless",       "word": "incolore" },
+    { "en": "light (colour)",   "word": "clair" },
+    { "en": "dark (colour)",    "word": "foncé" },
+    { "en": "bright (colour)",  "word": "vif" }
+  ]
+}

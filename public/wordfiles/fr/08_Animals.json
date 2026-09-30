@@ -1,0 +1,29 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",               "word": "(le) chat" },
+    { "en": "dog",               "word": "(le) chien" },
+    { "en": "chicken",           "word": "(le) poulet, (la) poule" },
+    { "en": "pig",               "word": "(le) cochon, (le) porc" },
+    { "en": "cow",               "word": "(la) vache" },
+    { "en": "horse",             "word": "(le) cheval" },
+    { "en": "sheep",             "word": "(le) mouton" },
+    { "en": "goat",              "word": "(la) chèvre" },
+    { "en": "donkey",            "word": "(l')âne" },
+    { "en": "mouse",             "word": "(la) souris" },
+    { "en": "puppy",             "word": "(le) chiot" },
+    { "en": "hamster",           "word": "(le) hamster" },
+    { "en": "guinea pig",        "word": "(le) cochon d'Inde" },
+    { "en": "cage",              "word": "(la) cage" },
+    { "en": "aquarium",          "word": "(l')aquarium" },
+    { "en": "leash",             "word": "(la) laisse" },
+    { "en": "pet crate",         "word": "(la) cage de transport" },
+    { "en": "nest",              "word": "(le) nid" },
+    { "en": "female (animals)",  "word": "(la) femelle" },
+    { "en": "male (animals)",    "word": "(le) mâle" },
+    { "en": "cattle",            "word": "(le) bétail" },
+    { "en": "vet",               "word": "(le) vétérinaire" }
+  ]
+}

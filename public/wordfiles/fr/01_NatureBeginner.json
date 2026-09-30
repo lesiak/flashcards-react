@@ -1,0 +1,22 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1607729990584-b2bbaab4c1e4",
+  "cards": [
+    { "en": "fire",     "word": "(le) feu" },
+    { "en": "light",    "word": "(la) lumière" },
+    { "en": "water",    "word": "(l')eau" },
+    { "en": "river",    "word": "(la) rivière, (le) fleuve" },
+    { "en": "sea",      "word": "(la) mer" },
+    { "en": "sun",      "word": "(le) soleil" },
+    { "en": "moon",     "word": "(la) lune" },
+    { "en": "tree",     "word": "(l')arbre" },
+    { "en": "forest",   "word": "(la) forêt" },
+    { "en": "air",      "word": "(l')air" },
+    { "en": "star",     "word": "(l')étoile" },
+    { "en": "fog",      "word": "(le) brouillard" },
+    { "en": "sky",      "word": "(le) ciel" },
+    { "en": "cloud",    "word": "(le) nuage" },
+    { "en": "rainbow",  "word": "(l')arc-en-ciel" }
+  ]
+}

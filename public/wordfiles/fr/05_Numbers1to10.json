@@ -1,0 +1,17 @@
+{
+  "name": "Numbers",
+  "description": "Numbers 1 - 10",
+  "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
+  "cards": [
+    { "en": "one",    "word": "un" },
+    { "en": "two",    "word": "deux" },
+    { "en": "three",  "word": "trois" },
+    { "en": "four",   "word": "quatre" },
+    { "en": "five",   "word": "cinq" },
+    { "en": "six",    "word": "six" },
+    { "en": "seven",  "word": "sept" },
+    { "en": "eight",  "word": "huit" },
+    { "en": "nine",   "word": "neuf" },
+    { "en": "ten",    "word": "dix" }
+  ]
+}

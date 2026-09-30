@@ -1,0 +1,15 @@
+{
+  "name": "Appearance",
+  "description": "Appearance",
+  "image": "https://images.unsplash.com/photo-1648942521610-68024b5d6e29",
+  "cards": [
+    { "en": "big",    "word": "grand" },
+    { "en": "small",  "word": "petit" },
+    { "en": "long",   "word": "long" },
+    { "en": "short",  "word": "court" },
+    { "en": "new",    "word": "nouveau, neuf" },
+    { "en": "old",    "word": "vieux, ancien" },
+    { "en": "clean",  "word": "propre" },
+    { "en": "dirty",  "word": "sale" }
+  ]
+}

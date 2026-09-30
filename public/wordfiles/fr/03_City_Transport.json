@@ -1,0 +1,20 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1708640897728-80faea9caa9c",
+  "cards": [
+    { "en": "car",                  "word": "(la) voiture" },
+    { "en": "train",                "word": "(le) train" },
+    { "en": "bus",                  "word": "(le) bus, (l')autobus" },
+    { "en": "metro",                "word": "(le) métro" },
+    { "en": "tram",                 "word": "(le) tramway, (le) tram" },
+    { "en": "bicycle",              "word": "(le) vélo, (la) bicyclette" },
+    { "en": "ship",                 "word": "(le) bateau, (le) navire" },
+    { "en": "motorcycle",           "word": "(la) moto" },
+    { "en": "bus stop",             "word": "(l')arrêt de bus" },
+    { "en": "railway",              "word": "(le) chemin de fer" },
+    { "en": "railway station",      "word": "(la) gare" },
+    { "en": "ticket",               "word": "(le) billet, (le) ticket" },
+    { "en": "validate (a ticket)",  "word": "composter, valider" }
+  ]
+}
