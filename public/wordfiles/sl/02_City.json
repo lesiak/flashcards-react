@@ -1,7 +1,7 @@
 {
   "name": "City",
   "description": "City",
-  "image": "https://images.unsplash.com/photo-1616395440367-150e91e98510",
+  "image": "https://images.unsplash.com/photo-1599925354198-e81495b03f7d",
   "cards": [
     { "en": "city",             "word": "mesto" },
     { "en": "village",          "word": "vas" },
