@@ -1,0 +1,25 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "česen" },
+    { "en": "cucumber",     "word": "kumara" },
+    { "en": "carrot",       "word": "korenje, korenček" },
+    { "en": "aubergine",    "word": "jajčevec" },
+    { "en": "potato",       "word": "krompir" },
+    { "en": "tomato",       "word": "paradižnik" },
+    { "en": "pumpkin",      "word": "buča" },
+    { "en": "courgette",    "word": "bučka" },
+    { "en": "avocado",      "word": "avokado" },
+    { "en": "cabbage",      "word": "zelje" },
+    { "en": "cauliflower",  "word": "cvetača" },
+    { "en": "broccoli",     "word": "brokoli" },
+    { "en": "spinach",      "word": "špinača" },
+    { "en": "bell pepper",  "word": "paprika" },
+    { "en": "lettuce",      "word": "solata, zelena solata" },
+    { "en": "leek",         "word": "por" },
+    { "en": "onion",        "word": "čebula" },
+    { "en": "hot pepper",   "word": "feferon, čili" }
+  ]
+}
