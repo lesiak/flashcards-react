@@ -1,0 +1,15 @@
+{
+  "name": "Appearance",
+  "description": "Appearance",
+  "image": "https://images.unsplash.com/photo-1648942521610-68024b5d6e29",
+  "cards": [
+    { "en": "big",    "word": "velik" },
+    { "en": "small",  "word": "majhen" },
+    { "en": "long",   "word": "dolg" },
+    { "en": "short",  "word": "kratek" },
+    { "en": "new",    "word": "nov" },
+    { "en": "old",    "word": "star" },
+    { "en": "clean",  "word": "čist" },
+    { "en": "dirty",  "word": "umazan" }
+  ]
+}
