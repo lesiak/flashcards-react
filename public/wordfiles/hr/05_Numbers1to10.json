@@ -1,0 +1,17 @@
+{
+  "name": "Numbers",
+  "description": "Numbers 1 - 10",
+  "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
+  "cards": [
+    { "en": "one",    "word": "jedan" },
+    { "en": "two",    "word": "dva" },
+    { "en": "three",  "word": "tri" },
+    { "en": "four",   "word": "četiri" },
+    { "en": "five",   "word": "pet" },
+    { "en": "six",    "word": "šest" },
+    { "en": "seven",  "word": "sedam" },
+    { "en": "eight",  "word": "osam" },
+    { "en": "nine",   "word": "devet" },
+    { "en": "ten",    "word": "deset" }
+  ]
+}
