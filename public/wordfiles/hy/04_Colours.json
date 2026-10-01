@@ -3,25 +3,23 @@
   "description": "Colours",
   "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
   "cards": [
-    { "en": "yellow",    "word": "դեղին (deghin)" },
-    { "en": "white",     "word": "սպիտակ (spitak)" },
-    { "en": "black",     "word": "սև (sev)" },
-    { "en": "red",       "word": "կարմիր (karmir)" },
-    { "en": "blue",      "word": "կապույտ (kapuyt)" },
-    { "en": "green",     "word": "կանաչ (kanach’)" },
-    { "en": "orange",    "word": "նարնջագույն (narnjaguyn)" },
-    { "en": "pink",      "word": "վարդագույն (vardaguyn)" },
-    { "en": "brown",     "word": "դարչնագույն (darch’naguyn)" },
-    { "en": "grey",      "word": "մոխրագույն (mokhraguyn)" },
-    { "en": "violet",    "word": "մանուշակագույն (manushakaguyn)" },
-    { "en": "purple",    "word": "հաշմանդամ (hashmandam)" },
-
-    { "en": "colour",    "word": "գույն (guyn)" },
-    { "en": "colorful",  "word": "գունավոր (gunavor)" },
-    { "en": "colourless","word": "անգույն (anguyn)" },
-
-    { "en": "light (colour)",   "word": "բաց (bats’)" },
-    { "en": "dark (colour)",    "word": "մուգ (mug)" },
-    { "en": "bright (colour)",  "word": "վառ (varr)" }
+    { "en": "yellow",           "word": "դեղին" },
+    { "en": "white",            "word": "սպիտակ" },
+    { "en": "black",            "word": "սև" },
+    { "en": "red",              "word": "կարմիր" },
+    { "en": "blue",             "word": "կապույտ" },
+    { "en": "green",            "word": "կանաչ" },
+    { "en": "orange",           "word": "նարնջագույն" },
+    { "en": "pink",             "word": "վարդագույն" },
+    { "en": "brown",            "word": "դարչնագույն" },
+    { "en": "grey",             "word": "մոխրագույն" },
+    { "en": "violet",           "word": "մանուշակագույն" },
+    { "en": "purple",           "word": "ծիրանագույն" },
+    { "en": "colour",           "word": "գույն" },
+    { "en": "colorful",         "word": "գունավոր" },
+    { "en": "colourless",       "word": "անգույն" },
+    { "en": "light (colour)",   "word": "բաց" },
+    { "en": "dark (colour)",    "word": "մուգ" },
+    { "en": "bright (colour)",  "word": "վառ" }
   ]
 }

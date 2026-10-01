@@ -1,20 +1,22 @@
 {
   "name": "Nature",
   "description": "Nature",
-  "image": "https://images.unsplash.com/photo-1658204127941-cc3c51b73328",
+  "image": "https://images.unsplash.com/photo-1607729990584-b2bbaab4c1e4",
   "cards": [
-    { "en": "fire",    "word": "կրակ (krak),հուր (hur, somewhat formal)"    },
-    { "en": "light",   "word": "լույս (luys)"     },
-    { "en": "water",   "word": "ջուր (jur)"      },
-    { "en": "river",   "word": "գետ (get)"      },
-    { "en": "sea",     "word": "ծով (tsov)"      },
-    { "en": "sun",     "word": "արև (arev)"      },
-    { "en": "moon",    "word": "լուսին (lusin)"   },
-    { "en": "air",     "word": "օդ (od)"         },
-    { "en": "star",    "word": "աստղ (astgh)"   },
-    { "en": "fog",     "word": "մառախուղ (marrakhugh)"  },
-    { "en": "sky",     "word": "երկինք (yerkink’)"},
-    { "en": "cloud",   "word": "ամպ (amp)"       },
-    { "en": "rainbow", "word": "ծիածան (tsiatsan)"   }
+    { "en": "fire",     "word": "կրակ, հուր" },
+    { "en": "light",    "word": "լույս" },
+    { "en": "water",    "word": "ջուր" },
+    { "en": "river",    "word": "գետ" },
+    { "en": "sea",      "word": "ծով" },
+    { "en": "sun",      "word": "արև" },
+    { "en": "moon",     "word": "լուսին" },
+    { "en": "tree",     "word": "ծառ" },
+    { "en": "forest",   "word": "անտառ" },
+    { "en": "air",      "word": "օդ" },
+    { "en": "star",     "word": "աստղ" },
+    { "en": "fog",      "word": "մառախուղ" },
+    { "en": "sky",      "word": "երկինք" },
+    { "en": "cloud",    "word": "ամպ" },
+    { "en": "rainbow",  "word": "ծիածան" }
   ]
 }
