@@ -1,0 +1,2749 @@
+{
+  "version": 1,
+  "lang": "he",
+  "voice": {
+    "voiceId": "6WRlPmU1fqPwYbSxeP16",
+    "modelId": "eleven_v4",
+    "outputFormat": "mp3_44100_128"
+  },
+  "entries": {
+    "אש": [
+      {
+        "text": "אש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אש.mp3"
+      }
+    ],
+    "אור": [
+      {
+        "text": "אור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אור.mp3"
+      }
+    ],
+    "מים": [
+      {
+        "text": "מים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מים.mp3"
+      }
+    ],
+    "נהר": [
+      {
+        "text": "נהר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נהר.mp3"
+      }
+    ],
+    "ים": [
+      {
+        "text": "ים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ים.mp3"
+      }
+    ],
+    "שמש": [
+      {
+        "text": "שמש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמש.mp3"
+      }
+    ],
+    "ירח": [
+      {
+        "text": "ירח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ירח.mp3"
+      }
+    ],
+    "עץ": [
+      {
+        "text": "עץ",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עץ.mp3"
+      }
+    ],
+    "יער": [
+      {
+        "text": "יער",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יער.mp3"
+      }
+    ],
+    "אוויר": [
+      {
+        "text": "אוויר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוויר.mp3"
+      }
+    ],
+    "כוכב": [
+      {
+        "text": "כוכב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כוכב.mp3"
+      }
+    ],
+    "ערפל": [
+      {
+        "text": "ערפל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ערפל.mp3"
+      }
+    ],
+    "שמיים": [
+      {
+        "text": "שמיים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמיים.mp3"
+      }
+    ],
+    "ענן": [
+      {
+        "text": "ענן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ענן.mp3"
+      }
+    ],
+    "קשת, קשת בענן": [
+      {
+        "text": "קשת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קשת.mp3"
+      },
+      {
+        "text": "קשת בענן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קשת_בענן.mp3"
+      }
+    ],
+    "עיר": [
+      {
+        "text": "עיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עיר.mp3"
+      }
+    ],
+    "כפר": [
+      {
+        "text": "כפר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כפר.mp3"
+      }
+    ],
+    "כביש, דרך": [
+      {
+        "text": "כביש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כביש.mp3"
+      },
+      {
+        "text": "דרך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דרך.mp3"
+      }
+    ],
+    "רחוב": [
+      {
+        "text": "רחוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רחוב.mp3"
+      }
+    ],
+    "שדרה": [
+      {
+        "text": "שדרה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שדרה.mp3"
+      }
+    ],
+    "גשר": [
+      {
+        "text": "גשר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גשר.mp3"
+      }
+    ],
+    "כיכר": [
+      {
+        "text": "כיכר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כיכר.mp3"
+      }
+    ],
+    "מרכז העיר": [
+      {
+        "text": "מרכז העיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מרכז_העיר.mp3"
+      }
+    ],
+    "כנסייה": [
+      {
+        "text": "כנסייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כנסייה.mp3"
+      }
+    ],
+    "בית מרקחת": [
+      {
+        "text": "בית מרקחת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בית_מרקחת.mp3"
+      }
+    ],
+    "טירה": [
+      {
+        "text": "טירה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טירה.mp3"
+      }
+    ],
+    "בניין": [
+      {
+        "text": "בניין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בניין.mp3"
+      }
+    ],
+    "בית ספר": [
+      {
+        "text": "בית ספר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בית_ספר.mp3"
+      }
+    ],
+    "מוזיאון": [
+      {
+        "text": "מוזיאון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מוזיאון.mp3"
+      }
+    ],
+    "סמטה": [
+      {
+        "text": "סמטה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סמטה.mp3"
+      }
+    ],
+    "פינת רחוב": [
+      {
+        "text": "פינת רחוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פינת_רחוב.mp3"
+      }
+    ],
+    "בנק": [
+      {
+        "text": "בנק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בנק.mp3"
+      }
+    ],
+    "עירייה, בית העירייה": [
+      {
+        "text": "עירייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עירייה.mp3"
+      },
+      {
+        "text": "בית העירייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בית_העירייה.mp3"
+      }
+    ],
+    "מזרקה": [
+      {
+        "text": "מזרקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מזרקה.mp3"
+      }
+    ],
+    "ספסל": [
+      {
+        "text": "ספסל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ספסל.mp3"
+      }
+    ],
+    "פרבר": [
+      {
+        "text": "פרבר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פרבר.mp3"
+      }
+    ],
+    "שכונה": [
+      {
+        "text": "שכונה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שכונה.mp3"
+      }
+    ],
+    "מפעל": [
+      {
+        "text": "מפעל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מפעל.mp3"
+      }
+    ],
+    "פסל": [
+      {
+        "text": "פסל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פסל.mp3"
+      }
+    ],
+    "גלריה": [
+      {
+        "text": "גלריה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גלריה.mp3"
+      }
+    ],
+    "עירוני": [
+      {
+        "text": "עירוני",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עירוני.mp3"
+      }
+    ],
+    "מכונית, אוטו": [
+      {
+        "text": "מכונית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מכונית.mp3"
+      },
+      {
+        "text": "אוטו",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוטו.mp3"
+      }
+    ],
+    "רכבת": [
+      {
+        "text": "רכבת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רכבת.mp3"
+      }
+    ],
+    "אוטובוס": [
+      {
+        "text": "אוטובוס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוטובוס.mp3"
+      }
+    ],
+    "רכבת תחתית": [
+      {
+        "text": "רכבת תחתית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רכבת_תחתית.mp3"
+      }
+    ],
+    "חשמלית": [
+      {
+        "text": "חשמלית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חשמלית.mp3"
+      }
+    ],
+    "אופניים": [
+      {
+        "text": "אופניים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אופניים.mp3"
+      }
+    ],
+    "ספינה, אונייה": [
+      {
+        "text": "ספינה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ספינה.mp3"
+      },
+      {
+        "text": "אונייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אונייה.mp3"
+      }
+    ],
+    "אופנוע": [
+      {
+        "text": "אופנוע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אופנוע.mp3"
+      }
+    ],
+    "תחנת אוטובוס": [
+      {
+        "text": "תחנת אוטובוס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תחנת_אוטובוס.mp3"
+      }
+    ],
+    "מסילת ברזל": [
+      {
+        "text": "מסילת ברזל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מסילת_ברזל.mp3"
+      }
+    ],
+    "תחנת רכבת": [
+      {
+        "text": "תחנת רכבת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תחנת_רכבת.mp3"
+      }
+    ],
+    "כרטיס": [
+      {
+        "text": "כרטיס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כרטיס.mp3"
+      }
+    ],
+    "לתקף": [
+      {
+        "text": "לתקף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לתקף.mp3"
+      }
+    ],
+    "צהוב": [
+      {
+        "text": "צהוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צהוב.mp3"
+      }
+    ],
+    "לבן": [
+      {
+        "text": "לבן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לבן.mp3"
+      }
+    ],
+    "שחור": [
+      {
+        "text": "שחור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שחור.mp3"
+      }
+    ],
+    "אדום": [
+      {
+        "text": "אדום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אדום.mp3"
+      }
+    ],
+    "כחול": [
+      {
+        "text": "כחול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כחול.mp3"
+      }
+    ],
+    "ירוק": [
+      {
+        "text": "ירוק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ירוק.mp3"
+      }
+    ],
+    "כתום": [
+      {
+        "text": "כתום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כתום.mp3"
+      }
+    ],
+    "ורוד": [
+      {
+        "text": "ורוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ורוד.mp3"
+      }
+    ],
+    "חום": [
+      {
+        "text": "חום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חום.mp3"
+      }
+    ],
+    "אפור": [
+      {
+        "text": "אפור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אפור.mp3"
+      }
+    ],
+    "סגול": [
+      {
+        "text": "סגול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סגול.mp3"
+      }
+    ],
+    "סגול, ארגמן": [
+      {
+        "text": "סגול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סגול.mp3"
+      },
+      {
+        "text": "ארגמן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארגמן.mp3"
+      }
+    ],
+    "צבע": [
+      {
+        "text": "צבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צבע.mp3"
+      }
+    ],
+    "צבעוני": [
+      {
+        "text": "צבעוני",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צבעוני.mp3"
+      }
+    ],
+    "חסר צבע": [
+      {
+        "text": "חסר צבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חסר_צבע.mp3"
+      }
+    ],
+    "בהיר": [
+      {
+        "text": "בהיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בהיר.mp3"
+      }
+    ],
+    "כהה": [
+      {
+        "text": "כהה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כהה.mp3"
+      }
+    ],
+    "עז, בוהק": [
+      {
+        "text": "עז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עז.mp3"
+      },
+      {
+        "text": "בוהק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בוהק.mp3"
+      }
+    ],
+    "אחד": [
+      {
+        "text": "אחד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אחד.mp3"
+      }
+    ],
+    "אחת": [
+      {
+        "text": "אחת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אחת.mp3"
+      }
+    ],
+    "שניים": [
+      {
+        "text": "שניים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שניים.mp3"
+      }
+    ],
+    "שתיים": [
+      {
+        "text": "שתיים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שתיים.mp3"
+      }
+    ],
+    "שלושה": [
+      {
+        "text": "שלושה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שלושה.mp3"
+      }
+    ],
+    "שלוש": [
+      {
+        "text": "שלוש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שלוש.mp3"
+      }
+    ],
+    "ארבעה": [
+      {
+        "text": "ארבעה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארבעה.mp3"
+      }
+    ],
+    "ארבע": [
+      {
+        "text": "ארבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארבע.mp3"
+      }
+    ],
+    "חמישה": [
+      {
+        "text": "חמישה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמישה.mp3"
+      }
+    ],
+    "חמש": [
+      {
+        "text": "חמש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמש.mp3"
+      }
+    ],
+    "שישה": [
+      {
+        "text": "שישה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שישה.mp3"
+      }
+    ],
+    "שש": [
+      {
+        "text": "שש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שש.mp3"
+      }
+    ],
+    "שבעה": [
+      {
+        "text": "שבעה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שבעה.mp3"
+      }
+    ],
+    "שבע": [
+      {
+        "text": "שבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שבע.mp3"
+      }
+    ],
+    "שמונה": [
+      {
+        "text": "שמונה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמונה.mp3"
+      }
+    ],
+    "תשעה": [
+      {
+        "text": "תשעה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תשעה.mp3"
+      }
+    ],
+    "תשע": [
+      {
+        "text": "תשע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תשע.mp3"
+      }
+    ],
+    "עשרה": [
+      {
+        "text": "עשרה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עשרה.mp3"
+      }
+    ],
+    "עשר": [
+      {
+        "text": "עשר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עשר.mp3"
+      }
+    ],
+    "פרי": [
+      {
+        "text": "פרי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פרי.mp3"
+      }
+    ],
+    "תפוח עץ": [
+      {
+        "text": "תפוח עץ",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תפוח_עץ.mp3"
+      }
+    ],
+    "אגס": [
+      {
+        "text": "אגס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אגס.mp3"
+      }
+    ],
+    "תאנה": [
+      {
+        "text": "תאנה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תאנה.mp3"
+      }
+    ],
+    "שזיף": [
+      {
+        "text": "שזיף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שזיף.mp3"
+      }
+    ],
+    "דובדבן": [
+      {
+        "text": "דובדבן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דובדבן.mp3"
+      }
+    ],
+    "אפרסק": [
+      {
+        "text": "אפרסק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אפרסק.mp3"
+      }
+    ],
+    "משמש": [
+      {
+        "text": "משמש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/משמש.mp3"
+      }
+    ],
+    "תות": [
+      {
+        "text": "תות",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תות.mp3"
+      }
+    ],
+    "פטל": [
+      {
+        "text": "פטל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פטל.mp3"
+      }
+    ],
+    "פטל שחור": [
+      {
+        "text": "פטל שחור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פטל_שחור.mp3"
+      }
+    ],
+    "אוכמנית": [
+      {
+        "text": "אוכמנית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוכמנית.mp3"
+      }
+    ],
+    "ענב": [
+      {
+        "text": "ענב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ענב.mp3"
+      }
+    ],
+    "דומדמנית": [
+      {
+        "text": "דומדמנית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דומדמנית.mp3"
+      }
+    ],
+    "חזרזר": [
+      {
+        "text": "חזרזר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חזרזר.mp3"
+      }
+    ],
+    "בננה": [
+      {
+        "text": "בננה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בננה.mp3"
+      }
+    ],
+    "לימון": [
+      {
+        "text": "לימון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לימון.mp3"
+      }
+    ],
+    "אננס": [
+      {
+        "text": "אננס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אננס.mp3"
+      }
+    ],
+    "אבטיח": [
+      {
+        "text": "אבטיח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אבטיח.mp3"
+      }
+    ],
+    "תמר": [
+      {
+        "text": "תמר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תמר.mp3"
+      }
+    ],
+    "רימון": [
+      {
+        "text": "רימון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רימון.mp3"
+      }
+    ],
+    "אגוז": [
+      {
+        "text": "אגוז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אגוז.mp3"
+      }
+    ],
+    "אגוז לוז": [
+      {
+        "text": "אגוז לוז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אגוז_לוז.mp3"
+      }
+    ],
+    "אגוז מלך": [
+      {
+        "text": "אגוז מלך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אגוז_מלך.mp3"
+      }
+    ],
+    "שקד": [
+      {
+        "text": "שקד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שקד.mp3"
+      }
+    ],
+    "בשל": [
+      {
+        "text": "בשל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בשל.mp3"
+      }
+    ],
+    "שום": [
+      {
+        "text": "שום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שום.mp3"
+      }
+    ],
+    "מלפפון": [
+      {
+        "text": "מלפפון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מלפפון.mp3"
+      }
+    ],
+    "גזר": [
+      {
+        "text": "גזר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גזר.mp3"
+      }
+    ],
+    "חציל": [
+      {
+        "text": "חציל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חציל.mp3"
+      }
+    ],
+    "תפוח אדמה": [
+      {
+        "text": "תפוח אדמה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תפוח_אדמה.mp3"
+      }
+    ],
+    "עגבנייה": [
+      {
+        "text": "עגבנייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עגבנייה.mp3"
+      }
+    ],
+    "דלעת": [
+      {
+        "text": "דלעת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דלעת.mp3"
+      }
+    ],
+    "קישוא": [
+      {
+        "text": "קישוא",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קישוא.mp3"
+      }
+    ],
+    "אבוקדו": [
+      {
+        "text": "אבוקדו",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אבוקדו.mp3"
+      }
+    ],
+    "כרוב": [
+      {
+        "text": "כרוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כרוב.mp3"
+      }
+    ],
+    "כרובית": [
+      {
+        "text": "כרובית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כרובית.mp3"
+      }
+    ],
+    "ברוקולי": [
+      {
+        "text": "ברוקולי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ברוקולי.mp3"
+      }
+    ],
+    "תרד": [
+      {
+        "text": "תרד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תרד.mp3"
+      }
+    ],
+    "פלפל": [
+      {
+        "text": "פלפל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פלפל.mp3"
+      }
+    ],
+    "חסה": [
+      {
+        "text": "חסה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חסה.mp3"
+      }
+    ],
+    "כרישה": [
+      {
+        "text": "כרישה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כרישה.mp3"
+      }
+    ],
+    "בצל": [
+      {
+        "text": "בצל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בצל.mp3"
+      }
+    ],
+    "פלפל חריף": [
+      {
+        "text": "פלפל חריף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פלפל_חריף.mp3"
+      }
+    ],
+    "חתול": [
+      {
+        "text": "חתול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חתול.mp3"
+      }
+    ],
+    "כלב": [
+      {
+        "text": "כלב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כלב.mp3"
+      }
+    ],
+    "תרנגולת, עוף": [
+      {
+        "text": "תרנגולת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תרנגולת.mp3"
+      },
+      {
+        "text": "עוף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עוף.mp3"
+      }
+    ],
+    "חזיר": [
+      {
+        "text": "חזיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חזיר.mp3"
+      }
+    ],
+    "פרה": [
+      {
+        "text": "פרה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פרה.mp3"
+      }
+    ],
+    "סוס": [
+      {
+        "text": "סוס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סוס.mp3"
+      }
+    ],
+    "כבשה": [
+      {
+        "text": "כבשה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כבשה.mp3"
+      }
+    ],
+    "עז": [
+      {
+        "text": "עז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עז.mp3"
+      }
+    ],
+    "חמור": [
+      {
+        "text": "חמור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמור.mp3"
+      }
+    ],
+    "עכבר": [
+      {
+        "text": "עכבר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עכבר.mp3"
+      }
+    ],
+    "גור, כלבלב": [
+      {
+        "text": "גור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גור.mp3"
+      },
+      {
+        "text": "כלבלב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כלבלב.mp3"
+      }
+    ],
+    "אוגר": [
+      {
+        "text": "אוגר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוגר.mp3"
+      }
+    ],
+    "שרקן": [
+      {
+        "text": "שרקן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שרקן.mp3"
+      }
+    ],
+    "כלוב": [
+      {
+        "text": "כלוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כלוב.mp3"
+      }
+    ],
+    "אקווריום": [
+      {
+        "text": "אקווריום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אקווריום.mp3"
+      }
+    ],
+    "רצועה": [
+      {
+        "text": "רצועה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רצועה.mp3"
+      }
+    ],
+    "כלוב נשיאה": [
+      {
+        "text": "כלוב נשיאה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כלוב_נשיאה.mp3"
+      }
+    ],
+    "קן": [
+      {
+        "text": "קן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קן.mp3"
+      }
+    ],
+    "נקבה": [
+      {
+        "text": "נקבה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נקבה.mp3"
+      }
+    ],
+    "זכר": [
+      {
+        "text": "זכר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זכר.mp3"
+      }
+    ],
+    "בקר": [
+      {
+        "text": "בקר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בקר.mp3"
+      }
+    ],
+    "וטרינר": [
+      {
+        "text": "וטרינר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/וטרינר.mp3"
+      }
+    ],
+    "דוב": [
+      {
+        "text": "דוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דוב.mp3"
+      }
+    ],
+    "אייל קורא": [
+      {
+        "text": "אייל קורא",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אייל_קורא.mp3"
+      }
+    ],
+    "צבי, אייל": [
+      {
+        "text": "צבי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צבי.mp3"
+      },
+      {
+        "text": "אייל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אייל.mp3"
+      }
+    ],
+    "אייל הצפון": [
+      {
+        "text": "אייל הצפון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אייל_הצפון.mp3"
+      }
+    ],
+    "זאב": [
+      {
+        "text": "זאב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זאב.mp3"
+      }
+    ],
+    "שועל": [
+      {
+        "text": "שועל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שועל.mp3"
+      }
+    ],
+    "קיפוד": [
+      {
+        "text": "קיפוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קיפוד.mp3"
+      }
+    ],
+    "ארנב, ארנבון": [
+      {
+        "text": "ארנב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארנב.mp3"
+      },
+      {
+        "text": "ארנבון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארנבון.mp3"
+      }
+    ],
+    "ארנבת": [
+      {
+        "text": "ארנבת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארנבת.mp3"
+      }
+    ],
+    "חזיר בר": [
+      {
+        "text": "חזיר בר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חזיר_בר.mp3"
+      }
+    ],
+    "סנאי": [
+      {
+        "text": "סנאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סנאי.mp3"
+      }
+    ],
+    "צפרדע": [
+      {
+        "text": "צפרדע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צפרדע.mp3"
+      }
+    ],
+    "נחש": [
+      {
+        "text": "נחש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נחש.mp3"
+      }
+    ],
+    "נמר": [
+      {
+        "text": "נמר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נמר.mp3"
+      }
+    ],
+    "אריה": [
+      {
+        "text": "אריה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אריה.mp3"
+      }
+    ],
+    "פיל": [
+      {
+        "text": "פיל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פיל.mp3"
+      }
+    ],
+    "גמל": [
+      {
+        "text": "גמל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גמל.mp3"
+      }
+    ],
+    "ג'ירפה": [
+      {
+        "text": "ג'ירפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ג'ירפה.mp3"
+      }
+    ],
+    "תנין": [
+      {
+        "text": "תנין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תנין.mp3"
+      }
+    ],
+    "קוף": [
+      {
+        "text": "קוף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קוף.mp3"
+      }
+    ],
+    "ציפור": [
+      {
+        "text": "ציפור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ציפור.mp3"
+      }
+    ],
+    "ברווז": [
+      {
+        "text": "ברווז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ברווז.mp3"
+      }
+    ],
+    "אווז": [
+      {
+        "text": "אווז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אווז.mp3"
+      }
+    ],
+    "יונה": [
+      {
+        "text": "יונה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יונה.mp3"
+      }
+    ],
+    "נשר, עיט": [
+      {
+        "text": "נשר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נשר.mp3"
+      },
+      {
+        "text": "עיט",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עיט.mp3"
+      }
+    ],
+    "דרור": [
+      {
+        "text": "דרור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דרור.mp3"
+      }
+    ],
+    "ברבור": [
+      {
+        "text": "ברבור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ברבור.mp3"
+      }
+    ],
+    "חסידה": [
+      {
+        "text": "חסידה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חסידה.mp3"
+      }
+    ],
+    "שחף": [
+      {
+        "text": "שחף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שחף.mp3"
+      }
+    ],
+    "ינשוף": [
+      {
+        "text": "ינשוף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ינשוף.mp3"
+      }
+    ],
+    "תוכי": [
+      {
+        "text": "תוכי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תוכי.mp3"
+      }
+    ],
+    "דג": [
+      {
+        "text": "דג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דג.mp3"
+      }
+    ],
+    "דולפין": [
+      {
+        "text": "דולפין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דולפין.mp3"
+      }
+    ],
+    "כריש": [
+      {
+        "text": "כריש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כריש.mp3"
+      }
+    ],
+    "צלופח": [
+      {
+        "text": "צלופח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צלופח.mp3"
+      }
+    ],
+    "טונה": [
+      {
+        "text": "טונה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טונה.mp3"
+      }
+    ],
+    "כוכב ים": [
+      {
+        "text": "כוכב ים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כוכב_ים.mp3"
+      }
+    ],
+    "סוסון ים": [
+      {
+        "text": "סוסון ים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סוסון_ים.mp3"
+      }
+    ],
+    "זים": [
+      {
+        "text": "זים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זים.mp3"
+      }
+    ],
+    "סנפיר": [
+      {
+        "text": "סנפיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סנפיר.mp3"
+      }
+    ],
+    "חיה, בעל חיים": [
+      {
+        "text": "חיה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חיה.mp3"
+      },
+      {
+        "text": "בעל חיים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בעל_חיים.mp3"
+      }
+    ],
+    "כנף": [
+      {
+        "text": "כנף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כנף.mp3"
+      }
+    ],
+    "קרן": [
+      {
+        "text": "קרן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קרן.mp3"
+      }
+    ],
+    "זנב": [
+      {
+        "text": "זנב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זנב.mp3"
+      }
+    ],
+    "מקור": [
+      {
+        "text": "מקור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מקור.mp3"
+      }
+    ],
+    "פרווה": [
+      {
+        "text": "פרווה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פרווה.mp3"
+      }
+    ],
+    "נמלה": [
+      {
+        "text": "נמלה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נמלה.mp3"
+      }
+    ],
+    "פרפר": [
+      {
+        "text": "פרפר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פרפר.mp3"
+      }
+    ],
+    "דבורה": [
+      {
+        "text": "דבורה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דבורה.mp3"
+      }
+    ],
+    "צרעה": [
+      {
+        "text": "צרעה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צרעה.mp3"
+      }
+    ],
+    "חרק": [
+      {
+        "text": "חרק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חרק.mp3"
+      }
+    ],
+    "זבוב": [
+      {
+        "text": "זבוב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זבוב.mp3"
+      }
+    ],
+    "יתוש": [
+      {
+        "text": "יתוש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יתוש.mp3"
+      }
+    ],
+    "עכביש": [
+      {
+        "text": "עכביש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עכביש.mp3"
+      }
+    ],
+    "לנשוך": [
+      {
+        "text": "לנשוך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לנשוך.mp3"
+      }
+    ],
+    "לכשכש": [
+      {
+        "text": "לכשכש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לכשכש.mp3"
+      }
+    ],
+    "לנבוח": [
+      {
+        "text": "לנבוח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לנבוח.mp3"
+      }
+    ],
+    "ליילל": [
+      {
+        "text": "ליילל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ליילל.mp3"
+      }
+    ],
+    "לגעות": [
+      {
+        "text": "לגעות",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לגעות.mp3"
+      }
+    ],
+    "לקרקר": [
+      {
+        "text": "לקרקר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לקרקר.mp3"
+      }
+    ],
+    "לחרוף": [
+      {
+        "text": "לחרוף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לחרוף.mp3"
+      }
+    ],
+    "לחם": [
+      {
+        "text": "לחם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לחם.mp3"
+      }
+    ],
+    "מלח": [
+      {
+        "text": "מלח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מלח.mp3"
+      }
+    ],
+    "סוכר": [
+      {
+        "text": "סוכר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סוכר.mp3"
+      }
+    ],
+    "אורז": [
+      {
+        "text": "אורז",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אורז.mp3"
+      }
+    ],
+    "תה": [
+      {
+        "text": "תה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תה.mp3"
+      }
+    ],
+    "קפה": [
+      {
+        "text": "קפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קפה.mp3"
+      }
+    ],
+    "מיץ": [
+      {
+        "text": "מיץ",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מיץ.mp3"
+      }
+    ],
+    "גבינה": [
+      {
+        "text": "גבינה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גבינה.mp3"
+      }
+    ],
+    "צ'יפס": [
+      {
+        "text": "צ'יפס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צ'יפס.mp3"
+      }
+    ],
+    "פטרייה": [
+      {
+        "text": "פטרייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פטרייה.mp3"
+      }
+    ],
+    "מרק": [
+      {
+        "text": "מרק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מרק.mp3"
+      }
+    ],
+    "בשר": [
+      {
+        "text": "בשר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בשר.mp3"
+      }
+    ],
+    "בייקון": [
+      {
+        "text": "בייקון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בייקון.mp3"
+      }
+    ],
+    "ביצה": [
+      {
+        "text": "ביצה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ביצה.mp3"
+      }
+    ],
+    "שמן": [
+      {
+        "text": "שמן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמן.mp3"
+      }
+    ],
+    "סלט": [
+      {
+        "text": "סלט",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סלט.mp3"
+      }
+    ],
+    "קרח": [
+      {
+        "text": "קרח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קרח.mp3"
+      }
+    ],
+    "חלב": [
+      {
+        "text": "חלב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חלב.mp3"
+      }
+    ],
+    "חמאה": [
+      {
+        "text": "חמאה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמאה.mp3"
+      }
+    ],
+    "שמנת": [
+      {
+        "text": "שמנת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמנת.mp3"
+      }
+    ],
+    "עוגה": [
+      {
+        "text": "עוגה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עוגה.mp3"
+      }
+    ],
+    "בירה": [
+      {
+        "text": "בירה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בירה.mp3"
+      }
+    ],
+    "וודקה": [
+      {
+        "text": "וודקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/וודקה.mp3"
+      }
+    ],
+    "יין": [
+      {
+        "text": "יין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יין.mp3"
+      }
+    ],
+    "דבש": [
+      {
+        "text": "דבש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דבש.mp3"
+      }
+    ],
+    "סוכרייה, ממתק": [
+      {
+        "text": "סוכרייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סוכרייה.mp3"
+      },
+      {
+        "text": "ממתק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ממתק.mp3"
+      }
+    ],
+    "עוגייה": [
+      {
+        "text": "עוגייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עוגייה.mp3"
+      }
+    ],
+    "כריך, סנדוויץ'": [
+      {
+        "text": "כריך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כריך.mp3"
+      },
+      {
+        "text": "סנדוויץ'",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סנדוויץ'.mp3"
+      }
+    ],
+    "סושי": [
+      {
+        "text": "סושי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סושי.mp3"
+      }
+    ],
+    "פנקייק, חביתית": [
+      {
+        "text": "פנקייק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פנקייק.mp3"
+      },
+      {
+        "text": "חביתית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חביתית.mp3"
+      }
+    ],
+    "ביצה מקושקשת": [
+      {
+        "text": "ביצה מקושקשת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ביצה_מקושקשת.mp3"
+      }
+    ],
+    "חביתה": [
+      {
+        "text": "חביתה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חביתה.mp3"
+      }
+    ],
+    "נקניקייה, נקניק": [
+      {
+        "text": "נקניקייה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נקניקייה.mp3"
+      },
+      {
+        "text": "נקניק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נקניק.mp3"
+      }
+    ],
+    "גלידה": [
+      {
+        "text": "גלידה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גלידה.mp3"
+      }
+    ],
+    "אלכוהול": [
+      {
+        "text": "אלכוהול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אלכוהול.mp3"
+      }
+    ],
+    "שומשום": [
+      {
+        "text": "שומשום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שומשום.mp3"
+      }
+    ],
+    "אבקה": [
+      {
+        "text": "אבקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אבקה.mp3"
+      }
+    ],
+    "קמח": [
+      {
+        "text": "קמח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קמח.mp3"
+      }
+    ],
+    "מתוק": [
+      {
+        "text": "מתוק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מתוק.mp3"
+      }
+    ],
+    "מר": [
+      {
+        "text": "מר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מר.mp3"
+      }
+    ],
+    "חמוץ": [
+      {
+        "text": "חמוץ",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמוץ.mp3"
+      }
+    ],
+    "חריף": [
+      {
+        "text": "חריף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חריף.mp3"
+      }
+    ],
+    "עדין": [
+      {
+        "text": "עדין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עדין.mp3"
+      }
+    ],
+    "טרי": [
+      {
+        "text": "טרי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טרי.mp3"
+      }
+    ],
+    "מרענן": [
+      {
+        "text": "מרענן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מרענן.mp3"
+      }
+    ],
+    "טעים": [
+      {
+        "text": "טעים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טעים.mp3"
+      }
+    ],
+    "טעים מאוד": [
+      {
+        "text": "טעים מאוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טעים_מאוד.mp3"
+      }
+    ],
+    "מגעיל": [
+      {
+        "text": "מגעיל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מגעיל.mp3"
+      }
+    ],
+    "גדול": [
+      {
+        "text": "גדול",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גדול.mp3"
+      }
+    ],
+    "קטן": [
+      {
+        "text": "קטן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קטן.mp3"
+      }
+    ],
+    "ארוך": [
+      {
+        "text": "ארוך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארוך.mp3"
+      }
+    ],
+    "קצר": [
+      {
+        "text": "קצר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קצר.mp3"
+      }
+    ],
+    "חדש": [
+      {
+        "text": "חדש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חדש.mp3"
+      }
+    ],
+    "ישן, זקן": [
+      {
+        "text": "ישן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ישן.mp3"
+      },
+      {
+        "text": "זקן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זקן.mp3"
+      }
+    ],
+    "נקי": [
+      {
+        "text": "נקי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נקי.mp3"
+      }
+    ],
+    "מלוכלך": [
+      {
+        "text": "מלוכלך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מלוכלך.mp3"
+      }
+    ],
+    "משפחה": [
+      {
+        "text": "משפחה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/משפחה.mp3"
+      }
+    ],
+    "אבא, אב": [
+      {
+        "text": "אבא",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אבא.mp3"
+      },
+      {
+        "text": "אב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אב.mp3"
+      }
+    ],
+    "אמא, אם": [
+      {
+        "text": "אמא",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אמא.mp3"
+      },
+      {
+        "text": "אם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אם.mp3"
+      }
+    ],
+    "ילד": [
+      {
+        "text": "ילד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ילד.mp3"
+      }
+    ],
+    "בן": [
+      {
+        "text": "בן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בן.mp3"
+      }
+    ],
+    "בת": [
+      {
+        "text": "בת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בת.mp3"
+      }
+    ],
+    "תינוק": [
+      {
+        "text": "תינוק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תינוק.mp3"
+      }
+    ],
+    "אישה, רעיה": [
+      {
+        "text": "אישה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אישה.mp3"
+      },
+      {
+        "text": "רעיה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רעיה.mp3"
+      }
+    ],
+    "בעל": [
+      {
+        "text": "בעל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בעל.mp3"
+      }
+    ],
+    "אחות": [
+      {
+        "text": "אחות",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אחות.mp3"
+      }
+    ],
+    "אח": [
+      {
+        "text": "אח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אח.mp3"
+      }
+    ],
+    "תאום": [
+      {
+        "text": "תאום",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תאום.mp3"
+      }
+    ],
+    "הורים": [
+      {
+        "text": "הורים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/הורים.mp3"
+      }
+    ],
+    "הורה יחיד, הורה עצמאי": [
+      {
+        "text": "הורה יחיד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/הורה_יחיד.mp3"
+      },
+      {
+        "text": "הורה עצמאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/הורה_עצמאי.mp3"
+      }
+    ],
+    "קרובי משפחה": [
+      {
+        "text": "קרובי משפחה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קרובי_משפחה.mp3"
+      }
+    ],
+    "סבתא": [
+      {
+        "text": "סבתא",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סבתא.mp3"
+      }
+    ],
+    "סבתא'לה": [
+      {
+        "text": "סבתא'לה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סבתא'לה.mp3"
+      }
+    ],
+    "נכד": [
+      {
+        "text": "נכד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נכד.mp3"
+      }
+    ],
+    "נכדה": [
+      {
+        "text": "נכדה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נכדה.mp3"
+      }
+    ],
+    "דוד": [
+      {
+        "text": "דוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דוד.mp3"
+      }
+    ],
+    "דודה": [
+      {
+        "text": "דודה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דודה.mp3"
+      }
+    ],
+    "בן דוד, בת דודה": [
+      {
+        "text": "בן דוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בן_דוד.mp3"
+      },
+      {
+        "text": "בת דודה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בת_דודה.mp3"
+      }
+    ],
+    "אם חורגת": [
+      {
+        "text": "אם חורגת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אם_חורגת.mp3"
+      }
+    ],
+    "אב חורג": [
+      {
+        "text": "אב חורג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אב_חורג.mp3"
+      }
+    ],
+    "דור": [
+      {
+        "text": "דור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דור.mp3"
+      }
+    ],
+    "זוג": [
+      {
+        "text": "זוג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זוג.mp3"
+      }
+    ],
+    "חבר": [
+      {
+        "text": "חבר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חבר.mp3"
+      }
+    ],
+    "נישואים": [
+      {
+        "text": "נישואים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נישואים.mp3"
+      }
+    ],
+    "נשוי": [
+      {
+        "text": "נשוי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נשוי.mp3"
+      }
+    ],
+    "להתחתן": [
+      {
+        "text": "להתחתן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/להתחתן.mp3"
+      }
+    ],
+    "רווק": [
+      {
+        "text": "רווק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רווק.mp3"
+      }
+    ],
+    "כלה": [
+      {
+        "text": "כלה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כלה.mp3"
+      }
+    ],
+    "חתן": [
+      {
+        "text": "חתן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חתן.mp3"
+      }
+    ],
+    "ארוס": [
+      {
+        "text": "ארוס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ארוס.mp3"
+      }
+    ],
+    "בן זוג, בת זוג": [
+      {
+        "text": "בן זוג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בן_זוג.mp3"
+      },
+      {
+        "text": "בת זוג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בת_זוג.mp3"
+      }
+    ],
+    "צלם": [
+      {
+        "text": "צלם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צלם.mp3"
+      }
+    ],
+    "טבח": [
+      {
+        "text": "טבח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טבח.mp3"
+      }
+    ],
+    "מנהל": [
+      {
+        "text": "מנהל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מנהל.mp3"
+      }
+    ],
+    "מזכירה, מזכיר": [
+      {
+        "text": "מזכירה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מזכירה.mp3"
+      },
+      {
+        "text": "מזכיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מזכיר.mp3"
+      }
+    ],
+    "מתמחה": [
+      {
+        "text": "מתמחה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מתמחה.mp3"
+      }
+    ],
+    "מחלקה": [
+      {
+        "text": "מחלקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מחלקה.mp3"
+      }
+    ],
+    "ראש מחלקה, מנהל מחלקה": [
+      {
+        "text": "ראש מחלקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ראש_מחלקה.mp3"
+      },
+      {
+        "text": "מנהל מחלקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מנהל_מחלקה.mp3"
+      }
+    ],
+    "רואה חשבון": [
+      {
+        "text": "רואה חשבון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רואה_חשבון.mp3"
+      }
+    ],
+    "קופאי, קופאית": [
+      {
+        "text": "קופאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קופאי.mp3"
+      },
+      {
+        "text": "קופאית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קופאית.mp3"
+      }
+    ],
+    "רקדן, רקדנית": [
+      {
+        "text": "רקדן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רקדן.mp3"
+      },
+      {
+        "text": "רקדנית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רקדנית.mp3"
+      }
+    ],
+    "צייר": [
+      {
+        "text": "צייר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צייר.mp3"
+      }
+    ],
+    "אמן": [
+      {
+        "text": "אמן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אמן.mp3"
+      }
+    ],
+    "מעצב": [
+      {
+        "text": "מעצב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מעצב.mp3"
+      }
+    ],
+    "מדען": [
+      {
+        "text": "מדען",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מדען.mp3"
+      }
+    ],
+    "מהנדס": [
+      {
+        "text": "מהנדס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מהנדס.mp3"
+      }
+    ],
+    "חקלאי, איכר": [
+      {
+        "text": "חקלאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חקלאי.mp3"
+      },
+      {
+        "text": "איכר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/איכר.mp3"
+      }
+    ],
+    "צייד": [
+      {
+        "text": "צייד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צייד.mp3"
+      }
+    ],
+    "דוגמנית, דוגמן": [
+      {
+        "text": "דוגמנית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דוגמנית.mp3"
+      },
+      {
+        "text": "דוגמן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דוגמן.mp3"
+      }
+    ],
+    "טייס": [
+      {
+        "text": "טייס",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טייס.mp3"
+      }
+    ],
+    "דיילת": [
+      {
+        "text": "דיילת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דיילת.mp3"
+      }
+    ],
+    "נהג מונית": [
+      {
+        "text": "נהג מונית",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נהג_מונית.mp3"
+      }
+    ],
+    "דייג": [
+      {
+        "text": "דייג",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דייג.mp3"
+      }
+    ],
+    "כורה": [
+      {
+        "text": "כורה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כורה.mp3"
+      }
+    ],
+    "מכרה": [
+      {
+        "text": "מכרה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מכרה.mp3"
+      }
+    ],
+    "עורך דין": [
+      {
+        "text": "עורך דין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עורך_דין.mp3"
+      }
+    ],
+    "תובע": [
+      {
+        "text": "תובע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תובע.mp3"
+      }
+    ],
+    "שופט": [
+      {
+        "text": "שופט",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שופט.mp3"
+      }
+    ],
+    "מלצר": [
+      {
+        "text": "מלצר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מלצר.mp3"
+      }
+    ],
+    "שוטר": [
+      {
+        "text": "שוטר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שוטר.mp3"
+      }
+    ],
+    "כבאי": [
+      {
+        "text": "כבאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כבאי.mp3"
+      }
+    ],
+    "עיתונאי": [
+      {
+        "text": "עיתונאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עיתונאי.mp3"
+      }
+    ],
+    "אופה": [
+      {
+        "text": "אופה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אופה.mp3"
+      }
+    ],
+    "ספר": [
+      {
+        "text": "ספר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ספר.mp3"
+      }
+    ],
+    "חשמלאי": [
+      {
+        "text": "חשמלאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חשמלאי.mp3"
+      }
+    ],
+    "שרברב, אינסטלטור": [
+      {
+        "text": "שרברב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שרברב.mp3"
+      },
+      {
+        "text": "אינסטלטור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אינסטלטור.mp3"
+      }
+    ],
+    "מכונאי": [
+      {
+        "text": "מכונאי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מכונאי.mp3"
+      }
+    ],
+    "מנעולן": [
+      {
+        "text": "מנעולן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מנעולן.mp3"
+      }
+    ],
+    "נגר": [
+      {
+        "text": "נגר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נגר.mp3"
+      }
+    ],
+    "רתך": [
+      {
+        "text": "רתך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רתך.mp3"
+      }
+    ],
+    "קצב": [
+      {
+        "text": "קצב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קצב.mp3"
+      }
+    ],
+    "שען": [
+      {
+        "text": "שען",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שען.mp3"
+      }
+    ],
+    "מנקה": [
+      {
+        "text": "מנקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מנקה.mp3"
+      }
+    ],
+    "ברמן": [
+      {
+        "text": "ברמן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ברמן.mp3"
+      }
+    ],
+    "פועל, עובד": [
+      {
+        "text": "פועל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פועל.mp3"
+      },
+      {
+        "text": "עובד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עובד.mp3"
+      }
+    ],
+    "מורה": [
+      {
+        "text": "מורה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מורה.mp3"
+      }
+    ],
+    "נמוך": [
+      {
+        "text": "נמוך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נמוך.mp3"
+      }
+    ],
+    "גבוה": [
+      {
+        "text": "גבוה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גבוה.mp3"
+      }
+    ],
+    "יפה, יפהפה": [
+      {
+        "text": "יפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יפה.mp3"
+      },
+      {
+        "text": "יפהפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יפהפה.mp3"
+      }
+    ],
+    "יפה, חמוד": [
+      {
+        "text": "יפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יפה.mp3"
+      },
+      {
+        "text": "חמוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמוד.mp3"
+      }
+    ],
+    "חמוד": [
+      {
+        "text": "חמוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חמוד.mp3"
+      }
+    ],
+    "אלגנטי": [
+      {
+        "text": "אלגנטי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אלגנטי.mp3"
+      }
+    ],
+    "מקסים": [
+      {
+        "text": "מקסים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מקסים.mp3"
+      }
+    ],
+    "מושך, אטרקטיבי": [
+      {
+        "text": "מושך",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מושך.mp3"
+      },
+      {
+        "text": "אטרקטיבי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אטרקטיבי.mp3"
+      }
+    ],
+    "נאה, יפה תואר": [
+      {
+        "text": "נאה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נאה.mp3"
+      },
+      {
+        "text": "יפה תואר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יפה_תואר.mp3"
+      }
+    ],
+    "מכוער": [
+      {
+        "text": "מכוער",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מכוער.mp3"
+      }
+    ],
+    "רזה": [
+      {
+        "text": "רזה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רזה.mp3"
+      }
+    ],
+    "דק, תמיר": [
+      {
+        "text": "דק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דק.mp3"
+      },
+      {
+        "text": "תמיר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תמיר.mp3"
+      }
+    ],
+    "כחוש, רזה מאוד": [
+      {
+        "text": "כחוש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כחוש.mp3"
+      },
+      {
+        "text": "רזה מאוד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רזה_מאוד.mp3"
+      }
+    ],
+    "קטנטנה": [
+      {
+        "text": "קטנטנה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קטנטנה.mp3"
+      }
+    ],
+    "נאה": [
+      {
+        "text": "נאה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נאה.mp3"
+      }
+    ],
+    "גזרה": [
+      {
+        "text": "גזרה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גזרה.mp3"
+      }
+    ],
+    "גזרה דקה": [
+      {
+        "text": "גזרה דקה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גזרה_דקה.mp3"
+      }
+    ],
+    "השמנת יתר": [
+      {
+        "text": "השמנת יתר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/השמנת_יתר.mp3"
+      }
+    ],
+    "עודף משקל": [
+      {
+        "text": "עודף משקל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עודף_משקל.mp3"
+      }
+    ],
+    "לרזות, לרדת במשקל": [
+      {
+        "text": "לרזות",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לרזות.mp3"
+      },
+      {
+        "text": "לרדת במשקל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לרדת_במשקל.mp3"
+      }
+    ],
+    "להשמין, לעלות במשקל": [
+      {
+        "text": "להשמין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/להשמין.mp3"
+      },
+      {
+        "text": "לעלות במשקל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לעלות_במשקל.mp3"
+      }
+    ],
+    "חלק": [
+      {
+        "text": "חלק",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חלק.mp3"
+      }
+    ],
+    "מתולתל": [
+      {
+        "text": "מתולתל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מתולתל.mp3"
+      }
+    ],
+    "בלונדיני": [
+      {
+        "text": "בלונדיני",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בלונדיני.mp3"
+      }
+    ],
+    "ג'ינג'י, אדמוני": [
+      {
+        "text": "ג'ינג'י",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ג'ינג'י.mp3"
+      },
+      {
+        "text": "אדמוני",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אדמוני.mp3"
+      }
+    ],
+    "איפור": [
+      {
+        "text": "איפור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/איפור.mp3"
+      }
+    ],
+    "סגנון, סטייל": [
+      {
+        "text": "סגנון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סגנון.mp3"
+      },
+      {
+        "text": "סטייל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סטייל.mp3"
+      }
+    ],
+    "חזה": [
+      {
+        "text": "חזה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/חזה.mp3"
+      }
+    ],
+    "לב": [
+      {
+        "text": "לב",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לב.mp3"
+      }
+    ],
+    "רגל": [
+      {
+        "text": "רגל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/רגל.mp3"
+      }
+    ],
+    "כף רגל": [
+      {
+        "text": "כף רגל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כף_רגל.mp3"
+      }
+    ],
+    "ראש": [
+      {
+        "text": "ראש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ראש.mp3"
+      }
+    ],
+    "עין": [
+      {
+        "text": "עין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עין.mp3"
+      }
+    ],
+    "פנים": [
+      {
+        "text": "פנים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פנים.mp3"
+      }
+    ],
+    "מוח": [
+      {
+        "text": "מוח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מוח.mp3"
+      }
+    ],
+    "צוואר": [
+      {
+        "text": "צוואר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צוואר.mp3"
+      }
+    ],
+    "לשון": [
+      {
+        "text": "לשון",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לשון.mp3"
+      }
+    ],
+    "אוזן": [
+      {
+        "text": "אוזן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אוזן.mp3"
+      }
+    ],
+    "גוף": [
+      {
+        "text": "גוף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גוף.mp3"
+      }
+    ],
+    "יד, כף יד": [
+      {
+        "text": "יד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/יד.mp3"
+      },
+      {
+        "text": "כף יד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כף_יד.mp3"
+      }
+    ],
+    "זרוע": [
+      {
+        "text": "זרוע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זרוע.mp3"
+      }
+    ],
+    "שמאל": [
+      {
+        "text": "שמאל",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שמאל.mp3"
+      }
+    ],
+    "ימין": [
+      {
+        "text": "ימין",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ימין.mp3"
+      }
+    ],
+    "אצבע": [
+      {
+        "text": "אצבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אצבע.mp3"
+      }
+    ],
+    "טביעת אצבע": [
+      {
+        "text": "טביעת אצבע",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/טביעת_אצבע.mp3"
+      }
+    ],
+    "אף": [
+      {
+        "text": "אף",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אף.mp3"
+      }
+    ],
+    "פה": [
+      {
+        "text": "פה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/פה.mp3"
+      }
+    ],
+    "שפה": [
+      {
+        "text": "שפה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שפה.mp3"
+      }
+    ],
+    "עור": [
+      {
+        "text": "עור",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עור.mp3"
+      }
+    ],
+    "שיער": [
+      {
+        "text": "שיער",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שיער.mp3"
+      }
+    ],
+    "לחי": [
+      {
+        "text": "לחי",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לחי.mp3"
+      }
+    ],
+    "סנטר": [
+      {
+        "text": "סנטר",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/סנטר.mp3"
+      }
+    ],
+    "לסת": [
+      {
+        "text": "לסת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/לסת.mp3"
+      }
+    ],
+    "גבה": [
+      {
+        "text": "גבה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גבה.mp3"
+      }
+    ],
+    "נמש": [
+      {
+        "text": "נמש",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נמש.mp3"
+      }
+    ],
+    "מצח": [
+      {
+        "text": "מצח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מצח.mp3"
+      }
+    ],
+    "זקן": [
+      {
+        "text": "זקן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/זקן.mp3"
+      }
+    ],
+    "שפם": [
+      {
+        "text": "שפם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שפם.mp3"
+      }
+    ],
+    "קירח": [
+      {
+        "text": "קירח",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קירח.mp3"
+      }
+    ],
+    "קמט": [
+      {
+        "text": "קמט",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קמט.mp3"
+      }
+    ],
+    "תווי פנים": [
+      {
+        "text": "תווי פנים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/תווי_פנים.mp3"
+      }
+    ],
+    "להרים": [
+      {
+        "text": "להרים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/להרים.mp3"
+      }
+    ],
+    "בטן": [
+      {
+        "text": "בטן",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/בטן.mp3"
+      }
+    ],
+    "מותניים": [
+      {
+        "text": "מותניים",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/מותניים.mp3"
+      }
+    ],
+    "עצם": [
+      {
+        "text": "עצם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/עצם.mp3"
+      }
+    ],
+    "שלד": [
+      {
+        "text": "שלד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/שלד.mp3"
+      }
+    ],
+    "דם": [
+      {
+        "text": "דם",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/דם.mp3"
+      }
+    ],
+    "ריאה": [
+      {
+        "text": "ריאה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/ריאה.mp3"
+      }
+    ],
+    "קיבה": [
+      {
+        "text": "קיבה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/קיבה.mp3"
+      }
+    ],
+    "כבד": [
+      {
+        "text": "כבד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/כבד.mp3"
+      }
+    ],
+    "גולגולת": [
+      {
+        "text": "גולגולת",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/גולגולת.mp3"
+      }
+    ],
+    "אישה, נקבה": [
+      {
+        "text": "אישה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/אישה.mp3"
+      },
+      {
+        "text": "נקבה",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/נקבה.mp3"
+      }
+    ],
+    "צד": [
+      {
+        "text": "צד",
+        "file": "he/6WRlPmU1fqPwYbSxeP16/צד.mp3"
+      }
+    ]
+  }
+}
