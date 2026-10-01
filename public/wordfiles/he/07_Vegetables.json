@@ -1,0 +1,25 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "שום" },
+    { "en": "cucumber",     "word": "מלפפון" },
+    { "en": "carrot",       "word": "גזר" },
+    { "en": "aubergine",    "word": "חציל" },
+    { "en": "potato",       "word": "תפוח אדמה" },
+    { "en": "tomato",       "word": "עגבנייה" },
+    { "en": "pumpkin",      "word": "דלעת" },
+    { "en": "courgette",    "word": "קישוא" },
+    { "en": "avocado",      "word": "אבוקדו" },
+    { "en": "cabbage",      "word": "כרוב" },
+    { "en": "cauliflower",  "word": "כרובית" },
+    { "en": "broccoli",     "word": "ברוקולי" },
+    { "en": "spinach",      "word": "תרד" },
+    { "en": "bell pepper",  "word": "פלפל" },
+    { "en": "lettuce",      "word": "חסה" },
+    { "en": "leek",         "word": "כרישה" },
+    { "en": "onion",        "word": "בצל" },
+    { "en": "hot pepper",   "word": "פלפל חריף" }
+  ]
+}

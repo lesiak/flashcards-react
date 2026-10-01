@@ -1,0 +1,20 @@
+{
+  "name": "City Transport",
+  "description": "City Transport",
+  "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
+  "cards": [
+    { "en": "car",                  "word": "מכונית, אוטו" },
+    { "en": "train",                "word": "רכבת" },
+    { "en": "bus",                  "word": "אוטובוס" },
+    { "en": "metro",                "word": "רכבת תחתית" },
+    { "en": "tram",                 "word": "חשמלית" },
+    { "en": "bicycle",              "word": "אופניים" },
+    { "en": "ship",                 "word": "ספינה, אונייה" },
+    { "en": "motorcycle",           "word": "אופנוע" },
+    { "en": "bus stop",             "word": "תחנת אוטובוס" },
+    { "en": "railway",              "word": "מסילת ברזל" },
+    { "en": "railway station",      "word": "תחנת רכבת" },
+    { "en": "ticket",               "word": "כרטיס" },
+    { "en": "validate (a ticket)",  "word": "לתקף" }
+  ]
+}

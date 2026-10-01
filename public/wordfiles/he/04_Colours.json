@@ -1,0 +1,25 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",           "word": "צהוב" },
+    { "en": "white",            "word": "לבן" },
+    { "en": "black",            "word": "שחור" },
+    { "en": "red",              "word": "אדום" },
+    { "en": "blue",             "word": "כחול" },
+    { "en": "green",            "word": "ירוק" },
+    { "en": "orange",           "word": "כתום" },
+    { "en": "pink",             "word": "ורוד" },
+    { "en": "brown",            "word": "חום" },
+    { "en": "grey",             "word": "אפור" },
+    { "en": "violet",           "word": "סגול" },
+    { "en": "purple",           "word": "סגול, ארגמן" },
+    { "en": "colour",           "word": "צבע" },
+    { "en": "colorful",         "word": "צבעוני" },
+    { "en": "colourless",       "word": "חסר צבע" },
+    { "en": "light (colour)",   "word": "בהיר" },
+    { "en": "dark (colour)",    "word": "כהה" },
+    { "en": "bright (colour)",  "word": "עז, בוהק" }
+  ]
+}
