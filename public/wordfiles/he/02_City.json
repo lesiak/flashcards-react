@@ -1,111 +1,33 @@
 {
   "name": "City",
   "description": "City",
-  "image": "https://images.unsplash.com/photo-1500990702037-7620ccb6a60a",
+  "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1",
   "cards": [
-    {
-      "en": "city",
-      "word": "עִיר"
-    },
-    {
-      "en": "village",
-      "word": "כפר"
-    },
-    {
-      "en": "road",
-      "word": "כביש"
-    },
-    {
-      "en": "street",
-      "word": "רחוב"
-    },
-    {
-      "en": "avenue",
-      "word": "שדרה"
-    },
-    {
-      "en": "bridge",
-      "word": "?"
-    },
-    {
-      "en": "square (in city)",
-      "word": "aukio"
-    },
-    {
-      "en": "(city) centre",
-      "word": "keskusta"
-    },
-    {
-      "en": "church",
-      "word": "כנסייה"
-    },
-    {
-      "en": "pharmacy",
-      "word": "בית מרקחת"
-    },
-    {
-      "en": "castle",
-      "word": "טירה"
-    },
-    {
-      "en": "building",
-      "word": "rakennus"
-    },
-    {
-      "en": "school",
-      "word": "koulu"
-    },
-    {
-      "en": "museum",
-      "word": "museo"
-    },
-    {
-      "en": "alley, backstreet",
-      "word": "kuja"
-    },
-    {
-      "en": "(street) corner",
-      "word": "kadunkulma"
-    },
-    {
-      "en": "bank",
-      "word": "pankki"
-    },
-    {
-      "en": "town hall",
-      "word": "kaupungintalo"
-    },
-    {
-      "en": "fountain",
-      "word": "suihkulähde"
-    },
-    {
-      "en": "bench",
-      "word": "penkki"
-    },
-    {
-      "en": "suburb",
-      "word": "esikaupunki"
-    },
-    {
-      "en": "neighborhood (district)",
-      "word": "kaupunginosa"
-    },
-    {
-      "en": "factory",
-      "word": "tehdas"
-    },
-    {
-      "en": "statue",
-      "word": "patsas"
-    },
-    {
-      "en": "gallery",
-      "word": "galleria, taidegalleria"
-    },
-    {
-      "en": "urban",
-      "word": "kaupunki-"
-    }
+    { "en": "city",                     "word": "עיר" },
+    { "en": "village",                  "word": "כפר" },
+    { "en": "road",                     "word": "כביש, דרך" },
+    { "en": "street",                   "word": "רחוב" },
+    { "en": "avenue",                   "word": "שדרה" },
+    { "en": "bridge",                   "word": "גשר" },
+    { "en": "square (in city)",         "word": "כיכר" },
+    { "en": "(city) centre",            "word": "מרכז העיר" },
+    { "en": "church",                   "word": "כנסייה" },
+    { "en": "pharmacy",                 "word": "בית מרקחת" },
+    { "en": "castle",                   "word": "טירה" },
+    { "en": "building",                 "word": "בניין" },
+    { "en": "school",                   "word": "בית ספר" },
+    { "en": "museum",                   "word": "מוזיאון" },
+    { "en": "alley, backstreet",        "word": "סמטה" },
+    { "en": "(street) corner",          "word": "פינת רחוב" },
+    { "en": "bank",                     "word": "בנק" },
+    { "en": "town hall",                "word": "עירייה, בית העירייה" },
+    { "en": "fountain",                 "word": "מזרקה" },
+    { "en": "bench",                    "word": "ספסל" },
+    { "en": "suburb",                   "word": "פרבר" },
+    { "en": "neighborhood (district)",  "word": "שכונה" },
+    { "en": "factory",                  "word": "מפעל" },
+    { "en": "statue",                   "word": "פסל" },
+    { "en": "gallery",                  "word": "גלריה" },
+    { "en": "urban",                    "word": "עירוני" }
   ]
 }
