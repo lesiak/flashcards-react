@@ -1,0 +1,25 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",       "word": "սխտոր" },
+    { "en": "cucumber",     "word": "վարունգ" },
+    { "en": "carrot",       "word": "գազար" },
+    { "en": "aubergine",    "word": "սմբուկ" },
+    { "en": "potato",       "word": "կարտոֆիլ" },
+    { "en": "tomato",       "word": "լոլիկ, պոմիդոր" },
+    { "en": "pumpkin",      "word": "դդում" },
+    { "en": "courgette",    "word": "դդմիկ" },
+    { "en": "avocado",      "word": "ավոկադո" },
+    { "en": "cabbage",      "word": "կաղամբ" },
+    { "en": "cauliflower",  "word": "ծաղկակաղամբ" },
+    { "en": "broccoli",     "word": "բրոկկոլի" },
+    { "en": "spinach",      "word": "սպանախ" },
+    { "en": "bell pepper",  "word": "պղպեղ, բիբար" },
+    { "en": "lettuce",      "word": "հազար, սալաթ" },
+    { "en": "leek",         "word": "պրաս" },
+    { "en": "onion",        "word": "սոխ" },
+    { "en": "hot pepper",   "word": "կծու պղպեղ" }
+  ]
+}

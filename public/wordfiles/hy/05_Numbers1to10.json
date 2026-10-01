@@ -1,0 +1,17 @@
+{
+  "name": "Numbers",
+  "description": "Numbers 1 - 10",
+  "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
+  "cards": [
+    { "en": "one",    "word": "մեկ" },
+    { "en": "two",    "word": "երկու" },
+    { "en": "three",  "word": "երեք" },
+    { "en": "four",   "word": "չորս" },
+    { "en": "five",   "word": "հինգ" },
+    { "en": "six",    "word": "վեց" },
+    { "en": "seven",  "word": "յոթ" },
+    { "en": "eight",  "word": "ութ" },
+    { "en": "nine",   "word": "ինը" },
+    { "en": "ten",    "word": "տասը" }
+  ]
+}

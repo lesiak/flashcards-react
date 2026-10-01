@@ -1,0 +1,29 @@
+{
+  "name": "Animals",
+  "description": "Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",               "word": "կատու" },
+    { "en": "dog",               "word": "շուն" },
+    { "en": "chicken",           "word": "հավ" },
+    { "en": "pig",               "word": "խոզ" },
+    { "en": "cow",               "word": "կով" },
+    { "en": "horse",             "word": "ձի" },
+    { "en": "sheep",             "word": "ոչխար" },
+    { "en": "goat",              "word": "այծ" },
+    { "en": "donkey",            "word": "էշ, ավանակ" },
+    { "en": "mouse",             "word": "մուկ" },
+    { "en": "puppy",             "word": "շնիկ, լակոտ" },
+    { "en": "hamster",           "word": "համստեր" },
+    { "en": "guinea pig",        "word": "ծովախոզուկ" },
+    { "en": "cage",              "word": "վանդակ" },
+    { "en": "aquarium",          "word": "ակվարիում" },
+    { "en": "leash",             "word": "վզկապ" },
+    { "en": "pet crate",         "word": "փոխադրման վանդակ" },
+    { "en": "nest",              "word": "բույն" },
+    { "en": "female (animals)",  "word": "էգ" },
+    { "en": "male (animals)",    "word": "արու" },
+    { "en": "cattle",            "word": "անասուն" },
+    { "en": "vet",               "word": "անասնաբույժ" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Appearance",
+  "description": "Appearance",
+  "image": "https://images.unsplash.com/photo-1648942521610-68024b5d6e29",
+  "cards": [
+    { "en": "big",    "word": "մեծ" },
+    { "en": "small",  "word": "փոքր" },
+    { "en": "long",   "word": "երկար" },
+    { "en": "short",  "word": "կարճ" },
+    { "en": "new",    "word": "նոր" },
+    { "en": "old",    "word": "հին, ծեր" },
+    { "en": "clean",  "word": "մաքուր" },
+    { "en": "dirty",  "word": "կեղտոտ" }
+  ]
+}
