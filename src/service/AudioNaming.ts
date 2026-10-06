@@ -15,6 +15,8 @@ const SENTENCE_END = /[.!?]\s*$/;
 // Illegal in file names on at least one OS, awkward inside a URL path segment,
 // or a control character (Unicode category Cc).
 const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
+// Sentence punctuation adds nothing to a name, and a trailing "." would double up with ".mp3".
+const SENTENCE_PUNCTUATION = /[.,!?¿¡…]/g;
 
 /**
  * Splits a deck `word` into the texts to voice, one per synonym,
@@ -34,13 +36,15 @@ export function deriveVoicedTexts(word: string): string[] {
 }
 
 /**
- * File name for one voiced text, without directory: "el pecho" -> "el_pecho.mp3".
- * Non-Latin letters and accents are kept; only whitespace and unsafe punctuation change.
+ * File name for one voiced text, without directory: "el pecho" -> "el_pecho.mp3",
+ * "¿Quieres esto?" -> "Quieres_esto.mp3". Non-Latin letters and accents are kept;
+ * only whitespace, unsafe characters and sentence punctuation change.
  */
 export function audioFileName(text: string): string {
   const name = text
     .normalize('NFC')
     .replace(UNSAFE_IN_FILE_NAME, '')
+    .replace(SENTENCE_PUNCTUATION, '')
     .trim()
     .replace(WHITESPACE, '_');
   if (name.length === 0) {
