@@ -28,8 +28,8 @@
     { "en": "farmer",        "word": "(el) granjero, (el) agricultor"      },
     { "en": "hunter",        "word": "(el) cazador"    },
 
-    { "en": "fashion model", "word": "(el/la!) modelo" },
-    { "en": "pilot",         "word": "(el/la!) piloto" },
+    { "en": "fashion model", "word": "(el/la) modelo [same form for both genders]" },
+    { "en": "pilot",         "word": "(el/la) piloto [same form for both genders]" },
     { "en": "stewardess",    "word": "(la) azafata"    },
     { "en": "taxi driver",   "word": "(el) taxista"    },
 
