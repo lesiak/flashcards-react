@@ -10,6 +10,7 @@ import flagOfIsrael from '/images/Flag_of_Israel.svg'
 import flagOfArmenia from '/images/Flag_of_Armenia.svg'
 import flagOfAlbania from '/images/Flag_of_Albania.svg'
 import flagOfSlovenia from '/images/Flag_of_Slovenia.svg'
+import flagOfSouthKorea from '/images/Flag_of_South_Korea.svg'
 
 export interface LanguageInfo {
   code: string;
@@ -92,6 +93,12 @@ export const slovenian: LanguageInfo = {
   flagUrl: flagOfSlovenia
 }
 
+export const korean: LanguageInfo = {
+  code: 'ko',
+  fullName: 'Korean',
+  flagUrl: flagOfSouthKorea
+}
+
 export const appLangs = [
   finnish,
   spanish,
@@ -104,5 +111,6 @@ export const appLangs = [
   hebrew,
   armenian,
   albanian,
-  slovenian
+  slovenian,
+  korean
 ];
