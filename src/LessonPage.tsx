@@ -79,6 +79,13 @@ const useStyles = makeStyles({
   hebrew: {
     fontFamily: "'Noto Sans Hebrew', sans-serif",
   },
+  note: {
+    maxWidth: '36em',
+    color: tokens.colorNeutralForeground3,
+    fontSize: tokens.fontSizeBase300,
+    lineHeight: tokens.lineHeightBase300,
+    ...shorthands.margin(0),
+  },
   clips: {
     display: 'flex',
     flexWrap: 'wrap',
@@ -193,6 +200,10 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
                 </Button>
               ))}
             </div>
+          }
+
+          {showAnswer && card.note &&
+            <p className={styles.note}>{card.note}</p>
           }
         </div>
 
