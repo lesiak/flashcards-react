@@ -10,6 +10,8 @@
 const IN_BRACKETS = /\[.+?\]/g;
 const PARENTHESES = /[()]/g;
 const WHITESPACE = /\s+/g;
+// A whole sentence such as "Oui, je veux ça."; its commas are punctuation, not synonym separators.
+const SENTENCE_END = /[.!?]\s*$/;
 // Illegal in file names on at least one OS, awkward inside a URL path segment,
 // or a control character (Unicode category Cc).
 const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
@@ -17,13 +19,16 @@ const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
 /**
  * Splits a deck `word` into the texts to voice, one per synonym,
  * with articles kept: "(la) cara, (el) rostro" -> ["la cara", "el rostro"].
+ * Whole sentences separate their alternatives with "|" so their own commas
+ * survive: "Tu veux ça ? | Veux-tu ça ?" -> ["Tu veux ça ?", "Veux-tu ça ?"].
  * Bracketed comments such as "[informal]" are dropped.
  */
 export function deriveVoicedTexts(word: string): string[] {
   const withoutComments = word.replace(IN_BRACKETS, '');
-  const separator = withoutComments.includes(',') ? ',' : ';';
-  return withoutComments
-    .split(separator)
+  const parts = withoutComments.includes('|') || SENTENCE_END.test(withoutComments)
+    ? withoutComments.split('|')
+    : withoutComments.split(',');
+  return parts
     .map((part) => part.replace(PARENTHESES, '').replace(WHITESPACE, ' ').trim())
     .filter((part) => part.length > 0);
 }
