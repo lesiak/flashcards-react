@@ -18,7 +18,7 @@
     { "en": "I want this.",                  "word": "이거 원해요. | 이거 갖고 싶어요.",
       "note": "Speech usually drops the object particle 을/를 and the topic particle 은/는; the full forms are 이걸 (이거 + 를) 원해요, 물을 마셔요, 오늘은 바빠요." },
     { "en": "I don't want that.",            "word": "그거 원하지 않아요." },
-    { "en": "Do you want this?",             "word": "이거 원하세요? | 이거 원해요?" },
+    { "en": "Do you want this?",             "word": "이거 원하세요? | 이거 필요해요?" },
     { "en": "Yes, I want this.",             "word": "네, 이거 원해요." },
     { "en": "No, I don't want it.",          "word": "아니요, 원하지 않아요. | 아니요, 괜찮아요.",
       "note": "괜찮아요 (I'm fine) is the polite everyday way to decline an offer." },
