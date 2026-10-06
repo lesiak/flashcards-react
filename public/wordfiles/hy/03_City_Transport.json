@@ -3,7 +3,7 @@
   "description": "City Transport",
   "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
   "cards": [
-    { "en": "car",                  "word": "ավտոմեքենա, մեքենա" },
+    { "en": "car",                  "word": "ավտոմեքենա | մեքենա" },
     { "en": "train",                "word": "գնացք" },
     { "en": "bus",                  "word": "ավտոբուս" },
     { "en": "metro",                "word": "մետրո" },

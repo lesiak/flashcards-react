@@ -18,10 +18,10 @@
     { "en": "dancer",        "word": "tanssija"    },
     { "en": "painter",       "word": "maalari"     },
     { "en": "artist",        "word": "taiteilija"  },
-    { "en": "designer",      "word": "suunnittelija,muotoilija" },
+    { "en": "designer",      "word": "suunnittelija | muotoilija" },
     { "en": "sculptor",       "word": ""           },
 
-    { "en": "scientist",     "word": "tiedemies, tutkija" },
+    { "en": "scientist",     "word": "tiedemies | tutkija" },
     { "en": "engineer",      "word": "insinööri"     },
     { "en": "farmer",        "word": "maanviljelijä" },
     { "en": "hunter",        "word": "metsästäjä"    },
@@ -47,7 +47,7 @@
 
     { "en": "baker",         "word": "leipuri"     },
     { "en": "hairdresser",   "word": "kampaaja"    },
-    { "en": "electrician",   "word": "sähköasentaja, sähkömies" },
+    { "en": "electrician",   "word": "sähköasentaja | sähkömies" },
     { "en": "plumber",       "word": "putkimies"   },
     { "en": "mechanic",      "word": "mekaanikko"  },
     { "en": "locksmith",     "word": "lukkoseppä"  },

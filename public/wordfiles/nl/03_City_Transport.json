@@ -10,11 +10,11 @@
     { "en": "tram",                 "word": "(de) tram" },
     { "en": "bicycle",              "word": "(de) fiets" },
     { "en": "ship",                 "word": "(het) schip" },
-    { "en": "motorcycle",           "word": "(de) motor, (de) motorfiets" },
+    { "en": "motorcycle",           "word": "(de) motor | (de) motorfiets" },
     { "en": "bus stop",             "word": "(de) bushalte" },
     { "en": "railway",              "word": "(de) spoorweg" },
-    { "en": "railway station",      "word": "(het) station, (het) treinstation" },
-    { "en": "ticket",               "word": "(het) kaartje, (het) ticket" },
-    { "en": "validate (a ticket)",  "word": "inchecken, afstempelen" }
+    { "en": "railway station",      "word": "(het) station | (het) treinstation" },
+    { "en": "ticket",               "word": "(het) kaartje | (het) ticket" },
+    { "en": "validate (a ticket)",  "word": "inchecken | afstempelen" }
   ]
 }

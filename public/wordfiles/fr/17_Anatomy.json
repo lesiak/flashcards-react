@@ -37,7 +37,7 @@
     { "en": "bald",               "word": "chauve" },
     { "en": "wrinkle",            "word": "(la) ride" },
     { "en": "(facial) features",  "word": "(les) traits du visage" },
-    { "en": "to raise",           "word": "lever, soulever" },
+    { "en": "to raise",           "word": "lever | soulever" },
     { "en": "belly",              "word": "(le) ventre" },
     { "en": "waist",              "word": "(la) taille" },
     { "en": "a bone",             "word": "(l')os" },
@@ -48,6 +48,6 @@
     { "en": "liver",              "word": "(le) foie" },
     { "en": "skull",              "word": "(le) crâne" },
     { "en": "female",             "word": "(la) femme" },
-    { "en": "side (body)",        "word": "(le) côté, (le) flanc" }
+    { "en": "side (body)",        "word": "(le) côté | (le) flanc" }
   ]
 }

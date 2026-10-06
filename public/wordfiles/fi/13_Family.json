@@ -9,11 +9,11 @@
     { "en": "child",       "word": "lapsi"        },
     { "en": "son",         "word": "poika"        },
     { "en": "daughter",    "word": "tytär"        },
-    { "en": "baby",        "word": "vauva, beibi" },
+    { "en": "baby",        "word": "vauva | beibi" },
     { "en": "wife",        "word": "vaimo"        },
     { "en": "husband",     "word": "aviomies"     },
 
-    { "en": "sister",      "word": "sisar, sisko" },
+    { "en": "sister",      "word": "sisar | sisko" },
     { "en": "brother",     "word": "veli"         },
     { "en": "twin",        "word": "kaksonen"     },
 
@@ -27,7 +27,7 @@
     { "en": "grandson",      "word": "pojanpoika" },
     { "en": "granddaughter", "word": "tyttärentytär" },
 
-    { "en": "uncle",         "word": "setä, eno"  },
+    { "en": "uncle",         "word": "setä | eno"  },
     { "en": "aunt",          "word": "täti"       },
 
     { "en": "cousin",        "word": "serkku"     },
@@ -37,7 +37,7 @@
     { "en": "generation",    "word": "sukupolvi"  },
     { "en": "a couple",          "word": "pari"     },
     { "en": "boyfriend",         "word": "poikaystävä"},
-    { "en": "marriage",          "word": "avioliitto, häät"},
+    { "en": "marriage",          "word": "avioliitto | häät"},
     { "en": "married",           "word": "naimisissa"},
     { "en": "to get married (to), marry", "word": "mennä naimisiin"},
 
@@ -47,7 +47,7 @@
     { "en": "groom",       "word": "sulhanen"  },
 
     { "en": "fiancé",       "word": "sulhanen" },
-    { "en": "partner",        "word": "kumppani, partneri" }
+    { "en": "partner",        "word": "kumppani | partneri" }
 
 
 

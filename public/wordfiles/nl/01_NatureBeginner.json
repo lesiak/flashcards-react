@@ -11,11 +11,11 @@
     { "en": "sun",      "word": "(de) zon" },
     { "en": "moon",     "word": "(de) maan" },
     { "en": "tree",     "word": "(de) boom" },
-    { "en": "forest",   "word": "(het) bos, (het) woud" },
+    { "en": "forest",   "word": "(het) bos | (het) woud" },
     { "en": "air",      "word": "(de) lucht" },
     { "en": "star",     "word": "(de) ster" },
-    { "en": "fog",      "word": "(de) mist, (de) nevel" },
-    { "en": "sky",      "word": "(de) hemel, (de) lucht" },
+    { "en": "fog",      "word": "(de) mist | (de) nevel" },
+    { "en": "sky",      "word": "(de) hemel | (de) lucht" },
     { "en": "cloud",    "word": "(de) wolk" },
     { "en": "rainbow",  "word": "(de) regenboog" }
   ]

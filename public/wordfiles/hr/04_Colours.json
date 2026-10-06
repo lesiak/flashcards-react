@@ -4,25 +4,25 @@
   "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
   "cards": [
 
-    { "en": "yellow", 	 "word": "žuta, žuti"},
-    { "en": "white",     "word": "bijela, bijeli"},
-    { "en": "black",     "word": "crna, crni" },
-    { "en": "red",       "word": "crvena, crveni"},
-    { "en": "blue",      "word": "plava, plavi" },
-    { "en": "green",     "word": "zelena, zeleni" },
-    { "en": "orange",    "word": "narančasta, narančasti"},
-    { "en": "pink",      "word": "ružičasta, ružičasti"},
-    { "en": "brown",     "word": "smeđa, smeđi"},
-    { "en": "grey",      "word": "siva, sivi"},
-    { "en": "violet",    "word": "ljubičasta, ljubičasti" },
-    { "en": "purple",    "word": "purpurna, purpurni" },
+    { "en": "yellow", 	 "word": "žuta | žuti"},
+    { "en": "white",     "word": "bijela | bijeli"},
+    { "en": "black",     "word": "crna | crni" },
+    { "en": "red",       "word": "crvena | crveni"},
+    { "en": "blue",      "word": "plava | plavi" },
+    { "en": "green",     "word": "zelena | zeleni" },
+    { "en": "orange",    "word": "narančasta | narančasti"},
+    { "en": "pink",      "word": "ružičasta | ružičasti"},
+    { "en": "brown",     "word": "smeđa | smeđi"},
+    { "en": "grey",      "word": "siva | sivi"},
+    { "en": "violet",    "word": "ljubičasta | ljubičasti" },
+    { "en": "purple",    "word": "purpurna | purpurni" },
 
     { "en": "colour",    "word": "boja"},
-    { "en": "colorful",  "word": "šarena, šareni"},
-    { "en": "colourless","word": "bezbojna, bezbojni"},
+    { "en": "colorful",  "word": "šarena | šareni"},
+    { "en": "colourless","word": "bezbojna | bezbojni"},
 
-    { "en": "light (colour)",   "word": "svijetla, svijetli"},
-    { "en": "dark (colour)",    "word": "tamna, tamni"},
-    { "en": "bright (colour)",  "word": "jarka, jarki"}
+    { "en": "light (colour)",   "word": "svijetla | svijetli"},
+    { "en": "dark (colour)",    "word": "tamna | tamni"},
+    { "en": "bright (colour)",  "word": "jarka | jarki"}
   ]
 }

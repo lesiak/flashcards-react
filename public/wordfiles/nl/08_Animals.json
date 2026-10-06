@@ -18,10 +18,10 @@
     { "en": "guinea pig",        "word": "(de) cavia" },
     { "en": "cage",              "word": "(de) kooi" },
     { "en": "aquarium",          "word": "(het) aquarium" },
-    { "en": "leash",             "word": "(de) riem, (de) hondenriem" },
-    { "en": "pet crate",         "word": "(de) transportbox, (de) reismand" },
+    { "en": "leash",             "word": "(de) riem | (de) hondenriem" },
+    { "en": "pet crate",         "word": "(de) transportbox | (de) reismand" },
     { "en": "nest",              "word": "(het) nest" },
-    { "en": "female (animals)",  "word": "(het) vrouwtje, (het) wijfje" },
+    { "en": "female (animals)",  "word": "(het) vrouwtje | (het) wijfje" },
     { "en": "male (animals)",    "word": "(het) mannetje" },
     { "en": "cattle",            "word": "(het) vee" },
     { "en": "vet",               "word": "(de) dierenarts" }

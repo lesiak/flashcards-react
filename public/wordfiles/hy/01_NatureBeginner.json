@@ -3,7 +3,7 @@
   "description": "Nature",
   "image": "https://images.unsplash.com/photo-1607729990584-b2bbaab4c1e4",
   "cards": [
-    { "en": "fire",     "word": "կրակ, հուր" },
+    { "en": "fire",     "word": "կրակ | հուր" },
     { "en": "light",    "word": "լույս" },
     { "en": "water",    "word": "ջուր" },
     { "en": "river",    "word": "գետ" },

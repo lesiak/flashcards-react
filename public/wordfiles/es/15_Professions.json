@@ -11,7 +11,7 @@
     { "en": "intern",        "word": "(el) becario"    },
     { "en": "department",    "word": ""                },
     { "en": "head of department", "word": "(el) jefe del departamento" },
-    { "en": "accountant",    "word": "(el/la) contable, (el) contado"  },
+    { "en": "accountant",    "word": "(el/la) contable | (el) contado"  },
     { "en": "cashier",       "word": "(el) cajero"     },
 
 
@@ -25,7 +25,7 @@
     { "en": "scientist",     "word": "(el) científico" },
     { "en": "engineer",      "word": "(el) ingeniero " },
     
-    { "en": "farmer",        "word": "(el) granjero, (el) agricultor"      },
+    { "en": "farmer",        "word": "(el) granjero | (el) agricultor"      },
     { "en": "hunter",        "word": "(el) cazador"    },
 
     { "en": "fashion model", "word": "(el/la) modelo [same form for both genders]" },
@@ -51,7 +51,7 @@
     { "en": "baker",         "word": "(el) panadero"       },
     { "en": "hairdresser",   "word": "(el) peluquero"      },
     { "en": "electrician",   "word": "(el) electricista"   },
-    { "en": "plumber",       "word": "(el) fontanero, plomero"   },
+    { "en": "plumber",       "word": "(el) fontanero | plomero"   },
     { "en": "mechanic",      "word": "(el) mecánico"     },
     { "en": "locksmith",     "word": "(el) cerrajero"    },
     { "en": "carpenter",     "word": "(el) carpintero"   },
@@ -62,7 +62,7 @@
     { "en": "barman",        "word": "(el/la) barman"    },
     { "en": "worker",        "word": "(el) obrero"       },
 
-    { "en": "teacher",       "word": "(el) profesor, (el) maestro"    }
+    { "en": "teacher",       "word": "(el) profesor | (el) maestro"    }
 
   ]
 }

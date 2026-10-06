@@ -3,18 +3,18 @@
   "description": "City Transport",
   "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
   "cards": [
-    { "en": "car",                  "word": "auto, automobil" },
+    { "en": "car",                  "word": "auto | automobil" },
     { "en": "train",                "word": "vlak" },
     { "en": "bus",                  "word": "autobus" },
-    { "en": "metro",                "word": "metro, podzemna željeznica" },
+    { "en": "metro",                "word": "metro | podzemna željeznica" },
     { "en": "tram",                 "word": "tramvaj" },
     { "en": "bicycle",              "word": "bicikl" },
     { "en": "ship",                 "word": "brod" },
-    { "en": "motorcycle",           "word": "motocikl, motor" },
+    { "en": "motorcycle",           "word": "motocikl | motor" },
     { "en": "bus stop",             "word": "autobusna stanica" },
     { "en": "railway",              "word": "željeznica" },
     { "en": "railway station",      "word": "željeznički kolodvor" },
     { "en": "ticket",               "word": "karta" },
-    { "en": "validate (a ticket)",  "word": "poništiti, validirati" }
+    { "en": "validate (a ticket)",  "word": "poništiti | validirati" }
   ]
 }

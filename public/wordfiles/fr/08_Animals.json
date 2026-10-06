@@ -5,8 +5,8 @@
   "cards": [
     { "en": "cat",               "word": "(le) chat" },
     { "en": "dog",               "word": "(le) chien" },
-    { "en": "chicken",           "word": "(le) poulet, (la) poule" },
-    { "en": "pig",               "word": "(le) cochon, (le) porc" },
+    { "en": "chicken",           "word": "(le) poulet | (la) poule" },
+    { "en": "pig",               "word": "(le) cochon | (le) porc" },
     { "en": "cow",               "word": "(la) vache" },
     { "en": "horse",             "word": "(le) cheval" },
     { "en": "sheep",             "word": "(le) mouton" },

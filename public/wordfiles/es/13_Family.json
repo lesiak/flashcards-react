@@ -10,7 +10,7 @@
     { "en": "son",         "word": "(el) hijo"     },
     { "en": "daughter",    "word": "(la) hija"     },
     { "en": "baby",        "word": "(el) bebé"     },
-    { "en": "wife",        "word": "(la) mujer, (la) esposa" },
+    { "en": "wife",        "word": "(la) mujer | (la) esposa" },
     { "en": "husband",     "word": "(el) marido"   },
 
     { "en": "sister",      "word": "(la) hermana"  },
@@ -47,7 +47,7 @@
     { "en": "bride",       "word": ""   },
     { "en": "groom",       "word": "(el) novio"  },
 
-    { "en": "fiancé",       "word": "(el) novio, (el) prometido" },
+    { "en": "fiancé",       "word": "(el) novio | (el) prometido" },
     { "en": "partner",      "word": "(la) pareja" }
 
 

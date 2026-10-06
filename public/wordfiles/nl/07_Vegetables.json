@@ -20,6 +20,6 @@
     { "en": "lettuce",      "word": "(de) sla" },
     { "en": "leek",         "word": "(de) prei" },
     { "en": "onion",        "word": "(de) ui" },
-    { "en": "hot pepper",   "word": "(de) chilipeper, (het) pepertje" }
+    { "en": "hot pepper",   "word": "(de) chilipeper | (het) pepertje" }
   ]
 }

@@ -5,7 +5,7 @@
   "cards": [
     { "en": "cat",               "word": "mačka" },
     { "en": "dog",               "word": "pes" },
-    { "en": "chicken",           "word": "piščanec, kokoš" },
+    { "en": "chicken",           "word": "piščanec | kokoš" },
     { "en": "pig",               "word": "prašič" },
     { "en": "cow",               "word": "krava" },
     { "en": "horse",             "word": "konj" },
@@ -13,7 +13,7 @@
     { "en": "goat",              "word": "koza" },
     { "en": "donkey",            "word": "osel" },
     { "en": "mouse",             "word": "miš" },
-    { "en": "puppy",             "word": "kuža, psiček" },
+    { "en": "puppy",             "word": "kuža | psiček" },
     { "en": "hamster",           "word": "hrček" },
     { "en": "guinea pig",        "word": "morski prašiček" },
     { "en": "cage",              "word": "kletka" },
@@ -23,7 +23,7 @@
     { "en": "nest",              "word": "gnezdo" },
     { "en": "female (animals)",  "word": "samica" },
     { "en": "male (animals)",    "word": "samec" },
-    { "en": "cattle",            "word": "govedo, živina" },
+    { "en": "cattle",            "word": "govedo | živina" },
     { "en": "vet",               "word": "veterinar" }
   ]
 }

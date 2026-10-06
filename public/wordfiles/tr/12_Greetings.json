@@ -14,7 +14,7 @@
 
     { "en": "see you",                   "word": "görüşürüz"         },
     { "en": "see you later",             "word": "sonra görüşürüz"   },
-    { "en": "goodbye",                   "word": "güle güle, hoşça kal, allahaısmarladık" },
+    { "en": "goodbye",                   "word": "güle güle | hoşça kal | allahaısmarladık" },
     { "en": "I don't understand",        "word": "anlamıyorum"         },
     { "en": "take care (of yourself)",   "word": "kendine iyi bak"  },
     { "en": "how are you (formal)",      "word": "nasılsınız" },
@@ -26,7 +26,7 @@
     { "en": "yes",                       "word": "evet"      },
     { "en": "no",                        "word": "hayır"      },
 
-    { "en": "excuse me",                 "word": "affedersiniz, pardon"     },
+    { "en": "excuse me",                 "word": "affedersiniz | pardon"     },
     { "en": "please",                    "word": "lütfen"          },
     { "en": "thank you",                 "word": "teşekkür ederim" },
     { "en": "thanks (informal)",         "word": "teşekkürler"     },

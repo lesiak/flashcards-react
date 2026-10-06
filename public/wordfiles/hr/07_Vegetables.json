@@ -8,8 +8,8 @@
     { "en": "carrot",       "word": "mrkva" },
     { "en": "aubergine",    "word": "patlidžan" },
     { "en": "potato",       "word": "krumpir" },
-    { "en": "tomato",       "word": "rajčica, paradajz" },
-    { "en": "pumpkin",      "word": "tikva, bundeva" },
+    { "en": "tomato",       "word": "rajčica | paradajz" },
+    { "en": "pumpkin",      "word": "tikva | bundeva" },
     { "en": "courgette",    "word": "tikvica" },
     { "en": "avocado",      "word": "avokado" },
     { "en": "cabbage",      "word": "kupus" },
@@ -20,6 +20,6 @@
     { "en": "lettuce",      "word": "zelena salata" },
     { "en": "leek",         "word": "poriluk" },
     { "en": "onion",        "word": "luk" },
-    { "en": "hot pepper",   "word": "ljuta papričica, feferon" }
+    { "en": "hot pepper",   "word": "ljuta papričica | feferon" }
   ]
 }

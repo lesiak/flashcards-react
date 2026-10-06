@@ -32,7 +32,7 @@
     { "en": "swan",            "word": "(le) cygne" },
     { "en": "stork",           "word": "(la) cigogne" },
     { "en": "gull",            "word": "(la) mouette" },
-    { "en": "owl",             "word": "(le) hibou, (la) chouette" },
+    { "en": "owl",             "word": "(le) hibou | (la) chouette" },
     { "en": "parrot",          "word": "(le) perroquet" },
     { "en": "fish",            "word": "(le) poisson" },
     { "en": "dolphin",         "word": "(le) dauphin" },

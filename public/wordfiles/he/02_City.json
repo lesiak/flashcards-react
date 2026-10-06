@@ -5,7 +5,7 @@
   "cards": [
     { "en": "city",                     "word": "עיר" },
     { "en": "village",                  "word": "כפר" },
-    { "en": "road",                     "word": "כביש, דרך" },
+    { "en": "road",                     "word": "כביש | דרך" },
     { "en": "street",                   "word": "רחוב" },
     { "en": "avenue",                   "word": "שדרה" },
     { "en": "bridge",                   "word": "גשר" },
@@ -20,7 +20,7 @@
     { "en": "alley, backstreet",        "word": "סמטה" },
     { "en": "(street) corner",          "word": "פינת רחוב" },
     { "en": "bank",                     "word": "בנק" },
-    { "en": "town hall",                "word": "עירייה, בית העירייה" },
+    { "en": "town hall",                "word": "עירייה | בית העירייה" },
     { "en": "fountain",                 "word": "מזרקה" },
     { "en": "bench",                    "word": "ספסל" },
     { "en": "suburb",                   "word": "פרבר" },

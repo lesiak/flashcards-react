@@ -15,7 +15,7 @@
     { "en": "tongue",             "word": "לשון" },
     { "en": "ear",                "word": "אוזן" },
     { "en": "body",               "word": "גוף" },
-    { "en": "hand",               "word": "יד, כף יד" },
+    { "en": "hand",               "word": "יד | כף יד" },
     { "en": "arm",                "word": "זרוע" },
     { "en": "left",               "word": "שמאל" },
     { "en": "right",              "word": "ימין" },
@@ -47,7 +47,7 @@
     { "en": "stomach",            "word": "קיבה" },
     { "en": "liver",              "word": "כבד" },
     { "en": "skull",              "word": "גולגולת" },
-    { "en": "female",             "word": "אישה, נקבה" },
+    { "en": "female",             "word": "אישה | נקבה" },
     { "en": "side (body)",        "word": "צד" }
   ]
 }

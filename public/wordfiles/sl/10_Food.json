@@ -11,7 +11,7 @@
     { "en": "coffee",          "word": "kava" },
     { "en": "juice",           "word": "sok" },
     { "en": "cheese",          "word": "sir" },
-    { "en": "french fries",    "word": "pomfri, ocvrt krompirček" },
+    { "en": "french fries",    "word": "pomfri | ocvrt krompirček" },
     { "en": "mushroom",        "word": "goba" },
     { "en": "soup",            "word": "juha" },
     { "en": "meat",            "word": "meso" },
@@ -20,7 +20,7 @@
     { "en": "oil",             "word": "olje" },
     { "en": "salad",           "word": "solata" },
     { "en": "ice",             "word": "led" },
-    { "en": "hot pepper",      "word": "feferon, čili" },
+    { "en": "hot pepper",      "word": "feferon | čili" },
     { "en": "milk",            "word": "mleko" },
     { "en": "butter",          "word": "maslo" },
     { "en": "cream",           "word": "smetana" },
@@ -50,7 +50,7 @@
     { "en": "fresh",           "word": "svež" },
     { "en": "refreshing",      "word": "osvežilen" },
     { "en": "tasty",           "word": "okusen" },
-    { "en": "delicious",       "word": "slasten, odličen" },
-    { "en": "disgusting",      "word": "ogaben, odvraten" }
+    { "en": "delicious",       "word": "slasten | odličen" },
+    { "en": "disgusting",      "word": "ogaben | odvraten" }
   ]
 }

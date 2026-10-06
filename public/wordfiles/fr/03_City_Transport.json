@@ -5,16 +5,16 @@
   "cards": [
     { "en": "car",                  "word": "(la) voiture" },
     { "en": "train",                "word": "(le) train" },
-    { "en": "bus",                  "word": "(le) bus, (l')autobus" },
+    { "en": "bus",                  "word": "(le) bus | (l')autobus" },
     { "en": "metro",                "word": "(le) métro" },
-    { "en": "tram",                 "word": "(le) tramway, (le) tram" },
-    { "en": "bicycle",              "word": "(le) vélo, (la) bicyclette" },
-    { "en": "ship",                 "word": "(le) bateau, (le) navire" },
+    { "en": "tram",                 "word": "(le) tramway | (le) tram" },
+    { "en": "bicycle",              "word": "(le) vélo | (la) bicyclette" },
+    { "en": "ship",                 "word": "(le) bateau | (le) navire" },
     { "en": "motorcycle",           "word": "(la) moto" },
     { "en": "bus stop",             "word": "(l')arrêt de bus" },
     { "en": "railway",              "word": "(le) chemin de fer" },
     { "en": "railway station",      "word": "(la) gare" },
-    { "en": "ticket",               "word": "(le) billet, (le) ticket" },
-    { "en": "validate (a ticket)",  "word": "composter, valider" }
+    { "en": "ticket",               "word": "(le) billet | (le) ticket" },
+    { "en": "validate (a ticket)",  "word": "composter | valider" }
   ]
 }

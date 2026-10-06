@@ -5,7 +5,7 @@
   "cards": [
     { "en": "cat",               "word": "חתול" },
     { "en": "dog",               "word": "כלב" },
-    { "en": "chicken",           "word": "תרנגולת, עוף" },
+    { "en": "chicken",           "word": "תרנגולת | עוף" },
     { "en": "pig",               "word": "חזיר" },
     { "en": "cow",               "word": "פרה" },
     { "en": "horse",             "word": "סוס" },
@@ -13,7 +13,7 @@
     { "en": "goat",              "word": "עז" },
     { "en": "donkey",            "word": "חמור" },
     { "en": "mouse",             "word": "עכבר" },
-    { "en": "puppy",             "word": "גור, כלבלב" },
+    { "en": "puppy",             "word": "גור | כלבלב" },
     { "en": "hamster",           "word": "אוגר" },
     { "en": "guinea pig",        "word": "שרקן" },
     { "en": "cage",              "word": "כלוב" },

@@ -7,8 +7,8 @@
     { "en": "small",  "word": "petit" },
     { "en": "long",   "word": "long" },
     { "en": "short",  "word": "court" },
-    { "en": "new",    "word": "nouveau, neuf" },
-    { "en": "old",    "word": "vieux, ancien" },
+    { "en": "new",    "word": "nouveau | neuf" },
+    { "en": "old",    "word": "vieux | ancien" },
     { "en": "clean",  "word": "propre" },
     { "en": "dirty",  "word": "sale" }
   ]

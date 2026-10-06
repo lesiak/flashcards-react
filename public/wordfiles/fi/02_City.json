@@ -27,7 +27,7 @@
     { "en": "neighborhood (district)", "word": "kaupunginosa" },
     { "en": "factory",          "word": "tehdas" },
     { "en": "statue",           "word": "patsas" },
-    { "en": "gallery",          "word": "galleria, taidegalleria" },
+    { "en": "gallery",          "word": "galleria | taidegalleria" },
     { "en": "urban",            "word": "kaupunki-"  }
   ]
 }

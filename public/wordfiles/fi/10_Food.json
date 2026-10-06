@@ -37,7 +37,7 @@
     { "en": "vodka",        "word": "vodka" },
     { "en": "wine",         "word": "viini"},
     { "en": "honey",        "word": "hunaja"},
-    { "en": "candy",        "word": "karkki, karamelli"},
+    { "en": "candy",        "word": "karkki | karamelli"},
     { "en": "cookie",       "word": "pikkuleipä"},
 
     { "en": "sandwich",     "word": "voileipä"},
@@ -49,7 +49,7 @@
     { "en": "sausage",        "word": "makkara"},
 
 
-    { "en": "ice cream",      "word": "jätski, jäätelö" },
+    { "en": "ice cream",      "word": "jätski | jäätelö" },
     { "en": "alcohol",        "word": "alkoholi" },
     { "en": "sesame",         "word": "seesami" },
     { "en": "powder",         "word": "jauhe"     },

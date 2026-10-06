@@ -14,12 +14,12 @@
     { "en": "brown",            "word": "חום" },
     { "en": "grey",             "word": "אפור" },
     { "en": "violet",           "word": "סגול" },
-    { "en": "purple",           "word": "סגול, ארגמן" },
+    { "en": "purple",           "word": "סגול | ארגמן" },
     { "en": "colour",           "word": "צבע" },
     { "en": "colorful",         "word": "צבעוני" },
     { "en": "colourless",       "word": "חסר צבע" },
     { "en": "light (colour)",   "word": "בהיר" },
     { "en": "dark (colour)",    "word": "כהה" },
-    { "en": "bright (colour)",  "word": "עז, בוהק" }
+    { "en": "bright (colour)",  "word": "עז | בוהק" }
   ]
 }

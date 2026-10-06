@@ -19,7 +19,7 @@
     { "en": "mushroom",     "word": "gljiva"    },
 
 
-    { "en": "soup",         "word": "juha, čorba" },
+    { "en": "soup",         "word": "juha | čorba" },
     { "en": "meat",         "word": "meso" },
     { "en": "bacon",        "word": "slanina"},
     { "en": "egg",          "word": "jaje"},
@@ -30,7 +30,7 @@
     { "en": "hot pepper",   "word": "ljuta papričica" },
     { "en": "milk",         "word": "mlijeko" },
     { "en": "butter",       "word": "maslac" },
-    { "en": "cream",        "word": "vrhnje, krema" },
+    { "en": "cream",        "word": "vrhnje | krema" },
     { "en": "cake",         "word": "torta"},
 
     { "en": "beer",         "word": "pivo"         },
@@ -63,7 +63,7 @@
     { "en": "fresh",        "word": "svježe" },
     { "en": "refreshing",   "word": "osvježavajuće"},
     { "en": "tasty",        "word": "ukusno"},
-    { "en": "delicious",    "word": "prefino, izvrsno"},
+    { "en": "delicious",    "word": "prefino | izvrsno"},
     { "en": "disgusting",   "word": "odvratno"}
 
 

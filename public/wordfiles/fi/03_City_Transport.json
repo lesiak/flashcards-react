@@ -5,7 +5,7 @@
   "cards": [
     { "en": "car",        "word": "auto"              },
     { "en": "train",      "word": "juna"              },
-    { "en": "bus",        "word": "bussi, linja-auto" },
+    { "en": "bus",        "word": "bussi | linja-auto" },
     { "en": "metro",      "word": "maanalainen"       },
     { "en": "tram",       "word": "raitiovaunu"       },
     { "en": "bicycle",    "word": "polkupyörä"        },

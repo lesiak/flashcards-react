@@ -10,7 +10,7 @@
       
       { "en": "head",      "word": "(la) cabeza"   },
       { "en": "eye",       "word": "(el) ojo"      },
-      { "en": "face",      "word": "(la) cara, (el) rostro"  },
+      { "en": "face",      "word": "(la) cara | (el) rostro"  },
       { "en": "brain",     "word": "(el) cerebro"  },
       { "en": "neck",      "word": "(el) cuello"   },
       { "en": "tongue",    "word": "(la) lengua"   },
@@ -55,7 +55,7 @@
       { "en": "lung",       "word": "(el) pulmón" },
       { "en": "stomach",    "word": "(el) estómago" },
       { "en": "liver",      "word": "(el) hígado"   },
-      { "en": "skull",      "word": "(el) cráneo, (la) calavera" },
+      { "en": "skull",      "word": "(el) cráneo | (la) calavera" },
       
       { "en": "female",     "word": "(la) hembra" },
       

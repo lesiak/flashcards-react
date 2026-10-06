@@ -9,7 +9,7 @@
     { "en": "aubergine",    "word": "(l')aubergine" },
     { "en": "potato",       "word": "(la) pomme de terre" },
     { "en": "tomato",       "word": "(la) tomate" },
-    { "en": "pumpkin",      "word": "(la) citrouille, (le) potiron" },
+    { "en": "pumpkin",      "word": "(la) citrouille | (le) potiron" },
     { "en": "courgette",    "word": "(la) courgette" },
     { "en": "avocado",      "word": "(l')avocat" },
     { "en": "cabbage",      "word": "(le) chou" },
@@ -17,7 +17,7 @@
     { "en": "broccoli",     "word": "(le) brocoli" },
     { "en": "spinach",      "word": "(les) épinards" },
     { "en": "bell pepper",  "word": "(le) poivron" },
-    { "en": "lettuce",      "word": "(la) salade, (la) laitue" },
+    { "en": "lettuce",      "word": "(la) salade | (la) laitue" },
     { "en": "leek",         "word": "(le) poireau" },
     { "en": "onion",        "word": "(l')oignon" },
     { "en": "hot pepper",   "word": "(le) piment" }

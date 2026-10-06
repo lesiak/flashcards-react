@@ -15,7 +15,7 @@
     { "en": "brown",     "word": "ruskea"},
     { "en": "grey",      "word": "harmaa"},
     { "en": "violet",    "word": "violetti" },
-    { "en": "purple",    "word": "sinipunainen, violetti" },
+    { "en": "purple",    "word": "sinipunainen | violetti" },
 
     { "en": "colour",    "word": "väri"},
     { "en": "colorful",  "word": "värikäs"},

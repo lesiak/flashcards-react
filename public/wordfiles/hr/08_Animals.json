@@ -5,7 +5,7 @@
   "cards": [
     { "en": "cat",       	"word": "mačka"   },
     { "en": "dog",       	"word": "pas"     },
-    { "en": "chicken",   	"word": "kokoš, pile" },
+    { "en": "chicken",   	"word": "kokoš | pile" },
     { "en": "pig",      	"word": "svinja"  },
     { "en": "cow",      	"word": "krava"   },
     { "en": "horse",        "word": "konj"    },
@@ -29,7 +29,7 @@
     { "en": "female (animals)","word": "ženka" },
     { "en": "male (animals)",  "word": "mužjak" },
 
-    { "en": "cattle",     "word": "stoka, goveda"},
+    { "en": "cattle",     "word": "stoka | goveda"},
     { "en": "vet",        "word": "veterinar" }
   ]
 }
