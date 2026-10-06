@@ -7,11 +7,12 @@
  * can never disagree about a file name.
  */
 
+// "[informal]": a note for the reader, never spoken.
 const IN_BRACKETS = /\[.+?\]/g;
+// "(el/la)": either article, so the word is voiced without one.
+const EITHER_IN_PARENTHESES = /\([^)]*\/[^)]*\)/g;
 const PARENTHESES = /[()]/g;
 const WHITESPACE = /\s+/g;
-// A whole sentence such as "Oui, je veux ça."; its commas are punctuation, not synonym separators.
-const SENTENCE_END = /[.!?]\s*$/;
 // Illegal in file names on at least one OS, awkward inside a URL path segment,
 // or a control character (Unicode category Cc).
 const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
@@ -19,18 +20,19 @@ const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
 const SENTENCE_PUNCTUATION = /[.,!?¿¡…]/g;
 
 /**
- * Splits a deck `word` into the texts to voice, one per synonym,
- * with articles kept: "(la) cara, (el) rostro" -> ["la cara", "el rostro"].
- * Whole sentences separate their alternatives with "|" so their own commas
- * survive: "Tu veux ça ? | Veux-tu ça ?" -> ["Tu veux ça ?", "Veux-tu ça ?"].
- * Bracketed comments such as "[informal]" are dropped.
+ * Splits a deck `word` into the texts to voice, one per alternative.
+ * The conventions (see public/wordfiles/README.md):
+ *   "|" separates alternatives:  "(la) cara | (el) rostro" -> ["la cara", "el rostro"]
+ *   "( )" is spoken, shown as optional:  "(le) pain" -> ["le pain"]
+ *   "( / )" means either, voiced bare:  "(el/la) artista" -> ["artista"]
+ *   "[ ]" is a silent note:  "mennä poikki [e.g. a room]" -> ["mennä poikki"]
+ * A comma is ordinary punctuation: "Oui, je veux ça." -> ["Oui, je veux ça."].
  */
 export function deriveVoicedTexts(word: string): string[] {
-  const withoutComments = word.replace(IN_BRACKETS, '');
-  const parts = withoutComments.includes('|') || SENTENCE_END.test(withoutComments)
-    ? withoutComments.split('|')
-    : withoutComments.split(',');
-  return parts
+  return word
+    .replace(IN_BRACKETS, '')
+    .replace(EITHER_IN_PARENTHESES, '')
+    .split('|')
     .map((part) => part.replace(PARENTHESES, '').replace(WHITESPACE, ' ').trim())
     .filter((part) => part.length > 0);
 }
