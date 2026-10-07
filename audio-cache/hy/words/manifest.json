@@ -1,6 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "lang": "hy",
+  "group": "words",
   "voice": {
     "voiceId": "kyqw8ZqDBKvdhEqCx0j9",
     "modelId": "eleven_v4",
@@ -10,2659 +11,2659 @@
     "կրակ, հուր": [
       {
         "text": "կրակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կրակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կրակ.mp3"
       },
       {
         "text": "հուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հուր.mp3"
       }
     ],
     "լույս": [
       {
         "text": "լույս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լույս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լույս.mp3"
       }
     ],
     "ջուր": [
       {
         "text": "ջուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ջուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ջուր.mp3"
       }
     ],
     "գետ": [
       {
         "text": "գետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գետ.mp3"
       }
     ],
     "ծով": [
       {
         "text": "ծով",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծով.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծով.mp3"
       }
     ],
     "արև": [
       {
         "text": "արև",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արև.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արև.mp3"
       }
     ],
     "լուսին": [
       {
         "text": "լուսին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լուսին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լուսին.mp3"
       }
     ],
     "ծառ": [
       {
         "text": "ծառ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծառ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծառ.mp3"
       }
     ],
     "անտառ": [
       {
         "text": "անտառ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/անտառ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/անտառ.mp3"
       }
     ],
     "օդ": [
       {
         "text": "օդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օդ.mp3"
       }
     ],
     "աստղ": [
       {
         "text": "աստղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աստղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աստղ.mp3"
       }
     ],
     "մառախուղ": [
       {
         "text": "մառախուղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մառախուղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մառախուղ.mp3"
       }
     ],
     "երկինք": [
       {
         "text": "երկինք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երկինք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երկինք.mp3"
       }
     ],
     "ամպ": [
       {
         "text": "ամպ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամպ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամպ.mp3"
       }
     ],
     "ծիածան": [
       {
         "text": "ծիածան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծիածան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծիածան.mp3"
       }
     ],
     "քաղաք": [
       {
         "text": "քաղաք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քաղաք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քաղաք.mp3"
       }
     ],
     "գյուղ": [
       {
         "text": "գյուղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գյուղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գյուղ.mp3"
       }
     ],
     "ճանապարհ": [
       {
         "text": "ճանապարհ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճանապարհ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճանապարհ.mp3"
       }
     ],
     "փողոց": [
       {
         "text": "փողոց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փողոց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փողոց.mp3"
       }
     ],
     "պողոտա": [
       {
         "text": "պողոտա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պողոտա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պողոտա.mp3"
       }
     ],
     "կամուրջ": [
       {
         "text": "կամուրջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կամուրջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կամուրջ.mp3"
       }
     ],
     "հրապարակ": [
       {
         "text": "հրապարակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հրապարակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հրապարակ.mp3"
       }
     ],
     "կենտրոն": [
       {
         "text": "կենտրոն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կենտրոն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կենտրոն.mp3"
       }
     ],
     "եկեղեցի": [
       {
         "text": "եկեղեցի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/եկեղեցի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/եկեղեցի.mp3"
       }
     ],
     "դեղատուն": [
       {
         "text": "դեղատուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դեղատուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դեղատուն.mp3"
       }
     ],
     "ամրոց": [
       {
         "text": "ամրոց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամրոց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամրոց.mp3"
       }
     ],
     "շենք": [
       {
         "text": "շենք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շենք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շենք.mp3"
       }
     ],
     "դպրոց": [
       {
         "text": "դպրոց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դպրոց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դպրոց.mp3"
       }
     ],
     "թանգարան": [
       {
         "text": "թանգարան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թանգարան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թանգարան.mp3"
       }
     ],
     "նրբանցք": [
       {
         "text": "նրբանցք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նրբանցք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբանցք.mp3"
       }
     ],
     "փողոցի անկյուն": [
       {
         "text": "փողոցի անկյուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փողոցի_անկյուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փողոցի_անկյուն.mp3"
       }
     ],
     "բանկ": [
       {
         "text": "բանկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բանկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բանկ.mp3"
       }
     ],
     "քաղաքապետարան": [
       {
         "text": "քաղաքապետարան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քաղաքապետարան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քաղաքապետարան.mp3"
       }
     ],
     "շատրվան": [
       {
         "text": "շատրվան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շատրվան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շատրվան.mp3"
       }
     ],
     "նստարան": [
       {
         "text": "նստարան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նստարան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նստարան.mp3"
       }
     ],
     "ծայրամաս": [
       {
         "text": "ծայրամաս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծայրամաս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծայրամաս.mp3"
       }
     ],
     "թաղամաս": [
       {
         "text": "թաղամաս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թաղամաս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թաղամաս.mp3"
       }
     ],
     "գործարան": [
       {
         "text": "գործարան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գործարան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գործարան.mp3"
       }
     ],
     "արձան": [
       {
         "text": "արձան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արձան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արձան.mp3"
       }
     ],
     "պատկերասրահ": [
       {
         "text": "պատկերասրահ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պատկերասրահ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պատկերասրահ.mp3"
       }
     ],
     "քաղաքային": [
       {
         "text": "քաղաքային",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քաղաքային.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քաղաքային.mp3"
       }
     ],
     "ավտոմեքենա, մեքենա": [
       {
         "text": "ավտոմեքենա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ավտոմեքենա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավտոմեքենա.mp3"
       },
       {
         "text": "մեքենա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեքենա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեքենա.mp3"
       }
     ],
     "գնացք": [
       {
         "text": "գնացք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գնացք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գնացք.mp3"
       }
     ],
     "ավտոբուս": [
       {
         "text": "ավտոբուս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ավտոբուս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավտոբուս.mp3"
       }
     ],
     "մետրո": [
       {
         "text": "մետրո",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մետրո.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մետրո.mp3"
       }
     ],
     "տրամվայ": [
       {
         "text": "տրամվայ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տրամվայ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տրամվայ.mp3"
       }
     ],
     "հեծանիվ": [
       {
         "text": "հեծանիվ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հեծանիվ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հեծանիվ.mp3"
       }
     ],
     "նավ": [
       {
         "text": "նավ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նավ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նավ.mp3"
       }
     ],
     "մոտոցիկլետ": [
       {
         "text": "մոտոցիկլետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մոտոցիկլետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մոտոցիկլետ.mp3"
       }
     ],
     "կանգառ": [
       {
         "text": "կանգառ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կանգառ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կանգառ.mp3"
       }
     ],
     "երկաթուղի": [
       {
         "text": "երկաթուղի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երկաթուղի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երկաթուղի.mp3"
       }
     ],
     "կայարան": [
       {
         "text": "կայարան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կայարան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կայարան.mp3"
       }
     ],
     "տոմս": [
       {
         "text": "տոմս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տոմս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տոմս.mp3"
       }
     ],
     "վավերացնել": [
       {
         "text": "վավերացնել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վավերացնել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վավերացնել.mp3"
       }
     ],
     "դեղին": [
       {
         "text": "դեղին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դեղին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դեղին.mp3"
       }
     ],
     "սպիտակ": [
       {
         "text": "սպիտակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սպիտակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սպիտակ.mp3"
       }
     ],
     "սև": [
       {
         "text": "սև",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սև.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սև.mp3"
       }
     ],
     "կարմիր": [
       {
         "text": "կարմիր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարմիր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարմիր.mp3"
       }
     ],
     "կապույտ": [
       {
         "text": "կապույտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կապույտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կապույտ.mp3"
       }
     ],
     "կանաչ": [
       {
         "text": "կանաչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կանաչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կանաչ.mp3"
       }
     ],
     "նարնջագույն": [
       {
         "text": "նարնջագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նարնջագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նարնջագույն.mp3"
       }
     ],
     "վարդագույն": [
       {
         "text": "վարդագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վարդագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վարդագույն.mp3"
       }
     ],
     "դարչնագույն": [
       {
         "text": "դարչնագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դարչնագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դարչնագույն.mp3"
       }
     ],
     "մոխրագույն": [
       {
         "text": "մոխրագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մոխրագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մոխրագույն.mp3"
       }
     ],
     "մանուշակագույն": [
       {
         "text": "մանուշակագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մանուշակագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մանուշակագույն.mp3"
       }
     ],
     "ծիրանագույն": [
       {
         "text": "ծիրանագույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծիրանագույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծիրանագույն.mp3"
       }
     ],
     "գույն": [
       {
         "text": "գույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գույն.mp3"
       }
     ],
     "գունավոր": [
       {
         "text": "գունավոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գունավոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գունավոր.mp3"
       }
     ],
     "անգույն": [
       {
         "text": "անգույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/անգույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/անգույն.mp3"
       }
     ],
     "բաց": [
       {
         "text": "բաց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բաց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բաց.mp3"
       }
     ],
     "մուգ": [
       {
         "text": "մուգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մուգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մուգ.mp3"
       }
     ],
     "վառ": [
       {
         "text": "վառ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վառ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վառ.mp3"
       }
     ],
     "մեկ": [
       {
         "text": "մեկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեկ.mp3"
       }
     ],
     "երկու": [
       {
         "text": "երկու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երկու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երկու.mp3"
       }
     ],
     "երեք": [
       {
         "text": "երեք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երեք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երեք.mp3"
       }
     ],
     "չորս": [
       {
         "text": "չորս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/չորս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/չորս.mp3"
       }
     ],
     "հինգ": [
       {
         "text": "հինգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հինգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հինգ.mp3"
       }
     ],
     "վեց": [
       {
         "text": "վեց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վեց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վեց.mp3"
       }
     ],
     "յոթ": [
       {
         "text": "յոթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/յոթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/յոթ.mp3"
       }
     ],
     "ութ": [
       {
         "text": "ութ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ութ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ութ.mp3"
       }
     ],
     "ինը": [
       {
         "text": "ինը",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ինը.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ինը.mp3"
       }
     ],
     "տասը": [
       {
         "text": "տասը",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տասը.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տասը.mp3"
       }
     ],
     "միրգ, պտուղ": [
       {
         "text": "միրգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/միրգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միրգ.mp3"
       },
       {
         "text": "պտուղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պտուղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պտուղ.mp3"
       }
     ],
     "խնձոր": [
       {
         "text": "խնձոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խնձոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խնձոր.mp3"
       }
     ],
     "տանձ": [
       {
         "text": "տանձ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տանձ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տանձ.mp3"
       }
     ],
     "սալոր": [
       {
         "text": "սալոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սալոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սալոր.mp3"
       }
     ],
     "կեռաս, բալ": [
       {
         "text": "կեռաս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կեռաս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կեռաս.mp3"
       },
       {
         "text": "բալ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բալ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բալ.mp3"
       }
     ],
     "դեղձ": [
       {
         "text": "դեղձ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դեղձ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դեղձ.mp3"
       }
     ],
     "ծիրան": [
       {
         "text": "ծիրան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծիրան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծիրան.mp3"
       }
     ],
     "ելակ": [
       {
         "text": "ելակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ելակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ելակ.mp3"
       }
     ],
     "ազնվամորի": [
       {
         "text": "ազնվամորի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ազնվամորի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ազնվամորի.mp3"
       }
     ],
     "մոշ": [
       {
         "text": "մոշ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մոշ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մոշ.mp3"
       }
     ],
     "հապալաս": [
       {
         "text": "հապալաս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հապալաս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հապալաս.mp3"
       }
     ],
     "խաղող": [
       {
         "text": "խաղող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խաղող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խաղող.mp3"
       }
     ],
     "հաղարջ": [
       {
         "text": "հաղարջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հաղարջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հաղարջ.mp3"
       }
     ],
     "փշահաղարջ": [
       {
         "text": "փշահաղարջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փշահաղարջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փշահաղարջ.mp3"
       }
     ],
     "բանան": [
       {
         "text": "բանան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բանան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բանան.mp3"
       }
     ],
     "կիտրոն": [
       {
         "text": "կիտրոն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կիտրոն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կիտրոն.mp3"
       }
     ],
     "արքայախնձոր": [
       {
         "text": "արքայախնձոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արքայախնձոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արքայախնձոր.mp3"
       }
     ],
     "ձմերուկ": [
       {
         "text": "ձմերուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձմերուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձմերուկ.mp3"
       }
     ],
     "ընկույզ": [
       {
         "text": "ընկույզ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ընկույզ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ընկույզ.mp3"
       }
     ],
     "պնդուկ": [
       {
         "text": "պնդուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պնդուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պնդուկ.mp3"
       }
     ],
     "նուշ": [
       {
         "text": "նուշ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նուշ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նուշ.mp3"
       }
     ],
     "հասած, հասուն": [
       {
         "text": "հասած",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հասած.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հասած.mp3"
       },
       {
         "text": "հասուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հասուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հասուն.mp3"
       }
     ],
     "սխտոր": [
       {
         "text": "սխտոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սխտոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սխտոր.mp3"
       }
     ],
     "վարունգ": [
       {
         "text": "վարունգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վարունգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վարունգ.mp3"
       }
     ],
     "գազար": [
       {
         "text": "գազար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գազար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գազար.mp3"
       }
     ],
     "սմբուկ": [
       {
         "text": "սմբուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սմբուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սմբուկ.mp3"
       }
     ],
     "կարտոֆիլ": [
       {
         "text": "կարտոֆիլ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարտոֆիլ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարտոֆիլ.mp3"
       }
     ],
     "լոլիկ, պոմիդոր": [
       {
         "text": "լոլիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լոլիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լոլիկ.mp3"
       },
       {
         "text": "պոմիդոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պոմիդոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պոմիդոր.mp3"
       }
     ],
     "դդում": [
       {
         "text": "դդում",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դդում.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դդում.mp3"
       }
     ],
     "դդմիկ": [
       {
         "text": "դդմիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դդմիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դդմիկ.mp3"
       }
     ],
     "ավոկադո": [
       {
         "text": "ավոկադո",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ավոկադո.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավոկադո.mp3"
       }
     ],
     "կաղամբ": [
       {
         "text": "կաղամբ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կաղամբ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կաղամբ.mp3"
       }
     ],
     "ծաղկակաղամբ": [
       {
         "text": "ծաղկակաղամբ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծաղկակաղամբ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծաղկակաղամբ.mp3"
       }
     ],
     "բրոկկոլի": [
       {
         "text": "բրոկկոլի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բրոկկոլի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բրոկկոլի.mp3"
       }
     ],
     "սպանախ": [
       {
         "text": "սպանախ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սպանախ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սպանախ.mp3"
       }
     ],
     "պղպեղ, բիբար": [
       {
         "text": "պղպեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պղպեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պղպեղ.mp3"
       },
       {
         "text": "բիբար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բիբար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բիբար.mp3"
       }
     ],
     "հազար, սալաթ": [
       {
         "text": "հազար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հազար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հազար.mp3"
       },
       {
         "text": "սալաթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սալաթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սալաթ.mp3"
       }
     ],
     "պրաս": [
       {
         "text": "պրաս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պրաս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պրաս.mp3"
       }
     ],
     "սոխ": [
       {
         "text": "սոխ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սոխ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սոխ.mp3"
       }
     ],
     "կծու պղպեղ": [
       {
         "text": "կծու պղպեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կծու_պղպեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կծու_պղպեղ.mp3"
       }
     ],
     "կատու": [
       {
         "text": "կատու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կատու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կատու.mp3"
       }
     ],
     "շուն": [
       {
         "text": "շուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շուն.mp3"
       }
     ],
     "հավ": [
       {
         "text": "հավ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հավ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հավ.mp3"
       }
     ],
     "խոզ": [
       {
         "text": "խոզ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խոզ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խոզ.mp3"
       }
     ],
     "կով": [
       {
         "text": "կով",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կով.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կով.mp3"
       }
     ],
     "ձի": [
       {
         "text": "ձի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձի.mp3"
       }
     ],
     "ոչխար": [
       {
         "text": "ոչխար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոչխար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոչխար.mp3"
       }
     ],
     "այծ": [
       {
         "text": "այծ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/այծ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/այծ.mp3"
       }
     ],
     "էշ, ավանակ": [
       {
         "text": "էշ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/էշ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/էշ.mp3"
       },
       {
         "text": "ավանակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ավանակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավանակ.mp3"
       }
     ],
     "մուկ": [
       {
         "text": "մուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մուկ.mp3"
       }
     ],
     "շնիկ, լակոտ": [
       {
         "text": "շնիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շնիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շնիկ.mp3"
       },
       {
         "text": "լակոտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լակոտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լակոտ.mp3"
       }
     ],
     "համստեր": [
       {
         "text": "համստեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/համստեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/համստեր.mp3"
       }
     ],
     "ծովախոզուկ": [
       {
         "text": "ծովախոզուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծովախոզուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծովախոզուկ.mp3"
       }
     ],
     "վանդակ": [
       {
         "text": "վանդակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վանդակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վանդակ.mp3"
       }
     ],
     "ակվարիում": [
       {
         "text": "ակվարիում",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ակվարիում.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ակվարիում.mp3"
       }
     ],
     "վզկապ": [
       {
         "text": "վզկապ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վզկապ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վզկապ.mp3"
       }
     ],
     "փոխադրման վանդակ": [
       {
         "text": "փոխադրման վանդակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փոխադրման_վանդակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փոխադրման_վանդակ.mp3"
       }
     ],
     "բույն": [
       {
         "text": "բույն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բույն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բույն.mp3"
       }
     ],
     "էգ": [
       {
         "text": "էգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/էգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/էգ.mp3"
       }
     ],
     "արու": [
       {
         "text": "արու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արու.mp3"
       }
     ],
     "անասուն": [
       {
         "text": "անասուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/անասուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/անասուն.mp3"
       }
     ],
     "անասնաբույժ": [
       {
         "text": "անասնաբույժ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/անասնաբույժ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/անասնաբույժ.mp3"
       }
     ],
     "արջ": [
       {
         "text": "արջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արջ.mp3"
       }
     ],
     "լոս": [
       {
         "text": "լոս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լոս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լոս.mp3"
       }
     ],
     "եղջերու": [
       {
         "text": "եղջերու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/եղջերու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/եղջերու.mp3"
       }
     ],
     "հյուսիսային եղջերու": [
       {
         "text": "հյուսիսային եղջերու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հյուսիսային_եղջերու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հյուսիսային_եղջերու.mp3"
       }
     ],
     "գայլ": [
       {
         "text": "գայլ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գայլ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գայլ.mp3"
       }
     ],
     "աղվես": [
       {
         "text": "աղվես",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աղվես.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աղվես.mp3"
       }
     ],
     "ոզնի": [
       {
         "text": "ոզնի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոզնի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոզնի.mp3"
       }
     ],
     "ճագար": [
       {
         "text": "ճագար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճագար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճագար.mp3"
       }
     ],
     "նապաստակ": [
       {
         "text": "նապաստակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նապաստակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նապաստակ.mp3"
       }
     ],
     "վարազ": [
       {
         "text": "վարազ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վարազ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վարազ.mp3"
       }
     ],
     "սկյուռ": [
       {
         "text": "սկյուռ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սկյուռ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սկյուռ.mp3"
       }
     ],
     "գորտ": [
       {
         "text": "գորտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գորտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գորտ.mp3"
       }
     ],
     "օձ": [
       {
         "text": "օձ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օձ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օձ.mp3"
       }
     ],
     "վագր": [
       {
         "text": "վագր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վագր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վագր.mp3"
       }
     ],
     "առյուծ": [
       {
         "text": "առյուծ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/առյուծ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/առյուծ.mp3"
       }
     ],
     "փիղ": [
       {
         "text": "փիղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փիղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փիղ.mp3"
       }
     ],
     "ուղտ": [
       {
         "text": "ուղտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուղտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուղտ.mp3"
       }
     ],
     "ընձուղտ": [
       {
         "text": "ընձուղտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ընձուղտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ընձուղտ.mp3"
       }
     ],
     "կոկորդիլոս": [
       {
         "text": "կոկորդիլոս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կոկորդիլոս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կոկորդիլոս.mp3"
       }
     ],
     "կապիկ": [
       {
         "text": "կապիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կապիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կապիկ.mp3"
       }
     ],
     "թռչուն": [
       {
         "text": "թռչուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թռչուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թռչուն.mp3"
       }
     ],
     "բադ": [
       {
         "text": "բադ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բադ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բադ.mp3"
       }
     ],
     "սագ": [
       {
         "text": "սագ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սագ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սագ.mp3"
       }
     ],
     "աղավնի": [
       {
         "text": "աղավնի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աղավնի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աղավնի.mp3"
       }
     ],
     "արծիվ": [
       {
         "text": "արծիվ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արծիվ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արծիվ.mp3"
       }
     ],
     "ճնճղուկ": [
       {
         "text": "ճնճղուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճնճղուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճնճղուկ.mp3"
       }
     ],
     "կարապ": [
       {
         "text": "կարապ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարապ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարապ.mp3"
       }
     ],
     "արագիլ": [
       {
         "text": "արագիլ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արագիլ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արագիլ.mp3"
       }
     ],
     "ճայ": [
       {
         "text": "ճայ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճայ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճայ.mp3"
       }
     ],
     "բու": [
       {
         "text": "բու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բու.mp3"
       }
     ],
     "թութակ": [
       {
         "text": "թութակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թութակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թութակ.mp3"
       }
     ],
     "ձուկ": [
       {
         "text": "ձուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձուկ.mp3"
       }
     ],
     "դելֆին": [
       {
         "text": "դելֆին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դելֆին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դելֆին.mp3"
       }
     ],
     "շնաձուկ": [
       {
         "text": "շնաձուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շնաձուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շնաձուկ.mp3"
       }
     ],
     "օձաձուկ": [
       {
         "text": "օձաձուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օձաձուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օձաձուկ.mp3"
       }
     ],
     "թունա": [
       {
         "text": "թունա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թունա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թունա.mp3"
       }
     ],
     "ծովաստղ": [
       {
         "text": "ծովաստղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծովաստղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծովաստղ.mp3"
       }
     ],
     "ծովաձի": [
       {
         "text": "ծովաձի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծովաձի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծովաձի.mp3"
       }
     ],
     "խռիկ": [
       {
         "text": "խռիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խռիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խռիկ.mp3"
       }
     ],
     "լողակ": [
       {
         "text": "լողակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լողակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լողակ.mp3"
       }
     ],
     "կենդանի": [
       {
         "text": "կենդանի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կենդանի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կենդանի.mp3"
       }
     ],
     "թև": [
       {
         "text": "թև",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թև.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թև.mp3"
       }
     ],
     "եղջյուր": [
       {
         "text": "եղջյուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/եղջյուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/եղջյուր.mp3"
       }
     ],
     "պոչ": [
       {
         "text": "պոչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պոչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պոչ.mp3"
       }
     ],
     "կտուց": [
       {
         "text": "կտուց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կտուց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կտուց.mp3"
       }
     ],
     "մորթի": [
       {
         "text": "մորթի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մորթի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մորթի.mp3"
       }
     ],
     "մրջյուն": [
       {
         "text": "մրջյուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մրջյուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մրջյուն.mp3"
       }
     ],
     "թիթեռ": [
       {
         "text": "թիթեռ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թիթեռ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թիթեռ.mp3"
       }
     ],
     "մեղու": [
       {
         "text": "մեղու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեղու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեղու.mp3"
       }
     ],
     "կրետ": [
       {
         "text": "կրետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կրետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կրետ.mp3"
       }
     ],
     "միջատ": [
       {
         "text": "միջատ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/միջատ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միջատ.mp3"
       }
     ],
     "ճանճ": [
       {
         "text": "ճանճ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճանճ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճանճ.mp3"
       }
     ],
     "մոծակ": [
       {
         "text": "մոծակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մոծակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մոծակ.mp3"
       }
     ],
     "սարդ": [
       {
         "text": "սարդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սարդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սարդ.mp3"
       }
     ],
     "կծել": [
       {
         "text": "կծել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կծել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կծել.mp3"
       }
     ],
     "պոչ շարժել": [
       {
         "text": "պոչ շարժել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պոչ_շարժել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պոչ_շարժել.mp3"
       }
     ],
     "հաչել": [
       {
         "text": "հաչել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հաչել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հաչել.mp3"
       }
     ],
     "մլավել": [
       {
         "text": "մլավել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մլավել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մլավել.mp3"
       }
     ],
     "բառաչել": [
       {
         "text": "բառաչել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բառաչել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բառաչել.mp3"
       }
     ],
     "կռկռալ": [
       {
         "text": "կռկռալ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կռկռալ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կռկռալ.mp3"
       }
     ],
     "կռնչել": [
       {
         "text": "կռնչել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կռնչել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կռնչել.mp3"
       }
     ],
     "ձմեռել": [
       {
         "text": "ձմեռել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձմեռել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձմեռել.mp3"
       }
     ],
     "հաց": [
       {
         "text": "հաց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հաց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հաց.mp3"
       }
     ],
     "աղ": [
       {
         "text": "աղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աղ.mp3"
       }
     ],
     "շաքար": [
       {
         "text": "շաքար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շաքար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շաքար.mp3"
       }
     ],
     "բրինձ": [
       {
         "text": "բրինձ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բրինձ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բրինձ.mp3"
       }
     ],
     "թեյ": [
       {
         "text": "թեյ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թեյ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թեյ.mp3"
       }
     ],
     "սուրճ": [
       {
         "text": "սուրճ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սուրճ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սուրճ.mp3"
       }
     ],
     "հյութ": [
       {
         "text": "հյութ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հյութ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հյութ.mp3"
       }
     ],
     "պանիր": [
       {
         "text": "պանիր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պանիր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պանիր.mp3"
       }
     ],
     "տապակած կարտոֆիլ, ֆրի": [
       {
         "text": "տապակած կարտոֆիլ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տապակած_կարտոֆիլ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տապակած_կարտոֆիլ.mp3"
       },
       {
         "text": "ֆրի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ֆրի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ֆրի.mp3"
       }
     ],
     "սունկ": [
       {
         "text": "սունկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սունկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սունկ.mp3"
       }
     ],
     "ապուր": [
       {
         "text": "ապուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ապուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ապուր.mp3"
       }
     ],
     "միս": [
       {
         "text": "միս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/միս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միս.mp3"
       }
     ],
     "բեկոն": [
       {
         "text": "բեկոն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բեկոն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բեկոն.mp3"
       }
     ],
     "ձու": [
       {
         "text": "ձու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձու.mp3"
       }
     ],
     "ձեթ, յուղ": [
       {
         "text": "ձեթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձեթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձեթ.mp3"
       },
       {
         "text": "յուղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/յուղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/յուղ.mp3"
       }
     ],
     "աղցան": [
       {
         "text": "աղցան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աղցան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աղցան.mp3"
       }
     ],
     "սառույց": [
       {
         "text": "սառույց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սառույց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սառույց.mp3"
       }
     ],
     "կաթ": [
       {
         "text": "կաթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կաթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կաթ.mp3"
       }
     ],
     "կարագ": [
       {
         "text": "կարագ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարագ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարագ.mp3"
       }
     ],
     "սերուցք": [
       {
         "text": "սերուցք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սերուցք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սերուցք.mp3"
       }
     ],
     "տորթ": [
       {
         "text": "տորթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տորթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տորթ.mp3"
       }
     ],
     "գարեջուր": [
       {
         "text": "գարեջուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գարեջուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գարեջուր.mp3"
       }
     ],
     "օղի": [
       {
         "text": "օղի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օղի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օղի.mp3"
       }
     ],
     "գինի": [
       {
         "text": "գինի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գինի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գինի.mp3"
       }
     ],
     "մեղր": [
       {
         "text": "մեղր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեղր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեղր.mp3"
       }
     ],
     "կոնֆետ": [
       {
         "text": "կոնֆետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կոնֆետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կոնֆետ.mp3"
       }
     ],
     "թխվածքաբլիթ": [
       {
         "text": "թխվածքաբլիթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թխվածքաբլիթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թխվածքաբլիթ.mp3"
       }
     ],
     "սենդվիչ": [
       {
         "text": "սենդվիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սենդվիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սենդվիչ.mp3"
       }
     ],
     "սուշի": [
       {
         "text": "սուշի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սուշի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սուշի.mp3"
       }
     ],
     "նրբաբլիթ": [
       {
         "text": "նրբաբլիթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նրբաբլիթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբաբլիթ.mp3"
       }
     ],
     "ձվածեղ": [
       {
         "text": "ձվածեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձվածեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձվածեղ.mp3"
       }
     ],
     "օմլետ": [
       {
         "text": "օմլետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օմլետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օմլետ.mp3"
       }
     ],
     "երշիկ, նրբերշիկ": [
       {
         "text": "երշիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երշիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երշիկ.mp3"
       },
       {
         "text": "նրբերշիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նրբերշիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբերշիկ.mp3"
       }
     ],
     "պաղպաղակ": [
       {
         "text": "պաղպաղակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պաղպաղակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պաղպաղակ.mp3"
       }
     ],
     "ալկոհոլ": [
       {
         "text": "ալկոհոլ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ալկոհոլ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ալկոհոլ.mp3"
       }
     ],
     "քունջութ": [
       {
         "text": "քունջութ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քունջութ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քունջութ.mp3"
       }
     ],
     "փոշի": [
       {
         "text": "փոշի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փոշի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փոշի.mp3"
       }
     ],
     "ալյուր": [
       {
         "text": "ալյուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ալյուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ալյուր.mp3"
       }
     ],
     "քաղցր": [
       {
         "text": "քաղցր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քաղցր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քաղցր.mp3"
       }
     ],
     "դառը": [
       {
         "text": "դառը",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դառը.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դառը.mp3"
       }
     ],
     "թթու": [
       {
         "text": "թթու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թթու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թթու.mp3"
       }
     ],
     "կծու": [
       {
         "text": "կծու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կծու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կծու.mp3"
       }
     ],
     "մեղմ": [
       {
         "text": "մեղմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեղմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեղմ.mp3"
       }
     ],
     "թարմ": [
       {
         "text": "թարմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թարմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թարմ.mp3"
       }
     ],
     "թարմացնող": [
       {
         "text": "թարմացնող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թարմացնող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թարմացնող.mp3"
       }
     ],
     "համեղ": [
       {
         "text": "համեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/համեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/համեղ.mp3"
       }
     ],
     "շատ համեղ": [
       {
         "text": "շատ համեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շատ_համեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շատ_համեղ.mp3"
       }
     ],
     "զզվելի": [
       {
         "text": "զզվելի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/զզվելի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զզվելի.mp3"
       }
     ],
     "մեծ": [
       {
         "text": "մեծ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեծ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեծ.mp3"
       }
     ],
     "փոքր": [
       {
         "text": "փոքր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փոքր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փոքր.mp3"
       }
     ],
     "երկար": [
       {
         "text": "երկար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երկար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երկար.mp3"
       }
     ],
     "կարճ": [
       {
         "text": "կարճ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարճ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարճ.mp3"
       }
     ],
     "նոր": [
       {
         "text": "նոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նոր.mp3"
       }
     ],
     "հին, ծեր": [
       {
         "text": "հին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հին.mp3"
       },
       {
         "text": "ծեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծեր.mp3"
       }
     ],
     "մաքուր": [
       {
         "text": "մաքուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մաքուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մաքուր.mp3"
       }
     ],
     "կեղտոտ": [
       {
         "text": "կեղտոտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կեղտոտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կեղտոտ.mp3"
       }
     ],
     "ընտանիք": [
       {
         "text": "ընտանիք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ընտանիք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ընտանիք.mp3"
       }
     ],
     "հայր, հայրիկ": [
       {
         "text": "հայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հայր.mp3"
       },
       {
         "text": "հայրիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հայրիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հայրիկ.mp3"
       }
     ],
     "մայր, մայրիկ": [
       {
         "text": "մայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մայր.mp3"
       },
       {
         "text": "մայրիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մայրիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մայրիկ.mp3"
       }
     ],
     "երեխա": [
       {
         "text": "երեխա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երեխա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երեխա.mp3"
       }
     ],
     "որդի, տղա": [
       {
         "text": "որդի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/որդի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/որդի.mp3"
       },
       {
         "text": "տղա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տղա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տղա.mp3"
       }
     ],
     "դուստր, աղջիկ": [
       {
         "text": "դուստր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դուստր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դուստր.mp3"
       },
       {
         "text": "աղջիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աղջիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աղջիկ.mp3"
       }
     ],
     "մանուկ": [
       {
         "text": "մանուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մանուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մանուկ.mp3"
       }
     ],
     "կին": [
       {
         "text": "կին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կին.mp3"
       }
     ],
     "ամուսին": [
       {
         "text": "ամուսին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամուսին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուսին.mp3"
       }
     ],
     "քույր": [
       {
         "text": "քույր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քույր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քույր.mp3"
       }
     ],
     "եղբայր": [
       {
         "text": "եղբայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/եղբայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/եղբայր.mp3"
       }
     ],
     "երկվորյակ": [
       {
         "text": "երկվորյակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/երկվորյակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երկվորյակ.mp3"
       }
     ],
     "ծնողներ": [
       {
         "text": "ծնողներ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծնողներ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծնողներ.mp3"
       }
     ],
     "միայնակ ծնող": [
       {
         "text": "միայնակ ծնող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/միայնակ_ծնող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միայնակ_ծնող.mp3"
       }
     ],
     "ազգականներ, բարեկամներ": [
       {
         "text": "ազգականներ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ազգականներ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ազգականներ.mp3"
       },
       {
         "text": "բարեկամներ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարեկամներ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկամներ.mp3"
       }
     ],
     "տատիկ": [
       {
         "text": "տատիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տատիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տատիկ.mp3"
       }
     ],
     "տատ": [
       {
         "text": "տատ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տատ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տատ.mp3"
       }
     ],
     "թոռ": [
       {
         "text": "թոռ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թոռ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թոռ.mp3"
       }
     ],
     "թոռնուհի": [
       {
         "text": "թոռնուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թոռնուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թոռնուհի.mp3"
       }
     ],
     "հորեղբայր, քեռի": [
       {
         "text": "հորեղբայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հորեղբայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հորեղբայր.mp3"
       },
       {
         "text": "քեռի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քեռի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քեռի.mp3"
       }
     ],
     "հորաքույր, մորաքույր": [
       {
         "text": "հորաքույր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հորաքույր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հորաքույր.mp3"
       },
       {
         "text": "մորաքույր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մորաքույր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մորաքույր.mp3"
       }
     ],
     "զարմիկ, զարմուհի": [
       {
         "text": "զարմիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/զարմիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զարմիկ.mp3"
       },
       {
         "text": "զարմուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/զարմուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զարմուհի.mp3"
       }
     ],
     "խորթ մայր": [
       {
         "text": "խորթ մայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խորթ_մայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խորթ_մայր.mp3"
       }
     ],
     "խորթ հայր": [
       {
         "text": "խորթ հայր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խորթ_հայր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խորթ_հայր.mp3"
       }
     ],
     "սերունդ": [
       {
         "text": "սերունդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սերունդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սերունդ.mp3"
       }
     ],
     "զույգ": [
       {
         "text": "զույգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/զույգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զույգ.mp3"
       }
     ],
     "ընկեր": [
       {
         "text": "ընկեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ընկեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ընկեր.mp3"
       }
     ],
     "ամուսնություն": [
       {
         "text": "ամուսնություն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամուսնություն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուսնություն.mp3"
       }
     ],
     "ամուսնացած": [
       {
         "text": "ամուսնացած",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամուսնացած.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուսնացած.mp3"
       }
     ],
     "ամուսնանալ": [
       {
         "text": "ամուսնանալ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամուսնանալ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուսնանալ.mp3"
       }
     ],
     "ամուրի, չամուսնացած": [
       {
         "text": "ամուրի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ամուրի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուրի.mp3"
       },
       {
         "text": "չամուսնացած",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/չամուսնացած.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/չամուսնացած.mp3"
       }
     ],
     "հարս": [
       {
         "text": "հարս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հարս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հարս.mp3"
       }
     ],
     "փեսա": [
       {
         "text": "փեսա",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փեսա.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փեսա.mp3"
       }
     ],
     "նշանած": [
       {
         "text": "նշանած",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նշանած.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նշանած.mp3"
       }
     ],
     "զուգընկեր": [
       {
         "text": "զուգընկեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/զուգընկեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զուգընկեր.mp3"
       }
     ],
     "լուսանկարիչ": [
       {
         "text": "լուսանկարիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լուսանկարիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լուսանկարիչ.mp3"
       }
     ],
     "խոհարար": [
       {
         "text": "խոհարար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/խոհարար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խոհարար.mp3"
       }
     ],
     "մենեջեր, կառավարիչ": [
       {
         "text": "մենեջեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մենեջեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մենեջեր.mp3"
       },
       {
         "text": "կառավարիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կառավարիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կառավարիչ.mp3"
       }
     ],
     "քարտուղար, քարտուղարուհի": [
       {
         "text": "քարտուղար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քարտուղար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քարտուղար.mp3"
       },
       {
         "text": "քարտուղարուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քարտուղարուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քարտուղարուհի.mp3"
       }
     ],
     "պրակտիկանտ": [
       {
         "text": "պրակտիկանտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պրակտիկանտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պրակտիկանտ.mp3"
       }
     ],
     "բաժին": [
       {
         "text": "բաժին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բաժին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բաժին.mp3"
       }
     ],
     "բաժնի վարիչ": [
       {
         "text": "բաժնի վարիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բաժնի_վարիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բաժնի_վարիչ.mp3"
       }
     ],
     "հաշվապահ": [
       {
         "text": "հաշվապահ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հաշվապահ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հաշվապահ.mp3"
       }
     ],
     "գանձապահ": [
       {
         "text": "գանձապահ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գանձապահ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գանձապահ.mp3"
       }
     ],
     "պարող, պարուհի": [
       {
         "text": "պարող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պարող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պարող.mp3"
       },
       {
         "text": "պարուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պարուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պարուհի.mp3"
       }
     ],
     "նկարիչ": [
       {
         "text": "նկարիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նկարիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նկարիչ.mp3"
       }
     ],
     "արվեստագետ": [
       {
         "text": "արվեստագետ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արվեստագետ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արվեստագետ.mp3"
       }
     ],
     "դիզայներ": [
       {
         "text": "դիզայներ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դիզայներ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դիզայներ.mp3"
       }
     ],
     "քանդակագործ": [
       {
         "text": "քանդակագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քանդակագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քանդակագործ.mp3"
       }
     ],
     "գիտնական": [
       {
         "text": "գիտնական",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գիտնական.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գիտնական.mp3"
       }
     ],
     "ինժեներ": [
       {
         "text": "ինժեներ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ինժեներ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ինժեներ.mp3"
       }
     ],
     "ֆերմեր, գյուղացի": [
       {
         "text": "ֆերմեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ֆերմեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ֆերմեր.mp3"
       },
       {
         "text": "գյուղացի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գյուղացի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գյուղացի.mp3"
       }
     ],
     "որսորդ": [
       {
         "text": "որսորդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/որսորդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/որսորդ.mp3"
       }
     ],
     "մոդել": [
       {
         "text": "մոդել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մոդել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մոդել.mp3"
       }
     ],
     "օդաչու": [
       {
         "text": "օդաչու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/օդաչու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օդաչու.mp3"
       }
     ],
     "ուղեկցորդուհի": [
       {
         "text": "ուղեկցորդուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուղեկցորդուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուղեկցորդուհի.mp3"
       }
     ],
     "տաքսու վարորդ": [
       {
         "text": "տաքսու վարորդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տաքսու_վարորդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տաքսու_վարորդ.mp3"
       }
     ],
     "ձկնորս": [
       {
         "text": "ձկնորս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձկնորս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձկնորս.mp3"
       }
     ],
     "հանքափոր": [
       {
         "text": "հանքափոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հանքափոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հանքափոր.mp3"
       }
     ],
     "հանք": [
       {
         "text": "հանք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հանք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հանք.mp3"
       }
     ],
     "փաստաբան": [
       {
         "text": "փաստաբան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փաստաբան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փաստաբան.mp3"
       }
     ],
     "դատախազ": [
       {
         "text": "դատախազ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դատախազ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դատախազ.mp3"
       }
     ],
     "դատավոր": [
       {
         "text": "դատավոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դատավոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դատավոր.mp3"
       }
     ],
     "մատուցող": [
       {
         "text": "մատուցող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մատուցող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մատուցող.mp3"
       }
     ],
     "ոստիկան": [
       {
         "text": "ոստիկան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոստիկան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոստիկան.mp3"
       }
     ],
     "հրշեջ": [
       {
         "text": "հրշեջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հրշեջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հրշեջ.mp3"
       }
     ],
     "լրագրող": [
       {
         "text": "լրագրող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լրագրող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լրագրող.mp3"
       }
     ],
     "հացթուխ": [
       {
         "text": "հացթուխ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հացթուխ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հացթուխ.mp3"
       }
     ],
     "վարսավիր": [
       {
         "text": "վարսավիր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վարսավիր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վարսավիր.mp3"
       }
     ],
     "էլեկտրիկ": [
       {
         "text": "էլեկտրիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/էլեկտրիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/էլեկտրիկ.mp3"
       }
     ],
     "ջրմուղագործ, սանտեխնիկ": [
       {
         "text": "ջրմուղագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ջրմուղագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ջրմուղագործ.mp3"
       },
       {
         "text": "սանտեխնիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սանտեխնիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սանտեխնիկ.mp3"
       }
     ],
     "մեխանիկ": [
       {
         "text": "մեխանիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մեխանիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մեխանիկ.mp3"
       }
     ],
     "փականագործ": [
       {
         "text": "փականագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փականագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փականագործ.mp3"
       }
     ],
     "ատաղձագործ, հյուսն": [
       {
         "text": "ատաղձագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ատաղձագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ատաղձագործ.mp3"
       },
       {
         "text": "հյուսն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հյուսն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հյուսն.mp3"
       }
     ],
     "եռակցող": [
       {
         "text": "եռակցող",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/եռակցող.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/եռակցող.mp3"
       }
     ],
     "մսագործ": [
       {
         "text": "մսագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մսագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մսագործ.mp3"
       }
     ],
     "ժամագործ": [
       {
         "text": "ժամագործ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ժամագործ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ժամագործ.mp3"
       }
     ],
     "հավաքարար": [
       {
         "text": "հավաքարար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հավաքարար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հավաքարար.mp3"
       }
     ],
     "բարմեն": [
       {
         "text": "բարմեն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարմեն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարմեն.mp3"
       }
     ],
     "բանվոր": [
       {
         "text": "բանվոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բանվոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բանվոր.mp3"
       }
     ],
     "ուսուցիչ, ուսուցչուհի": [
       {
         "text": "ուսուցիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուսուցիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուսուցիչ.mp3"
       },
       {
         "text": "ուսուցչուհի",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուսուցչուհի.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուսուցչուհի.mp3"
       }
     ],
     "ցածրահասակ": [
       {
         "text": "ցածրահասակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ցածրահասակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ցածրահասակ.mp3"
       }
     ],
     "բարձրահասակ": [
       {
         "text": "բարձրահասակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարձրահասակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարձրահասակ.mp3"
       }
     ],
     "գեղեցիկ": [
       {
         "text": "գեղեցիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
       }
     ],
     "սիրունիկ, գեղեցիկ": [
       {
         "text": "սիրունիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սիրունիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սիրունիկ.mp3"
       },
       {
         "text": "գեղեցիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
       }
     ],
     "սիրունիկ": [
       {
         "text": "սիրունիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սիրունիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սիրունիկ.mp3"
       }
     ],
     "նրբագեղ": [
       {
         "text": "նրբագեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նրբագեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբագեղ.mp3"
       }
     ],
     "հմայիչ": [
       {
         "text": "հմայիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հմայիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հմայիչ.mp3"
       }
     ],
     "գրավիչ": [
       {
         "text": "գրավիչ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գրավիչ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գրավիչ.mp3"
       }
     ],
     "գեղեցիկ, վայելչակազմ": [
       {
         "text": "գեղեցիկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
       },
       {
         "text": "վայելչակազմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վայելչակազմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վայելչակազմ.mp3"
       }
     ],
     "տգեղ": [
       {
         "text": "տգեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/տգեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տգեղ.mp3"
       }
     ],
     "նիհար, բարեկազմ": [
       {
         "text": "նիհար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
       },
       {
         "text": "բարեկազմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
       }
     ],
     "բարեկազմ, նրբակազմ": [
       {
         "text": "բարեկազմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
       },
       {
         "text": "նրբակազմ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նրբակազմ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբակազմ.mp3"
       }
     ],
     "նիհար, ոսկրոտ": [
       {
         "text": "նիհար",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
       },
       {
         "text": "ոսկրոտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոսկրոտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոսկրոտ.mp3"
       }
     ],
     "գեր": [
       {
         "text": "գեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեր.mp3"
       }
     ],
     "փոքրամարմին": [
       {
         "text": "փոքրամարմին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փոքրամարմին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փոքրամարմին.mp3"
       }
     ],
     "սիրուն": [
       {
         "text": "սիրուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սիրուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սիրուն.mp3"
       }
     ],
     "կազմվածք": [
       {
         "text": "կազմվածք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կազմվածք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կազմվածք.mp3"
       }
     ],
     "բարեկազմ մարմին": [
       {
         "text": "բարեկազմ մարմին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ_մարմին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ_մարմին.mp3"
       }
     ],
     "գիրություն": [
       {
         "text": "գիրություն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գիրություն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գիրություն.mp3"
       }
     ],
     "ավելորդ քաշ": [
       {
         "text": "ավելորդ քաշ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ավելորդ_քաշ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավելորդ_քաշ.mp3"
       }
     ],
     "նիհարել": [
       {
         "text": "նիհարել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/նիհարել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նիհարել.mp3"
       }
     ],
     "գիրանալ": [
       {
         "text": "գիրանալ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գիրանալ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գիրանալ.mp3"
       }
     ],
     "ուղիղ": [
       {
         "text": "ուղիղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուղիղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուղիղ.mp3"
       }
     ],
     "գանգուր": [
       {
         "text": "գանգուր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գանգուր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գանգուր.mp3"
       }
     ],
     "շիկահեր": [
       {
         "text": "շիկահեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շիկահեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շիկահեր.mp3"
       }
     ],
     "թխահեր": [
       {
         "text": "թխահեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թխահեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թխահեր.mp3"
       }
     ],
     "կարմրահեր": [
       {
         "text": "կարմրահեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կարմրահեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարմրահեր.mp3"
       }
     ],
     "դիմահարդարում, մակիյաժ": [
       {
         "text": "դիմահարդարում",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դիմահարդարում.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դիմահարդարում.mp3"
       },
       {
         "text": "մակիյաժ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մակիյաժ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մակիյաժ.mp3"
       }
     ],
     "ոճ": [
       {
         "text": "ոճ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոճ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոճ.mp3"
       }
     ],
     "կրծքավանդակ, կուրծք": [
       {
         "text": "կրծքավանդակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կրծքավանդակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կրծքավանդակ.mp3"
       },
       {
         "text": "կուրծք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կուրծք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կուրծք.mp3"
       }
     ],
     "սիրտ": [
       {
         "text": "սիրտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/սիրտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սիրտ.mp3"
       }
     ],
     "ոտք": [
       {
         "text": "ոտք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոտք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոտք.mp3"
       }
     ],
     "ոտնաթաթ": [
       {
         "text": "ոտնաթաթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոտնաթաթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոտնաթաթ.mp3"
       }
     ],
     "գլուխ": [
       {
         "text": "գլուխ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գլուխ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գլուխ.mp3"
       }
     ],
     "աչք": [
       {
         "text": "աչք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աչք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աչք.mp3"
       }
     ],
     "դեմք": [
       {
         "text": "դեմք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դեմք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դեմք.mp3"
       }
     ],
     "ուղեղ": [
       {
         "text": "ուղեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ուղեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուղեղ.mp3"
       }
     ],
     "վիզ, պարանոց": [
       {
         "text": "վիզ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/վիզ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վիզ.mp3"
       },
       {
         "text": "պարանոց",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պարանոց.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պարանոց.mp3"
       }
     ],
     "լեզու": [
       {
         "text": "լեզու",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լեզու.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լեզու.mp3"
       }
     ],
     "ականջ": [
       {
         "text": "ականջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ականջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ականջ.mp3"
       }
     ],
     "մարմին": [
       {
         "text": "մարմին",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մարմին.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մարմին.mp3"
       }
     ],
     "ձեռք": [
       {
         "text": "ձեռք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձեռք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձեռք.mp3"
       }
     ],
     "թև, բազուկ": [
       {
         "text": "թև",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թև.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թև.mp3"
       },
       {
         "text": "բազուկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բազուկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բազուկ.mp3"
       }
     ],
     "ձախ": [
       {
         "text": "ձախ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ձախ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձախ.mp3"
       }
     ],
     "աջ": [
       {
         "text": "աջ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/աջ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/աջ.mp3"
       }
     ],
     "մատ": [
       {
         "text": "մատ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մատ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մատ.mp3"
       }
     ],
     "մատնահետք": [
       {
         "text": "մատնահետք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մատնահետք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մատնահետք.mp3"
       }
     ],
     "քիթ": [
       {
         "text": "քիթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/քիթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քիթ.mp3"
       }
     ],
     "բերան": [
       {
         "text": "բերան",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բերան.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բերան.mp3"
       }
     ],
     "շուրթ": [
       {
         "text": "շուրթ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/շուրթ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շուրթ.mp3"
       }
     ],
     "մաշկ": [
       {
         "text": "մաշկ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մաշկ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մաշկ.mp3"
       }
     ],
     "մազեր": [
       {
         "text": "մազեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մազեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մազեր.mp3"
       }
     ],
     "այտ": [
       {
         "text": "այտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/այտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/այտ.mp3"
       }
     ],
     "կզակ": [
       {
         "text": "կզակ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կզակ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կզակ.mp3"
       }
     ],
     "ծնոտ": [
       {
         "text": "ծնոտ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ծնոտ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ծնոտ.mp3"
       }
     ],
     "հոնք": [
       {
         "text": "հոնք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/հոնք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հոնք.mp3"
       }
     ],
     "պեպեն": [
       {
         "text": "պեպեն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/պեպեն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պեպեն.mp3"
       }
     ],
     "ճակատ": [
       {
         "text": "ճակատ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճակատ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճակատ.mp3"
       }
     ],
     "մորուք": [
       {
         "text": "մորուք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/մորուք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մորուք.mp3"
       }
     ],
     "բեղ": [
       {
         "text": "բեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բեղ.mp3"
       }
     ],
     "ճաղատ": [
       {
         "text": "ճաղատ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ճաղատ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ճաղատ.mp3"
       }
     ],
     "կնճիռ": [
       {
         "text": "կնճիռ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կնճիռ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կնճիռ.mp3"
       }
     ],
     "դեմքի գծեր": [
       {
         "text": "դեմքի գծեր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/դեմքի_գծեր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դեմքի_գծեր.mp3"
       }
     ],
     "բարձրացնել": [
       {
         "text": "բարձրացնել",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/բարձրացնել.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարձրացնել.mp3"
       }
     ],
     "փոր": [
       {
         "text": "փոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/փոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փոր.mp3"
       }
     ],
     "գոտկատեղ": [
       {
         "text": "գոտկատեղ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գոտկատեղ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գոտկատեղ.mp3"
       }
     ],
     "ոսկոր": [
       {
         "text": "ոսկոր",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ոսկոր.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոսկոր.mp3"
       }
     ],
     "կմախք": [
       {
         "text": "կմախք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կմախք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կմախք.mp3"
       }
     ],
     "արյուն": [
       {
         "text": "արյուն",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/արյուն.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/արյուն.mp3"
       }
     ],
     "թոք": [
       {
         "text": "թոք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/թոք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թոք.mp3"
       }
     ],
     "ստամոքս": [
       {
         "text": "ստամոքս",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/ստամոքս.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ստամոքս.mp3"
       }
     ],
     "լյարդ": [
       {
         "text": "լյարդ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/լյարդ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լյարդ.mp3"
       }
     ],
     "գանգ": [
       {
         "text": "գանգ",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/գանգ.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գանգ.mp3"
       }
     ],
     "կողք": [
       {
         "text": "կողք",
-        "file": "hy/kyqw8ZqDBKvdhEqCx0j9/կողք.mp3"
+        "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կողք.mp3"
       }
     ]
   }

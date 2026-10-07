@@ -3,8 +3,8 @@
  * local audio-cache/ directory at /api/audio/*, so the app can use its final
  * URL scheme in `npm run dev` without any Azure resources.
  *
- *   /api/audio/es/manifest.json                    -> audio-cache/es/manifest.json
- *   /api/audio/es/cgSgspJ2msm6clMCkdW9/el_pecho.mp3 -> audio-cache/es/cgSgspJ2msm6clMCkdW9/el_pecho.mp3
+ *   /api/audio/es/words/manifest.json                    -> audio-cache/es/words/manifest.json
+ *   /api/audio/es/words/cgSgspJ2msm6clMCkdW9/el_pecho.mp3 -> audio-cache/es/words/cgSgspJ2msm6clMCkdW9/el_pecho.mp3
  *
  * In production the same route is an Azure Function reading from Blob Storage.
  * Files are produced by `npm run audio` (scripts/generate-audio.ts).

@@ -1,6 +1,6 @@
 /**
- * GET /api/audio/{lang}/{voiceId}/{name}.mp3
- * GET /api/audio/{lang}/manifest.json
+ * GET /api/audio/{lang}/{group}/{voiceId}/{name}.mp3
+ * GET /api/audio/{lang}/{group}/manifest.json
  *
  * Serves pre-generated pronunciation audio from the private "pronunciations"
  * blob container. The container is reached with a read-only SAS URL held in

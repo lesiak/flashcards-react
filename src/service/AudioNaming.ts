@@ -56,12 +56,14 @@ export function audioFileName(text: string): string {
 }
 
 /**
- * Path relative to the audio root, shared by the local cache dir,
- * the blob container and the /api/audio URL: "es/cgSgspJ2msm6clMCkdW9/el_pecho.mp3".
- * The middle segment is the TTS voice id, so a new voice never overwrites an old one.
+ * Path relative to the audio root, shared by the local cache dir, the blob
+ * container and the /api/audio URL: "es/words/cgSgspJ2msm6clMCkdW9/el_pecho.mp3".
+ * `group` is the deck group folder (words, a1), so each group has its own
+ * clips and manifest. The voice id segment means a new voice never
+ * overwrites an old recording.
  */
-export function audioFilePath(lang: string, voiceId: string, text: string): string {
-  return `${lang}/${voiceId}/${audioFileName(text)}`;
+export function audioFilePath(lang: string, group: string, voiceId: string, text: string): string {
+  return `${lang}/${group}/${voiceId}/${audioFileName(text)}`;
 }
 
 /** URL the app fetches; each path segment is encoded so non-ASCII names survive. */

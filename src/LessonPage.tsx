@@ -114,7 +114,7 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
   const [showAnswer, setShowAnswer] = useState(false);
   const card = lesson.cards[currentCardIdx];
   const isLastCard = currentCardIdx === lesson.cards.length - 1;
-  const audioManifest = useAudioManifest(currentLanguage.code);
+  const audioManifest = useAudioManifest(currentLanguage.code, lesson.group);
   const pronunciations = audioManifest?.entries[card.word] ?? NO_PRONUNCIATIONS;
 
   // Autoplay the first pronunciation when the answer is revealed.

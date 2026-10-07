@@ -1,18 +1,21 @@
 /**
  * Generates pronunciation audio for the cards in one or more deck files
  * using the ElevenLabs text-to-speech API and stores the mp3s under
- * audio-cache/{lang}/{voiceId}/{name}.mp3, recording each in
- * audio-cache/{lang}/manifest.json. Changing a language's voice therefore
- * starts a fresh directory and never overwrites earlier recordings.
+ * audio-cache/{lang}/{group}/{voiceId}/{name}.mp3, recording each in
+ * audio-cache/{lang}/{group}/manifest.json. The group is the deck group
+ * folder (words, a1), so each group keeps its own clips. Changing a
+ * language's voice starts a fresh directory and never overwrites earlier
+ * recordings.
  *
  * Usage:
- *   npm run audio -- public/wordfiles/es/17_Anatomy.json [more files...]
- *   npm run audio -- --lang es some/other/path.json
- *   npm run audio -- --dry-run public/wordfiles/es/17_Anatomy.json
+ *   npm run audio -- public/wordfiles/es/words/17_Anatomy.json [more files...]
+ *   npm run audio -- --lang es --group words some/other/path.json
+ *   npm run audio -- --dry-run public/wordfiles/es/a1/A1_Level_Part1.json
  *
- * The language is taken from the parent directory of each file unless
- * --lang is given. Entries already present on disk and in the manifest
- * are skipped, so rerunning is cheap and only voices new words.
+ * The language and group are taken from the two parent directories of
+ * each file (.../{lang}/{group}/{deck}.json) unless --lang and --group are
+ * given. Entries already present on disk and in the manifest are skipped,
+ * so rerunning is cheap and only voices new words.
  *
  * Requires ELEVENLABS_API_KEY in the environment or in a .env file.
  *
@@ -41,6 +44,7 @@ import type {
 interface Options {
   files: string[];
   lang?: string;
+  group?: string;
   dryRun: boolean;
 }
 
@@ -60,6 +64,9 @@ function parseArgs(argv: string[]): Options {
     if (arg === '--lang') {
       options.lang = argv[++i];
       if (!options.lang) fail('--lang needs a value');
+    } else if (arg === '--group') {
+      options.group = argv[++i];
+      if (!options.group) fail('--group needs a value');
     } else if (arg === '--dry-run') {
       options.dryRun = true;
     } else if (arg.startsWith('--')) {
@@ -69,7 +76,7 @@ function parseArgs(argv: string[]): Options {
     }
   }
   if (options.files.length === 0) {
-    fail('Usage: generate-audio.ts [--lang xx] [--dry-run] <deck.json> [more decks...]');
+    fail('Usage: generate-audio.ts [--lang xx] [--group words] [--dry-run] <deck.json> [more decks...]');
   }
   return options;
 }
@@ -92,32 +99,38 @@ function readJson<T>(path: string): T {
   return JSON.parse(readFileSync(path, 'utf8')) as T;
 }
 
-function manifestPath(lang: string): string {
-  return join(AUDIO_ROOT, lang, 'manifest.json');
+function manifestPath(lang: string, group: string): string {
+  return join(AUDIO_ROOT, lang, group, 'manifest.json');
 }
 
-function loadManifest(lang: string, voice: VoiceConfig): Manifest {
-  const path = manifestPath(lang);
+function loadManifest(lang: string, group: string, voice: VoiceConfig): Manifest {
+  const path = manifestPath(lang, group);
   if (existsSync(path)) {
     const manifest = readJson<Manifest>(path);
+    if (manifest.version !== 2) {
+      fail(`${path} is a version ${manifest.version} manifest; expected version 2 (lang/group/voice layout)`);
+    }
     manifest.voice = voice;
     return manifest;
   }
-  return { version: 1, lang, voice, entries: {} };
+  return { version: 2, lang, group, voice, entries: {} };
 }
 
 function saveManifest(manifest: Manifest): void {
-  const path = manifestPath(manifest.lang);
+  const path = manifestPath(manifest.lang, manifest.group);
   mkdirSync(dirname(path), { recursive: true });
   writeFileSync(path, JSON.stringify(manifest, null, 2) + '\n');
 }
 
-function langFromPath(file: string): string {
-  const lang = basename(dirname(resolve(file)));
-  if (!/^[a-z]{2,3}$/.test(lang)) {
-    fail(`Cannot infer language from path "${file}"; pass --lang`);
+/** .../{lang}/{group}/{deck}.json -> lang and group. */
+function langAndGroupFromPath(file: string): { lang: string; group: string } {
+  const groupDir = dirname(resolve(file));
+  const group = basename(groupDir);
+  const lang = basename(dirname(groupDir));
+  if (!/^[a-z]{2,3}$/.test(lang) || !/^[a-z0-9_-]+$/i.test(group)) {
+    fail(`Cannot infer language and group from path "${file}"; pass --lang and --group`);
   }
-  return lang;
+  return { lang, group };
 }
 
 // ---------------------------------------------------------------- tts
@@ -159,20 +172,20 @@ async function processDeck(
   apiKey: string,
   counters: Counters,
 ): Promise<void> {
-  const { lang, voice } = manifest;
+  const { lang, group, voice } = manifest;
   const lesson = readJson<Lesson>(file);
-  const langEntries = manifest.entries;
+  const groupEntries = manifest.entries;
   // Detects two different texts collapsing onto one file name within this run.
   const claimedNames = new Map<string, string>();
 
-  console.log(`\n${lesson.name} (${lang}, ${lesson.cards.length} cards) <- ${file}`);
+  console.log(`\n${lesson.name} (${lang}/${group}, ${lesson.cards.length} cards) <- ${file}`);
 
   for (const card of lesson.cards) {
     const texts = deriveVoicedTexts(card.word);
     const entries: ManifestEntry[] = [];
 
     for (const text of texts) {
-      const relPath = audioFilePath(lang, voice.voiceId, text);
+      const relPath = audioFilePath(lang, group, voice.voiceId, text);
       const absPath = join(AUDIO_ROOT, relPath);
 
       const previousOwner = claimedNames.get(relPath);
@@ -182,7 +195,7 @@ async function processDeck(
       claimedNames.set(relPath, text);
       entries.push({ text, file: relPath });
 
-      const alreadyRecorded = langEntries[card.word]?.some((e) => e.file === relPath) ?? false;
+      const alreadyRecorded = groupEntries[card.word]?.some((e) => e.file === relPath) ?? false;
       if (alreadyRecorded && existsSync(absPath)) {
         counters.skipped++;
         continue;
@@ -210,7 +223,7 @@ async function processDeck(
     // is retried on the next run instead of being marked done.
     const existing = entries.filter((e) => options.dryRun || existsSync(join(AUDIO_ROOT, e.file)));
     if (existing.length > 0 && !options.dryRun) {
-      langEntries[card.word] = existing;
+      groupEntries[card.word] = existing;
       saveManifest(manifest);
     }
   }
@@ -231,14 +244,17 @@ async function main(): Promise<void> {
 
   for (const file of options.files) {
     if (!existsSync(file)) fail(`File not found: ${file}`);
-    const lang = options.lang ?? langFromPath(file);
+    const inferred = options.lang && options.group ? null : langAndGroupFromPath(file);
+    const lang = options.lang ?? inferred!.lang;
+    const group = options.group ?? inferred!.group;
     const voice = voices[lang];
     if (!voice) fail(`No voice configured for language "${lang}" in ${VOICES_PATH}`);
 
-    let manifest = manifests.get(lang);
+    const key = `${lang}/${group}`;
+    let manifest = manifests.get(key);
     if (!manifest) {
-      manifest = loadManifest(lang, voice);
-      manifests.set(lang, manifest);
+      manifest = loadManifest(lang, group, voice);
+      manifests.set(key, manifest);
     }
     await processDeck(file, manifest, options, apiKey, counters);
   }
