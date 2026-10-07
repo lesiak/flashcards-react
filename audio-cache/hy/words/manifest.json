@@ -8,7 +8,7 @@
     "outputFormat": "mp3_44100_128"
   },
   "entries": {
-    "կրակ, հուր": [
+    "կրակ | հուր": [
       {
         "text": "կրակ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կրակ.mp3"
@@ -258,7 +258,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քաղաքային.mp3"
       }
     ],
-    "ավտոմեքենա, մեքենա": [
+    "ավտոմեքենա | մեքենա": [
       {
         "text": "ավտոմեքենա",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ավտոմեքենա.mp3"
@@ -508,7 +508,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տասը.mp3"
       }
     ],
-    "միրգ, պտուղ": [
+    "միրգ | պտուղ": [
       {
         "text": "միրգ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միրգ.mp3"
@@ -536,7 +536,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սալոր.mp3"
       }
     ],
-    "կեռաս, բալ": [
+    "կեռաս | բալ": [
       {
         "text": "կեռաս",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կեռաս.mp3"
@@ -642,7 +642,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նուշ.mp3"
       }
     ],
-    "հասած, հասուն": [
+    "հասած | հասուն": [
       {
         "text": "հասած",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հասած.mp3"
@@ -682,7 +682,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարտոֆիլ.mp3"
       }
     ],
-    "լոլիկ, պոմիդոր": [
+    "լոլիկ | պոմիդոր": [
       {
         "text": "լոլիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/լոլիկ.mp3"
@@ -734,7 +734,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սպանախ.mp3"
       }
     ],
-    "պղպեղ, բիբար": [
+    "պղպեղ | բիբար": [
       {
         "text": "պղպեղ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պղպեղ.mp3"
@@ -744,7 +744,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բիբար.mp3"
       }
     ],
-    "հազար, սալաթ": [
+    "հազար | սալաթ": [
       {
         "text": "հազար",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հազար.mp3"
@@ -820,7 +820,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/այծ.mp3"
       }
     ],
-    "էշ, ավանակ": [
+    "էշ | ավանակ": [
       {
         "text": "էշ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/էշ.mp3"
@@ -836,7 +836,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մուկ.mp3"
       }
     ],
-    "շնիկ, լակոտ": [
+    "շնիկ | լակոտ": [
       {
         "text": "շնիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/շնիկ.mp3"
@@ -1332,7 +1332,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պանիր.mp3"
       }
     ],
-    "տապակած կարտոֆիլ, ֆրի": [
+    "տապակած կարտոֆիլ | ֆրի": [
       {
         "text": "տապակած կարտոֆիլ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տապակած_կարտոֆիլ.mp3"
@@ -1372,7 +1372,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձու.mp3"
       }
     ],
-    "ձեթ, յուղ": [
+    "ձեթ | յուղ": [
       {
         "text": "ձեթ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձեթ.mp3"
@@ -1484,7 +1484,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/օմլետ.mp3"
       }
     ],
-    "երշիկ, նրբերշիկ": [
+    "երշիկ | նրբերշիկ": [
       {
         "text": "երշիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երշիկ.mp3"
@@ -1614,7 +1614,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նոր.mp3"
       }
     ],
-    "հին, ծեր": [
+    "հին | ծեր": [
       {
         "text": "հին",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հին.mp3"
@@ -1642,7 +1642,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ընտանիք.mp3"
       }
     ],
-    "հայր, հայրիկ": [
+    "հայր | հայրիկ": [
       {
         "text": "հայր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հայր.mp3"
@@ -1652,7 +1652,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հայրիկ.mp3"
       }
     ],
-    "մայր, մայրիկ": [
+    "մայր | մայրիկ": [
       {
         "text": "մայր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մայր.mp3"
@@ -1668,7 +1668,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/երեխա.mp3"
       }
     ],
-    "որդի, տղա": [
+    "որդի | տղա": [
       {
         "text": "որդի",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/որդի.mp3"
@@ -1678,7 +1678,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տղա.mp3"
       }
     ],
-    "դուստր, աղջիկ": [
+    "դուստր | աղջիկ": [
       {
         "text": "դուստր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դուստր.mp3"
@@ -1736,7 +1736,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/միայնակ_ծնող.mp3"
       }
     ],
-    "ազգականներ, բարեկամներ": [
+    "ազգականներ | բարեկամներ": [
       {
         "text": "ազգականներ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ազգականներ.mp3"
@@ -1770,7 +1770,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թոռնուհի.mp3"
       }
     ],
-    "հորեղբայր, քեռի": [
+    "հորեղբայր | քեռի": [
       {
         "text": "հորեղբայր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հորեղբայր.mp3"
@@ -1780,7 +1780,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քեռի.mp3"
       }
     ],
-    "հորաքույր, մորաքույր": [
+    "հորաքույր | մորաքույր": [
       {
         "text": "հորաքույր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/հորաքույր.mp3"
@@ -1790,7 +1790,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մորաքույր.mp3"
       }
     ],
-    "զարմիկ, զարմուհի": [
+    "զարմիկ | զարմուհի": [
       {
         "text": "զարմիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/զարմիկ.mp3"
@@ -1848,7 +1848,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուսնանալ.mp3"
       }
     ],
-    "ամուրի, չամուսնացած": [
+    "ամուրի | չամուսնացած": [
       {
         "text": "ամուրի",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ամուրի.mp3"
@@ -1894,7 +1894,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/խոհարար.mp3"
       }
     ],
-    "մենեջեր, կառավարիչ": [
+    "մենեջեր | կառավարիչ": [
       {
         "text": "մենեջեր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/մենեջեր.mp3"
@@ -1904,7 +1904,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կառավարիչ.mp3"
       }
     ],
-    "քարտուղար, քարտուղարուհի": [
+    "քարտուղար | քարտուղարուհի": [
       {
         "text": "քարտուղար",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/քարտուղար.mp3"
@@ -1944,7 +1944,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գանձապահ.mp3"
       }
     ],
-    "պարող, պարուհի": [
+    "պարող | պարուհի": [
       {
         "text": "պարող",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/պարող.mp3"
@@ -1990,7 +1990,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ինժեներ.mp3"
       }
     ],
-    "ֆերմեր, գյուղացի": [
+    "ֆերմեր | գյուղացի": [
       {
         "text": "ֆերմեր",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ֆերմեր.mp3"
@@ -2108,7 +2108,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/էլեկտրիկ.mp3"
       }
     ],
-    "ջրմուղագործ, սանտեխնիկ": [
+    "ջրմուղագործ | սանտեխնիկ": [
       {
         "text": "ջրմուղագործ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ջրմուղագործ.mp3"
@@ -2130,7 +2130,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/փականագործ.mp3"
       }
     ],
-    "ատաղձագործ, հյուսն": [
+    "ատաղձագործ | հյուսն": [
       {
         "text": "ատաղձագործ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ատաղձագործ.mp3"
@@ -2176,7 +2176,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բանվոր.mp3"
       }
     ],
-    "ուսուցիչ, ուսուցչուհի": [
+    "ուսուցիչ | ուսուցչուհի": [
       {
         "text": "ուսուցիչ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուսուցիչ.mp3"
@@ -2204,7 +2204,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
       }
     ],
-    "սիրունիկ, գեղեցիկ": [
+    "սիրունիկ | գեղեցիկ": [
       {
         "text": "սիրունիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/սիրունիկ.mp3"
@@ -2238,7 +2238,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գրավիչ.mp3"
       }
     ],
-    "գեղեցիկ, վայելչակազմ": [
+    "գեղեցիկ | վայելչակազմ": [
       {
         "text": "գեղեցիկ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/գեղեցիկ.mp3"
@@ -2254,7 +2254,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/տգեղ.mp3"
       }
     ],
-    "նիհար, բարեկազմ": [
+    "նիհար | բարեկազմ": [
       {
         "text": "նիհար",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
@@ -2264,7 +2264,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
       }
     ],
-    "բարեկազմ, նրբակազմ": [
+    "բարեկազմ | նրբակազմ": [
       {
         "text": "բարեկազմ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/բարեկազմ.mp3"
@@ -2274,7 +2274,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նրբակազմ.mp3"
       }
     ],
-    "նիհար, ոսկրոտ": [
+    "նիհար | ոսկրոտ": [
       {
         "text": "նիհար",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/նիհար.mp3"
@@ -2368,7 +2368,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կարմրահեր.mp3"
       }
     ],
-    "դիմահարդարում, մակիյաժ": [
+    "դիմահարդարում | մակիյաժ": [
       {
         "text": "դիմահարդարում",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/դիմահարդարում.mp3"
@@ -2384,7 +2384,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ոճ.mp3"
       }
     ],
-    "կրծքավանդակ, կուրծք": [
+    "կրծքավանդակ | կուրծք": [
       {
         "text": "կրծքավանդակ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/կրծքավանդակ.mp3"
@@ -2436,7 +2436,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ուղեղ.mp3"
       }
     ],
-    "վիզ, պարանոց": [
+    "վիզ | պարանոց": [
       {
         "text": "վիզ",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/վիզ.mp3"
@@ -2470,7 +2470,7 @@
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/ձեռք.mp3"
       }
     ],
-    "թև, բազուկ": [
+    "թև | բազուկ": [
       {
         "text": "թև",
         "file": "hy/words/kyqw8ZqDBKvdhEqCx0j9/թև.mp3"

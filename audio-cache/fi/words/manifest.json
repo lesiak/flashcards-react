@@ -224,7 +224,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/patsas.mp3"
       }
     ],
-    "galleria, taidegalleria": [
+    "galleria | taidegalleria": [
       {
         "text": "galleria",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/galleria.mp3"
@@ -252,7 +252,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/juna.mp3"
       }
     ],
-    "bussi, linja-auto": [
+    "bussi | linja-auto": [
       {
         "text": "bussi",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/bussi.mp3"
@@ -382,7 +382,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/violetti.mp3"
       }
     ],
-    "sinipunainen, violetti": [
+    "sinipunainen | violetti": [
       {
         "text": "sinipunainen",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sinipunainen.mp3"
@@ -1250,7 +1250,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hunaja.mp3"
       }
     ],
-    "karkki, karamelli": [
+    "karkki | karamelli": [
       {
         "text": "karkki",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karkki.mp3"
@@ -1302,7 +1302,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/makkara.mp3"
       }
     ],
-    "jätski, jäätelö": [
+    "jätski | jäätelö": [
       {
         "text": "jätski",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jätski.mp3"
@@ -1378,7 +1378,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/virkistävä.mp3"
       }
     ],
-    "iso, suuri": [
+    "iso | suuri": [
       {
         "text": "iso",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/iso.mp3"
@@ -1466,7 +1466,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tytär.mp3"
       }
     ],
-    "vauva, beibi": [
+    "vauva | beibi": [
       {
         "text": "vauva",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vauva.mp3"
@@ -1488,7 +1488,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aviomies.mp3"
       }
     ],
-    "sisar, sisko": [
+    "sisar | sisko": [
       {
         "text": "sisar",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sisar.mp3"
@@ -1552,7 +1552,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tyttärentytär.mp3"
       }
     ],
-    "setä, eno": [
+    "setä | eno": [
       {
         "text": "setä",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/setä.mp3"
@@ -1592,7 +1592,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/poikaystävä.mp3"
       }
     ],
-    "avioliitto, häät": [
+    "avioliitto | häät": [
       {
         "text": "avioliitto",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/avioliitto.mp3"
@@ -1632,7 +1632,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sulhanen.mp3"
       }
     ],
-    "kumppani, partneri": [
+    "kumppani | partneri": [
       {
         "text": "kumppani",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kumppani.mp3"
@@ -1666,7 +1666,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pensas.mp3"
       }
     ],
-    "ruoho, nurmi": [
+    "ruoho | nurmi": [
       {
         "text": "ruoho",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ruoho.mp3"
@@ -1742,17 +1742,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/taiteilija.mp3"
       }
     ],
-    "suunnittelija,muotoilija": [
-      {
-        "text": "suunnittelija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suunnittelija.mp3"
-      },
-      {
-        "text": "muotoilija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/muotoilija.mp3"
-      }
-    ],
-    "tiedemies, tutkija": [
+    "tiedemies | tutkija": [
       {
         "text": "tiedemies",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tiedemies.mp3"
@@ -1870,7 +1860,7 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kampaaja.mp3"
       }
     ],
-    "sähköasentaja, sähkömies": [
+    "sähköasentaja | sähkömies": [
       {
         "text": "sähköasentaja",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sähköasentaja.mp3"
@@ -1964,12 +1954,6 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/portaikko.mp3"
       }
     ],
-    "toinen puoli (toisella puolella)": [
-      {
-        "text": "toinen puoli toisella puolella",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/toinen_puoli_toisella_puolella.mp3"
-      }
-    ],
     "väkijoukko": [
       {
         "text": "väkijoukko",
@@ -2030,24 +2014,6 @@
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suojatie.mp3"
       }
     ],
-    "ylittää, mennä yli (a narrow thing), mennä poikki (e.g., a room)": [
-      {
-        "text": "ylittää",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ylittää.mp3"
-      },
-      {
-        "text": "mennä yli a narrow thing",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mennä_yli_a_narrow_thing.mp3"
-      },
-      {
-        "text": "mennä poikki e.g.",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mennä_poikki_e.g..mp3"
-      },
-      {
-        "text": "a room",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/a_room.mp3"
-      }
-    ],
     "läpikulku": [
       {
         "text": "läpikulku",
@@ -2064,6 +2030,22 @@
       {
         "text": "tunneli",
         "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tunneli.mp3"
+      }
+    ],
+    "suunnittelija | muotoilija": [
+      {
+        "text": "suunnittelija",
+        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suunnittelija.mp3"
+      },
+      {
+        "text": "muotoilija",
+        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/muotoilija.mp3"
+      }
+    ],
+    "ylittää | mennä yli [a narrow thing] | mennä poikki [e.g. a room]": [
+      {
+        "text": "ylittää",
+        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ylittää.mp3"
       }
     ]
   }

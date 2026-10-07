@@ -92,7 +92,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ענן.mp3"
       }
     ],
-    "קשת, קשת בענן": [
+    "קשת | קשת בענן": [
       {
         "text": "קשת",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/קשת.mp3"
@@ -114,7 +114,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כפר.mp3"
       }
     ],
-    "כביש, דרך": [
+    "כביש | דרך": [
       {
         "text": "כביש",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כביש.mp3"
@@ -208,7 +208,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/בנק.mp3"
       }
     ],
-    "עירייה, בית העירייה": [
+    "עירייה | בית העירייה": [
       {
         "text": "עירייה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עירייה.mp3"
@@ -266,7 +266,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עירוני.mp3"
       }
     ],
-    "מכונית, אוטו": [
+    "מכונית | אוטו": [
       {
         "text": "מכונית",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מכונית.mp3"
@@ -306,7 +306,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אופניים.mp3"
       }
     ],
-    "ספינה, אונייה": [
+    "ספינה | אונייה": [
       {
         "text": "ספינה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ספינה.mp3"
@@ -418,7 +418,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סגול.mp3"
       }
     ],
-    "סגול, ארגמן": [
+    "סגול | ארגמן": [
       {
         "text": "סגול",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סגול.mp3"
@@ -458,7 +458,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כהה.mp3"
       }
     ],
-    "עז, בוהק": [
+    "עז | בוהק": [
       {
         "text": "עז",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עז.mp3"
@@ -858,7 +858,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כלב.mp3"
       }
     ],
-    "תרנגולת, עוף": [
+    "תרנגולת | עוף": [
       {
         "text": "תרנגולת",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/תרנגולת.mp3"
@@ -910,7 +910,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עכבר.mp3"
       }
     ],
-    "גור, כלבלב": [
+    "גור | כלבלב": [
       {
         "text": "גור",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/גור.mp3"
@@ -998,7 +998,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אייל_קורא.mp3"
       }
     ],
-    "צבי, אייל": [
+    "צבי | אייל": [
       {
         "text": "צבי",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/צבי.mp3"
@@ -1032,7 +1032,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/קיפוד.mp3"
       }
     ],
-    "ארנב, ארנבון": [
+    "ארנב | ארנבון": [
       {
         "text": "ארנב",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ארנב.mp3"
@@ -1138,7 +1138,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/יונה.mp3"
       }
     ],
-    "נשר, עיט": [
+    "נשר | עיט": [
       {
         "text": "נשר",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/נשר.mp3"
@@ -1238,7 +1238,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סנפיר.mp3"
       }
     ],
-    "חיה, בעל חיים": [
+    "חיה | בעל חיים": [
       {
         "text": "חיה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/חיה.mp3"
@@ -1518,7 +1518,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/דבש.mp3"
       }
     ],
-    "סוכרייה, ממתק": [
+    "סוכרייה | ממתק": [
       {
         "text": "סוכרייה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סוכרייה.mp3"
@@ -1534,7 +1534,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עוגייה.mp3"
       }
     ],
-    "כריך, סנדוויץ'": [
+    "כריך | סנדוויץ'": [
       {
         "text": "כריך",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כריך.mp3"
@@ -1550,7 +1550,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סושי.mp3"
       }
     ],
-    "פנקייק, חביתית": [
+    "פנקייק | חביתית": [
       {
         "text": "פנקייק",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/פנקייק.mp3"
@@ -1572,7 +1572,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/חביתה.mp3"
       }
     ],
-    "נקניקייה, נקניק": [
+    "נקניקייה | נקניק": [
       {
         "text": "נקניקייה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/נקניקייה.mp3"
@@ -1702,7 +1702,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/חדש.mp3"
       }
     ],
-    "ישן, זקן": [
+    "ישן | זקן": [
       {
         "text": "ישן",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ישן.mp3"
@@ -1730,7 +1730,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/משפחה.mp3"
       }
     ],
-    "אבא, אב": [
+    "אבא | אב": [
       {
         "text": "אבא",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אבא.mp3"
@@ -1740,7 +1740,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אב.mp3"
       }
     ],
-    "אמא, אם": [
+    "אמא | אם": [
       {
         "text": "אמא",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אמא.mp3"
@@ -1774,7 +1774,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/תינוק.mp3"
       }
     ],
-    "אישה, רעיה": [
+    "אישה | רעיה": [
       {
         "text": "אישה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אישה.mp3"
@@ -1814,7 +1814,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/הורים.mp3"
       }
     ],
-    "הורה יחיד, הורה עצמאי": [
+    "הורה יחיד | הורה עצמאי": [
       {
         "text": "הורה יחיד",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/הורה_יחיד.mp3"
@@ -1866,7 +1866,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/דודה.mp3"
       }
     ],
-    "בן דוד, בת דודה": [
+    "בן דוד | בת דודה": [
       {
         "text": "בן דוד",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/בן_דוד.mp3"
@@ -1948,7 +1948,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ארוס.mp3"
       }
     ],
-    "בן זוג, בת זוג": [
+    "בן זוג | בת זוג": [
       {
         "text": "בן זוג",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/בן_זוג.mp3"
@@ -1976,7 +1976,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מנהל.mp3"
       }
     ],
-    "מזכירה, מזכיר": [
+    "מזכירה | מזכיר": [
       {
         "text": "מזכירה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מזכירה.mp3"
@@ -1998,7 +1998,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מחלקה.mp3"
       }
     ],
-    "ראש מחלקה, מנהל מחלקה": [
+    "ראש מחלקה | מנהל מחלקה": [
       {
         "text": "ראש מחלקה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ראש_מחלקה.mp3"
@@ -2014,7 +2014,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/רואה_חשבון.mp3"
       }
     ],
-    "קופאי, קופאית": [
+    "קופאי | קופאית": [
       {
         "text": "קופאי",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/קופאי.mp3"
@@ -2024,7 +2024,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/קופאית.mp3"
       }
     ],
-    "רקדן, רקדנית": [
+    "רקדן | רקדנית": [
       {
         "text": "רקדן",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/רקדן.mp3"
@@ -2064,7 +2064,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מהנדס.mp3"
       }
     ],
-    "חקלאי, איכר": [
+    "חקלאי | איכר": [
       {
         "text": "חקלאי",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/חקלאי.mp3"
@@ -2080,7 +2080,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/צייד.mp3"
       }
     ],
-    "דוגמנית, דוגמן": [
+    "דוגמנית | דוגמן": [
       {
         "text": "דוגמנית",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/דוגמנית.mp3"
@@ -2186,7 +2186,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/חשמלאי.mp3"
       }
     ],
-    "שרברב, אינסטלטור": [
+    "שרברב | אינסטלטור": [
       {
         "text": "שרברב",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/שרברב.mp3"
@@ -2244,7 +2244,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ברמן.mp3"
       }
     ],
-    "פועל, עובד": [
+    "פועל | עובד": [
       {
         "text": "פועל",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/פועל.mp3"
@@ -2272,7 +2272,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/גבוה.mp3"
       }
     ],
-    "יפה, יפהפה": [
+    "יפה | יפהפה": [
       {
         "text": "יפה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/יפה.mp3"
@@ -2282,7 +2282,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/יפהפה.mp3"
       }
     ],
-    "יפה, חמוד": [
+    "יפה | חמוד": [
       {
         "text": "יפה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/יפה.mp3"
@@ -2310,7 +2310,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מקסים.mp3"
       }
     ],
-    "מושך, אטרקטיבי": [
+    "מושך | אטרקטיבי": [
       {
         "text": "מושך",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/מושך.mp3"
@@ -2320,7 +2320,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אטרקטיבי.mp3"
       }
     ],
-    "נאה, יפה תואר": [
+    "נאה | יפה תואר": [
       {
         "text": "נאה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/נאה.mp3"
@@ -2342,7 +2342,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/רזה.mp3"
       }
     ],
-    "דק, תמיר": [
+    "דק | תמיר": [
       {
         "text": "דק",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/דק.mp3"
@@ -2352,7 +2352,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/תמיר.mp3"
       }
     ],
-    "כחוש, רזה מאוד": [
+    "כחוש | רזה מאוד": [
       {
         "text": "כחוש",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/כחוש.mp3"
@@ -2398,7 +2398,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/עודף_משקל.mp3"
       }
     ],
-    "לרזות, לרדת במשקל": [
+    "לרזות | לרדת במשקל": [
       {
         "text": "לרזות",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/לרזות.mp3"
@@ -2408,7 +2408,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/לרדת_במשקל.mp3"
       }
     ],
-    "להשמין, לעלות במשקל": [
+    "להשמין | לעלות במשקל": [
       {
         "text": "להשמין",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/להשמין.mp3"
@@ -2436,7 +2436,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/בלונדיני.mp3"
       }
     ],
-    "ג'ינג'י, אדמוני": [
+    "ג'ינג'י | אדמוני": [
       {
         "text": "ג'ינג'י",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/ג'ינג'י.mp3"
@@ -2452,7 +2452,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/איפור.mp3"
       }
     ],
-    "סגנון, סטייל": [
+    "סגנון | סטייל": [
       {
         "text": "סגנון",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/סגנון.mp3"
@@ -2534,7 +2534,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/גוף.mp3"
       }
     ],
-    "יד, כף יד": [
+    "יד | כף יד": [
       {
         "text": "יד",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/יד.mp3"
@@ -2730,7 +2730,7 @@
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/גולגולת.mp3"
       }
     ],
-    "אישה, נקבה": [
+    "אישה | נקבה": [
       {
         "text": "אישה",
         "file": "he/words/6WRlPmU1fqPwYbSxeP16/אישה.mp3"
