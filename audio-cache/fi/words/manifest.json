@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "lang": "fi",
   "group": "words",
   "voice": {
@@ -7,2046 +7,350 @@
     "modelId": "eleven_v4",
     "outputFormat": "mp3_44100_128"
   },
-  "entries": {
-    "palo": [
-      {
-        "text": "palo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/palo.mp3"
-      }
-    ],
-    "valo": [
-      {
-        "text": "valo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/valo.mp3"
-      }
-    ],
-    "vesi": [
-      {
-        "text": "vesi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vesi.mp3"
-      }
-    ],
-    "joki": [
-      {
-        "text": "joki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/joki.mp3"
-      }
-    ],
-    "meri": [
-      {
-        "text": "meri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/meri.mp3"
-      }
-    ],
-    "aurinko": [
-      {
-        "text": "aurinko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aurinko.mp3"
-      }
-    ],
-    "kuu": [
-      {
-        "text": "kuu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuu.mp3"
-      }
-    ],
-    "ilma": [
-      {
-        "text": "ilma",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ilma.mp3"
-      }
-    ],
-    "tähti": [
-      {
-        "text": "tähti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tähti.mp3"
-      }
-    ],
-    "sumu": [
-      {
-        "text": "sumu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sumu.mp3"
-      }
-    ],
-    "taivas": [
-      {
-        "text": "taivas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/taivas.mp3"
-      }
-    ],
-    "pilvi": [
-      {
-        "text": "pilvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pilvi.mp3"
-      }
-    ],
-    "sateenkaari": [
-      {
-        "text": "sateenkaari",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sateenkaari.mp3"
-      }
-    ],
-    "kaupunki": [
-      {
-        "text": "kaupunki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunki.mp3"
-      }
-    ],
-    "kylä": [
-      {
-        "text": "kylä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kylä.mp3"
-      }
-    ],
-    "tie": [
-      {
-        "text": "tie",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tie.mp3"
-      }
-    ],
-    "katu": [
-      {
-        "text": "katu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/katu.mp3"
-      }
-    ],
-    "silta": [
-      {
-        "text": "silta",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/silta.mp3"
-      }
-    ],
-    "aukio": [
-      {
-        "text": "aukio",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aukio.mp3"
-      }
-    ],
-    "keskusta": [
-      {
-        "text": "keskusta",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/keskusta.mp3"
-      }
-    ],
-    "kirkko": [
-      {
-        "text": "kirkko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirkko.mp3"
-      }
-    ],
-    "apteekki": [
-      {
-        "text": "apteekki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/apteekki.mp3"
-      }
-    ],
-    "linna": [
-      {
-        "text": "linna",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/linna.mp3"
-      }
-    ],
-    "rakennus": [
-      {
-        "text": "rakennus",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/rakennus.mp3"
-      }
-    ],
-    "koulu": [
-      {
-        "text": "koulu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/koulu.mp3"
-      }
-    ],
-    "museo": [
-      {
-        "text": "museo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/museo.mp3"
-      }
-    ],
-    "kuja": [
-      {
-        "text": "kuja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuja.mp3"
-      }
-    ],
-    "kadunkulma": [
-      {
-        "text": "kadunkulma",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kadunkulma.mp3"
-      }
-    ],
-    "pankki": [
-      {
-        "text": "pankki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pankki.mp3"
-      }
-    ],
-    "kaupungintalo": [
-      {
-        "text": "kaupungintalo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupungintalo.mp3"
-      }
-    ],
-    "suihkulähde": [
-      {
-        "text": "suihkulähde",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suihkulähde.mp3"
-      }
-    ],
-    "penkki": [
-      {
-        "text": "penkki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/penkki.mp3"
-      }
-    ],
-    "esikaupunki": [
-      {
-        "text": "esikaupunki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/esikaupunki.mp3"
-      }
-    ],
-    "kaupunginosa": [
-      {
-        "text": "kaupunginosa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunginosa.mp3"
-      }
-    ],
-    "tehdas": [
-      {
-        "text": "tehdas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tehdas.mp3"
-      }
-    ],
-    "patsas": [
-      {
-        "text": "patsas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/patsas.mp3"
-      }
-    ],
-    "galleria | taidegalleria": [
-      {
-        "text": "galleria",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/galleria.mp3"
-      },
-      {
-        "text": "taidegalleria",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/taidegalleria.mp3"
-      }
-    ],
-    "kaupunki-": [
-      {
-        "text": "kaupunki-",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunki-.mp3"
-      }
-    ],
-    "auto": [
-      {
-        "text": "auto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/auto.mp3"
-      }
-    ],
-    "juna": [
-      {
-        "text": "juna",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/juna.mp3"
-      }
-    ],
-    "bussi | linja-auto": [
-      {
-        "text": "bussi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/bussi.mp3"
-      },
-      {
-        "text": "linja-auto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/linja-auto.mp3"
-      }
-    ],
-    "maanalainen": [
-      {
-        "text": "maanalainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/maanalainen.mp3"
-      }
-    ],
-    "raitiovaunu": [
-      {
-        "text": "raitiovaunu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/raitiovaunu.mp3"
-      }
-    ],
-    "polkupyörä": [
-      {
-        "text": "polkupyörä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/polkupyörä.mp3"
-      }
-    ],
-    "laiva": [
-      {
-        "text": "laiva",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/laiva.mp3"
-      }
-    ],
-    "moottoripyörä": [
-      {
-        "text": "moottoripyörä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/moottoripyörä.mp3"
-      }
-    ],
-    "bussipysäkki": [
-      {
-        "text": "bussipysäkki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/bussipysäkki.mp3"
-      }
-    ],
-    "rautatie": [
-      {
-        "text": "rautatie",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/rautatie.mp3"
-      }
-    ],
-    "rautatieasema": [
-      {
-        "text": "rautatieasema",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/rautatieasema.mp3"
-      }
-    ],
-    "lippu": [
-      {
-        "text": "lippu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lippu.mp3"
-      }
-    ],
-    "keltainen": [
-      {
-        "text": "keltainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/keltainen.mp3"
-      }
-    ],
-    "valkoinen": [
-      {
-        "text": "valkoinen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/valkoinen.mp3"
-      }
-    ],
-    "musta": [
-      {
-        "text": "musta",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/musta.mp3"
-      }
-    ],
-    "punainen": [
-      {
-        "text": "punainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/punainen.mp3"
-      }
-    ],
-    "sininen": [
-      {
-        "text": "sininen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sininen.mp3"
-      }
-    ],
-    "vihreä": [
-      {
-        "text": "vihreä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vihreä.mp3"
-      }
-    ],
-    "oranssi": [
-      {
-        "text": "oranssi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/oranssi.mp3"
-      }
-    ],
-    "vaaleanpunainen": [
-      {
-        "text": "vaaleanpunainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaaleanpunainen.mp3"
-      }
-    ],
-    "ruskea": [
-      {
-        "text": "ruskea",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ruskea.mp3"
-      }
-    ],
-    "harmaa": [
-      {
-        "text": "harmaa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/harmaa.mp3"
-      }
-    ],
-    "violetti": [
-      {
-        "text": "violetti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/violetti.mp3"
-      }
-    ],
-    "sinipunainen | violetti": [
-      {
-        "text": "sinipunainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sinipunainen.mp3"
-      },
-      {
-        "text": "violetti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/violetti.mp3"
-      }
-    ],
-    "väri": [
-      {
-        "text": "väri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/väri.mp3"
-      }
-    ],
-    "värikäs": [
-      {
-        "text": "värikäs",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/värikäs.mp3"
-      }
-    ],
-    "väritön": [
-      {
-        "text": "väritön",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/väritön.mp3"
-      }
-    ],
-    "vaalea": [
-      {
-        "text": "vaalea",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaalea.mp3"
-      }
-    ],
-    "tumma": [
-      {
-        "text": "tumma",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tumma.mp3"
-      }
-    ],
-    "kirkas": [
-      {
-        "text": "kirkas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirkas.mp3"
-      }
-    ],
-    "yksi": [
-      {
-        "text": "yksi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/yksi.mp3"
-      }
-    ],
-    "kaksi": [
-      {
-        "text": "kaksi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaksi.mp3"
-      }
-    ],
-    "kolme": [
-      {
-        "text": "kolme",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kolme.mp3"
-      }
-    ],
-    "neljä": [
-      {
-        "text": "neljä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/neljä.mp3"
-      }
-    ],
-    "viisi": [
-      {
-        "text": "viisi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/viisi.mp3"
-      }
-    ],
-    "hedelmä": [
-      {
-        "text": "hedelmä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hedelmä.mp3"
-      }
-    ],
-    "omena": [
-      {
-        "text": "omena",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/omena.mp3"
-      }
-    ],
-    "päärynä": [
-      {
-        "text": "päärynä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/päärynä.mp3"
-      }
-    ],
-    "luumu": [
-      {
-        "text": "luumu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/luumu.mp3"
-      }
-    ],
-    "kirsikka": [
-      {
-        "text": "kirsikka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirsikka.mp3"
-      }
-    ],
-    "persikka": [
-      {
-        "text": "persikka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/persikka.mp3"
-      }
-    ],
-    "aprikoosi": [
-      {
-        "text": "aprikoosi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aprikoosi.mp3"
-      }
-    ],
-    "mansikka": [
-      {
-        "text": "mansikka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mansikka.mp3"
-      }
-    ],
-    "vadelma": [
-      {
-        "text": "vadelma",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vadelma.mp3"
-      }
-    ],
-    "karhunvatukka": [
-      {
-        "text": "karhunvatukka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karhunvatukka.mp3"
-      }
-    ],
-    "mustikka": [
-      {
-        "text": "mustikka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mustikka.mp3"
-      }
-    ],
-    "lakka": [
-      {
-        "text": "lakka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lakka.mp3"
-      }
-    ],
-    "tyrni": [
-      {
-        "text": "tyrni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tyrni.mp3"
-      }
-    ],
-    "viinirypäle": [
-      {
-        "text": "viinirypäle",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/viinirypäle.mp3"
-      }
-    ],
-    "herukka": [
-      {
-        "text": "herukka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/herukka.mp3"
-      }
-    ],
-    "karviainen": [
-      {
-        "text": "karviainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karviainen.mp3"
-      }
-    ],
-    "banaani": [
-      {
-        "text": "banaani",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/banaani.mp3"
-      }
-    ],
-    "sitruuna": [
-      {
-        "text": "sitruuna",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sitruuna.mp3"
-      }
-    ],
-    "ananas": [
-      {
-        "text": "ananas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ananas.mp3"
-      }
-    ],
-    "vesimeloni": [
-      {
-        "text": "vesimeloni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vesimeloni.mp3"
-      }
-    ],
-    "pähkinä": [
-      {
-        "text": "pähkinä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pähkinä.mp3"
-      }
-    ],
-    "hasselpähkinä": [
-      {
-        "text": "hasselpähkinä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hasselpähkinä.mp3"
-      }
-    ],
-    "saksanpähkinä": [
-      {
-        "text": "saksanpähkinä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/saksanpähkinä.mp3"
-      }
-    ],
-    "manteli": [
-      {
-        "text": "manteli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/manteli.mp3"
-      }
-    ],
-    "kypsä": [
-      {
-        "text": "kypsä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kypsä.mp3"
-      }
-    ],
-    "valkosipuli": [
-      {
-        "text": "valkosipuli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/valkosipuli.mp3"
-      }
-    ],
-    "kurkku": [
-      {
-        "text": "kurkku",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kurkku.mp3"
-      }
-    ],
-    "porkkana": [
-      {
-        "text": "porkkana",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/porkkana.mp3"
-      }
-    ],
-    "munakoiso": [
-      {
-        "text": "munakoiso",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakoiso.mp3"
-      }
-    ],
-    "peruna": [
-      {
-        "text": "peruna",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/peruna.mp3"
-      }
-    ],
-    "tomaatti": [
-      {
-        "text": "tomaatti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tomaatti.mp3"
-      }
-    ],
-    "kurpitsa": [
-      {
-        "text": "kurpitsa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kurpitsa.mp3"
-      }
-    ],
-    "kesäkurpitsa": [
-      {
-        "text": "kesäkurpitsa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kesäkurpitsa.mp3"
-      }
-    ],
-    "avokado": [
-      {
-        "text": "avokado",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/avokado.mp3"
-      }
-    ],
-    "kaali": [
-      {
-        "text": "kaali",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaali.mp3"
-      }
-    ],
-    "kukkakaali": [
-      {
-        "text": "kukkakaali",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kukkakaali.mp3"
-      }
-    ],
-    "parsakaali": [
-      {
-        "text": "parsakaali",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/parsakaali.mp3"
-      }
-    ],
-    "pinaatti": [
-      {
-        "text": "pinaatti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pinaatti.mp3"
-      }
-    ],
-    "paprika": [
-      {
-        "text": "paprika",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/paprika.mp3"
-      }
-    ],
-    "lehtisalaatti": [
-      {
-        "text": "lehtisalaatti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehtisalaatti.mp3"
-      }
-    ],
-    "purjo": [
-      {
-        "text": "purjo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/purjo.mp3"
-      }
-    ],
-    "sipuli": [
-      {
-        "text": "sipuli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sipuli.mp3"
-      }
-    ],
-    "kuuma pippuria": [
-      {
-        "text": "kuuma pippuria",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuuma_pippuria.mp3"
-      }
-    ],
-    "kissa": [
-      {
-        "text": "kissa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kissa.mp3"
-      }
-    ],
-    "koira": [
-      {
-        "text": "koira",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/koira.mp3"
-      }
-    ],
-    "kana": [
-      {
-        "text": "kana",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kana.mp3"
-      }
-    ],
-    "sika": [
-      {
-        "text": "sika",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sika.mp3"
-      }
-    ],
-    "lehmä": [
-      {
-        "text": "lehmä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehmä.mp3"
-      }
-    ],
-    "hevonen": [
-      {
-        "text": "hevonen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hevonen.mp3"
-      }
-    ],
-    "lammas": [
-      {
-        "text": "lammas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lammas.mp3"
-      }
-    ],
-    "vuohi": [
-      {
-        "text": "vuohi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vuohi.mp3"
-      }
-    ],
-    "aasi": [
-      {
-        "text": "aasi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aasi.mp3"
-      }
-    ],
-    "hiiri": [
-      {
-        "text": "hiiri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hiiri.mp3"
-      }
-    ],
-    "pentu": [
-      {
-        "text": "pentu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pentu.mp3"
-      }
-    ],
-    "hamsteri": [
-      {
-        "text": "hamsteri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hamsteri.mp3"
-      }
-    ],
-    "marsu": [
-      {
-        "text": "marsu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/marsu.mp3"
-      }
-    ],
-    "häkki": [
-      {
-        "text": "häkki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/häkki.mp3"
-      }
-    ],
-    "akvaario": [
-      {
-        "text": "akvaario",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/akvaario.mp3"
-      }
-    ],
-    "talutin": [
-      {
-        "text": "talutin",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/talutin.mp3"
-      }
-    ],
-    "pesä": [
-      {
-        "text": "pesä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pesä.mp3"
-      }
-    ],
-    "naaras": [
-      {
-        "text": "naaras",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/naaras.mp3"
-      }
-    ],
-    "eläinlääkäri": [
-      {
-        "text": "eläinlääkäri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/eläinlääkäri.mp3"
-      }
-    ],
-    "karhu": [
-      {
-        "text": "karhu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karhu.mp3"
-      }
-    ],
-    "hirvi": [
-      {
-        "text": "hirvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hirvi.mp3"
-      }
-    ],
-    "peura": [
-      {
-        "text": "peura",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/peura.mp3"
-      }
-    ],
-    "poro": [
-      {
-        "text": "poro",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/poro.mp3"
-      }
-    ],
-    "susi": [
-      {
-        "text": "susi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/susi.mp3"
-      }
-    ],
-    "kettu": [
-      {
-        "text": "kettu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kettu.mp3"
-      }
-    ],
-    "siili": [
-      {
-        "text": "siili",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/siili.mp3"
-      }
-    ],
-    "kani": [
-      {
-        "text": "kani",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kani.mp3"
-      }
-    ],
-    "jänis": [
-      {
-        "text": "jänis",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jänis.mp3"
-      }
-    ],
-    "villisika": [
-      {
-        "text": "villisika",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/villisika.mp3"
-      }
-    ],
-    "orava": [
-      {
-        "text": "orava",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/orava.mp3"
-      }
-    ],
-    "sammakko": [
-      {
-        "text": "sammakko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sammakko.mp3"
-      }
-    ],
-    "käärme": [
-      {
-        "text": "käärme",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/käärme.mp3"
-      }
-    ],
-    "tiikeri": [
-      {
-        "text": "tiikeri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tiikeri.mp3"
-      }
-    ],
-    "leijona": [
-      {
-        "text": "leijona",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/leijona.mp3"
-      }
-    ],
-    "norsu": [
-      {
-        "text": "norsu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/norsu.mp3"
-      }
-    ],
-    "kameli": [
-      {
-        "text": "kameli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kameli.mp3"
-      }
-    ],
-    "kirahvi": [
-      {
-        "text": "kirahvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirahvi.mp3"
-      }
-    ],
-    "krokotiili": [
-      {
-        "text": "krokotiili",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/krokotiili.mp3"
-      }
-    ],
-    "apina": [
-      {
-        "text": "apina",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/apina.mp3"
-      }
-    ],
-    "lintu": [
-      {
-        "text": "lintu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lintu.mp3"
-      }
-    ],
-    "ankka": [
-      {
-        "text": "ankka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ankka.mp3"
-      }
-    ],
-    "hahni": [
-      {
-        "text": "hahni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hahni.mp3"
-      }
-    ],
-    "kyyhkynen": [
-      {
-        "text": "kyyhkynen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kyyhkynen.mp3"
-      }
-    ],
-    "kotka": [
-      {
-        "text": "kotka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kotka.mp3"
-      }
-    ],
-    "varpunen": [
-      {
-        "text": "varpunen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/varpunen.mp3"
-      }
-    ],
-    "joutsen": [
-      {
-        "text": "joutsen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/joutsen.mp3"
-      }
-    ],
-    "haikara": [
-      {
-        "text": "haikara",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/haikara.mp3"
-      }
-    ],
-    "lokki": [
-      {
-        "text": "lokki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lokki.mp3"
-      }
-    ],
-    "pöllö": [
-      {
-        "text": "pöllö",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pöllö.mp3"
-      }
-    ],
-    "papukaija": [
-      {
-        "text": "papukaija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/papukaija.mp3"
-      }
-    ],
-    "kala": [
-      {
-        "text": "kala",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kala.mp3"
-      }
-    ],
-    "delfiini": [
-      {
-        "text": "delfiini",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/delfiini.mp3"
-      }
-    ],
-    "hai": [
-      {
-        "text": "hai",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hai.mp3"
-      }
-    ],
-    "ankerias": [
-      {
-        "text": "ankerias",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ankerias.mp3"
-      }
-    ],
-    "eläin": [
-      {
-        "text": "eläin",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/eläin.mp3"
-      }
-    ],
-    "siipi": [
-      {
-        "text": "siipi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/siipi.mp3"
-      }
-    ],
-    "sarvi": [
-      {
-        "text": "sarvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sarvi.mp3"
-      }
-    ],
-    "häntä": [
-      {
-        "text": "häntä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/häntä.mp3"
-      }
-    ],
-    "nokka": [
-      {
-        "text": "nokka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/nokka.mp3"
-      }
-    ],
-    "turkki": [
-      {
-        "text": "turkki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/turkki.mp3"
-      }
-    ],
-    "muurahainen": [
-      {
-        "text": "muurahainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/muurahainen.mp3"
-      }
-    ],
-    "perhonen": [
-      {
-        "text": "perhonen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/perhonen.mp3"
-      }
-    ],
-    "mehiläinen": [
-      {
-        "text": "mehiläinen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mehiläinen.mp3"
-      }
-    ],
-    "purra": [
-      {
-        "text": "purra",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/purra.mp3"
-      }
-    ],
-    "leipä": [
-      {
-        "text": "leipä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/leipä.mp3"
-      }
-    ],
-    "suola": [
-      {
-        "text": "suola",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suola.mp3"
-      }
-    ],
-    "sokeri": [
-      {
-        "text": "sokeri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sokeri.mp3"
-      }
-    ],
-    "riisi": [
-      {
-        "text": "riisi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/riisi.mp3"
-      }
-    ],
-    "tee": [
-      {
-        "text": "tee",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tee.mp3"
-      }
-    ],
-    "kahvi": [
-      {
-        "text": "kahvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kahvi.mp3"
-      }
-    ],
-    "mehu": [
-      {
-        "text": "mehu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mehu.mp3"
-      }
-    ],
-    "juusto": [
-      {
-        "text": "juusto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/juusto.mp3"
-      }
-    ],
-    "ranskalaiset": [
-      {
-        "text": "ranskalaiset",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ranskalaiset.mp3"
-      }
-    ],
-    "sieni": [
-      {
-        "text": "sieni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sieni.mp3"
-      }
-    ],
-    "keitto": [
-      {
-        "text": "keitto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/keitto.mp3"
-      }
-    ],
-    "liha": [
-      {
-        "text": "liha",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/liha.mp3"
-      }
-    ],
-    "pekoni": [
-      {
-        "text": "pekoni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pekoni.mp3"
-      }
-    ],
-    "muna": [
-      {
-        "text": "muna",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/muna.mp3"
-      }
-    ],
-    "öljy": [
-      {
-        "text": "öljy",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/öljy.mp3"
-      }
-    ],
-    "salaatti": [
-      {
-        "text": "salaatti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/salaatti.mp3"
-      }
-    ],
-    "jää": [
-      {
-        "text": "jää",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jää.mp3"
-      }
-    ],
-    "maito": [
-      {
-        "text": "maito",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/maito.mp3"
-      }
-    ],
-    "voi": [
-      {
-        "text": "voi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/voi.mp3"
-      }
-    ],
-    "kerma": [
-      {
-        "text": "kerma",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kerma.mp3"
-      }
-    ],
-    "kakku": [
-      {
-        "text": "kakku",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kakku.mp3"
-      }
-    ],
-    "olut": [
-      {
-        "text": "olut",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/olut.mp3"
-      }
-    ],
-    "vodka": [
-      {
-        "text": "vodka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vodka.mp3"
-      }
-    ],
-    "viini": [
-      {
-        "text": "viini",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/viini.mp3"
-      }
-    ],
-    "hunaja": [
-      {
-        "text": "hunaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hunaja.mp3"
-      }
-    ],
-    "karkki | karamelli": [
-      {
-        "text": "karkki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karkki.mp3"
-      },
-      {
-        "text": "karamelli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/karamelli.mp3"
-      }
-    ],
-    "pikkuleipä": [
-      {
-        "text": "pikkuleipä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pikkuleipä.mp3"
-      }
-    ],
-    "voileipä": [
-      {
-        "text": "voileipä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/voileipä.mp3"
-      }
-    ],
-    "sushi": [
-      {
-        "text": "sushi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sushi.mp3"
-      }
-    ],
-    "ohukainen": [
-      {
-        "text": "ohukainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ohukainen.mp3"
-      }
-    ],
-    "munakokkeli": [
-      {
-        "text": "munakokkeli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakokkeli.mp3"
-      }
-    ],
-    "munakas": [
-      {
-        "text": "munakas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakas.mp3"
-      }
-    ],
-    "makkara": [
-      {
-        "text": "makkara",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/makkara.mp3"
-      }
-    ],
-    "jätski | jäätelö": [
-      {
-        "text": "jätski",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jätski.mp3"
-      },
-      {
-        "text": "jäätelö",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jäätelö.mp3"
-      }
-    ],
-    "alkoholi": [
-      {
-        "text": "alkoholi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/alkoholi.mp3"
-      }
-    ],
-    "seesami": [
-      {
-        "text": "seesami",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/seesami.mp3"
-      }
-    ],
-    "jauhe": [
-      {
-        "text": "jauhe",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jauhe.mp3"
-      }
-    ],
-    "jauhot": [
-      {
-        "text": "jauhot",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jauhot.mp3"
-      }
-    ],
-    "makea": [
-      {
-        "text": "makea",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/makea.mp3"
-      }
-    ],
-    "kitkerä": [
-      {
-        "text": "kitkerä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kitkerä.mp3"
-      }
-    ],
-    "hapan": [
-      {
-        "text": "hapan",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hapan.mp3"
-      }
-    ],
-    "mausteinen": [
-      {
-        "text": "mausteinen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mausteinen.mp3"
-      }
-    ],
-    "mieto": [
-      {
-        "text": "mieto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mieto.mp3"
-      }
-    ],
-    "tuore": [
-      {
-        "text": "tuore",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tuore.mp3"
-      }
-    ],
-    "virkistävä": [
-      {
-        "text": "virkistävä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/virkistävä.mp3"
-      }
-    ],
-    "iso | suuri": [
-      {
-        "text": "iso",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/iso.mp3"
-      },
-      {
-        "text": "suuri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suuri.mp3"
-      }
-    ],
-    "pieni": [
-      {
-        "text": "pieni",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pieni.mp3"
-      }
-    ],
-    "pitkä": [
-      {
-        "text": "pitkä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pitkä.mp3"
-      }
-    ],
-    "lyhyt": [
-      {
-        "text": "lyhyt",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lyhyt.mp3"
-      }
-    ],
-    "uusi": [
-      {
-        "text": "uusi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/uusi.mp3"
-      }
-    ],
-    "vanha": [
-      {
-        "text": "vanha",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vanha.mp3"
-      }
-    ],
-    "puhdas": [
-      {
-        "text": "puhdas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/puhdas.mp3"
-      }
-    ],
-    "likainen": [
-      {
-        "text": "likainen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/likainen.mp3"
-      }
-    ],
-    "perhe": [
-      {
-        "text": "perhe",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/perhe.mp3"
-      }
-    ],
-    "isä": [
-      {
-        "text": "isä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/isä.mp3"
-      }
-    ],
-    "äiti": [
-      {
-        "text": "äiti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/äiti.mp3"
-      }
-    ],
-    "lapsi": [
-      {
-        "text": "lapsi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lapsi.mp3"
-      }
-    ],
-    "poika": [
-      {
-        "text": "poika",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/poika.mp3"
-      }
-    ],
-    "tytär": [
-      {
-        "text": "tytär",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tytär.mp3"
-      }
-    ],
-    "vauva | beibi": [
-      {
-        "text": "vauva",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vauva.mp3"
-      },
-      {
-        "text": "beibi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/beibi.mp3"
-      }
-    ],
-    "vaimo": [
-      {
-        "text": "vaimo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaimo.mp3"
-      }
-    ],
-    "aviomies": [
-      {
-        "text": "aviomies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/aviomies.mp3"
-      }
-    ],
-    "sisar | sisko": [
-      {
-        "text": "sisar",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sisar.mp3"
-      },
-      {
-        "text": "sisko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sisko.mp3"
-      }
-    ],
-    "veli": [
-      {
-        "text": "veli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/veli.mp3"
-      }
-    ],
-    "kaksonen": [
-      {
-        "text": "kaksonen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaksonen.mp3"
-      }
-    ],
-    "vanhemmat": [
-      {
-        "text": "vanhemmat",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vanhemmat.mp3"
-      }
-    ],
-    "yksinhuoltaja": [
-      {
-        "text": "yksinhuoltaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/yksinhuoltaja.mp3"
-      }
-    ],
-    "sukulaiset": [
-      {
-        "text": "sukulaiset",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sukulaiset.mp3"
-      }
-    ],
-    "isoäiti": [
-      {
-        "text": "isoäiti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/isoäiti.mp3"
-      }
-    ],
-    "mummo": [
-      {
-        "text": "mummo",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mummo.mp3"
-      }
-    ],
-    "pojanpoika": [
-      {
-        "text": "pojanpoika",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pojanpoika.mp3"
-      }
-    ],
-    "tyttärentytär": [
-      {
-        "text": "tyttärentytär",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tyttärentytär.mp3"
-      }
-    ],
-    "setä | eno": [
-      {
-        "text": "setä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/setä.mp3"
-      },
-      {
-        "text": "eno",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/eno.mp3"
-      }
-    ],
-    "täti": [
-      {
-        "text": "täti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/täti.mp3"
-      }
-    ],
-    "serkku": [
-      {
-        "text": "serkku",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/serkku.mp3"
-      }
-    ],
-    "sukupolvi": [
-      {
-        "text": "sukupolvi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sukupolvi.mp3"
-      }
-    ],
-    "pari": [
-      {
-        "text": "pari",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pari.mp3"
-      }
-    ],
-    "poikaystävä": [
-      {
-        "text": "poikaystävä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/poikaystävä.mp3"
-      }
-    ],
-    "avioliitto | häät": [
-      {
-        "text": "avioliitto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/avioliitto.mp3"
-      },
-      {
-        "text": "häät",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/häät.mp3"
-      }
-    ],
-    "naimisissa": [
-      {
-        "text": "naimisissa",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/naimisissa.mp3"
-      }
-    ],
-    "mennä naimisiin": [
-      {
-        "text": "mennä naimisiin",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mennä_naimisiin.mp3"
-      }
-    ],
-    "naimaton": [
-      {
-        "text": "naimaton",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/naimaton.mp3"
-      }
-    ],
-    "morsian": [
-      {
-        "text": "morsian",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/morsian.mp3"
-      }
-    ],
-    "sulhanen": [
-      {
-        "text": "sulhanen",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sulhanen.mp3"
-      }
-    ],
-    "kumppani | partneri": [
-      {
-        "text": "kumppani",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kumppani.mp3"
-      },
-      {
-        "text": "partneri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/partneri.mp3"
-      }
-    ],
-    "puu": [
-      {
-        "text": "puu",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/puu.mp3"
-      }
-    ],
-    "metsä": [
-      {
-        "text": "metsä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/metsä.mp3"
-      }
-    ],
-    "lehti": [
-      {
-        "text": "lehti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehti.mp3"
-      }
-    ],
-    "pensas": [
-      {
-        "text": "pensas",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pensas.mp3"
-      }
-    ],
-    "ruoho | nurmi": [
-      {
-        "text": "ruoho",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ruoho.mp3"
-      },
-      {
-        "text": "nurmi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/nurmi.mp3"
-      }
-    ],
-    "valokuvaaja": [
-      {
-        "text": "valokuvaaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/valokuvaaja.mp3"
-      }
-    ],
-    "kokki": [
-      {
-        "text": "kokki",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kokki.mp3"
-      }
-    ],
-    "johtaja": [
-      {
-        "text": "johtaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/johtaja.mp3"
-      }
-    ],
-    "sihteeri": [
-      {
-        "text": "sihteeri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sihteeri.mp3"
-      }
-    ],
-    "harjoittelija": [
-      {
-        "text": "harjoittelija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/harjoittelija.mp3"
-      }
-    ],
-    "osasto": [
-      {
-        "text": "osasto",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/osasto.mp3"
-      }
-    ],
-    "osastopäällikkö": [
-      {
-        "text": "osastopäällikkö",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/osastopäällikkö.mp3"
-      }
-    ],
-    "kirjanpitäjä": [
-      {
-        "text": "kirjanpitäjä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirjanpitäjä.mp3"
-      }
-    ],
-    "tanssija": [
-      {
-        "text": "tanssija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tanssija.mp3"
-      }
-    ],
-    "maalari": [
-      {
-        "text": "maalari",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/maalari.mp3"
-      }
-    ],
-    "taiteilija": [
-      {
-        "text": "taiteilija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/taiteilija.mp3"
-      }
-    ],
-    "tiedemies | tutkija": [
-      {
-        "text": "tiedemies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tiedemies.mp3"
-      },
-      {
-        "text": "tutkija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tutkija.mp3"
-      }
-    ],
-    "insinööri": [
-      {
-        "text": "insinööri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/insinööri.mp3"
-      }
-    ],
-    "maanviljelijä": [
-      {
-        "text": "maanviljelijä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/maanviljelijä.mp3"
-      }
-    ],
-    "metsästäjä": [
-      {
-        "text": "metsästäjä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/metsästäjä.mp3"
-      }
-    ],
-    "malli": [
-      {
-        "text": "malli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/malli.mp3"
-      }
-    ],
-    "pilotti": [
-      {
-        "text": "pilotti",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/pilotti.mp3"
-      }
-    ],
-    "lentoemäntä": [
-      {
-        "text": "lentoemäntä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lentoemäntä.mp3"
-      }
-    ],
-    "kalastaja": [
-      {
-        "text": "kalastaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kalastaja.mp3"
-      }
-    ],
-    "kaivosmies": [
-      {
-        "text": "kaivosmies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaivosmies.mp3"
-      }
-    ],
-    "kaivos": [
-      {
-        "text": "kaivos",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaivos.mp3"
-      }
-    ],
-    "lakimies": [
-      {
-        "text": "lakimies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lakimies.mp3"
-      }
-    ],
-    "syyttäjä": [
-      {
-        "text": "syyttäjä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/syyttäjä.mp3"
-      }
-    ],
-    "tuomari": [
-      {
-        "text": "tuomari",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tuomari.mp3"
-      }
-    ],
-    "tarjoilija": [
-      {
-        "text": "tarjoilija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tarjoilija.mp3"
-      }
-    ],
-    "poliisi": [
-      {
-        "text": "poliisi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/poliisi.mp3"
-      }
-    ],
-    "palomies": [
-      {
-        "text": "palomies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/palomies.mp3"
-      }
-    ],
-    "toimittaja": [
-      {
-        "text": "toimittaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/toimittaja.mp3"
-      }
-    ],
-    "leipuri": [
-      {
-        "text": "leipuri",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/leipuri.mp3"
-      }
-    ],
-    "kampaaja": [
-      {
-        "text": "kampaaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kampaaja.mp3"
-      }
-    ],
-    "sähköasentaja | sähkömies": [
-      {
-        "text": "sähköasentaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sähköasentaja.mp3"
-      },
-      {
-        "text": "sähkömies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/sähkömies.mp3"
-      }
-    ],
-    "putkimies": [
-      {
-        "text": "putkimies",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/putkimies.mp3"
-      }
-    ],
-    "mekaanikko": [
-      {
-        "text": "mekaanikko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/mekaanikko.mp3"
-      }
-    ],
-    "lukkoseppä": [
-      {
-        "text": "lukkoseppä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lukkoseppä.mp3"
-      }
-    ],
-    "puuseppä": [
-      {
-        "text": "puuseppä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/puuseppä.mp3"
-      }
-    ],
-    "hitsaaja": [
-      {
-        "text": "hitsaaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hitsaaja.mp3"
-      }
-    ],
-    "teurastaja": [
-      {
-        "text": "teurastaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/teurastaja.mp3"
-      }
-    ],
-    "kelloseppä": [
-      {
-        "text": "kelloseppä",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kelloseppä.mp3"
-      }
-    ],
-    "siivooja": [
-      {
-        "text": "siivooja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/siivooja.mp3"
-      }
-    ],
-    "baarimikko": [
-      {
-        "text": "baarimikko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/baarimikko.mp3"
-      }
-    ],
-    "opettaja": [
-      {
-        "text": "opettaja",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/opettaja.mp3"
-      }
-    ],
-    "kartta": [
-      {
-        "text": "kartta",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kartta.mp3"
-      }
-    ],
-    "kerros": [
-      {
-        "text": "kerros",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/kerros.mp3"
-      }
-    ],
-    "hissi": [
-      {
-        "text": "hissi",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/hissi.mp3"
-      }
-    ],
-    "portaikko": [
-      {
-        "text": "portaikko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/portaikko.mp3"
-      }
-    ],
-    "väkijoukko": [
-      {
-        "text": "väkijoukko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/väkijoukko.mp3"
-      }
-    ],
-    "tungosta": [
-      {
-        "text": "tungosta",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tungosta.mp3"
-      }
-    ],
-    "vankila": [
-      {
-        "text": "vankila",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/vankila.mp3"
-      }
-    ],
-    "postilaatikko": [
-      {
-        "text": "postilaatikko",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/postilaatikko.mp3"
-      }
-    ],
-    "lyhtypylväs": [
-      {
-        "text": "lyhtypylväs",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/lyhtypylväs.mp3"
-      }
-    ],
-    "liikennevalot": [
-      {
-        "text": "liikennevalot",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikennevalot.mp3"
-      }
-    ],
-    "liikenne": [
-      {
-        "text": "liikenne",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikenne.mp3"
-      }
-    ],
-    "liikenneruuhka": [
-      {
-        "text": "liikenneruuhka",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikenneruuhka.mp3"
-      }
-    ],
-    "jalankulkija": [
-      {
-        "text": "jalankulkija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/jalankulkija.mp3"
-      }
-    ],
-    "suojatie": [
-      {
-        "text": "suojatie",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suojatie.mp3"
-      }
-    ],
-    "läpikulku": [
-      {
-        "text": "läpikulku",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/läpikulku.mp3"
-      }
-    ],
-    "alikulkutunneli": [
-      {
-        "text": "alikulkutunneli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/alikulkutunneli.mp3"
-      }
-    ],
-    "tunneli": [
-      {
-        "text": "tunneli",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/tunneli.mp3"
-      }
-    ],
-    "suunnittelija | muotoilija": [
-      {
-        "text": "suunnittelija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/suunnittelija.mp3"
-      },
-      {
-        "text": "muotoilija",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/muotoilija.mp3"
-      }
-    ],
-    "ylittää | mennä yli [a narrow thing] | mennä poikki [e.g. a room]": [
-      {
-        "text": "ylittää",
-        "file": "fi/words/8X97zFR9k9pK2xyFI7Nr/ylittää.mp3"
-      }
-    ]
+  "clips": {
+    "aasi": "fi/words/8X97zFR9k9pK2xyFI7Nr/aasi.mp3",
+    "äiti": "fi/words/8X97zFR9k9pK2xyFI7Nr/äiti.mp3",
+    "akvaario": "fi/words/8X97zFR9k9pK2xyFI7Nr/akvaario.mp3",
+    "alikulkutunneli": "fi/words/8X97zFR9k9pK2xyFI7Nr/alikulkutunneli.mp3",
+    "alkoholi": "fi/words/8X97zFR9k9pK2xyFI7Nr/alkoholi.mp3",
+    "ananas": "fi/words/8X97zFR9k9pK2xyFI7Nr/ananas.mp3",
+    "ankerias": "fi/words/8X97zFR9k9pK2xyFI7Nr/ankerias.mp3",
+    "ankka": "fi/words/8X97zFR9k9pK2xyFI7Nr/ankka.mp3",
+    "apina": "fi/words/8X97zFR9k9pK2xyFI7Nr/apina.mp3",
+    "aprikoosi": "fi/words/8X97zFR9k9pK2xyFI7Nr/aprikoosi.mp3",
+    "apteekki": "fi/words/8X97zFR9k9pK2xyFI7Nr/apteekki.mp3",
+    "aukio": "fi/words/8X97zFR9k9pK2xyFI7Nr/aukio.mp3",
+    "aurinko": "fi/words/8X97zFR9k9pK2xyFI7Nr/aurinko.mp3",
+    "auto": "fi/words/8X97zFR9k9pK2xyFI7Nr/auto.mp3",
+    "avioliitto": "fi/words/8X97zFR9k9pK2xyFI7Nr/avioliitto.mp3",
+    "aviomies": "fi/words/8X97zFR9k9pK2xyFI7Nr/aviomies.mp3",
+    "avokado": "fi/words/8X97zFR9k9pK2xyFI7Nr/avokado.mp3",
+    "baarimikko": "fi/words/8X97zFR9k9pK2xyFI7Nr/baarimikko.mp3",
+    "banaani": "fi/words/8X97zFR9k9pK2xyFI7Nr/banaani.mp3",
+    "beibi": "fi/words/8X97zFR9k9pK2xyFI7Nr/beibi.mp3",
+    "bussi": "fi/words/8X97zFR9k9pK2xyFI7Nr/bussi.mp3",
+    "bussipysäkki": "fi/words/8X97zFR9k9pK2xyFI7Nr/bussipysäkki.mp3",
+    "delfiini": "fi/words/8X97zFR9k9pK2xyFI7Nr/delfiini.mp3",
+    "eläin": "fi/words/8X97zFR9k9pK2xyFI7Nr/eläin.mp3",
+    "eläinlääkäri": "fi/words/8X97zFR9k9pK2xyFI7Nr/eläinlääkäri.mp3",
+    "eno": "fi/words/8X97zFR9k9pK2xyFI7Nr/eno.mp3",
+    "esikaupunki": "fi/words/8X97zFR9k9pK2xyFI7Nr/esikaupunki.mp3",
+    "galleria": "fi/words/8X97zFR9k9pK2xyFI7Nr/galleria.mp3",
+    "häät": "fi/words/8X97zFR9k9pK2xyFI7Nr/häät.mp3",
+    "hahni": "fi/words/8X97zFR9k9pK2xyFI7Nr/hahni.mp3",
+    "hai": "fi/words/8X97zFR9k9pK2xyFI7Nr/hai.mp3",
+    "haikara": "fi/words/8X97zFR9k9pK2xyFI7Nr/haikara.mp3",
+    "häkki": "fi/words/8X97zFR9k9pK2xyFI7Nr/häkki.mp3",
+    "hamsteri": "fi/words/8X97zFR9k9pK2xyFI7Nr/hamsteri.mp3",
+    "häntä": "fi/words/8X97zFR9k9pK2xyFI7Nr/häntä.mp3",
+    "hapan": "fi/words/8X97zFR9k9pK2xyFI7Nr/hapan.mp3",
+    "harjoittelija": "fi/words/8X97zFR9k9pK2xyFI7Nr/harjoittelija.mp3",
+    "harmaa": "fi/words/8X97zFR9k9pK2xyFI7Nr/harmaa.mp3",
+    "hasselpähkinä": "fi/words/8X97zFR9k9pK2xyFI7Nr/hasselpähkinä.mp3",
+    "hedelmä": "fi/words/8X97zFR9k9pK2xyFI7Nr/hedelmä.mp3",
+    "herukka": "fi/words/8X97zFR9k9pK2xyFI7Nr/herukka.mp3",
+    "hevonen": "fi/words/8X97zFR9k9pK2xyFI7Nr/hevonen.mp3",
+    "hiiri": "fi/words/8X97zFR9k9pK2xyFI7Nr/hiiri.mp3",
+    "hirvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/hirvi.mp3",
+    "hissi": "fi/words/8X97zFR9k9pK2xyFI7Nr/hissi.mp3",
+    "hitsaaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/hitsaaja.mp3",
+    "hunaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/hunaja.mp3",
+    "ilma": "fi/words/8X97zFR9k9pK2xyFI7Nr/ilma.mp3",
+    "insinööri": "fi/words/8X97zFR9k9pK2xyFI7Nr/insinööri.mp3",
+    "isä": "fi/words/8X97zFR9k9pK2xyFI7Nr/isä.mp3",
+    "iso": "fi/words/8X97zFR9k9pK2xyFI7Nr/iso.mp3",
+    "isoäiti": "fi/words/8X97zFR9k9pK2xyFI7Nr/isoäiti.mp3",
+    "jää": "fi/words/8X97zFR9k9pK2xyFI7Nr/jää.mp3",
+    "jäätelö": "fi/words/8X97zFR9k9pK2xyFI7Nr/jäätelö.mp3",
+    "jalankulkija": "fi/words/8X97zFR9k9pK2xyFI7Nr/jalankulkija.mp3",
+    "jänis": "fi/words/8X97zFR9k9pK2xyFI7Nr/jänis.mp3",
+    "jätski": "fi/words/8X97zFR9k9pK2xyFI7Nr/jätski.mp3",
+    "jauhe": "fi/words/8X97zFR9k9pK2xyFI7Nr/jauhe.mp3",
+    "jauhot": "fi/words/8X97zFR9k9pK2xyFI7Nr/jauhot.mp3",
+    "johtaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/johtaja.mp3",
+    "joki": "fi/words/8X97zFR9k9pK2xyFI7Nr/joki.mp3",
+    "joutsen": "fi/words/8X97zFR9k9pK2xyFI7Nr/joutsen.mp3",
+    "juna": "fi/words/8X97zFR9k9pK2xyFI7Nr/juna.mp3",
+    "juusto": "fi/words/8X97zFR9k9pK2xyFI7Nr/juusto.mp3",
+    "kaali": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaali.mp3",
+    "käärme": "fi/words/8X97zFR9k9pK2xyFI7Nr/käärme.mp3",
+    "kadunkulma": "fi/words/8X97zFR9k9pK2xyFI7Nr/kadunkulma.mp3",
+    "kahvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/kahvi.mp3",
+    "kaivos": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaivos.mp3",
+    "kaivosmies": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaivosmies.mp3",
+    "kakku": "fi/words/8X97zFR9k9pK2xyFI7Nr/kakku.mp3",
+    "kaksi": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaksi.mp3",
+    "kaksonen": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaksonen.mp3",
+    "kala": "fi/words/8X97zFR9k9pK2xyFI7Nr/kala.mp3",
+    "kalastaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/kalastaja.mp3",
+    "kameli": "fi/words/8X97zFR9k9pK2xyFI7Nr/kameli.mp3",
+    "kampaaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/kampaaja.mp3",
+    "kana": "fi/words/8X97zFR9k9pK2xyFI7Nr/kana.mp3",
+    "kani": "fi/words/8X97zFR9k9pK2xyFI7Nr/kani.mp3",
+    "karamelli": "fi/words/8X97zFR9k9pK2xyFI7Nr/karamelli.mp3",
+    "karhu": "fi/words/8X97zFR9k9pK2xyFI7Nr/karhu.mp3",
+    "karhunvatukka": "fi/words/8X97zFR9k9pK2xyFI7Nr/karhunvatukka.mp3",
+    "karkki": "fi/words/8X97zFR9k9pK2xyFI7Nr/karkki.mp3",
+    "kartta": "fi/words/8X97zFR9k9pK2xyFI7Nr/kartta.mp3",
+    "karviainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/karviainen.mp3",
+    "katu": "fi/words/8X97zFR9k9pK2xyFI7Nr/katu.mp3",
+    "kaupunginosa": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunginosa.mp3",
+    "kaupungintalo": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupungintalo.mp3",
+    "kaupunki": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunki.mp3",
+    "kaupunki-": "fi/words/8X97zFR9k9pK2xyFI7Nr/kaupunki-.mp3",
+    "keitto": "fi/words/8X97zFR9k9pK2xyFI7Nr/keitto.mp3",
+    "kelloseppä": "fi/words/8X97zFR9k9pK2xyFI7Nr/kelloseppä.mp3",
+    "keltainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/keltainen.mp3",
+    "kerma": "fi/words/8X97zFR9k9pK2xyFI7Nr/kerma.mp3",
+    "kerros": "fi/words/8X97zFR9k9pK2xyFI7Nr/kerros.mp3",
+    "kesäkurpitsa": "fi/words/8X97zFR9k9pK2xyFI7Nr/kesäkurpitsa.mp3",
+    "keskusta": "fi/words/8X97zFR9k9pK2xyFI7Nr/keskusta.mp3",
+    "kettu": "fi/words/8X97zFR9k9pK2xyFI7Nr/kettu.mp3",
+    "kirahvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirahvi.mp3",
+    "kirjanpitäjä": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirjanpitäjä.mp3",
+    "kirkas": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirkas.mp3",
+    "kirkko": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirkko.mp3",
+    "kirsikka": "fi/words/8X97zFR9k9pK2xyFI7Nr/kirsikka.mp3",
+    "kissa": "fi/words/8X97zFR9k9pK2xyFI7Nr/kissa.mp3",
+    "kitkerä": "fi/words/8X97zFR9k9pK2xyFI7Nr/kitkerä.mp3",
+    "koira": "fi/words/8X97zFR9k9pK2xyFI7Nr/koira.mp3",
+    "kokki": "fi/words/8X97zFR9k9pK2xyFI7Nr/kokki.mp3",
+    "kolme": "fi/words/8X97zFR9k9pK2xyFI7Nr/kolme.mp3",
+    "kotka": "fi/words/8X97zFR9k9pK2xyFI7Nr/kotka.mp3",
+    "koulu": "fi/words/8X97zFR9k9pK2xyFI7Nr/koulu.mp3",
+    "krokotiili": "fi/words/8X97zFR9k9pK2xyFI7Nr/krokotiili.mp3",
+    "kuja": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuja.mp3",
+    "kukkakaali": "fi/words/8X97zFR9k9pK2xyFI7Nr/kukkakaali.mp3",
+    "kumppani": "fi/words/8X97zFR9k9pK2xyFI7Nr/kumppani.mp3",
+    "kurkku": "fi/words/8X97zFR9k9pK2xyFI7Nr/kurkku.mp3",
+    "kurpitsa": "fi/words/8X97zFR9k9pK2xyFI7Nr/kurpitsa.mp3",
+    "kuu": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuu.mp3",
+    "kuuma pippuria": "fi/words/8X97zFR9k9pK2xyFI7Nr/kuuma_pippuria.mp3",
+    "kylä": "fi/words/8X97zFR9k9pK2xyFI7Nr/kylä.mp3",
+    "kypsä": "fi/words/8X97zFR9k9pK2xyFI7Nr/kypsä.mp3",
+    "kyyhkynen": "fi/words/8X97zFR9k9pK2xyFI7Nr/kyyhkynen.mp3",
+    "laiva": "fi/words/8X97zFR9k9pK2xyFI7Nr/laiva.mp3",
+    "lakimies": "fi/words/8X97zFR9k9pK2xyFI7Nr/lakimies.mp3",
+    "lakka": "fi/words/8X97zFR9k9pK2xyFI7Nr/lakka.mp3",
+    "lammas": "fi/words/8X97zFR9k9pK2xyFI7Nr/lammas.mp3",
+    "läpikulku": "fi/words/8X97zFR9k9pK2xyFI7Nr/läpikulku.mp3",
+    "lapsi": "fi/words/8X97zFR9k9pK2xyFI7Nr/lapsi.mp3",
+    "lehmä": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehmä.mp3",
+    "lehti": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehti.mp3",
+    "lehtisalaatti": "fi/words/8X97zFR9k9pK2xyFI7Nr/lehtisalaatti.mp3",
+    "leijona": "fi/words/8X97zFR9k9pK2xyFI7Nr/leijona.mp3",
+    "leipä": "fi/words/8X97zFR9k9pK2xyFI7Nr/leipä.mp3",
+    "leipuri": "fi/words/8X97zFR9k9pK2xyFI7Nr/leipuri.mp3",
+    "lentoemäntä": "fi/words/8X97zFR9k9pK2xyFI7Nr/lentoemäntä.mp3",
+    "liha": "fi/words/8X97zFR9k9pK2xyFI7Nr/liha.mp3",
+    "liikenne": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikenne.mp3",
+    "liikenneruuhka": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikenneruuhka.mp3",
+    "liikennevalot": "fi/words/8X97zFR9k9pK2xyFI7Nr/liikennevalot.mp3",
+    "likainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/likainen.mp3",
+    "linja-auto": "fi/words/8X97zFR9k9pK2xyFI7Nr/linja-auto.mp3",
+    "linna": "fi/words/8X97zFR9k9pK2xyFI7Nr/linna.mp3",
+    "lintu": "fi/words/8X97zFR9k9pK2xyFI7Nr/lintu.mp3",
+    "lippu": "fi/words/8X97zFR9k9pK2xyFI7Nr/lippu.mp3",
+    "lokki": "fi/words/8X97zFR9k9pK2xyFI7Nr/lokki.mp3",
+    "lukkoseppä": "fi/words/8X97zFR9k9pK2xyFI7Nr/lukkoseppä.mp3",
+    "luumu": "fi/words/8X97zFR9k9pK2xyFI7Nr/luumu.mp3",
+    "lyhtypylväs": "fi/words/8X97zFR9k9pK2xyFI7Nr/lyhtypylväs.mp3",
+    "lyhyt": "fi/words/8X97zFR9k9pK2xyFI7Nr/lyhyt.mp3",
+    "maalari": "fi/words/8X97zFR9k9pK2xyFI7Nr/maalari.mp3",
+    "maanalainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/maanalainen.mp3",
+    "maanviljelijä": "fi/words/8X97zFR9k9pK2xyFI7Nr/maanviljelijä.mp3",
+    "maito": "fi/words/8X97zFR9k9pK2xyFI7Nr/maito.mp3",
+    "makea": "fi/words/8X97zFR9k9pK2xyFI7Nr/makea.mp3",
+    "makkara": "fi/words/8X97zFR9k9pK2xyFI7Nr/makkara.mp3",
+    "malli": "fi/words/8X97zFR9k9pK2xyFI7Nr/malli.mp3",
+    "mansikka": "fi/words/8X97zFR9k9pK2xyFI7Nr/mansikka.mp3",
+    "manteli": "fi/words/8X97zFR9k9pK2xyFI7Nr/manteli.mp3",
+    "marsu": "fi/words/8X97zFR9k9pK2xyFI7Nr/marsu.mp3",
+    "mausteinen": "fi/words/8X97zFR9k9pK2xyFI7Nr/mausteinen.mp3",
+    "mehiläinen": "fi/words/8X97zFR9k9pK2xyFI7Nr/mehiläinen.mp3",
+    "mehu": "fi/words/8X97zFR9k9pK2xyFI7Nr/mehu.mp3",
+    "mekaanikko": "fi/words/8X97zFR9k9pK2xyFI7Nr/mekaanikko.mp3",
+    "mennä naimisiin": "fi/words/8X97zFR9k9pK2xyFI7Nr/mennä_naimisiin.mp3",
+    "meri": "fi/words/8X97zFR9k9pK2xyFI7Nr/meri.mp3",
+    "metsä": "fi/words/8X97zFR9k9pK2xyFI7Nr/metsä.mp3",
+    "metsästäjä": "fi/words/8X97zFR9k9pK2xyFI7Nr/metsästäjä.mp3",
+    "mieto": "fi/words/8X97zFR9k9pK2xyFI7Nr/mieto.mp3",
+    "moottoripyörä": "fi/words/8X97zFR9k9pK2xyFI7Nr/moottoripyörä.mp3",
+    "morsian": "fi/words/8X97zFR9k9pK2xyFI7Nr/morsian.mp3",
+    "mummo": "fi/words/8X97zFR9k9pK2xyFI7Nr/mummo.mp3",
+    "muna": "fi/words/8X97zFR9k9pK2xyFI7Nr/muna.mp3",
+    "munakas": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakas.mp3",
+    "munakoiso": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakoiso.mp3",
+    "munakokkeli": "fi/words/8X97zFR9k9pK2xyFI7Nr/munakokkeli.mp3",
+    "muotoilija": "fi/words/8X97zFR9k9pK2xyFI7Nr/muotoilija.mp3",
+    "museo": "fi/words/8X97zFR9k9pK2xyFI7Nr/museo.mp3",
+    "musta": "fi/words/8X97zFR9k9pK2xyFI7Nr/musta.mp3",
+    "mustikka": "fi/words/8X97zFR9k9pK2xyFI7Nr/mustikka.mp3",
+    "muurahainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/muurahainen.mp3",
+    "naaras": "fi/words/8X97zFR9k9pK2xyFI7Nr/naaras.mp3",
+    "naimaton": "fi/words/8X97zFR9k9pK2xyFI7Nr/naimaton.mp3",
+    "naimisissa": "fi/words/8X97zFR9k9pK2xyFI7Nr/naimisissa.mp3",
+    "neljä": "fi/words/8X97zFR9k9pK2xyFI7Nr/neljä.mp3",
+    "nokka": "fi/words/8X97zFR9k9pK2xyFI7Nr/nokka.mp3",
+    "norsu": "fi/words/8X97zFR9k9pK2xyFI7Nr/norsu.mp3",
+    "nurmi": "fi/words/8X97zFR9k9pK2xyFI7Nr/nurmi.mp3",
+    "ohukainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/ohukainen.mp3",
+    "öljy": "fi/words/8X97zFR9k9pK2xyFI7Nr/öljy.mp3",
+    "olut": "fi/words/8X97zFR9k9pK2xyFI7Nr/olut.mp3",
+    "omena": "fi/words/8X97zFR9k9pK2xyFI7Nr/omena.mp3",
+    "opettaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/opettaja.mp3",
+    "oranssi": "fi/words/8X97zFR9k9pK2xyFI7Nr/oranssi.mp3",
+    "orava": "fi/words/8X97zFR9k9pK2xyFI7Nr/orava.mp3",
+    "osasto": "fi/words/8X97zFR9k9pK2xyFI7Nr/osasto.mp3",
+    "osastopäällikkö": "fi/words/8X97zFR9k9pK2xyFI7Nr/osastopäällikkö.mp3",
+    "päärynä": "fi/words/8X97zFR9k9pK2xyFI7Nr/päärynä.mp3",
+    "pähkinä": "fi/words/8X97zFR9k9pK2xyFI7Nr/pähkinä.mp3",
+    "palo": "fi/words/8X97zFR9k9pK2xyFI7Nr/palo.mp3",
+    "palomies": "fi/words/8X97zFR9k9pK2xyFI7Nr/palomies.mp3",
+    "pankki": "fi/words/8X97zFR9k9pK2xyFI7Nr/pankki.mp3",
+    "paprika": "fi/words/8X97zFR9k9pK2xyFI7Nr/paprika.mp3",
+    "papukaija": "fi/words/8X97zFR9k9pK2xyFI7Nr/papukaija.mp3",
+    "pari": "fi/words/8X97zFR9k9pK2xyFI7Nr/pari.mp3",
+    "parsakaali": "fi/words/8X97zFR9k9pK2xyFI7Nr/parsakaali.mp3",
+    "partneri": "fi/words/8X97zFR9k9pK2xyFI7Nr/partneri.mp3",
+    "patsas": "fi/words/8X97zFR9k9pK2xyFI7Nr/patsas.mp3",
+    "pekoni": "fi/words/8X97zFR9k9pK2xyFI7Nr/pekoni.mp3",
+    "penkki": "fi/words/8X97zFR9k9pK2xyFI7Nr/penkki.mp3",
+    "pensas": "fi/words/8X97zFR9k9pK2xyFI7Nr/pensas.mp3",
+    "pentu": "fi/words/8X97zFR9k9pK2xyFI7Nr/pentu.mp3",
+    "perhe": "fi/words/8X97zFR9k9pK2xyFI7Nr/perhe.mp3",
+    "perhonen": "fi/words/8X97zFR9k9pK2xyFI7Nr/perhonen.mp3",
+    "persikka": "fi/words/8X97zFR9k9pK2xyFI7Nr/persikka.mp3",
+    "peruna": "fi/words/8X97zFR9k9pK2xyFI7Nr/peruna.mp3",
+    "pesä": "fi/words/8X97zFR9k9pK2xyFI7Nr/pesä.mp3",
+    "peura": "fi/words/8X97zFR9k9pK2xyFI7Nr/peura.mp3",
+    "pieni": "fi/words/8X97zFR9k9pK2xyFI7Nr/pieni.mp3",
+    "pikkuleipä": "fi/words/8X97zFR9k9pK2xyFI7Nr/pikkuleipä.mp3",
+    "pilotti": "fi/words/8X97zFR9k9pK2xyFI7Nr/pilotti.mp3",
+    "pilvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/pilvi.mp3",
+    "pinaatti": "fi/words/8X97zFR9k9pK2xyFI7Nr/pinaatti.mp3",
+    "pitkä": "fi/words/8X97zFR9k9pK2xyFI7Nr/pitkä.mp3",
+    "poika": "fi/words/8X97zFR9k9pK2xyFI7Nr/poika.mp3",
+    "poikaystävä": "fi/words/8X97zFR9k9pK2xyFI7Nr/poikaystävä.mp3",
+    "pojanpoika": "fi/words/8X97zFR9k9pK2xyFI7Nr/pojanpoika.mp3",
+    "poliisi": "fi/words/8X97zFR9k9pK2xyFI7Nr/poliisi.mp3",
+    "polkupyörä": "fi/words/8X97zFR9k9pK2xyFI7Nr/polkupyörä.mp3",
+    "pöllö": "fi/words/8X97zFR9k9pK2xyFI7Nr/pöllö.mp3",
+    "porkkana": "fi/words/8X97zFR9k9pK2xyFI7Nr/porkkana.mp3",
+    "poro": "fi/words/8X97zFR9k9pK2xyFI7Nr/poro.mp3",
+    "portaikko": "fi/words/8X97zFR9k9pK2xyFI7Nr/portaikko.mp3",
+    "postilaatikko": "fi/words/8X97zFR9k9pK2xyFI7Nr/postilaatikko.mp3",
+    "puhdas": "fi/words/8X97zFR9k9pK2xyFI7Nr/puhdas.mp3",
+    "punainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/punainen.mp3",
+    "purjo": "fi/words/8X97zFR9k9pK2xyFI7Nr/purjo.mp3",
+    "purra": "fi/words/8X97zFR9k9pK2xyFI7Nr/purra.mp3",
+    "putkimies": "fi/words/8X97zFR9k9pK2xyFI7Nr/putkimies.mp3",
+    "puu": "fi/words/8X97zFR9k9pK2xyFI7Nr/puu.mp3",
+    "puuseppä": "fi/words/8X97zFR9k9pK2xyFI7Nr/puuseppä.mp3",
+    "raitiovaunu": "fi/words/8X97zFR9k9pK2xyFI7Nr/raitiovaunu.mp3",
+    "rakennus": "fi/words/8X97zFR9k9pK2xyFI7Nr/rakennus.mp3",
+    "ranskalaiset": "fi/words/8X97zFR9k9pK2xyFI7Nr/ranskalaiset.mp3",
+    "rautatie": "fi/words/8X97zFR9k9pK2xyFI7Nr/rautatie.mp3",
+    "rautatieasema": "fi/words/8X97zFR9k9pK2xyFI7Nr/rautatieasema.mp3",
+    "riisi": "fi/words/8X97zFR9k9pK2xyFI7Nr/riisi.mp3",
+    "ruoho": "fi/words/8X97zFR9k9pK2xyFI7Nr/ruoho.mp3",
+    "ruskea": "fi/words/8X97zFR9k9pK2xyFI7Nr/ruskea.mp3",
+    "sähköasentaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/sähköasentaja.mp3",
+    "sähkömies": "fi/words/8X97zFR9k9pK2xyFI7Nr/sähkömies.mp3",
+    "saksanpähkinä": "fi/words/8X97zFR9k9pK2xyFI7Nr/saksanpähkinä.mp3",
+    "salaatti": "fi/words/8X97zFR9k9pK2xyFI7Nr/salaatti.mp3",
+    "sammakko": "fi/words/8X97zFR9k9pK2xyFI7Nr/sammakko.mp3",
+    "sarvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/sarvi.mp3",
+    "sateenkaari": "fi/words/8X97zFR9k9pK2xyFI7Nr/sateenkaari.mp3",
+    "seesami": "fi/words/8X97zFR9k9pK2xyFI7Nr/seesami.mp3",
+    "serkku": "fi/words/8X97zFR9k9pK2xyFI7Nr/serkku.mp3",
+    "setä": "fi/words/8X97zFR9k9pK2xyFI7Nr/setä.mp3",
+    "sieni": "fi/words/8X97zFR9k9pK2xyFI7Nr/sieni.mp3",
+    "sihteeri": "fi/words/8X97zFR9k9pK2xyFI7Nr/sihteeri.mp3",
+    "siili": "fi/words/8X97zFR9k9pK2xyFI7Nr/siili.mp3",
+    "siipi": "fi/words/8X97zFR9k9pK2xyFI7Nr/siipi.mp3",
+    "siivooja": "fi/words/8X97zFR9k9pK2xyFI7Nr/siivooja.mp3",
+    "sika": "fi/words/8X97zFR9k9pK2xyFI7Nr/sika.mp3",
+    "silta": "fi/words/8X97zFR9k9pK2xyFI7Nr/silta.mp3",
+    "sininen": "fi/words/8X97zFR9k9pK2xyFI7Nr/sininen.mp3",
+    "sinipunainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/sinipunainen.mp3",
+    "sipuli": "fi/words/8X97zFR9k9pK2xyFI7Nr/sipuli.mp3",
+    "sisar": "fi/words/8X97zFR9k9pK2xyFI7Nr/sisar.mp3",
+    "sisko": "fi/words/8X97zFR9k9pK2xyFI7Nr/sisko.mp3",
+    "sitruuna": "fi/words/8X97zFR9k9pK2xyFI7Nr/sitruuna.mp3",
+    "sokeri": "fi/words/8X97zFR9k9pK2xyFI7Nr/sokeri.mp3",
+    "suihkulähde": "fi/words/8X97zFR9k9pK2xyFI7Nr/suihkulähde.mp3",
+    "sukulaiset": "fi/words/8X97zFR9k9pK2xyFI7Nr/sukulaiset.mp3",
+    "sukupolvi": "fi/words/8X97zFR9k9pK2xyFI7Nr/sukupolvi.mp3",
+    "sulhanen": "fi/words/8X97zFR9k9pK2xyFI7Nr/sulhanen.mp3",
+    "sumu": "fi/words/8X97zFR9k9pK2xyFI7Nr/sumu.mp3",
+    "suojatie": "fi/words/8X97zFR9k9pK2xyFI7Nr/suojatie.mp3",
+    "suola": "fi/words/8X97zFR9k9pK2xyFI7Nr/suola.mp3",
+    "sushi": "fi/words/8X97zFR9k9pK2xyFI7Nr/sushi.mp3",
+    "susi": "fi/words/8X97zFR9k9pK2xyFI7Nr/susi.mp3",
+    "suunnittelija": "fi/words/8X97zFR9k9pK2xyFI7Nr/suunnittelija.mp3",
+    "suuri": "fi/words/8X97zFR9k9pK2xyFI7Nr/suuri.mp3",
+    "syyttäjä": "fi/words/8X97zFR9k9pK2xyFI7Nr/syyttäjä.mp3",
+    "tähti": "fi/words/8X97zFR9k9pK2xyFI7Nr/tähti.mp3",
+    "taidegalleria": "fi/words/8X97zFR9k9pK2xyFI7Nr/taidegalleria.mp3",
+    "taiteilija": "fi/words/8X97zFR9k9pK2xyFI7Nr/taiteilija.mp3",
+    "taivas": "fi/words/8X97zFR9k9pK2xyFI7Nr/taivas.mp3",
+    "talutin": "fi/words/8X97zFR9k9pK2xyFI7Nr/talutin.mp3",
+    "tanssija": "fi/words/8X97zFR9k9pK2xyFI7Nr/tanssija.mp3",
+    "tarjoilija": "fi/words/8X97zFR9k9pK2xyFI7Nr/tarjoilija.mp3",
+    "täti": "fi/words/8X97zFR9k9pK2xyFI7Nr/täti.mp3",
+    "tee": "fi/words/8X97zFR9k9pK2xyFI7Nr/tee.mp3",
+    "tehdas": "fi/words/8X97zFR9k9pK2xyFI7Nr/tehdas.mp3",
+    "teurastaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/teurastaja.mp3",
+    "tie": "fi/words/8X97zFR9k9pK2xyFI7Nr/tie.mp3",
+    "tiedemies": "fi/words/8X97zFR9k9pK2xyFI7Nr/tiedemies.mp3",
+    "tiikeri": "fi/words/8X97zFR9k9pK2xyFI7Nr/tiikeri.mp3",
+    "toimittaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/toimittaja.mp3",
+    "tomaatti": "fi/words/8X97zFR9k9pK2xyFI7Nr/tomaatti.mp3",
+    "tumma": "fi/words/8X97zFR9k9pK2xyFI7Nr/tumma.mp3",
+    "tungosta": "fi/words/8X97zFR9k9pK2xyFI7Nr/tungosta.mp3",
+    "tunneli": "fi/words/8X97zFR9k9pK2xyFI7Nr/tunneli.mp3",
+    "tuomari": "fi/words/8X97zFR9k9pK2xyFI7Nr/tuomari.mp3",
+    "tuore": "fi/words/8X97zFR9k9pK2xyFI7Nr/tuore.mp3",
+    "turkki": "fi/words/8X97zFR9k9pK2xyFI7Nr/turkki.mp3",
+    "tutkija": "fi/words/8X97zFR9k9pK2xyFI7Nr/tutkija.mp3",
+    "tyrni": "fi/words/8X97zFR9k9pK2xyFI7Nr/tyrni.mp3",
+    "tytär": "fi/words/8X97zFR9k9pK2xyFI7Nr/tytär.mp3",
+    "tyttärentytär": "fi/words/8X97zFR9k9pK2xyFI7Nr/tyttärentytär.mp3",
+    "uusi": "fi/words/8X97zFR9k9pK2xyFI7Nr/uusi.mp3",
+    "vaalea": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaalea.mp3",
+    "vaaleanpunainen": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaaleanpunainen.mp3",
+    "vadelma": "fi/words/8X97zFR9k9pK2xyFI7Nr/vadelma.mp3",
+    "vaimo": "fi/words/8X97zFR9k9pK2xyFI7Nr/vaimo.mp3",
+    "väkijoukko": "fi/words/8X97zFR9k9pK2xyFI7Nr/väkijoukko.mp3",
+    "valkoinen": "fi/words/8X97zFR9k9pK2xyFI7Nr/valkoinen.mp3",
+    "valkosipuli": "fi/words/8X97zFR9k9pK2xyFI7Nr/valkosipuli.mp3",
+    "valo": "fi/words/8X97zFR9k9pK2xyFI7Nr/valo.mp3",
+    "valokuvaaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/valokuvaaja.mp3",
+    "vanha": "fi/words/8X97zFR9k9pK2xyFI7Nr/vanha.mp3",
+    "vanhemmat": "fi/words/8X97zFR9k9pK2xyFI7Nr/vanhemmat.mp3",
+    "vankila": "fi/words/8X97zFR9k9pK2xyFI7Nr/vankila.mp3",
+    "väri": "fi/words/8X97zFR9k9pK2xyFI7Nr/väri.mp3",
+    "värikäs": "fi/words/8X97zFR9k9pK2xyFI7Nr/värikäs.mp3",
+    "väritön": "fi/words/8X97zFR9k9pK2xyFI7Nr/väritön.mp3",
+    "varpunen": "fi/words/8X97zFR9k9pK2xyFI7Nr/varpunen.mp3",
+    "vauva": "fi/words/8X97zFR9k9pK2xyFI7Nr/vauva.mp3",
+    "veli": "fi/words/8X97zFR9k9pK2xyFI7Nr/veli.mp3",
+    "vesi": "fi/words/8X97zFR9k9pK2xyFI7Nr/vesi.mp3",
+    "vesimeloni": "fi/words/8X97zFR9k9pK2xyFI7Nr/vesimeloni.mp3",
+    "vihreä": "fi/words/8X97zFR9k9pK2xyFI7Nr/vihreä.mp3",
+    "viini": "fi/words/8X97zFR9k9pK2xyFI7Nr/viini.mp3",
+    "viinirypäle": "fi/words/8X97zFR9k9pK2xyFI7Nr/viinirypäle.mp3",
+    "viisi": "fi/words/8X97zFR9k9pK2xyFI7Nr/viisi.mp3",
+    "villisika": "fi/words/8X97zFR9k9pK2xyFI7Nr/villisika.mp3",
+    "violetti": "fi/words/8X97zFR9k9pK2xyFI7Nr/violetti.mp3",
+    "virkistävä": "fi/words/8X97zFR9k9pK2xyFI7Nr/virkistävä.mp3",
+    "vodka": "fi/words/8X97zFR9k9pK2xyFI7Nr/vodka.mp3",
+    "voi": "fi/words/8X97zFR9k9pK2xyFI7Nr/voi.mp3",
+    "voileipä": "fi/words/8X97zFR9k9pK2xyFI7Nr/voileipä.mp3",
+    "vuohi": "fi/words/8X97zFR9k9pK2xyFI7Nr/vuohi.mp3",
+    "yksi": "fi/words/8X97zFR9k9pK2xyFI7Nr/yksi.mp3",
+    "yksinhuoltaja": "fi/words/8X97zFR9k9pK2xyFI7Nr/yksinhuoltaja.mp3",
+    "ylittää": "fi/words/8X97zFR9k9pK2xyFI7Nr/ylittää.mp3"
   }
 }

@@ -1,4 +1,4 @@
-import React, {useCallback, useEffect, useState} from 'react';
+import React, {useCallback, useEffect, useMemo, useState} from 'react';
 import {LanguageInfo} from './model/LanguageInfo.ts';
 import {Lesson} from './model/Lesson.ts';
 import {
@@ -12,7 +12,7 @@ import {
 import {ChevronLeftRegular, ChevronRightRegular, Speaker2Regular} from '@fluentui/react-icons';
 import {useAudioManifest} from './service/AudioManifestLoader.ts';
 import {playCachedAudio} from './service/AudioCache.ts';
-import {audioUrl} from './service/AudioNaming.ts';
+import {audioUrl, deriveVoicedTexts} from './service/AudioNaming.ts';
 import {AudioManifestEntry} from './model/AudioManifest.ts';
 
 // Stable empty list so effects depending on it do not re-run every render.
@@ -115,7 +115,15 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
   const card = lesson.cards[currentCardIdx];
   const isLastCard = currentCardIdx === lesson.cards.length - 1;
   const audioManifest = useAudioManifest(currentLanguage.code, lesson.group);
-  const pronunciations = audioManifest?.entries[card.word] ?? NO_PRONUNCIATIONS;
+  // One clip per voiced alternative that has a recording. Memoised so the
+  // autoplay effect below sees the same list until the card or manifest changes.
+  const pronunciations = useMemo<AudioManifestEntry[]>(() => {
+    if (!audioManifest) return NO_PRONUNCIATIONS;
+    const found = deriveVoicedTexts(card.word)
+      .map((text) => ({text, file: audioManifest.clips[text]}))
+      .filter((entry): entry is AudioManifestEntry => entry.file !== undefined);
+    return found.length > 0 ? found : NO_PRONUNCIATIONS;
+  }, [audioManifest, card.word]);
 
   // Autoplay the first pronunciation when the answer is revealed.
   useEffect(() => {

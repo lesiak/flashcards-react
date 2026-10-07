@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "lang": "sl",
   "group": "words",
   "voice": {
@@ -7,2812 +7,489 @@
     "modelId": "eleven_v4",
     "outputFormat": "mp3_44100_128"
   },
-  "entries": {
-    "ogenj": [
-      {
-        "text": "ogenj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ogenj.mp3"
-      }
-    ],
-    "svetloba | luč": [
-      {
-        "text": "svetloba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/svetloba.mp3"
-      },
-      {
-        "text": "luč",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/luč.mp3"
-      }
-    ],
-    "voda": [
-      {
-        "text": "voda",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/voda.mp3"
-      }
-    ],
-    "reka": [
-      {
-        "text": "reka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/reka.mp3"
-      }
-    ],
-    "morje": [
-      {
-        "text": "morje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/morje.mp3"
-      }
-    ],
-    "sonce": [
-      {
-        "text": "sonce",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sonce.mp3"
-      }
-    ],
-    "luna | mesec": [
-      {
-        "text": "luna",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/luna.mp3"
-      },
-      {
-        "text": "mesec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mesec.mp3"
-      }
-    ],
-    "drevo": [
-      {
-        "text": "drevo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/drevo.mp3"
-      }
-    ],
-    "gozd": [
-      {
-        "text": "gozd",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/gozd.mp3"
-      }
-    ],
-    "zrak": [
-      {
-        "text": "zrak",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zrak.mp3"
-      }
-    ],
-    "zvezda": [
-      {
-        "text": "zvezda",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zvezda.mp3"
-      }
-    ],
-    "megla": [
-      {
-        "text": "megla",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/megla.mp3"
-      }
-    ],
-    "nebo": [
-      {
-        "text": "nebo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/nebo.mp3"
-      }
-    ],
-    "oblak": [
-      {
-        "text": "oblak",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oblak.mp3"
-      }
-    ],
-    "mavrica": [
-      {
-        "text": "mavrica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mavrica.mp3"
-      }
-    ],
-    "mesto": [
-      {
-        "text": "mesto",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mesto.mp3"
-      }
-    ],
-    "vas": [
-      {
-        "text": "vas",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vas.mp3"
-      }
-    ],
-    "cesta": [
-      {
-        "text": "cesta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/cesta.mp3"
-      }
-    ],
-    "ulica": [
-      {
-        "text": "ulica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ulica.mp3"
-      }
-    ],
-    "avenija | drevored": [
-      {
-        "text": "avenija",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avenija.mp3"
-      },
-      {
-        "text": "drevored",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/drevored.mp3"
-      }
-    ],
-    "most": [
-      {
-        "text": "most",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/most.mp3"
-      }
-    ],
-    "trg": [
-      {
-        "text": "trg",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/trg.mp3"
-      }
-    ],
-    "središče (mesta) | center": [
-      {
-        "text": "središče mesta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/središče_mesta.mp3"
-      },
-      {
-        "text": "center",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/center.mp3"
-      }
-    ],
-    "cerkev": [
-      {
-        "text": "cerkev",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/cerkev.mp3"
-      }
-    ],
-    "lekarna": [
-      {
-        "text": "lekarna",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lekarna.mp3"
-      }
-    ],
-    "grad": [
-      {
-        "text": "grad",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/grad.mp3"
-      }
-    ],
-    "stavba | zgradba": [
-      {
-        "text": "stavba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stavba.mp3"
-      },
-      {
-        "text": "zgradba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zgradba.mp3"
-      }
-    ],
-    "šola": [
-      {
-        "text": "šola",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/šola.mp3"
-      }
-    ],
-    "muzej": [
-      {
-        "text": "muzej",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/muzej.mp3"
-      }
-    ],
-    "uličica | stranska ulica": [
-      {
-        "text": "uličica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/uličica.mp3"
-      },
-      {
-        "text": "stranska ulica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stranska_ulica.mp3"
-      }
-    ],
-    "vogal (ulice)": [
-      {
-        "text": "vogal ulice",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vogal_ulice.mp3"
-      }
-    ],
-    "banka": [
-      {
-        "text": "banka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/banka.mp3"
-      }
-    ],
-    "mestna hiša | rotovž": [
-      {
-        "text": "mestna hiša",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mestna_hiša.mp3"
-      },
-      {
-        "text": "rotovž",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rotovž.mp3"
-      }
-    ],
-    "vodnjak | fontana": [
-      {
-        "text": "vodnjak",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vodnjak.mp3"
-      },
-      {
-        "text": "fontana",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/fontana.mp3"
-      }
-    ],
-    "klop": [
-      {
-        "text": "klop",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/klop.mp3"
-      }
-    ],
-    "predmestje": [
-      {
-        "text": "predmestje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/predmestje.mp3"
-      }
-    ],
-    "soseska | četrt": [
-      {
-        "text": "soseska",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/soseska.mp3"
-      },
-      {
-        "text": "četrt",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/četrt.mp3"
-      }
-    ],
-    "tovarna": [
-      {
-        "text": "tovarna",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tovarna.mp3"
-      }
-    ],
-    "kip": [
-      {
-        "text": "kip",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kip.mp3"
-      }
-    ],
-    "galerija": [
-      {
-        "text": "galerija",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/galerija.mp3"
-      }
-    ],
-    "mestni | urbani": [
-      {
-        "text": "mestni",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mestni.mp3"
-      },
-      {
-        "text": "urbani",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/urbani.mp3"
-      }
-    ],
-    "avto | avtomobil": [
-      {
-        "text": "avto",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avto.mp3"
-      },
-      {
-        "text": "avtomobil",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avtomobil.mp3"
-      }
-    ],
-    "vlak": [
-      {
-        "text": "vlak",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vlak.mp3"
-      }
-    ],
-    "avtobus": [
-      {
-        "text": "avtobus",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avtobus.mp3"
-      }
-    ],
-    "metro | podzemna železnica": [
-      {
-        "text": "metro",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/metro.mp3"
-      },
-      {
-        "text": "podzemna železnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/podzemna_železnica.mp3"
-      }
-    ],
-    "tramvaj": [
-      {
-        "text": "tramvaj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tramvaj.mp3"
-      }
-    ],
-    "kolo": [
-      {
-        "text": "kolo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kolo.mp3"
-      }
-    ],
-    "ladja": [
-      {
-        "text": "ladja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ladja.mp3"
-      }
-    ],
-    "motor | motocikel": [
-      {
-        "text": "motor",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/motor.mp3"
-      },
-      {
-        "text": "motocikel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/motocikel.mp3"
-      }
-    ],
-    "avtobusna postaja": [
-      {
-        "text": "avtobusna postaja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avtobusna_postaja.mp3"
-      }
-    ],
-    "železnica": [
-      {
-        "text": "železnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/železnica.mp3"
-      }
-    ],
-    "železniška postaja": [
-      {
-        "text": "železniška postaja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/železniška_postaja.mp3"
-      }
-    ],
-    "vozovnica": [
-      {
-        "text": "vozovnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vozovnica.mp3"
-      }
-    ],
-    "validirati | žigosati": [
-      {
-        "text": "validirati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/validirati.mp3"
-      },
-      {
-        "text": "žigosati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žigosati.mp3"
-      }
-    ],
-    "rumen": [
-      {
-        "text": "rumen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rumen.mp3"
-      }
-    ],
-    "bel": [
-      {
-        "text": "bel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/bel.mp3"
-      }
-    ],
-    "črn": [
-      {
-        "text": "črn",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/črn.mp3"
-      }
-    ],
-    "rdeč": [
-      {
-        "text": "rdeč",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rdeč.mp3"
-      }
-    ],
-    "moder": [
-      {
-        "text": "moder",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/moder.mp3"
-      }
-    ],
-    "zelen": [
-      {
-        "text": "zelen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zelen.mp3"
-      }
-    ],
-    "oranžen": [
-      {
-        "text": "oranžen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oranžen.mp3"
-      }
-    ],
-    "rožnat | roza": [
-      {
-        "text": "rožnat",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rožnat.mp3"
-      },
-      {
-        "text": "roza",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/roza.mp3"
-      }
-    ],
-    "rjav": [
-      {
-        "text": "rjav",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rjav.mp3"
-      }
-    ],
-    "siv": [
-      {
-        "text": "siv",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/siv.mp3"
-      }
-    ],
-    "vijoličen": [
-      {
-        "text": "vijoličen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vijoličen.mp3"
-      }
-    ],
-    "vijoličast | purpuren": [
-      {
-        "text": "vijoličast",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vijoličast.mp3"
-      },
-      {
-        "text": "purpuren",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/purpuren.mp3"
-      }
-    ],
-    "barva": [
-      {
-        "text": "barva",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/barva.mp3"
-      }
-    ],
-    "barvit | pisan": [
-      {
-        "text": "barvit",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/barvit.mp3"
-      },
-      {
-        "text": "pisan",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pisan.mp3"
-      }
-    ],
-    "brezbarven": [
-      {
-        "text": "brezbarven",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/brezbarven.mp3"
-      }
-    ],
-    "svetel": [
-      {
-        "text": "svetel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/svetel.mp3"
-      }
-    ],
-    "temen": [
-      {
-        "text": "temen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/temen.mp3"
-      }
-    ],
-    "živ": [
-      {
-        "text": "živ",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/živ.mp3"
-      }
-    ],
-    "ena": [
-      {
-        "text": "ena",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ena.mp3"
-      }
-    ],
-    "dve": [
-      {
-        "text": "dve",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dve.mp3"
-      }
-    ],
-    "tri": [
-      {
-        "text": "tri",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tri.mp3"
-      }
-    ],
-    "štiri": [
-      {
-        "text": "štiri",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/štiri.mp3"
-      }
-    ],
-    "pet": [
-      {
-        "text": "pet",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pet.mp3"
-      }
-    ],
-    "šest": [
-      {
-        "text": "šest",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/šest.mp3"
-      }
-    ],
-    "sedem": [
-      {
-        "text": "sedem",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sedem.mp3"
-      }
-    ],
-    "osem": [
-      {
-        "text": "osem",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/osem.mp3"
-      }
-    ],
-    "devet": [
-      {
-        "text": "devet",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/devet.mp3"
-      }
-    ],
-    "deset": [
-      {
-        "text": "deset",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/deset.mp3"
-      }
-    ],
-    "sadje | sadež": [
-      {
-        "text": "sadje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sadje.mp3"
-      },
-      {
-        "text": "sadež",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sadež.mp3"
-      }
-    ],
-    "jabolko": [
-      {
-        "text": "jabolko",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jabolko.mp3"
-      }
-    ],
-    "hruška": [
-      {
-        "text": "hruška",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hruška.mp3"
-      }
-    ],
-    "sliva": [
-      {
-        "text": "sliva",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sliva.mp3"
-      }
-    ],
-    "češnja": [
-      {
-        "text": "češnja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/češnja.mp3"
-      }
-    ],
-    "breskev": [
-      {
-        "text": "breskev",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/breskev.mp3"
-      }
-    ],
-    "marelica": [
-      {
-        "text": "marelica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/marelica.mp3"
-      }
-    ],
-    "jagoda": [
-      {
-        "text": "jagoda",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jagoda.mp3"
-      }
-    ],
-    "malina": [
-      {
-        "text": "malina",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/malina.mp3"
-      }
-    ],
-    "robida | robidnica": [
-      {
-        "text": "robida",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/robida.mp3"
-      },
-      {
-        "text": "robidnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/robidnica.mp3"
-      }
-    ],
-    "borovnica": [
-      {
-        "text": "borovnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/borovnica.mp3"
-      }
-    ],
-    "grozdje": [
-      {
-        "text": "grozdje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/grozdje.mp3"
-      }
-    ],
-    "ribez": [
-      {
-        "text": "ribez",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ribez.mp3"
-      }
-    ],
-    "kosmulja": [
-      {
-        "text": "kosmulja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kosmulja.mp3"
-      }
-    ],
-    "banana": [
-      {
-        "text": "banana",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/banana.mp3"
-      }
-    ],
-    "limona": [
-      {
-        "text": "limona",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/limona.mp3"
-      }
-    ],
-    "ananas": [
-      {
-        "text": "ananas",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ananas.mp3"
-      }
-    ],
-    "lubenica": [
-      {
-        "text": "lubenica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lubenica.mp3"
-      }
-    ],
-    "oreh | oreščki": [
-      {
-        "text": "oreh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oreh.mp3"
-      },
-      {
-        "text": "oreščki",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oreščki.mp3"
-      }
-    ],
-    "lešnik": [
-      {
-        "text": "lešnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lešnik.mp3"
-      }
-    ],
-    "oreh": [
-      {
-        "text": "oreh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oreh.mp3"
-      }
-    ],
-    "mandelj": [
-      {
-        "text": "mandelj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mandelj.mp3"
-      }
-    ],
-    "zrel": [
-      {
-        "text": "zrel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zrel.mp3"
-      }
-    ],
-    "česen": [
-      {
-        "text": "česen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/česen.mp3"
-      }
-    ],
-    "kumara": [
-      {
-        "text": "kumara",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kumara.mp3"
-      }
-    ],
-    "korenje | korenček": [
-      {
-        "text": "korenje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/korenje.mp3"
-      },
-      {
-        "text": "korenček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/korenček.mp3"
-      }
-    ],
-    "jajčevec": [
-      {
-        "text": "jajčevec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jajčevec.mp3"
-      }
-    ],
-    "krompir": [
-      {
-        "text": "krompir",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krompir.mp3"
-      }
-    ],
-    "paradižnik": [
-      {
-        "text": "paradižnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/paradižnik.mp3"
-      }
-    ],
-    "buča": [
-      {
-        "text": "buča",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/buča.mp3"
-      }
-    ],
-    "bučka": [
-      {
-        "text": "bučka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/bučka.mp3"
-      }
-    ],
-    "avokado": [
-      {
-        "text": "avokado",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/avokado.mp3"
-      }
-    ],
-    "zelje": [
-      {
-        "text": "zelje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zelje.mp3"
-      }
-    ],
-    "cvetača": [
-      {
-        "text": "cvetača",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/cvetača.mp3"
-      }
-    ],
-    "brokoli": [
-      {
-        "text": "brokoli",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/brokoli.mp3"
-      }
-    ],
-    "špinača": [
-      {
-        "text": "špinača",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/špinača.mp3"
-      }
-    ],
-    "paprika": [
-      {
-        "text": "paprika",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/paprika.mp3"
-      }
-    ],
-    "solata | zelena solata": [
-      {
-        "text": "solata",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/solata.mp3"
-      },
-      {
-        "text": "zelena solata",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zelena_solata.mp3"
-      }
-    ],
-    "por": [
-      {
-        "text": "por",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/por.mp3"
-      }
-    ],
-    "čebula": [
-      {
-        "text": "čebula",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čebula.mp3"
-      }
-    ],
-    "feferon | čili": [
-      {
-        "text": "feferon",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/feferon.mp3"
-      },
-      {
-        "text": "čili",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čili.mp3"
-      }
-    ],
-    "mačka": [
-      {
-        "text": "mačka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mačka.mp3"
-      }
-    ],
-    "pes": [
-      {
-        "text": "pes",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pes.mp3"
-      }
-    ],
-    "piščanec | kokoš": [
-      {
-        "text": "piščanec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/piščanec.mp3"
-      },
-      {
-        "text": "kokoš",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kokoš.mp3"
-      }
-    ],
-    "prašič": [
-      {
-        "text": "prašič",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prašič.mp3"
-      }
-    ],
-    "krava": [
-      {
-        "text": "krava",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krava.mp3"
-      }
-    ],
-    "konj": [
-      {
-        "text": "konj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/konj.mp3"
-      }
-    ],
-    "ovca": [
-      {
-        "text": "ovca",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ovca.mp3"
-      }
-    ],
-    "koza": [
-      {
-        "text": "koza",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/koza.mp3"
-      }
-    ],
-    "osel": [
-      {
-        "text": "osel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/osel.mp3"
-      }
-    ],
-    "miš": [
-      {
-        "text": "miš",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/miš.mp3"
-      }
-    ],
-    "kuža | psiček": [
-      {
-        "text": "kuža",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kuža.mp3"
-      },
-      {
-        "text": "psiček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/psiček.mp3"
-      }
-    ],
-    "hrček": [
-      {
-        "text": "hrček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hrček.mp3"
-      }
-    ],
-    "morski prašiček": [
-      {
-        "text": "morski prašiček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_prašiček.mp3"
-      }
-    ],
-    "kletka": [
-      {
-        "text": "kletka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kletka.mp3"
-      }
-    ],
-    "akvarij": [
-      {
-        "text": "akvarij",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/akvarij.mp3"
-      }
-    ],
-    "povodec": [
-      {
-        "text": "povodec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/povodec.mp3"
-      }
-    ],
-    "transportni boks": [
-      {
-        "text": "transportni boks",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/transportni_boks.mp3"
-      }
-    ],
-    "gnezdo": [
-      {
-        "text": "gnezdo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/gnezdo.mp3"
-      }
-    ],
-    "samica": [
-      {
-        "text": "samica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/samica.mp3"
-      }
-    ],
-    "samec": [
-      {
-        "text": "samec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/samec.mp3"
-      }
-    ],
-    "govedo | živina": [
-      {
-        "text": "govedo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/govedo.mp3"
-      },
-      {
-        "text": "živina",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/živina.mp3"
-      }
-    ],
-    "veterinar": [
-      {
-        "text": "veterinar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/veterinar.mp3"
-      }
-    ],
-    "medved": [
-      {
-        "text": "medved",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/medved.mp3"
-      }
-    ],
-    "los": [
-      {
-        "text": "los",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/los.mp3"
-      }
-    ],
-    "jelen": [
-      {
-        "text": "jelen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jelen.mp3"
-      }
-    ],
-    "severni jelen": [
-      {
-        "text": "severni jelen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/severni_jelen.mp3"
-      }
-    ],
-    "volk": [
-      {
-        "text": "volk",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/volk.mp3"
-      }
-    ],
-    "lisica": [
-      {
-        "text": "lisica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lisica.mp3"
-      }
-    ],
-    "jež": [
-      {
-        "text": "jež",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jež.mp3"
-      }
-    ],
-    "kunec": [
-      {
-        "text": "kunec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kunec.mp3"
-      }
-    ],
-    "zajec": [
-      {
-        "text": "zajec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zajec.mp3"
-      }
-    ],
-    "divji prašič | merjasec": [
-      {
-        "text": "divji prašič",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/divji_prašič.mp3"
-      },
-      {
-        "text": "merjasec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/merjasec.mp3"
-      }
-    ],
-    "veverica": [
-      {
-        "text": "veverica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/veverica.mp3"
-      }
-    ],
-    "žaba": [
-      {
-        "text": "žaba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žaba.mp3"
-      }
-    ],
-    "kača": [
-      {
-        "text": "kača",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kača.mp3"
-      }
-    ],
-    "tiger": [
-      {
-        "text": "tiger",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tiger.mp3"
-      }
-    ],
-    "lev": [
-      {
-        "text": "lev",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lev.mp3"
-      }
-    ],
-    "slon": [
-      {
-        "text": "slon",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/slon.mp3"
-      }
-    ],
-    "kamela": [
-      {
-        "text": "kamela",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kamela.mp3"
-      }
-    ],
-    "žirafa": [
-      {
-        "text": "žirafa",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žirafa.mp3"
-      }
-    ],
-    "krokodil": [
-      {
-        "text": "krokodil",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krokodil.mp3"
-      }
-    ],
-    "opica": [
-      {
-        "text": "opica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/opica.mp3"
-      }
-    ],
-    "ptica | ptič": [
-      {
-        "text": "ptica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ptica.mp3"
-      },
-      {
-        "text": "ptič",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ptič.mp3"
-      }
-    ],
-    "raca": [
-      {
-        "text": "raca",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/raca.mp3"
-      }
-    ],
-    "gos": [
-      {
-        "text": "gos",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/gos.mp3"
-      }
-    ],
-    "golob": [
-      {
-        "text": "golob",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/golob.mp3"
-      }
-    ],
-    "orel": [
-      {
-        "text": "orel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/orel.mp3"
-      }
-    ],
-    "vrabec": [
-      {
-        "text": "vrabec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vrabec.mp3"
-      }
-    ],
-    "labod": [
-      {
-        "text": "labod",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/labod.mp3"
-      }
-    ],
-    "štorklja": [
-      {
-        "text": "štorklja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/štorklja.mp3"
-      }
-    ],
-    "galeb": [
-      {
-        "text": "galeb",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/galeb.mp3"
-      }
-    ],
-    "sova": [
-      {
-        "text": "sova",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sova.mp3"
-      }
-    ],
-    "papiga": [
-      {
-        "text": "papiga",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/papiga.mp3"
-      }
-    ],
-    "riba": [
-      {
-        "text": "riba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/riba.mp3"
-      }
-    ],
-    "delfin": [
-      {
-        "text": "delfin",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/delfin.mp3"
-      }
-    ],
-    "morski pes": [
-      {
-        "text": "morski pes",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_pes.mp3"
-      }
-    ],
-    "jegulja": [
-      {
-        "text": "jegulja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jegulja.mp3"
-      }
-    ],
-    "tuna | tun": [
-      {
-        "text": "tuna",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tuna.mp3"
-      },
-      {
-        "text": "tun",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tun.mp3"
-      }
-    ],
-    "morska zvezda": [
-      {
-        "text": "morska zvezda",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/morska_zvezda.mp3"
-      }
-    ],
-    "morski konjiček": [
-      {
-        "text": "morski konjiček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_konjiček.mp3"
-      }
-    ],
-    "škrge": [
-      {
-        "text": "škrge",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/škrge.mp3"
-      }
-    ],
-    "plavut": [
-      {
-        "text": "plavut",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/plavut.mp3"
-      }
-    ],
-    "žival": [
-      {
-        "text": "žival",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žival.mp3"
-      }
-    ],
-    "krilo | perut": [
-      {
-        "text": "krilo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krilo.mp3"
-      },
-      {
-        "text": "perut",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/perut.mp3"
-      }
-    ],
-    "rog": [
-      {
-        "text": "rog",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rog.mp3"
-      }
-    ],
-    "rep": [
-      {
-        "text": "rep",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rep.mp3"
-      }
-    ],
-    "kljun": [
-      {
-        "text": "kljun",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kljun.mp3"
-      }
-    ],
-    "krzno | kožuh": [
-      {
-        "text": "krzno",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krzno.mp3"
-      },
-      {
-        "text": "kožuh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kožuh.mp3"
-      }
-    ],
-    "mravlja": [
-      {
-        "text": "mravlja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mravlja.mp3"
-      }
-    ],
-    "metulj": [
-      {
-        "text": "metulj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/metulj.mp3"
-      }
-    ],
-    "čebela": [
-      {
-        "text": "čebela",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čebela.mp3"
-      }
-    ],
-    "osa": [
-      {
-        "text": "osa",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/osa.mp3"
-      }
-    ],
-    "žuželka | hrošč": [
-      {
-        "text": "žuželka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žuželka.mp3"
-      },
-      {
-        "text": "hrošč",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hrošč.mp3"
-      }
-    ],
-    "muha": [
-      {
-        "text": "muha",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/muha.mp3"
-      }
-    ],
-    "komar": [
-      {
-        "text": "komar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/komar.mp3"
-      }
-    ],
-    "pajek": [
-      {
-        "text": "pajek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pajek.mp3"
-      }
-    ],
-    "ugrizniti": [
-      {
-        "text": "ugrizniti",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ugrizniti.mp3"
-      }
-    ],
-    "mahati": [
-      {
-        "text": "mahati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mahati.mp3"
-      }
-    ],
-    "lajati": [
-      {
-        "text": "lajati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lajati.mp3"
-      }
-    ],
-    "mijavkati": [
-      {
-        "text": "mijavkati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mijavkati.mp3"
-      }
-    ],
-    "mukati": [
-      {
-        "text": "mukati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mukati.mp3"
-      }
-    ],
-    "regljati": [
-      {
-        "text": "regljati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/regljati.mp3"
-      }
-    ],
-    "krakati": [
-      {
-        "text": "krakati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/krakati.mp3"
-      }
-    ],
-    "prezimovati | hibernirati": [
-      {
-        "text": "prezimovati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prezimovati.mp3"
-      },
-      {
-        "text": "hibernirati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hibernirati.mp3"
-      }
-    ],
-    "kruh": [
-      {
-        "text": "kruh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kruh.mp3"
-      }
-    ],
-    "sol": [
-      {
-        "text": "sol",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sol.mp3"
-      }
-    ],
-    "sladkor": [
-      {
-        "text": "sladkor",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sladkor.mp3"
-      }
-    ],
-    "riž": [
-      {
-        "text": "riž",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/riž.mp3"
-      }
-    ],
-    "čaj": [
-      {
-        "text": "čaj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čaj.mp3"
-      }
-    ],
-    "kava": [
-      {
-        "text": "kava",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kava.mp3"
-      }
-    ],
-    "sok": [
-      {
-        "text": "sok",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sok.mp3"
-      }
-    ],
-    "sir": [
-      {
-        "text": "sir",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sir.mp3"
-      }
-    ],
-    "pomfri | ocvrt krompirček": [
-      {
-        "text": "pomfri",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pomfri.mp3"
-      },
-      {
-        "text": "ocvrt krompirček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ocvrt_krompirček.mp3"
-      }
-    ],
-    "goba": [
-      {
-        "text": "goba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/goba.mp3"
-      }
-    ],
-    "juha": [
-      {
-        "text": "juha",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/juha.mp3"
-      }
-    ],
-    "meso": [
-      {
-        "text": "meso",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/meso.mp3"
-      }
-    ],
-    "slanina": [
-      {
-        "text": "slanina",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/slanina.mp3"
-      }
-    ],
-    "jajce": [
-      {
-        "text": "jajce",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jajce.mp3"
-      }
-    ],
-    "olje": [
-      {
-        "text": "olje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/olje.mp3"
-      }
-    ],
-    "solata": [
-      {
-        "text": "solata",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/solata.mp3"
-      }
-    ],
-    "led": [
-      {
-        "text": "led",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/led.mp3"
-      }
-    ],
-    "mleko": [
-      {
-        "text": "mleko",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mleko.mp3"
-      }
-    ],
-    "maslo": [
-      {
-        "text": "maslo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/maslo.mp3"
-      }
-    ],
-    "smetana": [
-      {
-        "text": "smetana",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/smetana.mp3"
-      }
-    ],
-    "torta": [
-      {
-        "text": "torta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/torta.mp3"
-      }
-    ],
-    "pivo": [
-      {
-        "text": "pivo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pivo.mp3"
-      }
-    ],
-    "vodka": [
-      {
-        "text": "vodka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vodka.mp3"
-      }
-    ],
-    "vino": [
-      {
-        "text": "vino",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vino.mp3"
-      }
-    ],
-    "med": [
-      {
-        "text": "med",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/med.mp3"
-      }
-    ],
-    "bonbon": [
-      {
-        "text": "bonbon",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/bonbon.mp3"
-      }
-    ],
-    "piškot": [
-      {
-        "text": "piškot",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/piškot.mp3"
-      }
-    ],
-    "sendvič": [
-      {
-        "text": "sendvič",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sendvič.mp3"
-      }
-    ],
-    "suši": [
-      {
-        "text": "suši",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/suši.mp3"
-      }
-    ],
-    "palačinka": [
-      {
-        "text": "palačinka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/palačinka.mp3"
-      }
-    ],
-    "umešana jajca": [
-      {
-        "text": "umešana jajca",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/umešana_jajca.mp3"
-      }
-    ],
-    "omleta": [
-      {
-        "text": "omleta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/omleta.mp3"
-      }
-    ],
-    "klobasa": [
-      {
-        "text": "klobasa",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/klobasa.mp3"
-      }
-    ],
-    "sladoled": [
-      {
-        "text": "sladoled",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sladoled.mp3"
-      }
-    ],
-    "alkohol": [
-      {
-        "text": "alkohol",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/alkohol.mp3"
-      }
-    ],
-    "sezam": [
-      {
-        "text": "sezam",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sezam.mp3"
-      }
-    ],
-    "prah": [
-      {
-        "text": "prah",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prah.mp3"
-      }
-    ],
-    "moka": [
-      {
-        "text": "moka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/moka.mp3"
-      }
-    ],
-    "sladek": [
-      {
-        "text": "sladek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sladek.mp3"
-      }
-    ],
-    "grenek": [
-      {
-        "text": "grenek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/grenek.mp3"
-      }
-    ],
-    "kisel": [
-      {
-        "text": "kisel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kisel.mp3"
-      }
-    ],
-    "pekoč": [
-      {
-        "text": "pekoč",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pekoč.mp3"
-      }
-    ],
-    "blag": [
-      {
-        "text": "blag",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/blag.mp3"
-      }
-    ],
-    "svež": [
-      {
-        "text": "svež",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/svež.mp3"
-      }
-    ],
-    "osvežilen": [
-      {
-        "text": "osvežilen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/osvežilen.mp3"
-      }
-    ],
-    "okusen": [
-      {
-        "text": "okusen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/okusen.mp3"
-      }
-    ],
-    "slasten | odličen": [
-      {
-        "text": "slasten",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/slasten.mp3"
-      },
-      {
-        "text": "odličen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/odličen.mp3"
-      }
-    ],
-    "ogaben | odvraten": [
-      {
-        "text": "ogaben",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ogaben.mp3"
-      },
-      {
-        "text": "odvraten",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/odvraten.mp3"
-      }
-    ],
-    "velik": [
-      {
-        "text": "velik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/velik.mp3"
-      }
-    ],
-    "majhen": [
-      {
-        "text": "majhen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/majhen.mp3"
-      }
-    ],
-    "dolg": [
-      {
-        "text": "dolg",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dolg.mp3"
-      }
-    ],
-    "kratek": [
-      {
-        "text": "kratek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kratek.mp3"
-      }
-    ],
-    "nov": [
-      {
-        "text": "nov",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/nov.mp3"
-      }
-    ],
-    "star": [
-      {
-        "text": "star",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/star.mp3"
-      }
-    ],
-    "čist": [
-      {
-        "text": "čist",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čist.mp3"
-      }
-    ],
-    "umazan": [
-      {
-        "text": "umazan",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/umazan.mp3"
-      }
-    ],
-    "družina": [
-      {
-        "text": "družina",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/družina.mp3"
-      }
-    ],
-    "oče": [
-      {
-        "text": "oče",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oče.mp3"
-      }
-    ],
-    "mati | mama": [
-      {
-        "text": "mati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mati.mp3"
-      },
-      {
-        "text": "mama",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mama.mp3"
-      }
-    ],
-    "otrok": [
-      {
-        "text": "otrok",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/otrok.mp3"
-      }
-    ],
-    "sin": [
-      {
-        "text": "sin",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sin.mp3"
-      }
-    ],
-    "hči | hčerka": [
-      {
-        "text": "hči",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hči.mp3"
-      },
-      {
-        "text": "hčerka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/hčerka.mp3"
-      }
-    ],
-    "dojenček": [
-      {
-        "text": "dojenček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dojenček.mp3"
-      }
-    ],
-    "žena | soproga": [
-      {
-        "text": "žena",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/žena.mp3"
-      },
-      {
-        "text": "soproga",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/soproga.mp3"
-      }
-    ],
-    "mož | soprog": [
-      {
-        "text": "mož",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mož.mp3"
-      },
-      {
-        "text": "soprog",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/soprog.mp3"
-      }
-    ],
-    "sestra": [
-      {
-        "text": "sestra",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sestra.mp3"
-      }
-    ],
-    "brat": [
-      {
-        "text": "brat",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/brat.mp3"
-      }
-    ],
-    "dvojček": [
-      {
-        "text": "dvojček",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dvojček.mp3"
-      }
-    ],
-    "starši": [
-      {
-        "text": "starši",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/starši.mp3"
-      }
-    ],
-    "samohranilec | samohranilka": [
-      {
-        "text": "samohranilec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/samohranilec.mp3"
-      },
-      {
-        "text": "samohranilka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/samohranilka.mp3"
-      }
-    ],
-    "sorodniki": [
-      {
-        "text": "sorodniki",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sorodniki.mp3"
-      }
-    ],
-    "babica": [
-      {
-        "text": "babica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/babica.mp3"
-      }
-    ],
-    "babi": [
-      {
-        "text": "babi",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/babi.mp3"
-      }
-    ],
-    "vnuk": [
-      {
-        "text": "vnuk",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vnuk.mp3"
-      }
-    ],
-    "vnukinja": [
-      {
-        "text": "vnukinja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vnukinja.mp3"
-      }
-    ],
-    "stric": [
-      {
-        "text": "stric",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stric.mp3"
-      }
-    ],
-    "teta": [
-      {
-        "text": "teta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/teta.mp3"
-      }
-    ],
-    "bratranec | sestrična": [
-      {
-        "text": "bratranec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/bratranec.mp3"
-      },
-      {
-        "text": "sestrična",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sestrična.mp3"
-      }
-    ],
-    "mačeha": [
-      {
-        "text": "mačeha",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mačeha.mp3"
-      }
-    ],
-    "očim": [
-      {
-        "text": "očim",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/očim.mp3"
-      }
-    ],
-    "generacija | rod": [
-      {
-        "text": "generacija",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/generacija.mp3"
-      },
-      {
-        "text": "rod",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rod.mp3"
-      }
-    ],
-    "par": [
-      {
-        "text": "par",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/par.mp3"
-      }
-    ],
-    "fant": [
-      {
-        "text": "fant",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/fant.mp3"
-      }
-    ],
-    "zakon | zakonska zveza": [
-      {
-        "text": "zakon",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zakon.mp3"
-      },
-      {
-        "text": "zakonska zveza",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zakonska_zveza.mp3"
-      }
-    ],
-    "poročen": [
-      {
-        "text": "poročen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/poročen.mp3"
-      }
-    ],
-    "poročiti se": [
-      {
-        "text": "poročiti se",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/poročiti_se.mp3"
-      }
-    ],
-    "samski | neporočen": [
-      {
-        "text": "samski",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/samski.mp3"
-      },
-      {
-        "text": "neporočen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/neporočen.mp3"
-      }
-    ],
-    "nevesta": [
-      {
-        "text": "nevesta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/nevesta.mp3"
-      }
-    ],
-    "ženin": [
-      {
-        "text": "ženin",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ženin.mp3"
-      }
-    ],
-    "zaročenec": [
-      {
-        "text": "zaročenec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zaročenec.mp3"
-      }
-    ],
-    "partner | partnerka": [
-      {
-        "text": "partner",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/partner.mp3"
-      },
-      {
-        "text": "partnerka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/partnerka.mp3"
-      }
-    ],
-    "fotograf": [
-      {
-        "text": "fotograf",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/fotograf.mp3"
-      }
-    ],
-    "kuhar": [
-      {
-        "text": "kuhar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kuhar.mp3"
-      }
-    ],
-    "menedžer | vodja": [
-      {
-        "text": "menedžer",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/menedžer.mp3"
-      },
-      {
-        "text": "vodja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vodja.mp3"
-      }
-    ],
-    "tajnica | tajnik": [
-      {
-        "text": "tajnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tajnica.mp3"
-      },
-      {
-        "text": "tajnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tajnik.mp3"
-      }
-    ],
-    "pripravnik | praktikant": [
-      {
-        "text": "pripravnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pripravnik.mp3"
-      },
-      {
-        "text": "praktikant",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/praktikant.mp3"
-      }
-    ],
-    "oddelek": [
-      {
-        "text": "oddelek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oddelek.mp3"
-      }
-    ],
-    "vodja oddelka": [
-      {
-        "text": "vodja oddelka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vodja_oddelka.mp3"
-      }
-    ],
-    "računovodja": [
-      {
-        "text": "računovodja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/računovodja.mp3"
-      }
-    ],
-    "blagajnik | blagajničarka": [
-      {
-        "text": "blagajnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/blagajnik.mp3"
-      },
-      {
-        "text": "blagajničarka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/blagajničarka.mp3"
-      }
-    ],
-    "plesalec | plesalka": [
-      {
-        "text": "plesalec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/plesalec.mp3"
-      },
-      {
-        "text": "plesalka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/plesalka.mp3"
-      }
-    ],
-    "slikar": [
-      {
-        "text": "slikar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/slikar.mp3"
-      }
-    ],
-    "umetnik": [
-      {
-        "text": "umetnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/umetnik.mp3"
-      }
-    ],
-    "oblikovalec | dizajner": [
-      {
-        "text": "oblikovalec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oblikovalec.mp3"
-      },
-      {
-        "text": "dizajner",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dizajner.mp3"
-      }
-    ],
-    "kipar": [
-      {
-        "text": "kipar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kipar.mp3"
-      }
-    ],
-    "znanstvenik": [
-      {
-        "text": "znanstvenik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/znanstvenik.mp3"
-      }
-    ],
-    "inženir": [
-      {
-        "text": "inženir",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/inženir.mp3"
-      }
-    ],
-    "kmet": [
-      {
-        "text": "kmet",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kmet.mp3"
-      }
-    ],
-    "lovec": [
-      {
-        "text": "lovec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lovec.mp3"
-      }
-    ],
-    "manekenka | model": [
-      {
-        "text": "manekenka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/manekenka.mp3"
-      },
-      {
-        "text": "model",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/model.mp3"
-      }
-    ],
-    "pilot": [
-      {
-        "text": "pilot",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pilot.mp3"
-      }
-    ],
-    "stevardesa": [
-      {
-        "text": "stevardesa",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stevardesa.mp3"
-      }
-    ],
-    "taksist": [
-      {
-        "text": "taksist",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/taksist.mp3"
-      }
-    ],
-    "ribič": [
-      {
-        "text": "ribič",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ribič.mp3"
-      }
-    ],
-    "rudar": [
-      {
-        "text": "rudar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rudar.mp3"
-      }
-    ],
-    "rudnik": [
-      {
-        "text": "rudnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rudnik.mp3"
-      }
-    ],
-    "odvetnik | pravnik": [
-      {
-        "text": "odvetnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/odvetnik.mp3"
-      },
-      {
-        "text": "pravnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pravnik.mp3"
-      }
-    ],
-    "tožilec": [
-      {
-        "text": "tožilec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tožilec.mp3"
-      }
-    ],
-    "sodnik": [
-      {
-        "text": "sodnik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/sodnik.mp3"
-      }
-    ],
-    "natakar": [
-      {
-        "text": "natakar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/natakar.mp3"
-      }
-    ],
-    "policist": [
-      {
-        "text": "policist",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/policist.mp3"
-      }
-    ],
-    "gasilec": [
-      {
-        "text": "gasilec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/gasilec.mp3"
-      }
-    ],
-    "novinar": [
-      {
-        "text": "novinar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/novinar.mp3"
-      }
-    ],
-    "pek": [
-      {
-        "text": "pek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pek.mp3"
-      }
-    ],
-    "frizer": [
-      {
-        "text": "frizer",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/frizer.mp3"
-      }
-    ],
-    "električar": [
-      {
-        "text": "električar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/električar.mp3"
-      }
-    ],
-    "vodovodar | inštalater": [
-      {
-        "text": "vodovodar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vodovodar.mp3"
-      },
-      {
-        "text": "inštalater",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/inštalater.mp3"
-      }
-    ],
-    "mehanik": [
-      {
-        "text": "mehanik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mehanik.mp3"
-      }
-    ],
-    "ključavničar": [
-      {
-        "text": "ključavničar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ključavničar.mp3"
-      }
-    ],
-    "mizar | tesar": [
-      {
-        "text": "mizar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mizar.mp3"
-      },
-      {
-        "text": "tesar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/tesar.mp3"
-      }
-    ],
-    "varilec": [
-      {
-        "text": "varilec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/varilec.mp3"
-      }
-    ],
-    "mesar": [
-      {
-        "text": "mesar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/mesar.mp3"
-      }
-    ],
-    "urar": [
-      {
-        "text": "urar",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/urar.mp3"
-      }
-    ],
-    "čistilec | čistilka": [
-      {
-        "text": "čistilec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čistilec.mp3"
-      },
-      {
-        "text": "čistilka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čistilka.mp3"
-      }
-    ],
-    "barman": [
-      {
-        "text": "barman",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/barman.mp3"
-      }
-    ],
-    "delavec": [
-      {
-        "text": "delavec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/delavec.mp3"
-      }
-    ],
-    "učitelj | profesor": [
-      {
-        "text": "učitelj",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/učitelj.mp3"
-      },
-      {
-        "text": "profesor",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/profesor.mp3"
-      }
-    ],
-    "majhen | nizek": [
-      {
-        "text": "majhen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/majhen.mp3"
-      },
-      {
-        "text": "nizek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/nizek.mp3"
-      }
-    ],
-    "visok": [
-      {
-        "text": "visok",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/visok.mp3"
-      }
-    ],
-    "lep | čudovit": [
-      {
-        "text": "lep",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lep.mp3"
-      },
-      {
-        "text": "čudovit",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čudovit.mp3"
-      }
-    ],
-    "lep | ljubek": [
-      {
-        "text": "lep",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lep.mp3"
-      },
-      {
-        "text": "ljubek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ljubek.mp3"
-      }
-    ],
-    "ljubek | srčkan": [
-      {
-        "text": "ljubek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ljubek.mp3"
-      },
-      {
-        "text": "srčkan",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/srčkan.mp3"
-      }
-    ],
-    "eleganten": [
-      {
-        "text": "eleganten",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/eleganten.mp3"
-      }
-    ],
-    "očarljiv": [
-      {
-        "text": "očarljiv",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/očarljiv.mp3"
-      }
-    ],
-    "privlačen": [
-      {
-        "text": "privlačen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/privlačen.mp3"
-      }
-    ],
-    "lep | postaven": [
-      {
-        "text": "lep",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lep.mp3"
-      },
-      {
-        "text": "postaven",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/postaven.mp3"
-      }
-    ],
-    "grd": [
-      {
-        "text": "grd",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/grd.mp3"
-      }
-    ],
-    "vitek": [
-      {
-        "text": "vitek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vitek.mp3"
-      }
-    ],
-    "vitek | suhljat": [
-      {
-        "text": "vitek",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vitek.mp3"
-      },
-      {
-        "text": "suhljat",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/suhljat.mp3"
-      }
-    ],
-    "suh | koščen": [
-      {
-        "text": "suh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/suh.mp3"
-      },
-      {
-        "text": "koščen",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/koščen.mp3"
-      }
-    ],
-    "debel": [
-      {
-        "text": "debel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/debel.mp3"
-      }
-    ],
-    "drobna": [
-      {
-        "text": "drobna",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/drobna.mp3"
-      }
-    ],
-    "čeden | lep": [
-      {
-        "text": "čeden",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čeden.mp3"
-      },
-      {
-        "text": "lep",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lep.mp3"
-      }
-    ],
-    "postava | figura": [
-      {
-        "text": "postava",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/postava.mp3"
-      },
-      {
-        "text": "figura",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/figura.mp3"
-      }
-    ],
-    "vitka postava": [
-      {
-        "text": "vitka postava",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vitka_postava.mp3"
-      }
-    ],
-    "debelost": [
-      {
-        "text": "debelost",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/debelost.mp3"
-      }
-    ],
-    "prekomerna teža | čezmerna teža": [
-      {
-        "text": "prekomerna teža",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prekomerna_teža.mp3"
-      },
-      {
-        "text": "čezmerna teža",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čezmerna_teža.mp3"
-      }
-    ],
-    "izgubiti težo | shujšati": [
-      {
-        "text": "izgubiti težo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/izgubiti_težo.mp3"
-      },
-      {
-        "text": "shujšati",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/shujšati.mp3"
-      }
-    ],
-    "pridobiti težo | zrediti se": [
-      {
-        "text": "pridobiti težo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pridobiti_težo.mp3"
-      },
-      {
-        "text": "zrediti se",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/zrediti_se.mp3"
-      }
-    ],
-    "raven": [
-      {
-        "text": "raven",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/raven.mp3"
-      }
-    ],
-    "kodrast": [
-      {
-        "text": "kodrast",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kodrast.mp3"
-      }
-    ],
-    "svetel | blond": [
-      {
-        "text": "svetel",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/svetel.mp3"
-      },
-      {
-        "text": "blond",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/blond.mp3"
-      }
-    ],
-    "rdečelas": [
-      {
-        "text": "rdečelas",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/rdečelas.mp3"
-      }
-    ],
-    "ličila": [
-      {
-        "text": "ličila",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ličila.mp3"
-      }
-    ],
-    "stil | slog": [
-      {
-        "text": "stil",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stil.mp3"
-      },
-      {
-        "text": "slog",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/slog.mp3"
-      }
-    ],
-    "prsi | prsni koš": [
-      {
-        "text": "prsi",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prsi.mp3"
-      },
-      {
-        "text": "prsni koš",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prsni_koš.mp3"
-      }
-    ],
-    "srce": [
-      {
-        "text": "srce",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/srce.mp3"
-      }
-    ],
-    "noga": [
-      {
-        "text": "noga",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/noga.mp3"
-      }
-    ],
-    "stopalo": [
-      {
-        "text": "stopalo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/stopalo.mp3"
-      }
-    ],
-    "glava": [
-      {
-        "text": "glava",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/glava.mp3"
-      }
-    ],
-    "oko": [
-      {
-        "text": "oko",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/oko.mp3"
-      }
-    ],
-    "obraz": [
-      {
-        "text": "obraz",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/obraz.mp3"
-      }
-    ],
-    "možgani": [
-      {
-        "text": "možgani",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/možgani.mp3"
-      }
-    ],
-    "vrat": [
-      {
-        "text": "vrat",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/vrat.mp3"
-      }
-    ],
-    "jezik": [
-      {
-        "text": "jezik",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jezik.mp3"
-      }
-    ],
-    "uho": [
-      {
-        "text": "uho",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/uho.mp3"
-      }
-    ],
-    "telo": [
-      {
-        "text": "telo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/telo.mp3"
-      }
-    ],
-    "roka | dlan": [
-      {
-        "text": "roka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/roka.mp3"
-      },
-      {
-        "text": "dlan",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dlan.mp3"
-      }
-    ],
-    "roka": [
-      {
-        "text": "roka",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/roka.mp3"
-      }
-    ],
-    "levi": [
-      {
-        "text": "levi",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/levi.mp3"
-      }
-    ],
-    "desni": [
-      {
-        "text": "desni",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/desni.mp3"
-      }
-    ],
-    "prst": [
-      {
-        "text": "prst",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prst.mp3"
-      }
-    ],
-    "prstni odtis": [
-      {
-        "text": "prstni odtis",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/prstni_odtis.mp3"
-      }
-    ],
-    "nos": [
-      {
-        "text": "nos",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/nos.mp3"
-      }
-    ],
-    "usta": [
-      {
-        "text": "usta",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/usta.mp3"
-      }
-    ],
-    "ustnica": [
-      {
-        "text": "ustnica",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ustnica.mp3"
-      }
-    ],
-    "koža": [
-      {
-        "text": "koža",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/koža.mp3"
-      }
-    ],
-    "lasje": [
-      {
-        "text": "lasje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lasje.mp3"
-      }
-    ],
-    "lice": [
-      {
-        "text": "lice",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lice.mp3"
-      }
-    ],
-    "brada": [
-      {
-        "text": "brada",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/brada.mp3"
-      }
-    ],
-    "čeljust": [
-      {
-        "text": "čeljust",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čeljust.mp3"
-      }
-    ],
-    "obrv": [
-      {
-        "text": "obrv",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/obrv.mp3"
-      }
-    ],
-    "pega": [
-      {
-        "text": "pega",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pega.mp3"
-      }
-    ],
-    "čelo": [
-      {
-        "text": "čelo",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/čelo.mp3"
-      }
-    ],
-    "brki": [
-      {
-        "text": "brki",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/brki.mp3"
-      }
-    ],
-    "plešast": [
-      {
-        "text": "plešast",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/plešast.mp3"
-      }
-    ],
-    "guba": [
-      {
-        "text": "guba",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/guba.mp3"
-      }
-    ],
-    "obrazne poteze | poteze": [
-      {
-        "text": "obrazne poteze",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/obrazne_poteze.mp3"
-      },
-      {
-        "text": "poteze",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/poteze.mp3"
-      }
-    ],
-    "dvigniti": [
-      {
-        "text": "dvigniti",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/dvigniti.mp3"
-      }
-    ],
-    "trebuh": [
-      {
-        "text": "trebuh",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/trebuh.mp3"
-      }
-    ],
-    "pas": [
-      {
-        "text": "pas",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pas.mp3"
-      }
-    ],
-    "kost": [
-      {
-        "text": "kost",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kost.mp3"
-      }
-    ],
-    "okostje | skelet": [
-      {
-        "text": "okostje",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/okostje.mp3"
-      },
-      {
-        "text": "skelet",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/skelet.mp3"
-      }
-    ],
-    "kri": [
-      {
-        "text": "kri",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/kri.mp3"
-      }
-    ],
-    "pljuča": [
-      {
-        "text": "pljuča",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/pljuča.mp3"
-      }
-    ],
-    "želodec": [
-      {
-        "text": "želodec",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/želodec.mp3"
-      }
-    ],
-    "jetra": [
-      {
-        "text": "jetra",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/jetra.mp3"
-      }
-    ],
-    "lobanja": [
-      {
-        "text": "lobanja",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/lobanja.mp3"
-      }
-    ],
-    "ženska": [
-      {
-        "text": "ženska",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/ženska.mp3"
-      }
-    ],
-    "bok": [
-      {
-        "text": "bok",
-        "file": "sl/words/WwFMMxYWrkm6h88c7f0n/bok.mp3"
-      }
-    ]
+  "clips": {
+    "akvarij": "sl/words/WwFMMxYWrkm6h88c7f0n/akvarij.mp3",
+    "alkohol": "sl/words/WwFMMxYWrkm6h88c7f0n/alkohol.mp3",
+    "ananas": "sl/words/WwFMMxYWrkm6h88c7f0n/ananas.mp3",
+    "avenija": "sl/words/WwFMMxYWrkm6h88c7f0n/avenija.mp3",
+    "avokado": "sl/words/WwFMMxYWrkm6h88c7f0n/avokado.mp3",
+    "avto": "sl/words/WwFMMxYWrkm6h88c7f0n/avto.mp3",
+    "avtobus": "sl/words/WwFMMxYWrkm6h88c7f0n/avtobus.mp3",
+    "avtobusna postaja": "sl/words/WwFMMxYWrkm6h88c7f0n/avtobusna_postaja.mp3",
+    "avtomobil": "sl/words/WwFMMxYWrkm6h88c7f0n/avtomobil.mp3",
+    "babi": "sl/words/WwFMMxYWrkm6h88c7f0n/babi.mp3",
+    "babica": "sl/words/WwFMMxYWrkm6h88c7f0n/babica.mp3",
+    "banana": "sl/words/WwFMMxYWrkm6h88c7f0n/banana.mp3",
+    "banka": "sl/words/WwFMMxYWrkm6h88c7f0n/banka.mp3",
+    "barman": "sl/words/WwFMMxYWrkm6h88c7f0n/barman.mp3",
+    "barva": "sl/words/WwFMMxYWrkm6h88c7f0n/barva.mp3",
+    "barvit": "sl/words/WwFMMxYWrkm6h88c7f0n/barvit.mp3",
+    "bel": "sl/words/WwFMMxYWrkm6h88c7f0n/bel.mp3",
+    "blag": "sl/words/WwFMMxYWrkm6h88c7f0n/blag.mp3",
+    "blagajničarka": "sl/words/WwFMMxYWrkm6h88c7f0n/blagajničarka.mp3",
+    "blagajnik": "sl/words/WwFMMxYWrkm6h88c7f0n/blagajnik.mp3",
+    "blond": "sl/words/WwFMMxYWrkm6h88c7f0n/blond.mp3",
+    "bok": "sl/words/WwFMMxYWrkm6h88c7f0n/bok.mp3",
+    "bonbon": "sl/words/WwFMMxYWrkm6h88c7f0n/bonbon.mp3",
+    "borovnica": "sl/words/WwFMMxYWrkm6h88c7f0n/borovnica.mp3",
+    "brada": "sl/words/WwFMMxYWrkm6h88c7f0n/brada.mp3",
+    "brat": "sl/words/WwFMMxYWrkm6h88c7f0n/brat.mp3",
+    "bratranec": "sl/words/WwFMMxYWrkm6h88c7f0n/bratranec.mp3",
+    "breskev": "sl/words/WwFMMxYWrkm6h88c7f0n/breskev.mp3",
+    "brezbarven": "sl/words/WwFMMxYWrkm6h88c7f0n/brezbarven.mp3",
+    "brki": "sl/words/WwFMMxYWrkm6h88c7f0n/brki.mp3",
+    "brokoli": "sl/words/WwFMMxYWrkm6h88c7f0n/brokoli.mp3",
+    "buča": "sl/words/WwFMMxYWrkm6h88c7f0n/buča.mp3",
+    "bučka": "sl/words/WwFMMxYWrkm6h88c7f0n/bučka.mp3",
+    "čaj": "sl/words/WwFMMxYWrkm6h88c7f0n/čaj.mp3",
+    "čebela": "sl/words/WwFMMxYWrkm6h88c7f0n/čebela.mp3",
+    "čebula": "sl/words/WwFMMxYWrkm6h88c7f0n/čebula.mp3",
+    "čeden": "sl/words/WwFMMxYWrkm6h88c7f0n/čeden.mp3",
+    "čeljust": "sl/words/WwFMMxYWrkm6h88c7f0n/čeljust.mp3",
+    "čelo": "sl/words/WwFMMxYWrkm6h88c7f0n/čelo.mp3",
+    "center": "sl/words/WwFMMxYWrkm6h88c7f0n/center.mp3",
+    "cerkev": "sl/words/WwFMMxYWrkm6h88c7f0n/cerkev.mp3",
+    "česen": "sl/words/WwFMMxYWrkm6h88c7f0n/česen.mp3",
+    "češnja": "sl/words/WwFMMxYWrkm6h88c7f0n/češnja.mp3",
+    "cesta": "sl/words/WwFMMxYWrkm6h88c7f0n/cesta.mp3",
+    "četrt": "sl/words/WwFMMxYWrkm6h88c7f0n/četrt.mp3",
+    "čezmerna teža": "sl/words/WwFMMxYWrkm6h88c7f0n/čezmerna_teža.mp3",
+    "čili": "sl/words/WwFMMxYWrkm6h88c7f0n/čili.mp3",
+    "čist": "sl/words/WwFMMxYWrkm6h88c7f0n/čist.mp3",
+    "čistilec": "sl/words/WwFMMxYWrkm6h88c7f0n/čistilec.mp3",
+    "čistilka": "sl/words/WwFMMxYWrkm6h88c7f0n/čistilka.mp3",
+    "črn": "sl/words/WwFMMxYWrkm6h88c7f0n/črn.mp3",
+    "čudovit": "sl/words/WwFMMxYWrkm6h88c7f0n/čudovit.mp3",
+    "cvetača": "sl/words/WwFMMxYWrkm6h88c7f0n/cvetača.mp3",
+    "debel": "sl/words/WwFMMxYWrkm6h88c7f0n/debel.mp3",
+    "debelost": "sl/words/WwFMMxYWrkm6h88c7f0n/debelost.mp3",
+    "delavec": "sl/words/WwFMMxYWrkm6h88c7f0n/delavec.mp3",
+    "delfin": "sl/words/WwFMMxYWrkm6h88c7f0n/delfin.mp3",
+    "deset": "sl/words/WwFMMxYWrkm6h88c7f0n/deset.mp3",
+    "desni": "sl/words/WwFMMxYWrkm6h88c7f0n/desni.mp3",
+    "devet": "sl/words/WwFMMxYWrkm6h88c7f0n/devet.mp3",
+    "divji prašič": "sl/words/WwFMMxYWrkm6h88c7f0n/divji_prašič.mp3",
+    "dizajner": "sl/words/WwFMMxYWrkm6h88c7f0n/dizajner.mp3",
+    "dlan": "sl/words/WwFMMxYWrkm6h88c7f0n/dlan.mp3",
+    "dojenček": "sl/words/WwFMMxYWrkm6h88c7f0n/dojenček.mp3",
+    "dolg": "sl/words/WwFMMxYWrkm6h88c7f0n/dolg.mp3",
+    "drevo": "sl/words/WwFMMxYWrkm6h88c7f0n/drevo.mp3",
+    "drevored": "sl/words/WwFMMxYWrkm6h88c7f0n/drevored.mp3",
+    "drobna": "sl/words/WwFMMxYWrkm6h88c7f0n/drobna.mp3",
+    "družina": "sl/words/WwFMMxYWrkm6h88c7f0n/družina.mp3",
+    "dve": "sl/words/WwFMMxYWrkm6h88c7f0n/dve.mp3",
+    "dvigniti": "sl/words/WwFMMxYWrkm6h88c7f0n/dvigniti.mp3",
+    "dvojček": "sl/words/WwFMMxYWrkm6h88c7f0n/dvojček.mp3",
+    "eleganten": "sl/words/WwFMMxYWrkm6h88c7f0n/eleganten.mp3",
+    "električar": "sl/words/WwFMMxYWrkm6h88c7f0n/električar.mp3",
+    "ena": "sl/words/WwFMMxYWrkm6h88c7f0n/ena.mp3",
+    "fant": "sl/words/WwFMMxYWrkm6h88c7f0n/fant.mp3",
+    "feferon": "sl/words/WwFMMxYWrkm6h88c7f0n/feferon.mp3",
+    "figura": "sl/words/WwFMMxYWrkm6h88c7f0n/figura.mp3",
+    "fontana": "sl/words/WwFMMxYWrkm6h88c7f0n/fontana.mp3",
+    "fotograf": "sl/words/WwFMMxYWrkm6h88c7f0n/fotograf.mp3",
+    "frizer": "sl/words/WwFMMxYWrkm6h88c7f0n/frizer.mp3",
+    "galeb": "sl/words/WwFMMxYWrkm6h88c7f0n/galeb.mp3",
+    "galerija": "sl/words/WwFMMxYWrkm6h88c7f0n/galerija.mp3",
+    "gasilec": "sl/words/WwFMMxYWrkm6h88c7f0n/gasilec.mp3",
+    "generacija": "sl/words/WwFMMxYWrkm6h88c7f0n/generacija.mp3",
+    "glava": "sl/words/WwFMMxYWrkm6h88c7f0n/glava.mp3",
+    "gnezdo": "sl/words/WwFMMxYWrkm6h88c7f0n/gnezdo.mp3",
+    "goba": "sl/words/WwFMMxYWrkm6h88c7f0n/goba.mp3",
+    "golob": "sl/words/WwFMMxYWrkm6h88c7f0n/golob.mp3",
+    "gos": "sl/words/WwFMMxYWrkm6h88c7f0n/gos.mp3",
+    "govedo": "sl/words/WwFMMxYWrkm6h88c7f0n/govedo.mp3",
+    "gozd": "sl/words/WwFMMxYWrkm6h88c7f0n/gozd.mp3",
+    "grad": "sl/words/WwFMMxYWrkm6h88c7f0n/grad.mp3",
+    "grd": "sl/words/WwFMMxYWrkm6h88c7f0n/grd.mp3",
+    "grenek": "sl/words/WwFMMxYWrkm6h88c7f0n/grenek.mp3",
+    "grozdje": "sl/words/WwFMMxYWrkm6h88c7f0n/grozdje.mp3",
+    "guba": "sl/words/WwFMMxYWrkm6h88c7f0n/guba.mp3",
+    "hčerka": "sl/words/WwFMMxYWrkm6h88c7f0n/hčerka.mp3",
+    "hči": "sl/words/WwFMMxYWrkm6h88c7f0n/hči.mp3",
+    "hibernirati": "sl/words/WwFMMxYWrkm6h88c7f0n/hibernirati.mp3",
+    "hrček": "sl/words/WwFMMxYWrkm6h88c7f0n/hrček.mp3",
+    "hrošč": "sl/words/WwFMMxYWrkm6h88c7f0n/hrošč.mp3",
+    "hruška": "sl/words/WwFMMxYWrkm6h88c7f0n/hruška.mp3",
+    "inštalater": "sl/words/WwFMMxYWrkm6h88c7f0n/inštalater.mp3",
+    "inženir": "sl/words/WwFMMxYWrkm6h88c7f0n/inženir.mp3",
+    "izgubiti težo": "sl/words/WwFMMxYWrkm6h88c7f0n/izgubiti_težo.mp3",
+    "jabolko": "sl/words/WwFMMxYWrkm6h88c7f0n/jabolko.mp3",
+    "jagoda": "sl/words/WwFMMxYWrkm6h88c7f0n/jagoda.mp3",
+    "jajce": "sl/words/WwFMMxYWrkm6h88c7f0n/jajce.mp3",
+    "jajčevec": "sl/words/WwFMMxYWrkm6h88c7f0n/jajčevec.mp3",
+    "jegulja": "sl/words/WwFMMxYWrkm6h88c7f0n/jegulja.mp3",
+    "jelen": "sl/words/WwFMMxYWrkm6h88c7f0n/jelen.mp3",
+    "jetra": "sl/words/WwFMMxYWrkm6h88c7f0n/jetra.mp3",
+    "jež": "sl/words/WwFMMxYWrkm6h88c7f0n/jež.mp3",
+    "jezik": "sl/words/WwFMMxYWrkm6h88c7f0n/jezik.mp3",
+    "juha": "sl/words/WwFMMxYWrkm6h88c7f0n/juha.mp3",
+    "kača": "sl/words/WwFMMxYWrkm6h88c7f0n/kača.mp3",
+    "kamela": "sl/words/WwFMMxYWrkm6h88c7f0n/kamela.mp3",
+    "kava": "sl/words/WwFMMxYWrkm6h88c7f0n/kava.mp3",
+    "kip": "sl/words/WwFMMxYWrkm6h88c7f0n/kip.mp3",
+    "kipar": "sl/words/WwFMMxYWrkm6h88c7f0n/kipar.mp3",
+    "kisel": "sl/words/WwFMMxYWrkm6h88c7f0n/kisel.mp3",
+    "kletka": "sl/words/WwFMMxYWrkm6h88c7f0n/kletka.mp3",
+    "ključavničar": "sl/words/WwFMMxYWrkm6h88c7f0n/ključavničar.mp3",
+    "kljun": "sl/words/WwFMMxYWrkm6h88c7f0n/kljun.mp3",
+    "klobasa": "sl/words/WwFMMxYWrkm6h88c7f0n/klobasa.mp3",
+    "klop": "sl/words/WwFMMxYWrkm6h88c7f0n/klop.mp3",
+    "kmet": "sl/words/WwFMMxYWrkm6h88c7f0n/kmet.mp3",
+    "kodrast": "sl/words/WwFMMxYWrkm6h88c7f0n/kodrast.mp3",
+    "kokoš": "sl/words/WwFMMxYWrkm6h88c7f0n/kokoš.mp3",
+    "kolo": "sl/words/WwFMMxYWrkm6h88c7f0n/kolo.mp3",
+    "komar": "sl/words/WwFMMxYWrkm6h88c7f0n/komar.mp3",
+    "konj": "sl/words/WwFMMxYWrkm6h88c7f0n/konj.mp3",
+    "korenček": "sl/words/WwFMMxYWrkm6h88c7f0n/korenček.mp3",
+    "korenje": "sl/words/WwFMMxYWrkm6h88c7f0n/korenje.mp3",
+    "koščen": "sl/words/WwFMMxYWrkm6h88c7f0n/koščen.mp3",
+    "kosmulja": "sl/words/WwFMMxYWrkm6h88c7f0n/kosmulja.mp3",
+    "kost": "sl/words/WwFMMxYWrkm6h88c7f0n/kost.mp3",
+    "koza": "sl/words/WwFMMxYWrkm6h88c7f0n/koza.mp3",
+    "koža": "sl/words/WwFMMxYWrkm6h88c7f0n/koža.mp3",
+    "kožuh": "sl/words/WwFMMxYWrkm6h88c7f0n/kožuh.mp3",
+    "krakati": "sl/words/WwFMMxYWrkm6h88c7f0n/krakati.mp3",
+    "kratek": "sl/words/WwFMMxYWrkm6h88c7f0n/kratek.mp3",
+    "krava": "sl/words/WwFMMxYWrkm6h88c7f0n/krava.mp3",
+    "kri": "sl/words/WwFMMxYWrkm6h88c7f0n/kri.mp3",
+    "krilo": "sl/words/WwFMMxYWrkm6h88c7f0n/krilo.mp3",
+    "krokodil": "sl/words/WwFMMxYWrkm6h88c7f0n/krokodil.mp3",
+    "krompir": "sl/words/WwFMMxYWrkm6h88c7f0n/krompir.mp3",
+    "kruh": "sl/words/WwFMMxYWrkm6h88c7f0n/kruh.mp3",
+    "krzno": "sl/words/WwFMMxYWrkm6h88c7f0n/krzno.mp3",
+    "kuhar": "sl/words/WwFMMxYWrkm6h88c7f0n/kuhar.mp3",
+    "kumara": "sl/words/WwFMMxYWrkm6h88c7f0n/kumara.mp3",
+    "kunec": "sl/words/WwFMMxYWrkm6h88c7f0n/kunec.mp3",
+    "kuža": "sl/words/WwFMMxYWrkm6h88c7f0n/kuža.mp3",
+    "labod": "sl/words/WwFMMxYWrkm6h88c7f0n/labod.mp3",
+    "ladja": "sl/words/WwFMMxYWrkm6h88c7f0n/ladja.mp3",
+    "lajati": "sl/words/WwFMMxYWrkm6h88c7f0n/lajati.mp3",
+    "lasje": "sl/words/WwFMMxYWrkm6h88c7f0n/lasje.mp3",
+    "led": "sl/words/WwFMMxYWrkm6h88c7f0n/led.mp3",
+    "lekarna": "sl/words/WwFMMxYWrkm6h88c7f0n/lekarna.mp3",
+    "lep": "sl/words/WwFMMxYWrkm6h88c7f0n/lep.mp3",
+    "lešnik": "sl/words/WwFMMxYWrkm6h88c7f0n/lešnik.mp3",
+    "lev": "sl/words/WwFMMxYWrkm6h88c7f0n/lev.mp3",
+    "levi": "sl/words/WwFMMxYWrkm6h88c7f0n/levi.mp3",
+    "lice": "sl/words/WwFMMxYWrkm6h88c7f0n/lice.mp3",
+    "ličila": "sl/words/WwFMMxYWrkm6h88c7f0n/ličila.mp3",
+    "limona": "sl/words/WwFMMxYWrkm6h88c7f0n/limona.mp3",
+    "lisica": "sl/words/WwFMMxYWrkm6h88c7f0n/lisica.mp3",
+    "ljubek": "sl/words/WwFMMxYWrkm6h88c7f0n/ljubek.mp3",
+    "lobanja": "sl/words/WwFMMxYWrkm6h88c7f0n/lobanja.mp3",
+    "los": "sl/words/WwFMMxYWrkm6h88c7f0n/los.mp3",
+    "lovec": "sl/words/WwFMMxYWrkm6h88c7f0n/lovec.mp3",
+    "lubenica": "sl/words/WwFMMxYWrkm6h88c7f0n/lubenica.mp3",
+    "luč": "sl/words/WwFMMxYWrkm6h88c7f0n/luč.mp3",
+    "luna": "sl/words/WwFMMxYWrkm6h88c7f0n/luna.mp3",
+    "mačeha": "sl/words/WwFMMxYWrkm6h88c7f0n/mačeha.mp3",
+    "mačka": "sl/words/WwFMMxYWrkm6h88c7f0n/mačka.mp3",
+    "mahati": "sl/words/WwFMMxYWrkm6h88c7f0n/mahati.mp3",
+    "majhen": "sl/words/WwFMMxYWrkm6h88c7f0n/majhen.mp3",
+    "malina": "sl/words/WwFMMxYWrkm6h88c7f0n/malina.mp3",
+    "mama": "sl/words/WwFMMxYWrkm6h88c7f0n/mama.mp3",
+    "mandelj": "sl/words/WwFMMxYWrkm6h88c7f0n/mandelj.mp3",
+    "manekenka": "sl/words/WwFMMxYWrkm6h88c7f0n/manekenka.mp3",
+    "marelica": "sl/words/WwFMMxYWrkm6h88c7f0n/marelica.mp3",
+    "maslo": "sl/words/WwFMMxYWrkm6h88c7f0n/maslo.mp3",
+    "mati": "sl/words/WwFMMxYWrkm6h88c7f0n/mati.mp3",
+    "mavrica": "sl/words/WwFMMxYWrkm6h88c7f0n/mavrica.mp3",
+    "med": "sl/words/WwFMMxYWrkm6h88c7f0n/med.mp3",
+    "medved": "sl/words/WwFMMxYWrkm6h88c7f0n/medved.mp3",
+    "megla": "sl/words/WwFMMxYWrkm6h88c7f0n/megla.mp3",
+    "mehanik": "sl/words/WwFMMxYWrkm6h88c7f0n/mehanik.mp3",
+    "menedžer": "sl/words/WwFMMxYWrkm6h88c7f0n/menedžer.mp3",
+    "merjasec": "sl/words/WwFMMxYWrkm6h88c7f0n/merjasec.mp3",
+    "mesar": "sl/words/WwFMMxYWrkm6h88c7f0n/mesar.mp3",
+    "mesec": "sl/words/WwFMMxYWrkm6h88c7f0n/mesec.mp3",
+    "meso": "sl/words/WwFMMxYWrkm6h88c7f0n/meso.mp3",
+    "mestna hiša": "sl/words/WwFMMxYWrkm6h88c7f0n/mestna_hiša.mp3",
+    "mestni": "sl/words/WwFMMxYWrkm6h88c7f0n/mestni.mp3",
+    "mesto": "sl/words/WwFMMxYWrkm6h88c7f0n/mesto.mp3",
+    "metro": "sl/words/WwFMMxYWrkm6h88c7f0n/metro.mp3",
+    "metulj": "sl/words/WwFMMxYWrkm6h88c7f0n/metulj.mp3",
+    "mijavkati": "sl/words/WwFMMxYWrkm6h88c7f0n/mijavkati.mp3",
+    "miš": "sl/words/WwFMMxYWrkm6h88c7f0n/miš.mp3",
+    "mizar": "sl/words/WwFMMxYWrkm6h88c7f0n/mizar.mp3",
+    "mleko": "sl/words/WwFMMxYWrkm6h88c7f0n/mleko.mp3",
+    "model": "sl/words/WwFMMxYWrkm6h88c7f0n/model.mp3",
+    "moder": "sl/words/WwFMMxYWrkm6h88c7f0n/moder.mp3",
+    "moka": "sl/words/WwFMMxYWrkm6h88c7f0n/moka.mp3",
+    "morje": "sl/words/WwFMMxYWrkm6h88c7f0n/morje.mp3",
+    "morska zvezda": "sl/words/WwFMMxYWrkm6h88c7f0n/morska_zvezda.mp3",
+    "morski konjiček": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_konjiček.mp3",
+    "morski pes": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_pes.mp3",
+    "morski prašiček": "sl/words/WwFMMxYWrkm6h88c7f0n/morski_prašiček.mp3",
+    "most": "sl/words/WwFMMxYWrkm6h88c7f0n/most.mp3",
+    "motocikel": "sl/words/WwFMMxYWrkm6h88c7f0n/motocikel.mp3",
+    "motor": "sl/words/WwFMMxYWrkm6h88c7f0n/motor.mp3",
+    "mož": "sl/words/WwFMMxYWrkm6h88c7f0n/mož.mp3",
+    "možgani": "sl/words/WwFMMxYWrkm6h88c7f0n/možgani.mp3",
+    "mravlja": "sl/words/WwFMMxYWrkm6h88c7f0n/mravlja.mp3",
+    "muha": "sl/words/WwFMMxYWrkm6h88c7f0n/muha.mp3",
+    "mukati": "sl/words/WwFMMxYWrkm6h88c7f0n/mukati.mp3",
+    "muzej": "sl/words/WwFMMxYWrkm6h88c7f0n/muzej.mp3",
+    "natakar": "sl/words/WwFMMxYWrkm6h88c7f0n/natakar.mp3",
+    "nebo": "sl/words/WwFMMxYWrkm6h88c7f0n/nebo.mp3",
+    "neporočen": "sl/words/WwFMMxYWrkm6h88c7f0n/neporočen.mp3",
+    "nevesta": "sl/words/WwFMMxYWrkm6h88c7f0n/nevesta.mp3",
+    "nizek": "sl/words/WwFMMxYWrkm6h88c7f0n/nizek.mp3",
+    "noga": "sl/words/WwFMMxYWrkm6h88c7f0n/noga.mp3",
+    "nos": "sl/words/WwFMMxYWrkm6h88c7f0n/nos.mp3",
+    "nov": "sl/words/WwFMMxYWrkm6h88c7f0n/nov.mp3",
+    "novinar": "sl/words/WwFMMxYWrkm6h88c7f0n/novinar.mp3",
+    "oblak": "sl/words/WwFMMxYWrkm6h88c7f0n/oblak.mp3",
+    "oblikovalec": "sl/words/WwFMMxYWrkm6h88c7f0n/oblikovalec.mp3",
+    "obraz": "sl/words/WwFMMxYWrkm6h88c7f0n/obraz.mp3",
+    "obrazne poteze": "sl/words/WwFMMxYWrkm6h88c7f0n/obrazne_poteze.mp3",
+    "obrv": "sl/words/WwFMMxYWrkm6h88c7f0n/obrv.mp3",
+    "očarljiv": "sl/words/WwFMMxYWrkm6h88c7f0n/očarljiv.mp3",
+    "oče": "sl/words/WwFMMxYWrkm6h88c7f0n/oče.mp3",
+    "očim": "sl/words/WwFMMxYWrkm6h88c7f0n/očim.mp3",
+    "ocvrt krompirček": "sl/words/WwFMMxYWrkm6h88c7f0n/ocvrt_krompirček.mp3",
+    "oddelek": "sl/words/WwFMMxYWrkm6h88c7f0n/oddelek.mp3",
+    "odličen": "sl/words/WwFMMxYWrkm6h88c7f0n/odličen.mp3",
+    "odvetnik": "sl/words/WwFMMxYWrkm6h88c7f0n/odvetnik.mp3",
+    "odvraten": "sl/words/WwFMMxYWrkm6h88c7f0n/odvraten.mp3",
+    "ogaben": "sl/words/WwFMMxYWrkm6h88c7f0n/ogaben.mp3",
+    "ogenj": "sl/words/WwFMMxYWrkm6h88c7f0n/ogenj.mp3",
+    "oko": "sl/words/WwFMMxYWrkm6h88c7f0n/oko.mp3",
+    "okostje": "sl/words/WwFMMxYWrkm6h88c7f0n/okostje.mp3",
+    "okusen": "sl/words/WwFMMxYWrkm6h88c7f0n/okusen.mp3",
+    "olje": "sl/words/WwFMMxYWrkm6h88c7f0n/olje.mp3",
+    "omleta": "sl/words/WwFMMxYWrkm6h88c7f0n/omleta.mp3",
+    "opica": "sl/words/WwFMMxYWrkm6h88c7f0n/opica.mp3",
+    "oranžen": "sl/words/WwFMMxYWrkm6h88c7f0n/oranžen.mp3",
+    "oreh": "sl/words/WwFMMxYWrkm6h88c7f0n/oreh.mp3",
+    "orel": "sl/words/WwFMMxYWrkm6h88c7f0n/orel.mp3",
+    "oreščki": "sl/words/WwFMMxYWrkm6h88c7f0n/oreščki.mp3",
+    "osa": "sl/words/WwFMMxYWrkm6h88c7f0n/osa.mp3",
+    "osel": "sl/words/WwFMMxYWrkm6h88c7f0n/osel.mp3",
+    "osem": "sl/words/WwFMMxYWrkm6h88c7f0n/osem.mp3",
+    "osvežilen": "sl/words/WwFMMxYWrkm6h88c7f0n/osvežilen.mp3",
+    "otrok": "sl/words/WwFMMxYWrkm6h88c7f0n/otrok.mp3",
+    "ovca": "sl/words/WwFMMxYWrkm6h88c7f0n/ovca.mp3",
+    "pajek": "sl/words/WwFMMxYWrkm6h88c7f0n/pajek.mp3",
+    "palačinka": "sl/words/WwFMMxYWrkm6h88c7f0n/palačinka.mp3",
+    "papiga": "sl/words/WwFMMxYWrkm6h88c7f0n/papiga.mp3",
+    "paprika": "sl/words/WwFMMxYWrkm6h88c7f0n/paprika.mp3",
+    "par": "sl/words/WwFMMxYWrkm6h88c7f0n/par.mp3",
+    "paradižnik": "sl/words/WwFMMxYWrkm6h88c7f0n/paradižnik.mp3",
+    "partner": "sl/words/WwFMMxYWrkm6h88c7f0n/partner.mp3",
+    "partnerka": "sl/words/WwFMMxYWrkm6h88c7f0n/partnerka.mp3",
+    "pas": "sl/words/WwFMMxYWrkm6h88c7f0n/pas.mp3",
+    "pega": "sl/words/WwFMMxYWrkm6h88c7f0n/pega.mp3",
+    "pek": "sl/words/WwFMMxYWrkm6h88c7f0n/pek.mp3",
+    "pekoč": "sl/words/WwFMMxYWrkm6h88c7f0n/pekoč.mp3",
+    "perut": "sl/words/WwFMMxYWrkm6h88c7f0n/perut.mp3",
+    "pes": "sl/words/WwFMMxYWrkm6h88c7f0n/pes.mp3",
+    "pet": "sl/words/WwFMMxYWrkm6h88c7f0n/pet.mp3",
+    "pilot": "sl/words/WwFMMxYWrkm6h88c7f0n/pilot.mp3",
+    "pisan": "sl/words/WwFMMxYWrkm6h88c7f0n/pisan.mp3",
+    "piščanec": "sl/words/WwFMMxYWrkm6h88c7f0n/piščanec.mp3",
+    "piškot": "sl/words/WwFMMxYWrkm6h88c7f0n/piškot.mp3",
+    "pivo": "sl/words/WwFMMxYWrkm6h88c7f0n/pivo.mp3",
+    "plavut": "sl/words/WwFMMxYWrkm6h88c7f0n/plavut.mp3",
+    "plesalec": "sl/words/WwFMMxYWrkm6h88c7f0n/plesalec.mp3",
+    "plesalka": "sl/words/WwFMMxYWrkm6h88c7f0n/plesalka.mp3",
+    "plešast": "sl/words/WwFMMxYWrkm6h88c7f0n/plešast.mp3",
+    "pljuča": "sl/words/WwFMMxYWrkm6h88c7f0n/pljuča.mp3",
+    "podzemna železnica": "sl/words/WwFMMxYWrkm6h88c7f0n/podzemna_železnica.mp3",
+    "policist": "sl/words/WwFMMxYWrkm6h88c7f0n/policist.mp3",
+    "pomfri": "sl/words/WwFMMxYWrkm6h88c7f0n/pomfri.mp3",
+    "por": "sl/words/WwFMMxYWrkm6h88c7f0n/por.mp3",
+    "poročen": "sl/words/WwFMMxYWrkm6h88c7f0n/poročen.mp3",
+    "poročiti se": "sl/words/WwFMMxYWrkm6h88c7f0n/poročiti_se.mp3",
+    "postava": "sl/words/WwFMMxYWrkm6h88c7f0n/postava.mp3",
+    "postaven": "sl/words/WwFMMxYWrkm6h88c7f0n/postaven.mp3",
+    "poteze": "sl/words/WwFMMxYWrkm6h88c7f0n/poteze.mp3",
+    "povodec": "sl/words/WwFMMxYWrkm6h88c7f0n/povodec.mp3",
+    "prah": "sl/words/WwFMMxYWrkm6h88c7f0n/prah.mp3",
+    "praktikant": "sl/words/WwFMMxYWrkm6h88c7f0n/praktikant.mp3",
+    "prašič": "sl/words/WwFMMxYWrkm6h88c7f0n/prašič.mp3",
+    "pravnik": "sl/words/WwFMMxYWrkm6h88c7f0n/pravnik.mp3",
+    "predmestje": "sl/words/WwFMMxYWrkm6h88c7f0n/predmestje.mp3",
+    "prekomerna teža": "sl/words/WwFMMxYWrkm6h88c7f0n/prekomerna_teža.mp3",
+    "prezimovati": "sl/words/WwFMMxYWrkm6h88c7f0n/prezimovati.mp3",
+    "pridobiti težo": "sl/words/WwFMMxYWrkm6h88c7f0n/pridobiti_težo.mp3",
+    "pripravnik": "sl/words/WwFMMxYWrkm6h88c7f0n/pripravnik.mp3",
+    "privlačen": "sl/words/WwFMMxYWrkm6h88c7f0n/privlačen.mp3",
+    "profesor": "sl/words/WwFMMxYWrkm6h88c7f0n/profesor.mp3",
+    "prsi": "sl/words/WwFMMxYWrkm6h88c7f0n/prsi.mp3",
+    "prsni koš": "sl/words/WwFMMxYWrkm6h88c7f0n/prsni_koš.mp3",
+    "prst": "sl/words/WwFMMxYWrkm6h88c7f0n/prst.mp3",
+    "prstni odtis": "sl/words/WwFMMxYWrkm6h88c7f0n/prstni_odtis.mp3",
+    "psiček": "sl/words/WwFMMxYWrkm6h88c7f0n/psiček.mp3",
+    "ptič": "sl/words/WwFMMxYWrkm6h88c7f0n/ptič.mp3",
+    "ptica": "sl/words/WwFMMxYWrkm6h88c7f0n/ptica.mp3",
+    "purpuren": "sl/words/WwFMMxYWrkm6h88c7f0n/purpuren.mp3",
+    "raca": "sl/words/WwFMMxYWrkm6h88c7f0n/raca.mp3",
+    "računovodja": "sl/words/WwFMMxYWrkm6h88c7f0n/računovodja.mp3",
+    "raven": "sl/words/WwFMMxYWrkm6h88c7f0n/raven.mp3",
+    "rdeč": "sl/words/WwFMMxYWrkm6h88c7f0n/rdeč.mp3",
+    "rdečelas": "sl/words/WwFMMxYWrkm6h88c7f0n/rdečelas.mp3",
+    "regljati": "sl/words/WwFMMxYWrkm6h88c7f0n/regljati.mp3",
+    "reka": "sl/words/WwFMMxYWrkm6h88c7f0n/reka.mp3",
+    "rep": "sl/words/WwFMMxYWrkm6h88c7f0n/rep.mp3",
+    "riba": "sl/words/WwFMMxYWrkm6h88c7f0n/riba.mp3",
+    "ribez": "sl/words/WwFMMxYWrkm6h88c7f0n/ribez.mp3",
+    "ribič": "sl/words/WwFMMxYWrkm6h88c7f0n/ribič.mp3",
+    "riž": "sl/words/WwFMMxYWrkm6h88c7f0n/riž.mp3",
+    "rjav": "sl/words/WwFMMxYWrkm6h88c7f0n/rjav.mp3",
+    "robida": "sl/words/WwFMMxYWrkm6h88c7f0n/robida.mp3",
+    "robidnica": "sl/words/WwFMMxYWrkm6h88c7f0n/robidnica.mp3",
+    "rod": "sl/words/WwFMMxYWrkm6h88c7f0n/rod.mp3",
+    "rog": "sl/words/WwFMMxYWrkm6h88c7f0n/rog.mp3",
+    "roka": "sl/words/WwFMMxYWrkm6h88c7f0n/roka.mp3",
+    "rotovž": "sl/words/WwFMMxYWrkm6h88c7f0n/rotovž.mp3",
+    "roza": "sl/words/WwFMMxYWrkm6h88c7f0n/roza.mp3",
+    "rožnat": "sl/words/WwFMMxYWrkm6h88c7f0n/rožnat.mp3",
+    "rudar": "sl/words/WwFMMxYWrkm6h88c7f0n/rudar.mp3",
+    "rudnik": "sl/words/WwFMMxYWrkm6h88c7f0n/rudnik.mp3",
+    "rumen": "sl/words/WwFMMxYWrkm6h88c7f0n/rumen.mp3",
+    "sadež": "sl/words/WwFMMxYWrkm6h88c7f0n/sadež.mp3",
+    "sadje": "sl/words/WwFMMxYWrkm6h88c7f0n/sadje.mp3",
+    "samec": "sl/words/WwFMMxYWrkm6h88c7f0n/samec.mp3",
+    "samica": "sl/words/WwFMMxYWrkm6h88c7f0n/samica.mp3",
+    "samohranilec": "sl/words/WwFMMxYWrkm6h88c7f0n/samohranilec.mp3",
+    "samohranilka": "sl/words/WwFMMxYWrkm6h88c7f0n/samohranilka.mp3",
+    "samski": "sl/words/WwFMMxYWrkm6h88c7f0n/samski.mp3",
+    "sedem": "sl/words/WwFMMxYWrkm6h88c7f0n/sedem.mp3",
+    "sendvič": "sl/words/WwFMMxYWrkm6h88c7f0n/sendvič.mp3",
+    "šest": "sl/words/WwFMMxYWrkm6h88c7f0n/šest.mp3",
+    "sestra": "sl/words/WwFMMxYWrkm6h88c7f0n/sestra.mp3",
+    "sestrična": "sl/words/WwFMMxYWrkm6h88c7f0n/sestrična.mp3",
+    "severni jelen": "sl/words/WwFMMxYWrkm6h88c7f0n/severni_jelen.mp3",
+    "sezam": "sl/words/WwFMMxYWrkm6h88c7f0n/sezam.mp3",
+    "shujšati": "sl/words/WwFMMxYWrkm6h88c7f0n/shujšati.mp3",
+    "sin": "sl/words/WwFMMxYWrkm6h88c7f0n/sin.mp3",
+    "sir": "sl/words/WwFMMxYWrkm6h88c7f0n/sir.mp3",
+    "siv": "sl/words/WwFMMxYWrkm6h88c7f0n/siv.mp3",
+    "skelet": "sl/words/WwFMMxYWrkm6h88c7f0n/skelet.mp3",
+    "škrge": "sl/words/WwFMMxYWrkm6h88c7f0n/škrge.mp3",
+    "sladek": "sl/words/WwFMMxYWrkm6h88c7f0n/sladek.mp3",
+    "sladkor": "sl/words/WwFMMxYWrkm6h88c7f0n/sladkor.mp3",
+    "sladoled": "sl/words/WwFMMxYWrkm6h88c7f0n/sladoled.mp3",
+    "slanina": "sl/words/WwFMMxYWrkm6h88c7f0n/slanina.mp3",
+    "slasten": "sl/words/WwFMMxYWrkm6h88c7f0n/slasten.mp3",
+    "slikar": "sl/words/WwFMMxYWrkm6h88c7f0n/slikar.mp3",
+    "sliva": "sl/words/WwFMMxYWrkm6h88c7f0n/sliva.mp3",
+    "slog": "sl/words/WwFMMxYWrkm6h88c7f0n/slog.mp3",
+    "slon": "sl/words/WwFMMxYWrkm6h88c7f0n/slon.mp3",
+    "smetana": "sl/words/WwFMMxYWrkm6h88c7f0n/smetana.mp3",
+    "sodnik": "sl/words/WwFMMxYWrkm6h88c7f0n/sodnik.mp3",
+    "sok": "sl/words/WwFMMxYWrkm6h88c7f0n/sok.mp3",
+    "sol": "sl/words/WwFMMxYWrkm6h88c7f0n/sol.mp3",
+    "šola": "sl/words/WwFMMxYWrkm6h88c7f0n/šola.mp3",
+    "solata": "sl/words/WwFMMxYWrkm6h88c7f0n/solata.mp3",
+    "sonce": "sl/words/WwFMMxYWrkm6h88c7f0n/sonce.mp3",
+    "soprog": "sl/words/WwFMMxYWrkm6h88c7f0n/soprog.mp3",
+    "soproga": "sl/words/WwFMMxYWrkm6h88c7f0n/soproga.mp3",
+    "sorodniki": "sl/words/WwFMMxYWrkm6h88c7f0n/sorodniki.mp3",
+    "soseska": "sl/words/WwFMMxYWrkm6h88c7f0n/soseska.mp3",
+    "sova": "sl/words/WwFMMxYWrkm6h88c7f0n/sova.mp3",
+    "špinača": "sl/words/WwFMMxYWrkm6h88c7f0n/špinača.mp3",
+    "srce": "sl/words/WwFMMxYWrkm6h88c7f0n/srce.mp3",
+    "srčkan": "sl/words/WwFMMxYWrkm6h88c7f0n/srčkan.mp3",
+    "središče mesta": "sl/words/WwFMMxYWrkm6h88c7f0n/središče_mesta.mp3",
+    "star": "sl/words/WwFMMxYWrkm6h88c7f0n/star.mp3",
+    "starši": "sl/words/WwFMMxYWrkm6h88c7f0n/starši.mp3",
+    "stavba": "sl/words/WwFMMxYWrkm6h88c7f0n/stavba.mp3",
+    "stevardesa": "sl/words/WwFMMxYWrkm6h88c7f0n/stevardesa.mp3",
+    "stil": "sl/words/WwFMMxYWrkm6h88c7f0n/stil.mp3",
+    "štiri": "sl/words/WwFMMxYWrkm6h88c7f0n/štiri.mp3",
+    "stopalo": "sl/words/WwFMMxYWrkm6h88c7f0n/stopalo.mp3",
+    "štorklja": "sl/words/WwFMMxYWrkm6h88c7f0n/štorklja.mp3",
+    "stranska ulica": "sl/words/WwFMMxYWrkm6h88c7f0n/stranska_ulica.mp3",
+    "stric": "sl/words/WwFMMxYWrkm6h88c7f0n/stric.mp3",
+    "suh": "sl/words/WwFMMxYWrkm6h88c7f0n/suh.mp3",
+    "suhljat": "sl/words/WwFMMxYWrkm6h88c7f0n/suhljat.mp3",
+    "suši": "sl/words/WwFMMxYWrkm6h88c7f0n/suši.mp3",
+    "svetel": "sl/words/WwFMMxYWrkm6h88c7f0n/svetel.mp3",
+    "svetloba": "sl/words/WwFMMxYWrkm6h88c7f0n/svetloba.mp3",
+    "svež": "sl/words/WwFMMxYWrkm6h88c7f0n/svež.mp3",
+    "tajnica": "sl/words/WwFMMxYWrkm6h88c7f0n/tajnica.mp3",
+    "tajnik": "sl/words/WwFMMxYWrkm6h88c7f0n/tajnik.mp3",
+    "taksist": "sl/words/WwFMMxYWrkm6h88c7f0n/taksist.mp3",
+    "telo": "sl/words/WwFMMxYWrkm6h88c7f0n/telo.mp3",
+    "temen": "sl/words/WwFMMxYWrkm6h88c7f0n/temen.mp3",
+    "tesar": "sl/words/WwFMMxYWrkm6h88c7f0n/tesar.mp3",
+    "teta": "sl/words/WwFMMxYWrkm6h88c7f0n/teta.mp3",
+    "tiger": "sl/words/WwFMMxYWrkm6h88c7f0n/tiger.mp3",
+    "torta": "sl/words/WwFMMxYWrkm6h88c7f0n/torta.mp3",
+    "tovarna": "sl/words/WwFMMxYWrkm6h88c7f0n/tovarna.mp3",
+    "tožilec": "sl/words/WwFMMxYWrkm6h88c7f0n/tožilec.mp3",
+    "tramvaj": "sl/words/WwFMMxYWrkm6h88c7f0n/tramvaj.mp3",
+    "transportni boks": "sl/words/WwFMMxYWrkm6h88c7f0n/transportni_boks.mp3",
+    "trebuh": "sl/words/WwFMMxYWrkm6h88c7f0n/trebuh.mp3",
+    "trg": "sl/words/WwFMMxYWrkm6h88c7f0n/trg.mp3",
+    "tri": "sl/words/WwFMMxYWrkm6h88c7f0n/tri.mp3",
+    "tun": "sl/words/WwFMMxYWrkm6h88c7f0n/tun.mp3",
+    "tuna": "sl/words/WwFMMxYWrkm6h88c7f0n/tuna.mp3",
+    "učitelj": "sl/words/WwFMMxYWrkm6h88c7f0n/učitelj.mp3",
+    "ugrizniti": "sl/words/WwFMMxYWrkm6h88c7f0n/ugrizniti.mp3",
+    "uho": "sl/words/WwFMMxYWrkm6h88c7f0n/uho.mp3",
+    "ulica": "sl/words/WwFMMxYWrkm6h88c7f0n/ulica.mp3",
+    "uličica": "sl/words/WwFMMxYWrkm6h88c7f0n/uličica.mp3",
+    "umazan": "sl/words/WwFMMxYWrkm6h88c7f0n/umazan.mp3",
+    "umešana jajca": "sl/words/WwFMMxYWrkm6h88c7f0n/umešana_jajca.mp3",
+    "umetnik": "sl/words/WwFMMxYWrkm6h88c7f0n/umetnik.mp3",
+    "urar": "sl/words/WwFMMxYWrkm6h88c7f0n/urar.mp3",
+    "urbani": "sl/words/WwFMMxYWrkm6h88c7f0n/urbani.mp3",
+    "usta": "sl/words/WwFMMxYWrkm6h88c7f0n/usta.mp3",
+    "ustnica": "sl/words/WwFMMxYWrkm6h88c7f0n/ustnica.mp3",
+    "validirati": "sl/words/WwFMMxYWrkm6h88c7f0n/validirati.mp3",
+    "varilec": "sl/words/WwFMMxYWrkm6h88c7f0n/varilec.mp3",
+    "vas": "sl/words/WwFMMxYWrkm6h88c7f0n/vas.mp3",
+    "velik": "sl/words/WwFMMxYWrkm6h88c7f0n/velik.mp3",
+    "veterinar": "sl/words/WwFMMxYWrkm6h88c7f0n/veterinar.mp3",
+    "veverica": "sl/words/WwFMMxYWrkm6h88c7f0n/veverica.mp3",
+    "vijoličast": "sl/words/WwFMMxYWrkm6h88c7f0n/vijoličast.mp3",
+    "vijoličen": "sl/words/WwFMMxYWrkm6h88c7f0n/vijoličen.mp3",
+    "vino": "sl/words/WwFMMxYWrkm6h88c7f0n/vino.mp3",
+    "visok": "sl/words/WwFMMxYWrkm6h88c7f0n/visok.mp3",
+    "vitek": "sl/words/WwFMMxYWrkm6h88c7f0n/vitek.mp3",
+    "vitka postava": "sl/words/WwFMMxYWrkm6h88c7f0n/vitka_postava.mp3",
+    "vlak": "sl/words/WwFMMxYWrkm6h88c7f0n/vlak.mp3",
+    "vnuk": "sl/words/WwFMMxYWrkm6h88c7f0n/vnuk.mp3",
+    "vnukinja": "sl/words/WwFMMxYWrkm6h88c7f0n/vnukinja.mp3",
+    "voda": "sl/words/WwFMMxYWrkm6h88c7f0n/voda.mp3",
+    "vodja": "sl/words/WwFMMxYWrkm6h88c7f0n/vodja.mp3",
+    "vodja oddelka": "sl/words/WwFMMxYWrkm6h88c7f0n/vodja_oddelka.mp3",
+    "vodka": "sl/words/WwFMMxYWrkm6h88c7f0n/vodka.mp3",
+    "vodnjak": "sl/words/WwFMMxYWrkm6h88c7f0n/vodnjak.mp3",
+    "vodovodar": "sl/words/WwFMMxYWrkm6h88c7f0n/vodovodar.mp3",
+    "vogal ulice": "sl/words/WwFMMxYWrkm6h88c7f0n/vogal_ulice.mp3",
+    "volk": "sl/words/WwFMMxYWrkm6h88c7f0n/volk.mp3",
+    "vozovnica": "sl/words/WwFMMxYWrkm6h88c7f0n/vozovnica.mp3",
+    "vrabec": "sl/words/WwFMMxYWrkm6h88c7f0n/vrabec.mp3",
+    "vrat": "sl/words/WwFMMxYWrkm6h88c7f0n/vrat.mp3",
+    "žaba": "sl/words/WwFMMxYWrkm6h88c7f0n/žaba.mp3",
+    "zajec": "sl/words/WwFMMxYWrkm6h88c7f0n/zajec.mp3",
+    "zakon": "sl/words/WwFMMxYWrkm6h88c7f0n/zakon.mp3",
+    "zakonska zveza": "sl/words/WwFMMxYWrkm6h88c7f0n/zakonska_zveza.mp3",
+    "zaročenec": "sl/words/WwFMMxYWrkm6h88c7f0n/zaročenec.mp3",
+    "zelen": "sl/words/WwFMMxYWrkm6h88c7f0n/zelen.mp3",
+    "zelena solata": "sl/words/WwFMMxYWrkm6h88c7f0n/zelena_solata.mp3",
+    "železnica": "sl/words/WwFMMxYWrkm6h88c7f0n/železnica.mp3",
+    "železniška postaja": "sl/words/WwFMMxYWrkm6h88c7f0n/železniška_postaja.mp3",
+    "zelje": "sl/words/WwFMMxYWrkm6h88c7f0n/zelje.mp3",
+    "želodec": "sl/words/WwFMMxYWrkm6h88c7f0n/želodec.mp3",
+    "žena": "sl/words/WwFMMxYWrkm6h88c7f0n/žena.mp3",
+    "ženin": "sl/words/WwFMMxYWrkm6h88c7f0n/ženin.mp3",
+    "ženska": "sl/words/WwFMMxYWrkm6h88c7f0n/ženska.mp3",
+    "zgradba": "sl/words/WwFMMxYWrkm6h88c7f0n/zgradba.mp3",
+    "žigosati": "sl/words/WwFMMxYWrkm6h88c7f0n/žigosati.mp3",
+    "žirafa": "sl/words/WwFMMxYWrkm6h88c7f0n/žirafa.mp3",
+    "živ": "sl/words/WwFMMxYWrkm6h88c7f0n/živ.mp3",
+    "žival": "sl/words/WwFMMxYWrkm6h88c7f0n/žival.mp3",
+    "živina": "sl/words/WwFMMxYWrkm6h88c7f0n/živina.mp3",
+    "znanstvenik": "sl/words/WwFMMxYWrkm6h88c7f0n/znanstvenik.mp3",
+    "zrak": "sl/words/WwFMMxYWrkm6h88c7f0n/zrak.mp3",
+    "zrediti se": "sl/words/WwFMMxYWrkm6h88c7f0n/zrediti_se.mp3",
+    "zrel": "sl/words/WwFMMxYWrkm6h88c7f0n/zrel.mp3",
+    "žuželka": "sl/words/WwFMMxYWrkm6h88c7f0n/žuželka.mp3",
+    "zvezda": "sl/words/WwFMMxYWrkm6h88c7f0n/zvezda.mp3"
   }
 }

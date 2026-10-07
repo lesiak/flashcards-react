@@ -66,9 +66,12 @@ Rules of thumb:
 ## Audio
 
 `npm run audio -- public/wordfiles/<lang>/<group>/<Deck>.json` voices every
-clip that is not yet in `audio-cache/<lang>/<group>/manifest.json`. Clips are
-stored under `<lang>/<group>/<voiceId>/`, so each group has its own audio and
-the same word in two groups is voiced once per group. The file name is derived
+clip that is not yet in `audio-cache/<lang>/<group>/manifest.json`. The
+manifest is keyed by the voiced text, so changing a card's marks or
+separators never orphans its recordings, and two cards that share an
+alternative share one clip. Clips are stored under `<lang>/<group>/<voiceId>/`,
+so each group has its own audio and the same word in two groups is voiced
+once per group. The file name is derived
 from the voiced text: whitespace becomes `_`, unsafe characters and sentence
 punctuation are dropped, so `¿Quieres esto?` is stored as `Quieres_esto.mp3`.
 Two alternatives that differ only by punctuation would collide; the script

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "lang": "fr",
   "group": "words",
   "voice": {
@@ -7,2686 +7,461 @@
     "modelId": "eleven_v4",
     "outputFormat": "mp3_44100_128"
   },
-  "entries": {
-    "(le) feu": [
-      {
-        "text": "le feu",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_feu.mp3"
-      }
-    ],
-    "(la) lumière": [
-      {
-        "text": "la lumière",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_lumière.mp3"
-      }
-    ],
-    "(l')eau": [
-      {
-        "text": "l'eau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'eau.mp3"
-      }
-    ],
-    "(la) rivière | (le) fleuve": [
-      {
-        "text": "la rivière",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_rivière.mp3"
-      },
-      {
-        "text": "le fleuve",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fleuve.mp3"
-      }
-    ],
-    "(la) mer": [
-      {
-        "text": "la mer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mer.mp3"
-      }
-    ],
-    "(le) soleil": [
-      {
-        "text": "le soleil",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_soleil.mp3"
-      }
-    ],
-    "(la) lune": [
-      {
-        "text": "la lune",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_lune.mp3"
-      }
-    ],
-    "(l')arbre": [
-      {
-        "text": "l'arbre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'arbre.mp3"
-      }
-    ],
-    "(la) forêt": [
-      {
-        "text": "la forêt",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_forêt.mp3"
-      }
-    ],
-    "(l')air": [
-      {
-        "text": "l'air",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'air.mp3"
-      }
-    ],
-    "(l')étoile": [
-      {
-        "text": "l'étoile",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'étoile.mp3"
-      }
-    ],
-    "(le) brouillard": [
-      {
-        "text": "le brouillard",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_brouillard.mp3"
-      }
-    ],
-    "(le) ciel": [
-      {
-        "text": "le ciel",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_ciel.mp3"
-      }
-    ],
-    "(le) nuage": [
-      {
-        "text": "le nuage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_nuage.mp3"
-      }
-    ],
-    "(l')arc-en-ciel": [
-      {
-        "text": "l'arc-en-ciel",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'arc-en-ciel.mp3"
-      }
-    ],
-    "(la) ville": [
-      {
-        "text": "la ville",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_ville.mp3"
-      }
-    ],
-    "(le) village": [
-      {
-        "text": "le village",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_village.mp3"
-      }
-    ],
-    "(la) route": [
-      {
-        "text": "la route",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_route.mp3"
-      }
-    ],
-    "(la) rue": [
-      {
-        "text": "la rue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_rue.mp3"
-      }
-    ],
-    "(l')avenue": [
-      {
-        "text": "l'avenue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'avenue.mp3"
-      }
-    ],
-    "(le) pont": [
-      {
-        "text": "le pont",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pont.mp3"
-      }
-    ],
-    "(la) place": [
-      {
-        "text": "la place",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_place.mp3"
-      }
-    ],
-    "(le) centre-ville": [
-      {
-        "text": "le centre-ville",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_centre-ville.mp3"
-      }
-    ],
-    "(l')église": [
-      {
-        "text": "l'église",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'église.mp3"
-      }
-    ],
-    "(la) pharmacie": [
-      {
-        "text": "la pharmacie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_pharmacie.mp3"
-      }
-    ],
-    "(le) château": [
-      {
-        "text": "le château",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_château.mp3"
-      }
-    ],
-    "(le) bâtiment | (l')immeuble": [
-      {
-        "text": "le bâtiment",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bâtiment.mp3"
-      },
-      {
-        "text": "l'immeuble",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'immeuble.mp3"
-      }
-    ],
-    "(l')école": [
-      {
-        "text": "l'école",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'école.mp3"
-      }
-    ],
-    "(le) musée": [
-      {
-        "text": "le musée",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_musée.mp3"
-      }
-    ],
-    "(la) ruelle": [
-      {
-        "text": "la ruelle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_ruelle.mp3"
-      }
-    ],
-    "(le) coin de la rue": [
-      {
-        "text": "le coin de la rue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_coin_de_la_rue.mp3"
-      }
-    ],
-    "(la) banque": [
-      {
-        "text": "la banque",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_banque.mp3"
-      }
-    ],
-    "(la) mairie | (l')hôtel de ville": [
-      {
-        "text": "la mairie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mairie.mp3"
-      },
-      {
-        "text": "l'hôtel de ville",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'hôtel_de_ville.mp3"
-      }
-    ],
-    "(la) fontaine": [
-      {
-        "text": "la fontaine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_fontaine.mp3"
-      }
-    ],
-    "(le) banc": [
-      {
-        "text": "le banc",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_banc.mp3"
-      }
-    ],
-    "(la) banlieue": [
-      {
-        "text": "la banlieue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_banlieue.mp3"
-      }
-    ],
-    "(le) quartier": [
-      {
-        "text": "le quartier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_quartier.mp3"
-      }
-    ],
-    "(l')usine": [
-      {
-        "text": "l'usine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'usine.mp3"
-      }
-    ],
-    "(la) statue": [
-      {
-        "text": "la statue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_statue.mp3"
-      }
-    ],
-    "(la) galerie": [
-      {
-        "text": "la galerie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_galerie.mp3"
-      }
-    ],
-    "urbain": [
-      {
-        "text": "urbain",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/urbain.mp3"
-      }
-    ],
-    "(la) voiture": [
-      {
-        "text": "la voiture",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_voiture.mp3"
-      }
-    ],
-    "(le) train": [
-      {
-        "text": "le train",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_train.mp3"
-      }
-    ],
-    "(le) bus | (l')autobus": [
-      {
-        "text": "le bus",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bus.mp3"
-      },
-      {
-        "text": "l'autobus",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'autobus.mp3"
-      }
-    ],
-    "(le) métro": [
-      {
-        "text": "le métro",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_métro.mp3"
-      }
-    ],
-    "(le) tramway | (le) tram": [
-      {
-        "text": "le tramway",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_tramway.mp3"
-      },
-      {
-        "text": "le tram",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_tram.mp3"
-      }
-    ],
-    "(le) vélo | (la) bicyclette": [
-      {
-        "text": "le vélo",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_vélo.mp3"
-      },
-      {
-        "text": "la bicyclette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_bicyclette.mp3"
-      }
-    ],
-    "(le) bateau | (le) navire": [
-      {
-        "text": "le bateau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bateau.mp3"
-      },
-      {
-        "text": "le navire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_navire.mp3"
-      }
-    ],
-    "(la) moto": [
-      {
-        "text": "la moto",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_moto.mp3"
-      }
-    ],
-    "(l')arrêt de bus": [
-      {
-        "text": "l'arrêt de bus",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'arrêt_de_bus.mp3"
-      }
-    ],
-    "(le) chemin de fer": [
-      {
-        "text": "le chemin de fer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chemin_de_fer.mp3"
-      }
-    ],
-    "(la) gare": [
-      {
-        "text": "la gare",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_gare.mp3"
-      }
-    ],
-    "(le) billet | (le) ticket": [
-      {
-        "text": "le billet",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_billet.mp3"
-      },
-      {
-        "text": "le ticket",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_ticket.mp3"
-      }
-    ],
-    "composter | valider": [
-      {
-        "text": "composter",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/composter.mp3"
-      },
-      {
-        "text": "valider",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/valider.mp3"
-      }
-    ],
-    "jaune": [
-      {
-        "text": "jaune",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/jaune.mp3"
-      }
-    ],
-    "blanc": [
-      {
-        "text": "blanc",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/blanc.mp3"
-      }
-    ],
-    "noir": [
-      {
-        "text": "noir",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/noir.mp3"
-      }
-    ],
-    "rouge": [
-      {
-        "text": "rouge",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/rouge.mp3"
-      }
-    ],
-    "bleu": [
-      {
-        "text": "bleu",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/bleu.mp3"
-      }
-    ],
-    "vert": [
-      {
-        "text": "vert",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/vert.mp3"
-      }
-    ],
-    "orange": [
-      {
-        "text": "orange",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/orange.mp3"
-      }
-    ],
-    "rose": [
-      {
-        "text": "rose",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/rose.mp3"
-      }
-    ],
-    "marron | brun": [
-      {
-        "text": "marron",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/marron.mp3"
-      },
-      {
-        "text": "brun",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/brun.mp3"
-      }
-    ],
-    "gris": [
-      {
-        "text": "gris",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/gris.mp3"
-      }
-    ],
-    "violet": [
-      {
-        "text": "violet",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/violet.mp3"
-      }
-    ],
-    "pourpre | violet": [
-      {
-        "text": "pourpre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/pourpre.mp3"
-      },
-      {
-        "text": "violet",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/violet.mp3"
-      }
-    ],
-    "(la) couleur": [
-      {
-        "text": "la couleur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_couleur.mp3"
-      }
-    ],
-    "coloré": [
-      {
-        "text": "coloré",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/coloré.mp3"
-      }
-    ],
-    "incolore": [
-      {
-        "text": "incolore",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/incolore.mp3"
-      }
-    ],
-    "clair": [
-      {
-        "text": "clair",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/clair.mp3"
-      }
-    ],
-    "foncé": [
-      {
-        "text": "foncé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/foncé.mp3"
-      }
-    ],
-    "vif": [
-      {
-        "text": "vif",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/vif.mp3"
-      }
-    ],
-    "un": [
-      {
-        "text": "un",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/un.mp3"
-      }
-    ],
-    "deux": [
-      {
-        "text": "deux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/deux.mp3"
-      }
-    ],
-    "trois": [
-      {
-        "text": "trois",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/trois.mp3"
-      }
-    ],
-    "quatre": [
-      {
-        "text": "quatre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/quatre.mp3"
-      }
-    ],
-    "cinq": [
-      {
-        "text": "cinq",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/cinq.mp3"
-      }
-    ],
-    "six": [
-      {
-        "text": "six",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/six.mp3"
-      }
-    ],
-    "sept": [
-      {
-        "text": "sept",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/sept.mp3"
-      }
-    ],
-    "huit": [
-      {
-        "text": "huit",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/huit.mp3"
-      }
-    ],
-    "neuf": [
-      {
-        "text": "neuf",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/neuf.mp3"
-      }
-    ],
-    "dix": [
-      {
-        "text": "dix",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/dix.mp3"
-      }
-    ],
-    "(le) fruit": [
-      {
-        "text": "le fruit",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fruit.mp3"
-      }
-    ],
-    "(la) pomme": [
-      {
-        "text": "la pomme",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_pomme.mp3"
-      }
-    ],
-    "(la) poire": [
-      {
-        "text": "la poire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_poire.mp3"
-      }
-    ],
-    "(la) prune": [
-      {
-        "text": "la prune",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_prune.mp3"
-      }
-    ],
-    "(la) cerise": [
-      {
-        "text": "la cerise",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_cerise.mp3"
-      }
-    ],
-    "(la) pêche": [
-      {
-        "text": "la pêche",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_pêche.mp3"
-      }
-    ],
-    "(l')abricot": [
-      {
-        "text": "l'abricot",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'abricot.mp3"
-      }
-    ],
-    "(la) fraise": [
-      {
-        "text": "la fraise",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_fraise.mp3"
-      }
-    ],
-    "(la) framboise": [
-      {
-        "text": "la framboise",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_framboise.mp3"
-      }
-    ],
-    "(la) mûre": [
-      {
-        "text": "la mûre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mûre.mp3"
-      }
-    ],
-    "(la) myrtille": [
-      {
-        "text": "la myrtille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_myrtille.mp3"
-      }
-    ],
-    "(le) raisin": [
-      {
-        "text": "le raisin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_raisin.mp3"
-      }
-    ],
-    "(la) groseille": [
-      {
-        "text": "la groseille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_groseille.mp3"
-      }
-    ],
-    "(la) groseille à maquereau": [
-      {
-        "text": "la groseille à maquereau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_groseille_à_maquereau.mp3"
-      }
-    ],
-    "(la) banane": [
-      {
-        "text": "la banane",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_banane.mp3"
-      }
-    ],
-    "(le) citron": [
-      {
-        "text": "le citron",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_citron.mp3"
-      }
-    ],
-    "(l')ananas": [
-      {
-        "text": "l'ananas",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'ananas.mp3"
-      }
-    ],
-    "(la) pastèque": [
-      {
-        "text": "la pastèque",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_pastèque.mp3"
-      }
-    ],
-    "(la) noix": [
-      {
-        "text": "la noix",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_noix.mp3"
-      }
-    ],
-    "(la) noisette": [
-      {
-        "text": "la noisette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_noisette.mp3"
-      }
-    ],
-    "(l')amande": [
-      {
-        "text": "l'amande",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'amande.mp3"
-      }
-    ],
-    "mûr": [
-      {
-        "text": "mûr",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/mûr.mp3"
-      }
-    ],
-    "(l')ail": [
-      {
-        "text": "l'ail",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'ail.mp3"
-      }
-    ],
-    "(le) concombre": [
-      {
-        "text": "le concombre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_concombre.mp3"
-      }
-    ],
-    "(la) carotte": [
-      {
-        "text": "la carotte",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_carotte.mp3"
-      }
-    ],
-    "(l')aubergine": [
-      {
-        "text": "l'aubergine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'aubergine.mp3"
-      }
-    ],
-    "(la) pomme de terre": [
-      {
-        "text": "la pomme de terre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_pomme_de_terre.mp3"
-      }
-    ],
-    "(la) tomate": [
-      {
-        "text": "la tomate",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_tomate.mp3"
-      }
-    ],
-    "(la) citrouille | (le) potiron": [
-      {
-        "text": "la citrouille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_citrouille.mp3"
-      },
-      {
-        "text": "le potiron",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_potiron.mp3"
-      }
-    ],
-    "(la) courgette": [
-      {
-        "text": "la courgette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_courgette.mp3"
-      }
-    ],
-    "(l')avocat": [
-      {
-        "text": "l'avocat",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'avocat.mp3"
-      }
-    ],
-    "(le) chou": [
-      {
-        "text": "le chou",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chou.mp3"
-      }
-    ],
-    "(le) chou-fleur": [
-      {
-        "text": "le chou-fleur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chou-fleur.mp3"
-      }
-    ],
-    "(le) brocoli": [
-      {
-        "text": "le brocoli",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_brocoli.mp3"
-      }
-    ],
-    "(les) épinards": [
-      {
-        "text": "les épinards",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_épinards.mp3"
-      }
-    ],
-    "(le) poivron": [
-      {
-        "text": "le poivron",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_poivron.mp3"
-      }
-    ],
-    "(la) salade | (la) laitue": [
-      {
-        "text": "la salade",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_salade.mp3"
-      },
-      {
-        "text": "la laitue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_laitue.mp3"
-      }
-    ],
-    "(le) poireau": [
-      {
-        "text": "le poireau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_poireau.mp3"
-      }
-    ],
-    "(l')oignon": [
-      {
-        "text": "l'oignon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'oignon.mp3"
-      }
-    ],
-    "(le) piment": [
-      {
-        "text": "le piment",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_piment.mp3"
-      }
-    ],
-    "(le) chat": [
-      {
-        "text": "le chat",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chat.mp3"
-      }
-    ],
-    "(le) chien": [
-      {
-        "text": "le chien",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chien.mp3"
-      }
-    ],
-    "(le) poulet | (la) poule": [
-      {
-        "text": "le poulet",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_poulet.mp3"
-      },
-      {
-        "text": "la poule",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_poule.mp3"
-      }
-    ],
-    "(le) cochon | (le) porc": [
-      {
-        "text": "le cochon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cochon.mp3"
-      },
-      {
-        "text": "le porc",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_porc.mp3"
-      }
-    ],
-    "(la) vache": [
-      {
-        "text": "la vache",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_vache.mp3"
-      }
-    ],
-    "(le) cheval": [
-      {
-        "text": "le cheval",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cheval.mp3"
-      }
-    ],
-    "(le) mouton": [
-      {
-        "text": "le mouton",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mouton.mp3"
-      }
-    ],
-    "(la) chèvre": [
-      {
-        "text": "la chèvre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_chèvre.mp3"
-      }
-    ],
-    "(l')âne": [
-      {
-        "text": "l'âne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'âne.mp3"
-      }
-    ],
-    "(la) souris": [
-      {
-        "text": "la souris",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_souris.mp3"
-      }
-    ],
-    "(le) chiot": [
-      {
-        "text": "le chiot",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chiot.mp3"
-      }
-    ],
-    "(le) hamster": [
-      {
-        "text": "le hamster",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_hamster.mp3"
-      }
-    ],
-    "(le) cochon d'Inde": [
-      {
-        "text": "le cochon d'Inde",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cochon_d'Inde.mp3"
-      }
-    ],
-    "(la) cage": [
-      {
-        "text": "la cage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_cage.mp3"
-      }
-    ],
-    "(l')aquarium": [
-      {
-        "text": "l'aquarium",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'aquarium.mp3"
-      }
-    ],
-    "(la) laisse": [
-      {
-        "text": "la laisse",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_laisse.mp3"
-      }
-    ],
-    "(la) cage de transport": [
-      {
-        "text": "la cage de transport",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_cage_de_transport.mp3"
-      }
-    ],
-    "(le) nid": [
-      {
-        "text": "le nid",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_nid.mp3"
-      }
-    ],
-    "(la) femelle": [
-      {
-        "text": "la femelle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_femelle.mp3"
-      }
-    ],
-    "(le) mâle": [
-      {
-        "text": "le mâle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mâle.mp3"
-      }
-    ],
-    "(le) bétail": [
-      {
-        "text": "le bétail",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bétail.mp3"
-      }
-    ],
-    "(le) vétérinaire": [
-      {
-        "text": "le vétérinaire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_vétérinaire.mp3"
-      }
-    ],
-    "(l')ours": [
-      {
-        "text": "l'ours",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'ours.mp3"
-      }
-    ],
-    "(l')élan": [
-      {
-        "text": "l'élan",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'élan.mp3"
-      }
-    ],
-    "(le) cerf": [
-      {
-        "text": "le cerf",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cerf.mp3"
-      }
-    ],
-    "(le) renne": [
-      {
-        "text": "le renne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_renne.mp3"
-      }
-    ],
-    "(le) loup": [
-      {
-        "text": "le loup",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_loup.mp3"
-      }
-    ],
-    "(le) renard": [
-      {
-        "text": "le renard",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_renard.mp3"
-      }
-    ],
-    "(le) hérisson": [
-      {
-        "text": "le hérisson",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_hérisson.mp3"
-      }
-    ],
-    "(le) lapin": [
-      {
-        "text": "le lapin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_lapin.mp3"
-      }
-    ],
-    "(le) lièvre": [
-      {
-        "text": "le lièvre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_lièvre.mp3"
-      }
-    ],
-    "(le) sanglier": [
-      {
-        "text": "le sanglier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sanglier.mp3"
-      }
-    ],
-    "(l')écureuil": [
-      {
-        "text": "l'écureuil",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'écureuil.mp3"
-      }
-    ],
-    "(la) grenouille": [
-      {
-        "text": "la grenouille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_grenouille.mp3"
-      }
-    ],
-    "(le) serpent": [
-      {
-        "text": "le serpent",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_serpent.mp3"
-      }
-    ],
-    "(le) tigre": [
-      {
-        "text": "le tigre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_tigre.mp3"
-      }
-    ],
-    "(le) lion": [
-      {
-        "text": "le lion",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_lion.mp3"
-      }
-    ],
-    "(l')éléphant": [
-      {
-        "text": "l'éléphant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'éléphant.mp3"
-      }
-    ],
-    "(le) chameau": [
-      {
-        "text": "le chameau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chameau.mp3"
-      }
-    ],
-    "(la) girafe": [
-      {
-        "text": "la girafe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_girafe.mp3"
-      }
-    ],
-    "(le) crocodile": [
-      {
-        "text": "le crocodile",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_crocodile.mp3"
-      }
-    ],
-    "(le) singe": [
-      {
-        "text": "le singe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_singe.mp3"
-      }
-    ],
-    "(l')oiseau": [
-      {
-        "text": "l'oiseau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'oiseau.mp3"
-      }
-    ],
-    "(le) canard": [
-      {
-        "text": "le canard",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_canard.mp3"
-      }
-    ],
-    "(l')oie": [
-      {
-        "text": "l'oie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'oie.mp3"
-      }
-    ],
-    "(le) pigeon": [
-      {
-        "text": "le pigeon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pigeon.mp3"
-      }
-    ],
-    "(l')aigle": [
-      {
-        "text": "l'aigle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'aigle.mp3"
-      }
-    ],
-    "(le) moineau": [
-      {
-        "text": "le moineau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_moineau.mp3"
-      }
-    ],
-    "(le) cygne": [
-      {
-        "text": "le cygne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cygne.mp3"
-      }
-    ],
-    "(la) cigogne": [
-      {
-        "text": "la cigogne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_cigogne.mp3"
-      }
-    ],
-    "(la) mouette": [
-      {
-        "text": "la mouette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mouette.mp3"
-      }
-    ],
-    "(le) hibou | (la) chouette": [
-      {
-        "text": "le hibou",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_hibou.mp3"
-      },
-      {
-        "text": "la chouette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_chouette.mp3"
-      }
-    ],
-    "(le) perroquet": [
-      {
-        "text": "le perroquet",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_perroquet.mp3"
-      }
-    ],
-    "(le) poisson": [
-      {
-        "text": "le poisson",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_poisson.mp3"
-      }
-    ],
-    "(le) dauphin": [
-      {
-        "text": "le dauphin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_dauphin.mp3"
-      }
-    ],
-    "(le) requin": [
-      {
-        "text": "le requin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_requin.mp3"
-      }
-    ],
-    "(l')anguille": [
-      {
-        "text": "l'anguille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'anguille.mp3"
-      }
-    ],
-    "(le) thon": [
-      {
-        "text": "le thon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_thon.mp3"
-      }
-    ],
-    "(l')étoile de mer": [
-      {
-        "text": "l'étoile de mer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'étoile_de_mer.mp3"
-      }
-    ],
-    "(l')hippocampe": [
-      {
-        "text": "l'hippocampe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'hippocampe.mp3"
-      }
-    ],
-    "(la) branchie": [
-      {
-        "text": "la branchie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_branchie.mp3"
-      }
-    ],
-    "(la) nageoire": [
-      {
-        "text": "la nageoire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_nageoire.mp3"
-      }
-    ],
-    "(l')animal": [
-      {
-        "text": "l'animal",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'animal.mp3"
-      }
-    ],
-    "(l')aile": [
-      {
-        "text": "l'aile",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'aile.mp3"
-      }
-    ],
-    "(la) corne": [
-      {
-        "text": "la corne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_corne.mp3"
-      }
-    ],
-    "(la) queue": [
-      {
-        "text": "la queue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_queue.mp3"
-      }
-    ],
-    "(le) bec": [
-      {
-        "text": "le bec",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bec.mp3"
-      }
-    ],
-    "(la) fourrure": [
-      {
-        "text": "la fourrure",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_fourrure.mp3"
-      }
-    ],
-    "(la) fourmi": [
-      {
-        "text": "la fourmi",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_fourmi.mp3"
-      }
-    ],
-    "(le) papillon": [
-      {
-        "text": "le papillon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_papillon.mp3"
-      }
-    ],
-    "(l')abeille": [
-      {
-        "text": "l'abeille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'abeille.mp3"
-      }
-    ],
-    "(la) guêpe": [
-      {
-        "text": "la guêpe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_guêpe.mp3"
-      }
-    ],
-    "(l')insecte": [
-      {
-        "text": "l'insecte",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'insecte.mp3"
-      }
-    ],
-    "(la) mouche": [
-      {
-        "text": "la mouche",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mouche.mp3"
-      }
-    ],
-    "(le) moustique": [
-      {
-        "text": "le moustique",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_moustique.mp3"
-      }
-    ],
-    "(l')araignée": [
-      {
-        "text": "l'araignée",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'araignée.mp3"
-      }
-    ],
-    "mordre": [
-      {
-        "text": "mordre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/mordre.mp3"
-      }
-    ],
-    "remuer": [
-      {
-        "text": "remuer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/remuer.mp3"
-      }
-    ],
-    "aboyer": [
-      {
-        "text": "aboyer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/aboyer.mp3"
-      }
-    ],
-    "miauler": [
-      {
-        "text": "miauler",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/miauler.mp3"
-      }
-    ],
-    "meugler": [
-      {
-        "text": "meugler",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/meugler.mp3"
-      }
-    ],
-    "coasser": [
-      {
-        "text": "coasser",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/coasser.mp3"
-      }
-    ],
-    "croasser": [
-      {
-        "text": "croasser",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/croasser.mp3"
-      }
-    ],
-    "hiberner": [
-      {
-        "text": "hiberner",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/hiberner.mp3"
-      }
-    ],
-    "(le) pain": [
-      {
-        "text": "le pain",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pain.mp3"
-      }
-    ],
-    "(le) sel": [
-      {
-        "text": "le sel",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sel.mp3"
-      }
-    ],
-    "(le) sucre": [
-      {
-        "text": "le sucre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sucre.mp3"
-      }
-    ],
-    "(le) riz": [
-      {
-        "text": "le riz",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_riz.mp3"
-      }
-    ],
-    "(le) thé": [
-      {
-        "text": "le thé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_thé.mp3"
-      }
-    ],
-    "(le) café": [
-      {
-        "text": "le café",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_café.mp3"
-      }
-    ],
-    "(le) jus": [
-      {
-        "text": "le jus",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_jus.mp3"
-      }
-    ],
-    "(le) fromage": [
-      {
-        "text": "le fromage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fromage.mp3"
-      }
-    ],
-    "(les) frites": [
-      {
-        "text": "les frites",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_frites.mp3"
-      }
-    ],
-    "(le) champignon": [
-      {
-        "text": "le champignon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_champignon.mp3"
-      }
-    ],
-    "(la) soupe": [
-      {
-        "text": "la soupe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_soupe.mp3"
-      }
-    ],
-    "(la) viande": [
-      {
-        "text": "la viande",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_viande.mp3"
-      }
-    ],
-    "(le) lard | (le) bacon": [
-      {
-        "text": "le lard",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_lard.mp3"
-      },
-      {
-        "text": "le bacon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bacon.mp3"
-      }
-    ],
-    "(l')œuf": [
-      {
-        "text": "l'œuf",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'œuf.mp3"
-      }
-    ],
-    "(l')huile": [
-      {
-        "text": "l'huile",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'huile.mp3"
-      }
-    ],
-    "(la) salade": [
-      {
-        "text": "la salade",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_salade.mp3"
-      }
-    ],
-    "(la) glace": [
-      {
-        "text": "la glace",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_glace.mp3"
-      }
-    ],
-    "(le) lait": [
-      {
-        "text": "le lait",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_lait.mp3"
-      }
-    ],
-    "(le) beurre": [
-      {
-        "text": "le beurre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_beurre.mp3"
-      }
-    ],
-    "(la) crème": [
-      {
-        "text": "la crème",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_crème.mp3"
-      }
-    ],
-    "(le) gâteau": [
-      {
-        "text": "le gâteau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_gâteau.mp3"
-      }
-    ],
-    "(la) bière": [
-      {
-        "text": "la bière",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_bière.mp3"
-      }
-    ],
-    "(la) vodka": [
-      {
-        "text": "la vodka",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_vodka.mp3"
-      }
-    ],
-    "(le) vin": [
-      {
-        "text": "le vin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_vin.mp3"
-      }
-    ],
-    "(le) miel": [
-      {
-        "text": "le miel",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_miel.mp3"
-      }
-    ],
-    "(le) bonbon": [
-      {
-        "text": "le bonbon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bonbon.mp3"
-      }
-    ],
-    "(le) biscuit": [
-      {
-        "text": "le biscuit",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_biscuit.mp3"
-      }
-    ],
-    "(le) sandwich": [
-      {
-        "text": "le sandwich",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sandwich.mp3"
-      }
-    ],
-    "(le) sushi": [
-      {
-        "text": "le sushi",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sushi.mp3"
-      }
-    ],
-    "(la) crêpe": [
-      {
-        "text": "la crêpe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_crêpe.mp3"
-      }
-    ],
-    "(les) œufs brouillés": [
-      {
-        "text": "les œufs brouillés",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_œufs_brouillés.mp3"
-      }
-    ],
-    "(l')omelette": [
-      {
-        "text": "l'omelette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'omelette.mp3"
-      }
-    ],
-    "(la) saucisse": [
-      {
-        "text": "la saucisse",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_saucisse.mp3"
-      }
-    ],
-    "(l')alcool": [
-      {
-        "text": "l'alcool",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'alcool.mp3"
-      }
-    ],
-    "(le) sésame": [
-      {
-        "text": "le sésame",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sésame.mp3"
-      }
-    ],
-    "(la) poudre": [
-      {
-        "text": "la poudre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_poudre.mp3"
-      }
-    ],
-    "(la) farine": [
-      {
-        "text": "la farine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_farine.mp3"
-      }
-    ],
-    "sucré": [
-      {
-        "text": "sucré",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/sucré.mp3"
-      }
-    ],
-    "amer": [
-      {
-        "text": "amer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/amer.mp3"
-      }
-    ],
-    "aigre | acide": [
-      {
-        "text": "aigre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/aigre.mp3"
-      },
-      {
-        "text": "acide",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/acide.mp3"
-      }
-    ],
-    "épicé | piquant": [
-      {
-        "text": "épicé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/épicé.mp3"
-      },
-      {
-        "text": "piquant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/piquant.mp3"
-      }
-    ],
-    "doux": [
-      {
-        "text": "doux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/doux.mp3"
-      }
-    ],
-    "frais": [
-      {
-        "text": "frais",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/frais.mp3"
-      }
-    ],
-    "rafraîchissant": [
-      {
-        "text": "rafraîchissant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/rafraîchissant.mp3"
-      }
-    ],
-    "savoureux | bon": [
-      {
-        "text": "savoureux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/savoureux.mp3"
-      },
-      {
-        "text": "bon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/bon.mp3"
-      }
-    ],
-    "délicieux": [
-      {
-        "text": "délicieux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/délicieux.mp3"
-      }
-    ],
-    "dégoûtant": [
-      {
-        "text": "dégoûtant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/dégoûtant.mp3"
-      }
-    ],
-    "grand": [
-      {
-        "text": "grand",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/grand.mp3"
-      }
-    ],
-    "petit": [
-      {
-        "text": "petit",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/petit.mp3"
-      }
-    ],
-    "long": [
-      {
-        "text": "long",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/long.mp3"
-      }
-    ],
-    "court": [
-      {
-        "text": "court",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/court.mp3"
-      }
-    ],
-    "nouveau | neuf": [
-      {
-        "text": "nouveau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/nouveau.mp3"
-      },
-      {
-        "text": "neuf",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/neuf.mp3"
-      }
-    ],
-    "vieux | ancien": [
-      {
-        "text": "vieux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/vieux.mp3"
-      },
-      {
-        "text": "ancien",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/ancien.mp3"
-      }
-    ],
-    "propre": [
-      {
-        "text": "propre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/propre.mp3"
-      }
-    ],
-    "sale": [
-      {
-        "text": "sale",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/sale.mp3"
-      }
-    ],
-    "(la) famille": [
-      {
-        "text": "la famille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_famille.mp3"
-      }
-    ],
-    "(le) père": [
-      {
-        "text": "le père",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_père.mp3"
-      }
-    ],
-    "(la) mère": [
-      {
-        "text": "la mère",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mère.mp3"
-      }
-    ],
-    "(l')enfant": [
-      {
-        "text": "l'enfant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'enfant.mp3"
-      }
-    ],
-    "(le) fils": [
-      {
-        "text": "le fils",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fils.mp3"
-      }
-    ],
-    "(la) fille": [
-      {
-        "text": "la fille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_fille.mp3"
-      }
-    ],
-    "(le) bébé": [
-      {
-        "text": "le bébé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bébé.mp3"
-      }
-    ],
-    "(la) femme | (l')épouse": [
-      {
-        "text": "la femme",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_femme.mp3"
-      },
-      {
-        "text": "l'épouse",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'épouse.mp3"
-      }
-    ],
-    "(le) mari | (l')époux": [
-      {
-        "text": "le mari",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mari.mp3"
-      },
-      {
-        "text": "l'époux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'époux.mp3"
-      }
-    ],
-    "(la) sœur": [
-      {
-        "text": "la sœur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_sœur.mp3"
-      }
-    ],
-    "(le) frère": [
-      {
-        "text": "le frère",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_frère.mp3"
-      }
-    ],
-    "(le) jumeau | (la) jumelle": [
-      {
-        "text": "le jumeau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_jumeau.mp3"
-      },
-      {
-        "text": "la jumelle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_jumelle.mp3"
-      }
-    ],
-    "(les) parents": [
-      {
-        "text": "les parents",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_parents.mp3"
-      }
-    ],
-    "(le) parent isolé": [
-      {
-        "text": "le parent isolé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_parent_isolé.mp3"
-      }
-    ],
-    "(les) proches | (la) parenté": [
-      {
-        "text": "les proches",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_proches.mp3"
-      },
-      {
-        "text": "la parenté",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_parenté.mp3"
-      }
-    ],
-    "(la) grand-mère": [
-      {
-        "text": "la grand-mère",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_grand-mère.mp3"
-      }
-    ],
-    "(la) mamie": [
-      {
-        "text": "la mamie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mamie.mp3"
-      }
-    ],
-    "(le) petit-fils": [
-      {
-        "text": "le petit-fils",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_petit-fils.mp3"
-      }
-    ],
-    "(la) petite-fille": [
-      {
-        "text": "la petite-fille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_petite-fille.mp3"
-      }
-    ],
-    "(l')oncle": [
-      {
-        "text": "l'oncle",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'oncle.mp3"
-      }
-    ],
-    "(la) tante": [
-      {
-        "text": "la tante",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_tante.mp3"
-      }
-    ],
-    "(le) cousin | (la) cousine": [
-      {
-        "text": "le cousin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cousin.mp3"
-      },
-      {
-        "text": "la cousine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_cousine.mp3"
-      }
-    ],
-    "(la) belle-mère": [
-      {
-        "text": "la belle-mère",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_belle-mère.mp3"
-      }
-    ],
-    "(le) beau-père": [
-      {
-        "text": "le beau-père",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_beau-père.mp3"
-      }
-    ],
-    "(la) génération": [
-      {
-        "text": "la génération",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_génération.mp3"
-      }
-    ],
-    "(le) couple": [
-      {
-        "text": "le couple",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_couple.mp3"
-      }
-    ],
-    "(le) petit ami | (le) copain": [
-      {
-        "text": "le petit ami",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_petit_ami.mp3"
-      },
-      {
-        "text": "le copain",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_copain.mp3"
-      }
-    ],
-    "(le) mariage": [
-      {
-        "text": "le mariage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mariage.mp3"
-      }
-    ],
-    "marié": [
-      {
-        "text": "marié",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/marié.mp3"
-      }
-    ],
-    "se marier": [
-      {
-        "text": "se marier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/se_marier.mp3"
-      }
-    ],
-    "célibataire": [
-      {
-        "text": "célibataire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/célibataire.mp3"
-      }
-    ],
-    "(la) mariée": [
-      {
-        "text": "la mariée",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mariée.mp3"
-      }
-    ],
-    "(le) marié": [
-      {
-        "text": "le marié",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_marié.mp3"
-      }
-    ],
-    "(le) fiancé": [
-      {
-        "text": "le fiancé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fiancé.mp3"
-      }
-    ],
-    "(le) partenaire | (le) conjoint": [
-      {
-        "text": "le partenaire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_partenaire.mp3"
-      },
-      {
-        "text": "le conjoint",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_conjoint.mp3"
-      }
-    ],
-    "(le) photographe": [
-      {
-        "text": "le photographe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_photographe.mp3"
-      }
-    ],
-    "(le) cuisinier": [
-      {
-        "text": "le cuisinier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cuisinier.mp3"
-      }
-    ],
-    "(le) directeur | (le) manager": [
-      {
-        "text": "le directeur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_directeur.mp3"
-      },
-      {
-        "text": "le manager",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_manager.mp3"
-      }
-    ],
-    "(la) secrétaire": [
-      {
-        "text": "la secrétaire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_secrétaire.mp3"
-      }
-    ],
-    "(le) stagiaire": [
-      {
-        "text": "le stagiaire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_stagiaire.mp3"
-      }
-    ],
-    "(le) service | (le) département": [
-      {
-        "text": "le service",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_service.mp3"
-      },
-      {
-        "text": "le département",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_département.mp3"
-      }
-    ],
-    "(le) chef de service": [
-      {
-        "text": "le chef de service",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chef_de_service.mp3"
-      }
-    ],
-    "(le) comptable": [
-      {
-        "text": "le comptable",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_comptable.mp3"
-      }
-    ],
-    "(le) caissier | (la) caissière": [
-      {
-        "text": "le caissier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_caissier.mp3"
-      },
-      {
-        "text": "la caissière",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_caissière.mp3"
-      }
-    ],
-    "(le) danseur | (la) danseuse": [
-      {
-        "text": "le danseur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_danseur.mp3"
-      },
-      {
-        "text": "la danseuse",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_danseuse.mp3"
-      }
-    ],
-    "(le) peintre": [
-      {
-        "text": "le peintre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_peintre.mp3"
-      }
-    ],
-    "(l')artiste": [
-      {
-        "text": "l'artiste",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'artiste.mp3"
-      }
-    ],
-    "(le) designer | (le) concepteur": [
-      {
-        "text": "le designer",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_designer.mp3"
-      },
-      {
-        "text": "le concepteur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_concepteur.mp3"
-      }
-    ],
-    "(le) sculpteur": [
-      {
-        "text": "le sculpteur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sculpteur.mp3"
-      }
-    ],
-    "(le) scientifique": [
-      {
-        "text": "le scientifique",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_scientifique.mp3"
-      }
-    ],
-    "(l')ingénieur": [
-      {
-        "text": "l'ingénieur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'ingénieur.mp3"
-      }
-    ],
-    "(l')agriculteur | (le) fermier": [
-      {
-        "text": "l'agriculteur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'agriculteur.mp3"
-      },
-      {
-        "text": "le fermier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_fermier.mp3"
-      }
-    ],
-    "(le) chasseur": [
-      {
-        "text": "le chasseur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chasseur.mp3"
-      }
-    ],
-    "(le) mannequin": [
-      {
-        "text": "le mannequin",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mannequin.mp3"
-      }
-    ],
-    "(le) pilote": [
-      {
-        "text": "le pilote",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pilote.mp3"
-      }
-    ],
-    "(l')hôtesse de l'air": [
-      {
-        "text": "l'hôtesse de l'air",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'hôtesse_de_l'air.mp3"
-      }
-    ],
-    "(le) chauffeur de taxi": [
-      {
-        "text": "le chauffeur de taxi",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_chauffeur_de_taxi.mp3"
-      }
-    ],
-    "(le) pêcheur": [
-      {
-        "text": "le pêcheur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pêcheur.mp3"
-      }
-    ],
-    "(le) mineur": [
-      {
-        "text": "le mineur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mineur.mp3"
-      }
-    ],
-    "(la) mine": [
-      {
-        "text": "la mine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mine.mp3"
-      }
-    ],
-    "(le) procureur": [
-      {
-        "text": "le procureur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_procureur.mp3"
-      }
-    ],
-    "(le) juge": [
-      {
-        "text": "le juge",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_juge.mp3"
-      }
-    ],
-    "(le) serveur": [
-      {
-        "text": "le serveur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_serveur.mp3"
-      }
-    ],
-    "(le) policier": [
-      {
-        "text": "le policier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_policier.mp3"
-      }
-    ],
-    "(le) pompier": [
-      {
-        "text": "le pompier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pompier.mp3"
-      }
-    ],
-    "(le) journaliste": [
-      {
-        "text": "le journaliste",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_journaliste.mp3"
-      }
-    ],
-    "(le) boulanger": [
-      {
-        "text": "le boulanger",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_boulanger.mp3"
-      }
-    ],
-    "(le) coiffeur": [
-      {
-        "text": "le coiffeur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_coiffeur.mp3"
-      }
-    ],
-    "(l')électricien": [
-      {
-        "text": "l'électricien",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'électricien.mp3"
-      }
-    ],
-    "(le) plombier": [
-      {
-        "text": "le plombier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_plombier.mp3"
-      }
-    ],
-    "(le) mécanicien": [
-      {
-        "text": "le mécanicien",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_mécanicien.mp3"
-      }
-    ],
-    "(le) serrurier": [
-      {
-        "text": "le serrurier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_serrurier.mp3"
-      }
-    ],
-    "(le) charpentier | (le) menuisier": [
-      {
-        "text": "le charpentier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_charpentier.mp3"
-      },
-      {
-        "text": "le menuisier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_menuisier.mp3"
-      }
-    ],
-    "(le) soudeur": [
-      {
-        "text": "le soudeur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_soudeur.mp3"
-      }
-    ],
-    "(le) boucher": [
-      {
-        "text": "le boucher",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_boucher.mp3"
-      }
-    ],
-    "(l')horloger": [
-      {
-        "text": "l'horloger",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'horloger.mp3"
-      }
-    ],
-    "(l')agent d'entretien": [
-      {
-        "text": "l'agent d'entretien",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'agent_d'entretien.mp3"
-      }
-    ],
-    "(le) barman": [
-      {
-        "text": "le barman",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_barman.mp3"
-      }
-    ],
-    "(l')ouvrier": [
-      {
-        "text": "l'ouvrier",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'ouvrier.mp3"
-      }
-    ],
-    "(le) professeur | (l')enseignant": [
-      {
-        "text": "le professeur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_professeur.mp3"
-      },
-      {
-        "text": "l'enseignant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'enseignant.mp3"
-      }
-    ],
-    "beau | magnifique": [
-      {
-        "text": "beau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/beau.mp3"
-      },
-      {
-        "text": "magnifique",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/magnifique.mp3"
-      }
-    ],
-    "joli": [
-      {
-        "text": "joli",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/joli.mp3"
-      }
-    ],
-    "mignon": [
-      {
-        "text": "mignon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/mignon.mp3"
-      }
-    ],
-    "élégant": [
-      {
-        "text": "élégant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/élégant.mp3"
-      }
-    ],
-    "charmant": [
-      {
-        "text": "charmant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/charmant.mp3"
-      }
-    ],
-    "séduisant | attirant": [
-      {
-        "text": "séduisant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/séduisant.mp3"
-      },
-      {
-        "text": "attirant",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/attirant.mp3"
-      }
-    ],
-    "beau": [
-      {
-        "text": "beau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/beau.mp3"
-      }
-    ],
-    "laid | moche": [
-      {
-        "text": "laid",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/laid.mp3"
-      },
-      {
-        "text": "moche",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/moche.mp3"
-      }
-    ],
-    "mince": [
-      {
-        "text": "mince",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/mince.mp3"
-      }
-    ],
-    "svelte | élancé": [
-      {
-        "text": "svelte",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/svelte.mp3"
-      },
-      {
-        "text": "élancé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/élancé.mp3"
-      }
-    ],
-    "maigre": [
-      {
-        "text": "maigre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/maigre.mp3"
-      }
-    ],
-    "gros": [
-      {
-        "text": "gros",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/gros.mp3"
-      }
-    ],
-    "menue | petite": [
-      {
-        "text": "menue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/menue.mp3"
-      },
-      {
-        "text": "petite",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/petite.mp3"
-      }
-    ],
-    "beau | bien fait": [
-      {
-        "text": "beau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/beau.mp3"
-      },
-      {
-        "text": "bien fait",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/bien_fait.mp3"
-      }
-    ],
-    "(la) silhouette": [
-      {
-        "text": "la silhouette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_silhouette.mp3"
-      }
-    ],
-    "(la) silhouette élancée": [
-      {
-        "text": "la silhouette élancée",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_silhouette_élancée.mp3"
-      }
-    ],
-    "(l')obésité": [
-      {
-        "text": "l'obésité",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'obésité.mp3"
-      }
-    ],
-    "(le) surpoids": [
-      {
-        "text": "le surpoids",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_surpoids.mp3"
-      }
-    ],
-    "perdre du poids | maigrir": [
-      {
-        "text": "perdre du poids",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/perdre_du_poids.mp3"
-      },
-      {
-        "text": "maigrir",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/maigrir.mp3"
-      }
-    ],
-    "prendre du poids | grossir": [
-      {
-        "text": "prendre du poids",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/prendre_du_poids.mp3"
-      },
-      {
-        "text": "grossir",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/grossir.mp3"
-      }
-    ],
-    "raide": [
-      {
-        "text": "raide",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/raide.mp3"
-      }
-    ],
-    "bouclé | frisé": [
-      {
-        "text": "bouclé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/bouclé.mp3"
-      },
-      {
-        "text": "frisé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/frisé.mp3"
-      }
-    ],
-    "blond": [
-      {
-        "text": "blond",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/blond.mp3"
-      }
-    ],
-    "brun | foncé": [
-      {
-        "text": "brun",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/brun.mp3"
-      },
-      {
-        "text": "foncé",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/foncé.mp3"
-      }
-    ],
-    "roux": [
-      {
-        "text": "roux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/roux.mp3"
-      }
-    ],
-    "(le) maquillage": [
-      {
-        "text": "le maquillage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_maquillage.mp3"
-      }
-    ],
-    "(le) style": [
-      {
-        "text": "le style",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_style.mp3"
-      }
-    ],
-    "(la) poitrine": [
-      {
-        "text": "la poitrine",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_poitrine.mp3"
-      }
-    ],
-    "(le) cœur": [
-      {
-        "text": "le cœur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cœur.mp3"
-      }
-    ],
-    "(la) jambe": [
-      {
-        "text": "la jambe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_jambe.mp3"
-      }
-    ],
-    "(le) pied": [
-      {
-        "text": "le pied",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_pied.mp3"
-      }
-    ],
-    "(la) tête": [
-      {
-        "text": "la tête",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_tête.mp3"
-      }
-    ],
-    "(l')œil": [
-      {
-        "text": "l'œil",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'œil.mp3"
-      }
-    ],
-    "(le) visage": [
-      {
-        "text": "le visage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_visage.mp3"
-      }
-    ],
-    "(le) cerveau": [
-      {
-        "text": "le cerveau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cerveau.mp3"
-      }
-    ],
-    "(le) cou": [
-      {
-        "text": "le cou",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_cou.mp3"
-      }
-    ],
-    "(la) langue": [
-      {
-        "text": "la langue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_langue.mp3"
-      }
-    ],
-    "(l')oreille": [
-      {
-        "text": "l'oreille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'oreille.mp3"
-      }
-    ],
-    "(le) corps": [
-      {
-        "text": "le corps",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_corps.mp3"
-      }
-    ],
-    "(la) main": [
-      {
-        "text": "la main",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_main.mp3"
-      }
-    ],
-    "(le) bras": [
-      {
-        "text": "le bras",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_bras.mp3"
-      }
-    ],
-    "gauche": [
-      {
-        "text": "gauche",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/gauche.mp3"
-      }
-    ],
-    "droit": [
-      {
-        "text": "droit",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/droit.mp3"
-      }
-    ],
-    "(le) doigt": [
-      {
-        "text": "le doigt",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_doigt.mp3"
-      }
-    ],
-    "(l')empreinte digitale": [
-      {
-        "text": "l'empreinte digitale",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'empreinte_digitale.mp3"
-      }
-    ],
-    "(le) nez": [
-      {
-        "text": "le nez",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_nez.mp3"
-      }
-    ],
-    "(la) bouche": [
-      {
-        "text": "la bouche",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_bouche.mp3"
-      }
-    ],
-    "(la) lèvre": [
-      {
-        "text": "la lèvre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_lèvre.mp3"
-      }
-    ],
-    "(la) peau": [
-      {
-        "text": "la peau",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_peau.mp3"
-      }
-    ],
-    "(les) cheveux": [
-      {
-        "text": "les cheveux",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_cheveux.mp3"
-      }
-    ],
-    "(la) joue": [
-      {
-        "text": "la joue",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_joue.mp3"
-      }
-    ],
-    "(le) menton": [
-      {
-        "text": "le menton",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_menton.mp3"
-      }
-    ],
-    "(la) mâchoire": [
-      {
-        "text": "la mâchoire",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_mâchoire.mp3"
-      }
-    ],
-    "(le) sourcil": [
-      {
-        "text": "le sourcil",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sourcil.mp3"
-      }
-    ],
-    "(la) tache de rousseur": [
-      {
-        "text": "la tache de rousseur",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_tache_de_rousseur.mp3"
-      }
-    ],
-    "(le) front": [
-      {
-        "text": "le front",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_front.mp3"
-      }
-    ],
-    "(la) barbe": [
-      {
-        "text": "la barbe",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_barbe.mp3"
-      }
-    ],
-    "(la) moustache": [
-      {
-        "text": "la moustache",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_moustache.mp3"
-      }
-    ],
-    "chauve": [
-      {
-        "text": "chauve",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/chauve.mp3"
-      }
-    ],
-    "(la) ride": [
-      {
-        "text": "la ride",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_ride.mp3"
-      }
-    ],
-    "(les) traits du visage": [
-      {
-        "text": "les traits du visage",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/les_traits_du_visage.mp3"
-      }
-    ],
-    "lever | soulever": [
-      {
-        "text": "lever",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/lever.mp3"
-      },
-      {
-        "text": "soulever",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/soulever.mp3"
-      }
-    ],
-    "(le) ventre": [
-      {
-        "text": "le ventre",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_ventre.mp3"
-      }
-    ],
-    "(la) taille": [
-      {
-        "text": "la taille",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_taille.mp3"
-      }
-    ],
-    "(l')os": [
-      {
-        "text": "l'os",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'os.mp3"
-      }
-    ],
-    "(le) squelette": [
-      {
-        "text": "le squelette",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_squelette.mp3"
-      }
-    ],
-    "(le) sang": [
-      {
-        "text": "le sang",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_sang.mp3"
-      }
-    ],
-    "(le) poumon": [
-      {
-        "text": "le poumon",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_poumon.mp3"
-      }
-    ],
-    "(l')estomac": [
-      {
-        "text": "l'estomac",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/l'estomac.mp3"
-      }
-    ],
-    "(le) foie": [
-      {
-        "text": "le foie",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_foie.mp3"
-      }
-    ],
-    "(le) crâne": [
-      {
-        "text": "le crâne",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_crâne.mp3"
-      }
-    ],
-    "(la) femme": [
-      {
-        "text": "la femme",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/la_femme.mp3"
-      }
-    ],
-    "(le) côté | (le) flanc": [
-      {
-        "text": "le côté",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_côté.mp3"
-      },
-      {
-        "text": "le flanc",
-        "file": "fr/words/WeAAwKYcS06VmXw086yZ/le_flanc.mp3"
-      }
-    ]
+  "clips": {
+    "aboyer": "fr/words/WeAAwKYcS06VmXw086yZ/aboyer.mp3",
+    "acide": "fr/words/WeAAwKYcS06VmXw086yZ/acide.mp3",
+    "aigre": "fr/words/WeAAwKYcS06VmXw086yZ/aigre.mp3",
+    "amer": "fr/words/WeAAwKYcS06VmXw086yZ/amer.mp3",
+    "ancien": "fr/words/WeAAwKYcS06VmXw086yZ/ancien.mp3",
+    "attirant": "fr/words/WeAAwKYcS06VmXw086yZ/attirant.mp3",
+    "beau": "fr/words/WeAAwKYcS06VmXw086yZ/beau.mp3",
+    "bien fait": "fr/words/WeAAwKYcS06VmXw086yZ/bien_fait.mp3",
+    "blanc": "fr/words/WeAAwKYcS06VmXw086yZ/blanc.mp3",
+    "bleu": "fr/words/WeAAwKYcS06VmXw086yZ/bleu.mp3",
+    "blond": "fr/words/WeAAwKYcS06VmXw086yZ/blond.mp3",
+    "bon": "fr/words/WeAAwKYcS06VmXw086yZ/bon.mp3",
+    "bouclé": "fr/words/WeAAwKYcS06VmXw086yZ/bouclé.mp3",
+    "brun": "fr/words/WeAAwKYcS06VmXw086yZ/brun.mp3",
+    "célibataire": "fr/words/WeAAwKYcS06VmXw086yZ/célibataire.mp3",
+    "charmant": "fr/words/WeAAwKYcS06VmXw086yZ/charmant.mp3",
+    "chauve": "fr/words/WeAAwKYcS06VmXw086yZ/chauve.mp3",
+    "cinq": "fr/words/WeAAwKYcS06VmXw086yZ/cinq.mp3",
+    "clair": "fr/words/WeAAwKYcS06VmXw086yZ/clair.mp3",
+    "coasser": "fr/words/WeAAwKYcS06VmXw086yZ/coasser.mp3",
+    "coloré": "fr/words/WeAAwKYcS06VmXw086yZ/coloré.mp3",
+    "composter": "fr/words/WeAAwKYcS06VmXw086yZ/composter.mp3",
+    "court": "fr/words/WeAAwKYcS06VmXw086yZ/court.mp3",
+    "croasser": "fr/words/WeAAwKYcS06VmXw086yZ/croasser.mp3",
+    "dégoûtant": "fr/words/WeAAwKYcS06VmXw086yZ/dégoûtant.mp3",
+    "délicieux": "fr/words/WeAAwKYcS06VmXw086yZ/délicieux.mp3",
+    "deux": "fr/words/WeAAwKYcS06VmXw086yZ/deux.mp3",
+    "dix": "fr/words/WeAAwKYcS06VmXw086yZ/dix.mp3",
+    "doux": "fr/words/WeAAwKYcS06VmXw086yZ/doux.mp3",
+    "droit": "fr/words/WeAAwKYcS06VmXw086yZ/droit.mp3",
+    "élancé": "fr/words/WeAAwKYcS06VmXw086yZ/élancé.mp3",
+    "élégant": "fr/words/WeAAwKYcS06VmXw086yZ/élégant.mp3",
+    "épicé": "fr/words/WeAAwKYcS06VmXw086yZ/épicé.mp3",
+    "foncé": "fr/words/WeAAwKYcS06VmXw086yZ/foncé.mp3",
+    "frais": "fr/words/WeAAwKYcS06VmXw086yZ/frais.mp3",
+    "frisé": "fr/words/WeAAwKYcS06VmXw086yZ/frisé.mp3",
+    "gauche": "fr/words/WeAAwKYcS06VmXw086yZ/gauche.mp3",
+    "grand": "fr/words/WeAAwKYcS06VmXw086yZ/grand.mp3",
+    "gris": "fr/words/WeAAwKYcS06VmXw086yZ/gris.mp3",
+    "gros": "fr/words/WeAAwKYcS06VmXw086yZ/gros.mp3",
+    "grossir": "fr/words/WeAAwKYcS06VmXw086yZ/grossir.mp3",
+    "hiberner": "fr/words/WeAAwKYcS06VmXw086yZ/hiberner.mp3",
+    "huit": "fr/words/WeAAwKYcS06VmXw086yZ/huit.mp3",
+    "incolore": "fr/words/WeAAwKYcS06VmXw086yZ/incolore.mp3",
+    "jaune": "fr/words/WeAAwKYcS06VmXw086yZ/jaune.mp3",
+    "joli": "fr/words/WeAAwKYcS06VmXw086yZ/joli.mp3",
+    "l'abeille": "fr/words/WeAAwKYcS06VmXw086yZ/l'abeille.mp3",
+    "l'abricot": "fr/words/WeAAwKYcS06VmXw086yZ/l'abricot.mp3",
+    "l'agent d'entretien": "fr/words/WeAAwKYcS06VmXw086yZ/l'agent_d'entretien.mp3",
+    "l'agriculteur": "fr/words/WeAAwKYcS06VmXw086yZ/l'agriculteur.mp3",
+    "l'aigle": "fr/words/WeAAwKYcS06VmXw086yZ/l'aigle.mp3",
+    "l'ail": "fr/words/WeAAwKYcS06VmXw086yZ/l'ail.mp3",
+    "l'aile": "fr/words/WeAAwKYcS06VmXw086yZ/l'aile.mp3",
+    "l'air": "fr/words/WeAAwKYcS06VmXw086yZ/l'air.mp3",
+    "l'alcool": "fr/words/WeAAwKYcS06VmXw086yZ/l'alcool.mp3",
+    "l'amande": "fr/words/WeAAwKYcS06VmXw086yZ/l'amande.mp3",
+    "l'ananas": "fr/words/WeAAwKYcS06VmXw086yZ/l'ananas.mp3",
+    "l'âne": "fr/words/WeAAwKYcS06VmXw086yZ/l'âne.mp3",
+    "l'anguille": "fr/words/WeAAwKYcS06VmXw086yZ/l'anguille.mp3",
+    "l'animal": "fr/words/WeAAwKYcS06VmXw086yZ/l'animal.mp3",
+    "l'aquarium": "fr/words/WeAAwKYcS06VmXw086yZ/l'aquarium.mp3",
+    "l'araignée": "fr/words/WeAAwKYcS06VmXw086yZ/l'araignée.mp3",
+    "l'arbre": "fr/words/WeAAwKYcS06VmXw086yZ/l'arbre.mp3",
+    "l'arc-en-ciel": "fr/words/WeAAwKYcS06VmXw086yZ/l'arc-en-ciel.mp3",
+    "l'arrêt de bus": "fr/words/WeAAwKYcS06VmXw086yZ/l'arrêt_de_bus.mp3",
+    "l'artiste": "fr/words/WeAAwKYcS06VmXw086yZ/l'artiste.mp3",
+    "l'aubergine": "fr/words/WeAAwKYcS06VmXw086yZ/l'aubergine.mp3",
+    "l'autobus": "fr/words/WeAAwKYcS06VmXw086yZ/l'autobus.mp3",
+    "l'avenue": "fr/words/WeAAwKYcS06VmXw086yZ/l'avenue.mp3",
+    "l'avocat": "fr/words/WeAAwKYcS06VmXw086yZ/l'avocat.mp3",
+    "l'eau": "fr/words/WeAAwKYcS06VmXw086yZ/l'eau.mp3",
+    "l'école": "fr/words/WeAAwKYcS06VmXw086yZ/l'école.mp3",
+    "l'écureuil": "fr/words/WeAAwKYcS06VmXw086yZ/l'écureuil.mp3",
+    "l'église": "fr/words/WeAAwKYcS06VmXw086yZ/l'église.mp3",
+    "l'élan": "fr/words/WeAAwKYcS06VmXw086yZ/l'élan.mp3",
+    "l'électricien": "fr/words/WeAAwKYcS06VmXw086yZ/l'électricien.mp3",
+    "l'éléphant": "fr/words/WeAAwKYcS06VmXw086yZ/l'éléphant.mp3",
+    "l'empreinte digitale": "fr/words/WeAAwKYcS06VmXw086yZ/l'empreinte_digitale.mp3",
+    "l'enfant": "fr/words/WeAAwKYcS06VmXw086yZ/l'enfant.mp3",
+    "l'enseignant": "fr/words/WeAAwKYcS06VmXw086yZ/l'enseignant.mp3",
+    "l'épouse": "fr/words/WeAAwKYcS06VmXw086yZ/l'épouse.mp3",
+    "l'époux": "fr/words/WeAAwKYcS06VmXw086yZ/l'époux.mp3",
+    "l'estomac": "fr/words/WeAAwKYcS06VmXw086yZ/l'estomac.mp3",
+    "l'étoile": "fr/words/WeAAwKYcS06VmXw086yZ/l'étoile.mp3",
+    "l'étoile de mer": "fr/words/WeAAwKYcS06VmXw086yZ/l'étoile_de_mer.mp3",
+    "l'hippocampe": "fr/words/WeAAwKYcS06VmXw086yZ/l'hippocampe.mp3",
+    "l'horloger": "fr/words/WeAAwKYcS06VmXw086yZ/l'horloger.mp3",
+    "l'hôtel de ville": "fr/words/WeAAwKYcS06VmXw086yZ/l'hôtel_de_ville.mp3",
+    "l'hôtesse de l'air": "fr/words/WeAAwKYcS06VmXw086yZ/l'hôtesse_de_l'air.mp3",
+    "l'huile": "fr/words/WeAAwKYcS06VmXw086yZ/l'huile.mp3",
+    "l'immeuble": "fr/words/WeAAwKYcS06VmXw086yZ/l'immeuble.mp3",
+    "l'ingénieur": "fr/words/WeAAwKYcS06VmXw086yZ/l'ingénieur.mp3",
+    "l'insecte": "fr/words/WeAAwKYcS06VmXw086yZ/l'insecte.mp3",
+    "l'obésité": "fr/words/WeAAwKYcS06VmXw086yZ/l'obésité.mp3",
+    "l'œil": "fr/words/WeAAwKYcS06VmXw086yZ/l'œil.mp3",
+    "l'œuf": "fr/words/WeAAwKYcS06VmXw086yZ/l'œuf.mp3",
+    "l'oie": "fr/words/WeAAwKYcS06VmXw086yZ/l'oie.mp3",
+    "l'oignon": "fr/words/WeAAwKYcS06VmXw086yZ/l'oignon.mp3",
+    "l'oiseau": "fr/words/WeAAwKYcS06VmXw086yZ/l'oiseau.mp3",
+    "l'omelette": "fr/words/WeAAwKYcS06VmXw086yZ/l'omelette.mp3",
+    "l'oncle": "fr/words/WeAAwKYcS06VmXw086yZ/l'oncle.mp3",
+    "l'oreille": "fr/words/WeAAwKYcS06VmXw086yZ/l'oreille.mp3",
+    "l'os": "fr/words/WeAAwKYcS06VmXw086yZ/l'os.mp3",
+    "l'ours": "fr/words/WeAAwKYcS06VmXw086yZ/l'ours.mp3",
+    "l'ouvrier": "fr/words/WeAAwKYcS06VmXw086yZ/l'ouvrier.mp3",
+    "l'usine": "fr/words/WeAAwKYcS06VmXw086yZ/l'usine.mp3",
+    "la banane": "fr/words/WeAAwKYcS06VmXw086yZ/la_banane.mp3",
+    "la banlieue": "fr/words/WeAAwKYcS06VmXw086yZ/la_banlieue.mp3",
+    "la banque": "fr/words/WeAAwKYcS06VmXw086yZ/la_banque.mp3",
+    "la barbe": "fr/words/WeAAwKYcS06VmXw086yZ/la_barbe.mp3",
+    "la belle-mère": "fr/words/WeAAwKYcS06VmXw086yZ/la_belle-mère.mp3",
+    "la bicyclette": "fr/words/WeAAwKYcS06VmXw086yZ/la_bicyclette.mp3",
+    "la bière": "fr/words/WeAAwKYcS06VmXw086yZ/la_bière.mp3",
+    "la bouche": "fr/words/WeAAwKYcS06VmXw086yZ/la_bouche.mp3",
+    "la branchie": "fr/words/WeAAwKYcS06VmXw086yZ/la_branchie.mp3",
+    "la cage": "fr/words/WeAAwKYcS06VmXw086yZ/la_cage.mp3",
+    "la cage de transport": "fr/words/WeAAwKYcS06VmXw086yZ/la_cage_de_transport.mp3",
+    "la caissière": "fr/words/WeAAwKYcS06VmXw086yZ/la_caissière.mp3",
+    "la carotte": "fr/words/WeAAwKYcS06VmXw086yZ/la_carotte.mp3",
+    "la cerise": "fr/words/WeAAwKYcS06VmXw086yZ/la_cerise.mp3",
+    "la chèvre": "fr/words/WeAAwKYcS06VmXw086yZ/la_chèvre.mp3",
+    "la chouette": "fr/words/WeAAwKYcS06VmXw086yZ/la_chouette.mp3",
+    "la cigogne": "fr/words/WeAAwKYcS06VmXw086yZ/la_cigogne.mp3",
+    "la citrouille": "fr/words/WeAAwKYcS06VmXw086yZ/la_citrouille.mp3",
+    "la corne": "fr/words/WeAAwKYcS06VmXw086yZ/la_corne.mp3",
+    "la couleur": "fr/words/WeAAwKYcS06VmXw086yZ/la_couleur.mp3",
+    "la courgette": "fr/words/WeAAwKYcS06VmXw086yZ/la_courgette.mp3",
+    "la cousine": "fr/words/WeAAwKYcS06VmXw086yZ/la_cousine.mp3",
+    "la crème": "fr/words/WeAAwKYcS06VmXw086yZ/la_crème.mp3",
+    "la crêpe": "fr/words/WeAAwKYcS06VmXw086yZ/la_crêpe.mp3",
+    "la danseuse": "fr/words/WeAAwKYcS06VmXw086yZ/la_danseuse.mp3",
+    "la famille": "fr/words/WeAAwKYcS06VmXw086yZ/la_famille.mp3",
+    "la farine": "fr/words/WeAAwKYcS06VmXw086yZ/la_farine.mp3",
+    "la femelle": "fr/words/WeAAwKYcS06VmXw086yZ/la_femelle.mp3",
+    "la femme": "fr/words/WeAAwKYcS06VmXw086yZ/la_femme.mp3",
+    "la fille": "fr/words/WeAAwKYcS06VmXw086yZ/la_fille.mp3",
+    "la fontaine": "fr/words/WeAAwKYcS06VmXw086yZ/la_fontaine.mp3",
+    "la forêt": "fr/words/WeAAwKYcS06VmXw086yZ/la_forêt.mp3",
+    "la fourmi": "fr/words/WeAAwKYcS06VmXw086yZ/la_fourmi.mp3",
+    "la fourrure": "fr/words/WeAAwKYcS06VmXw086yZ/la_fourrure.mp3",
+    "la fraise": "fr/words/WeAAwKYcS06VmXw086yZ/la_fraise.mp3",
+    "la framboise": "fr/words/WeAAwKYcS06VmXw086yZ/la_framboise.mp3",
+    "la galerie": "fr/words/WeAAwKYcS06VmXw086yZ/la_galerie.mp3",
+    "la gare": "fr/words/WeAAwKYcS06VmXw086yZ/la_gare.mp3",
+    "la génération": "fr/words/WeAAwKYcS06VmXw086yZ/la_génération.mp3",
+    "la girafe": "fr/words/WeAAwKYcS06VmXw086yZ/la_girafe.mp3",
+    "la glace": "fr/words/WeAAwKYcS06VmXw086yZ/la_glace.mp3",
+    "la grand-mère": "fr/words/WeAAwKYcS06VmXw086yZ/la_grand-mère.mp3",
+    "la grenouille": "fr/words/WeAAwKYcS06VmXw086yZ/la_grenouille.mp3",
+    "la groseille": "fr/words/WeAAwKYcS06VmXw086yZ/la_groseille.mp3",
+    "la groseille à maquereau": "fr/words/WeAAwKYcS06VmXw086yZ/la_groseille_à_maquereau.mp3",
+    "la guêpe": "fr/words/WeAAwKYcS06VmXw086yZ/la_guêpe.mp3",
+    "la jambe": "fr/words/WeAAwKYcS06VmXw086yZ/la_jambe.mp3",
+    "la joue": "fr/words/WeAAwKYcS06VmXw086yZ/la_joue.mp3",
+    "la jumelle": "fr/words/WeAAwKYcS06VmXw086yZ/la_jumelle.mp3",
+    "la laisse": "fr/words/WeAAwKYcS06VmXw086yZ/la_laisse.mp3",
+    "la laitue": "fr/words/WeAAwKYcS06VmXw086yZ/la_laitue.mp3",
+    "la langue": "fr/words/WeAAwKYcS06VmXw086yZ/la_langue.mp3",
+    "la lèvre": "fr/words/WeAAwKYcS06VmXw086yZ/la_lèvre.mp3",
+    "la lumière": "fr/words/WeAAwKYcS06VmXw086yZ/la_lumière.mp3",
+    "la lune": "fr/words/WeAAwKYcS06VmXw086yZ/la_lune.mp3",
+    "la mâchoire": "fr/words/WeAAwKYcS06VmXw086yZ/la_mâchoire.mp3",
+    "la main": "fr/words/WeAAwKYcS06VmXw086yZ/la_main.mp3",
+    "la mairie": "fr/words/WeAAwKYcS06VmXw086yZ/la_mairie.mp3",
+    "la mamie": "fr/words/WeAAwKYcS06VmXw086yZ/la_mamie.mp3",
+    "la mariée": "fr/words/WeAAwKYcS06VmXw086yZ/la_mariée.mp3",
+    "la mer": "fr/words/WeAAwKYcS06VmXw086yZ/la_mer.mp3",
+    "la mère": "fr/words/WeAAwKYcS06VmXw086yZ/la_mère.mp3",
+    "la mine": "fr/words/WeAAwKYcS06VmXw086yZ/la_mine.mp3",
+    "la moto": "fr/words/WeAAwKYcS06VmXw086yZ/la_moto.mp3",
+    "la mouche": "fr/words/WeAAwKYcS06VmXw086yZ/la_mouche.mp3",
+    "la mouette": "fr/words/WeAAwKYcS06VmXw086yZ/la_mouette.mp3",
+    "la moustache": "fr/words/WeAAwKYcS06VmXw086yZ/la_moustache.mp3",
+    "la mûre": "fr/words/WeAAwKYcS06VmXw086yZ/la_mûre.mp3",
+    "la myrtille": "fr/words/WeAAwKYcS06VmXw086yZ/la_myrtille.mp3",
+    "la nageoire": "fr/words/WeAAwKYcS06VmXw086yZ/la_nageoire.mp3",
+    "la noisette": "fr/words/WeAAwKYcS06VmXw086yZ/la_noisette.mp3",
+    "la noix": "fr/words/WeAAwKYcS06VmXw086yZ/la_noix.mp3",
+    "la parenté": "fr/words/WeAAwKYcS06VmXw086yZ/la_parenté.mp3",
+    "la pastèque": "fr/words/WeAAwKYcS06VmXw086yZ/la_pastèque.mp3",
+    "la peau": "fr/words/WeAAwKYcS06VmXw086yZ/la_peau.mp3",
+    "la pêche": "fr/words/WeAAwKYcS06VmXw086yZ/la_pêche.mp3",
+    "la petite-fille": "fr/words/WeAAwKYcS06VmXw086yZ/la_petite-fille.mp3",
+    "la pharmacie": "fr/words/WeAAwKYcS06VmXw086yZ/la_pharmacie.mp3",
+    "la place": "fr/words/WeAAwKYcS06VmXw086yZ/la_place.mp3",
+    "la poire": "fr/words/WeAAwKYcS06VmXw086yZ/la_poire.mp3",
+    "la poitrine": "fr/words/WeAAwKYcS06VmXw086yZ/la_poitrine.mp3",
+    "la pomme": "fr/words/WeAAwKYcS06VmXw086yZ/la_pomme.mp3",
+    "la pomme de terre": "fr/words/WeAAwKYcS06VmXw086yZ/la_pomme_de_terre.mp3",
+    "la poudre": "fr/words/WeAAwKYcS06VmXw086yZ/la_poudre.mp3",
+    "la poule": "fr/words/WeAAwKYcS06VmXw086yZ/la_poule.mp3",
+    "la prune": "fr/words/WeAAwKYcS06VmXw086yZ/la_prune.mp3",
+    "la queue": "fr/words/WeAAwKYcS06VmXw086yZ/la_queue.mp3",
+    "la ride": "fr/words/WeAAwKYcS06VmXw086yZ/la_ride.mp3",
+    "la rivière": "fr/words/WeAAwKYcS06VmXw086yZ/la_rivière.mp3",
+    "la route": "fr/words/WeAAwKYcS06VmXw086yZ/la_route.mp3",
+    "la rue": "fr/words/WeAAwKYcS06VmXw086yZ/la_rue.mp3",
+    "la ruelle": "fr/words/WeAAwKYcS06VmXw086yZ/la_ruelle.mp3",
+    "la salade": "fr/words/WeAAwKYcS06VmXw086yZ/la_salade.mp3",
+    "la saucisse": "fr/words/WeAAwKYcS06VmXw086yZ/la_saucisse.mp3",
+    "la secrétaire": "fr/words/WeAAwKYcS06VmXw086yZ/la_secrétaire.mp3",
+    "la silhouette": "fr/words/WeAAwKYcS06VmXw086yZ/la_silhouette.mp3",
+    "la silhouette élancée": "fr/words/WeAAwKYcS06VmXw086yZ/la_silhouette_élancée.mp3",
+    "la sœur": "fr/words/WeAAwKYcS06VmXw086yZ/la_sœur.mp3",
+    "la soupe": "fr/words/WeAAwKYcS06VmXw086yZ/la_soupe.mp3",
+    "la souris": "fr/words/WeAAwKYcS06VmXw086yZ/la_souris.mp3",
+    "la statue": "fr/words/WeAAwKYcS06VmXw086yZ/la_statue.mp3",
+    "la tache de rousseur": "fr/words/WeAAwKYcS06VmXw086yZ/la_tache_de_rousseur.mp3",
+    "la taille": "fr/words/WeAAwKYcS06VmXw086yZ/la_taille.mp3",
+    "la tante": "fr/words/WeAAwKYcS06VmXw086yZ/la_tante.mp3",
+    "la tête": "fr/words/WeAAwKYcS06VmXw086yZ/la_tête.mp3",
+    "la tomate": "fr/words/WeAAwKYcS06VmXw086yZ/la_tomate.mp3",
+    "la vache": "fr/words/WeAAwKYcS06VmXw086yZ/la_vache.mp3",
+    "la viande": "fr/words/WeAAwKYcS06VmXw086yZ/la_viande.mp3",
+    "la ville": "fr/words/WeAAwKYcS06VmXw086yZ/la_ville.mp3",
+    "la vodka": "fr/words/WeAAwKYcS06VmXw086yZ/la_vodka.mp3",
+    "la voiture": "fr/words/WeAAwKYcS06VmXw086yZ/la_voiture.mp3",
+    "laid": "fr/words/WeAAwKYcS06VmXw086yZ/laid.mp3",
+    "le bacon": "fr/words/WeAAwKYcS06VmXw086yZ/le_bacon.mp3",
+    "le banc": "fr/words/WeAAwKYcS06VmXw086yZ/le_banc.mp3",
+    "le barman": "fr/words/WeAAwKYcS06VmXw086yZ/le_barman.mp3",
+    "le bateau": "fr/words/WeAAwKYcS06VmXw086yZ/le_bateau.mp3",
+    "le bâtiment": "fr/words/WeAAwKYcS06VmXw086yZ/le_bâtiment.mp3",
+    "le beau-père": "fr/words/WeAAwKYcS06VmXw086yZ/le_beau-père.mp3",
+    "le bébé": "fr/words/WeAAwKYcS06VmXw086yZ/le_bébé.mp3",
+    "le bec": "fr/words/WeAAwKYcS06VmXw086yZ/le_bec.mp3",
+    "le bétail": "fr/words/WeAAwKYcS06VmXw086yZ/le_bétail.mp3",
+    "le beurre": "fr/words/WeAAwKYcS06VmXw086yZ/le_beurre.mp3",
+    "le billet": "fr/words/WeAAwKYcS06VmXw086yZ/le_billet.mp3",
+    "le biscuit": "fr/words/WeAAwKYcS06VmXw086yZ/le_biscuit.mp3",
+    "le bonbon": "fr/words/WeAAwKYcS06VmXw086yZ/le_bonbon.mp3",
+    "le boucher": "fr/words/WeAAwKYcS06VmXw086yZ/le_boucher.mp3",
+    "le boulanger": "fr/words/WeAAwKYcS06VmXw086yZ/le_boulanger.mp3",
+    "le bras": "fr/words/WeAAwKYcS06VmXw086yZ/le_bras.mp3",
+    "le brocoli": "fr/words/WeAAwKYcS06VmXw086yZ/le_brocoli.mp3",
+    "le brouillard": "fr/words/WeAAwKYcS06VmXw086yZ/le_brouillard.mp3",
+    "le bus": "fr/words/WeAAwKYcS06VmXw086yZ/le_bus.mp3",
+    "le café": "fr/words/WeAAwKYcS06VmXw086yZ/le_café.mp3",
+    "le caissier": "fr/words/WeAAwKYcS06VmXw086yZ/le_caissier.mp3",
+    "le canard": "fr/words/WeAAwKYcS06VmXw086yZ/le_canard.mp3",
+    "le centre-ville": "fr/words/WeAAwKYcS06VmXw086yZ/le_centre-ville.mp3",
+    "le cerf": "fr/words/WeAAwKYcS06VmXw086yZ/le_cerf.mp3",
+    "le cerveau": "fr/words/WeAAwKYcS06VmXw086yZ/le_cerveau.mp3",
+    "le chameau": "fr/words/WeAAwKYcS06VmXw086yZ/le_chameau.mp3",
+    "le champignon": "fr/words/WeAAwKYcS06VmXw086yZ/le_champignon.mp3",
+    "le charpentier": "fr/words/WeAAwKYcS06VmXw086yZ/le_charpentier.mp3",
+    "le chasseur": "fr/words/WeAAwKYcS06VmXw086yZ/le_chasseur.mp3",
+    "le chat": "fr/words/WeAAwKYcS06VmXw086yZ/le_chat.mp3",
+    "le château": "fr/words/WeAAwKYcS06VmXw086yZ/le_château.mp3",
+    "le chauffeur de taxi": "fr/words/WeAAwKYcS06VmXw086yZ/le_chauffeur_de_taxi.mp3",
+    "le chef de service": "fr/words/WeAAwKYcS06VmXw086yZ/le_chef_de_service.mp3",
+    "le chemin de fer": "fr/words/WeAAwKYcS06VmXw086yZ/le_chemin_de_fer.mp3",
+    "le cheval": "fr/words/WeAAwKYcS06VmXw086yZ/le_cheval.mp3",
+    "le chien": "fr/words/WeAAwKYcS06VmXw086yZ/le_chien.mp3",
+    "le chiot": "fr/words/WeAAwKYcS06VmXw086yZ/le_chiot.mp3",
+    "le chou": "fr/words/WeAAwKYcS06VmXw086yZ/le_chou.mp3",
+    "le chou-fleur": "fr/words/WeAAwKYcS06VmXw086yZ/le_chou-fleur.mp3",
+    "le ciel": "fr/words/WeAAwKYcS06VmXw086yZ/le_ciel.mp3",
+    "le citron": "fr/words/WeAAwKYcS06VmXw086yZ/le_citron.mp3",
+    "le cochon": "fr/words/WeAAwKYcS06VmXw086yZ/le_cochon.mp3",
+    "le cochon d'Inde": "fr/words/WeAAwKYcS06VmXw086yZ/le_cochon_d'Inde.mp3",
+    "le cœur": "fr/words/WeAAwKYcS06VmXw086yZ/le_cœur.mp3",
+    "le coiffeur": "fr/words/WeAAwKYcS06VmXw086yZ/le_coiffeur.mp3",
+    "le coin de la rue": "fr/words/WeAAwKYcS06VmXw086yZ/le_coin_de_la_rue.mp3",
+    "le comptable": "fr/words/WeAAwKYcS06VmXw086yZ/le_comptable.mp3",
+    "le concepteur": "fr/words/WeAAwKYcS06VmXw086yZ/le_concepteur.mp3",
+    "le concombre": "fr/words/WeAAwKYcS06VmXw086yZ/le_concombre.mp3",
+    "le conjoint": "fr/words/WeAAwKYcS06VmXw086yZ/le_conjoint.mp3",
+    "le copain": "fr/words/WeAAwKYcS06VmXw086yZ/le_copain.mp3",
+    "le corps": "fr/words/WeAAwKYcS06VmXw086yZ/le_corps.mp3",
+    "le côté": "fr/words/WeAAwKYcS06VmXw086yZ/le_côté.mp3",
+    "le cou": "fr/words/WeAAwKYcS06VmXw086yZ/le_cou.mp3",
+    "le couple": "fr/words/WeAAwKYcS06VmXw086yZ/le_couple.mp3",
+    "le cousin": "fr/words/WeAAwKYcS06VmXw086yZ/le_cousin.mp3",
+    "le crâne": "fr/words/WeAAwKYcS06VmXw086yZ/le_crâne.mp3",
+    "le crocodile": "fr/words/WeAAwKYcS06VmXw086yZ/le_crocodile.mp3",
+    "le cuisinier": "fr/words/WeAAwKYcS06VmXw086yZ/le_cuisinier.mp3",
+    "le cygne": "fr/words/WeAAwKYcS06VmXw086yZ/le_cygne.mp3",
+    "le danseur": "fr/words/WeAAwKYcS06VmXw086yZ/le_danseur.mp3",
+    "le dauphin": "fr/words/WeAAwKYcS06VmXw086yZ/le_dauphin.mp3",
+    "le département": "fr/words/WeAAwKYcS06VmXw086yZ/le_département.mp3",
+    "le designer": "fr/words/WeAAwKYcS06VmXw086yZ/le_designer.mp3",
+    "le directeur": "fr/words/WeAAwKYcS06VmXw086yZ/le_directeur.mp3",
+    "le doigt": "fr/words/WeAAwKYcS06VmXw086yZ/le_doigt.mp3",
+    "le fermier": "fr/words/WeAAwKYcS06VmXw086yZ/le_fermier.mp3",
+    "le feu": "fr/words/WeAAwKYcS06VmXw086yZ/le_feu.mp3",
+    "le fiancé": "fr/words/WeAAwKYcS06VmXw086yZ/le_fiancé.mp3",
+    "le fils": "fr/words/WeAAwKYcS06VmXw086yZ/le_fils.mp3",
+    "le flanc": "fr/words/WeAAwKYcS06VmXw086yZ/le_flanc.mp3",
+    "le fleuve": "fr/words/WeAAwKYcS06VmXw086yZ/le_fleuve.mp3",
+    "le foie": "fr/words/WeAAwKYcS06VmXw086yZ/le_foie.mp3",
+    "le frère": "fr/words/WeAAwKYcS06VmXw086yZ/le_frère.mp3",
+    "le fromage": "fr/words/WeAAwKYcS06VmXw086yZ/le_fromage.mp3",
+    "le front": "fr/words/WeAAwKYcS06VmXw086yZ/le_front.mp3",
+    "le fruit": "fr/words/WeAAwKYcS06VmXw086yZ/le_fruit.mp3",
+    "le gâteau": "fr/words/WeAAwKYcS06VmXw086yZ/le_gâteau.mp3",
+    "le hamster": "fr/words/WeAAwKYcS06VmXw086yZ/le_hamster.mp3",
+    "le hérisson": "fr/words/WeAAwKYcS06VmXw086yZ/le_hérisson.mp3",
+    "le hibou": "fr/words/WeAAwKYcS06VmXw086yZ/le_hibou.mp3",
+    "le journaliste": "fr/words/WeAAwKYcS06VmXw086yZ/le_journaliste.mp3",
+    "le juge": "fr/words/WeAAwKYcS06VmXw086yZ/le_juge.mp3",
+    "le jumeau": "fr/words/WeAAwKYcS06VmXw086yZ/le_jumeau.mp3",
+    "le jus": "fr/words/WeAAwKYcS06VmXw086yZ/le_jus.mp3",
+    "le lait": "fr/words/WeAAwKYcS06VmXw086yZ/le_lait.mp3",
+    "le lapin": "fr/words/WeAAwKYcS06VmXw086yZ/le_lapin.mp3",
+    "le lard": "fr/words/WeAAwKYcS06VmXw086yZ/le_lard.mp3",
+    "le lièvre": "fr/words/WeAAwKYcS06VmXw086yZ/le_lièvre.mp3",
+    "le lion": "fr/words/WeAAwKYcS06VmXw086yZ/le_lion.mp3",
+    "le loup": "fr/words/WeAAwKYcS06VmXw086yZ/le_loup.mp3",
+    "le mâle": "fr/words/WeAAwKYcS06VmXw086yZ/le_mâle.mp3",
+    "le manager": "fr/words/WeAAwKYcS06VmXw086yZ/le_manager.mp3",
+    "le mannequin": "fr/words/WeAAwKYcS06VmXw086yZ/le_mannequin.mp3",
+    "le maquillage": "fr/words/WeAAwKYcS06VmXw086yZ/le_maquillage.mp3",
+    "le mari": "fr/words/WeAAwKYcS06VmXw086yZ/le_mari.mp3",
+    "le mariage": "fr/words/WeAAwKYcS06VmXw086yZ/le_mariage.mp3",
+    "le marié": "fr/words/WeAAwKYcS06VmXw086yZ/le_marié.mp3",
+    "le mécanicien": "fr/words/WeAAwKYcS06VmXw086yZ/le_mécanicien.mp3",
+    "le menton": "fr/words/WeAAwKYcS06VmXw086yZ/le_menton.mp3",
+    "le menuisier": "fr/words/WeAAwKYcS06VmXw086yZ/le_menuisier.mp3",
+    "le métro": "fr/words/WeAAwKYcS06VmXw086yZ/le_métro.mp3",
+    "le miel": "fr/words/WeAAwKYcS06VmXw086yZ/le_miel.mp3",
+    "le mineur": "fr/words/WeAAwKYcS06VmXw086yZ/le_mineur.mp3",
+    "le moineau": "fr/words/WeAAwKYcS06VmXw086yZ/le_moineau.mp3",
+    "le moustique": "fr/words/WeAAwKYcS06VmXw086yZ/le_moustique.mp3",
+    "le mouton": "fr/words/WeAAwKYcS06VmXw086yZ/le_mouton.mp3",
+    "le musée": "fr/words/WeAAwKYcS06VmXw086yZ/le_musée.mp3",
+    "le navire": "fr/words/WeAAwKYcS06VmXw086yZ/le_navire.mp3",
+    "le nez": "fr/words/WeAAwKYcS06VmXw086yZ/le_nez.mp3",
+    "le nid": "fr/words/WeAAwKYcS06VmXw086yZ/le_nid.mp3",
+    "le nuage": "fr/words/WeAAwKYcS06VmXw086yZ/le_nuage.mp3",
+    "le pain": "fr/words/WeAAwKYcS06VmXw086yZ/le_pain.mp3",
+    "le papillon": "fr/words/WeAAwKYcS06VmXw086yZ/le_papillon.mp3",
+    "le parent isolé": "fr/words/WeAAwKYcS06VmXw086yZ/le_parent_isolé.mp3",
+    "le partenaire": "fr/words/WeAAwKYcS06VmXw086yZ/le_partenaire.mp3",
+    "le pêcheur": "fr/words/WeAAwKYcS06VmXw086yZ/le_pêcheur.mp3",
+    "le peintre": "fr/words/WeAAwKYcS06VmXw086yZ/le_peintre.mp3",
+    "le père": "fr/words/WeAAwKYcS06VmXw086yZ/le_père.mp3",
+    "le perroquet": "fr/words/WeAAwKYcS06VmXw086yZ/le_perroquet.mp3",
+    "le petit ami": "fr/words/WeAAwKYcS06VmXw086yZ/le_petit_ami.mp3",
+    "le petit-fils": "fr/words/WeAAwKYcS06VmXw086yZ/le_petit-fils.mp3",
+    "le photographe": "fr/words/WeAAwKYcS06VmXw086yZ/le_photographe.mp3",
+    "le pied": "fr/words/WeAAwKYcS06VmXw086yZ/le_pied.mp3",
+    "le pigeon": "fr/words/WeAAwKYcS06VmXw086yZ/le_pigeon.mp3",
+    "le pilote": "fr/words/WeAAwKYcS06VmXw086yZ/le_pilote.mp3",
+    "le piment": "fr/words/WeAAwKYcS06VmXw086yZ/le_piment.mp3",
+    "le plombier": "fr/words/WeAAwKYcS06VmXw086yZ/le_plombier.mp3",
+    "le poireau": "fr/words/WeAAwKYcS06VmXw086yZ/le_poireau.mp3",
+    "le poisson": "fr/words/WeAAwKYcS06VmXw086yZ/le_poisson.mp3",
+    "le poivron": "fr/words/WeAAwKYcS06VmXw086yZ/le_poivron.mp3",
+    "le policier": "fr/words/WeAAwKYcS06VmXw086yZ/le_policier.mp3",
+    "le pompier": "fr/words/WeAAwKYcS06VmXw086yZ/le_pompier.mp3",
+    "le pont": "fr/words/WeAAwKYcS06VmXw086yZ/le_pont.mp3",
+    "le porc": "fr/words/WeAAwKYcS06VmXw086yZ/le_porc.mp3",
+    "le potiron": "fr/words/WeAAwKYcS06VmXw086yZ/le_potiron.mp3",
+    "le poulet": "fr/words/WeAAwKYcS06VmXw086yZ/le_poulet.mp3",
+    "le poumon": "fr/words/WeAAwKYcS06VmXw086yZ/le_poumon.mp3",
+    "le procureur": "fr/words/WeAAwKYcS06VmXw086yZ/le_procureur.mp3",
+    "le professeur": "fr/words/WeAAwKYcS06VmXw086yZ/le_professeur.mp3",
+    "le quartier": "fr/words/WeAAwKYcS06VmXw086yZ/le_quartier.mp3",
+    "le raisin": "fr/words/WeAAwKYcS06VmXw086yZ/le_raisin.mp3",
+    "le renard": "fr/words/WeAAwKYcS06VmXw086yZ/le_renard.mp3",
+    "le renne": "fr/words/WeAAwKYcS06VmXw086yZ/le_renne.mp3",
+    "le requin": "fr/words/WeAAwKYcS06VmXw086yZ/le_requin.mp3",
+    "le riz": "fr/words/WeAAwKYcS06VmXw086yZ/le_riz.mp3",
+    "le sandwich": "fr/words/WeAAwKYcS06VmXw086yZ/le_sandwich.mp3",
+    "le sang": "fr/words/WeAAwKYcS06VmXw086yZ/le_sang.mp3",
+    "le sanglier": "fr/words/WeAAwKYcS06VmXw086yZ/le_sanglier.mp3",
+    "le scientifique": "fr/words/WeAAwKYcS06VmXw086yZ/le_scientifique.mp3",
+    "le sculpteur": "fr/words/WeAAwKYcS06VmXw086yZ/le_sculpteur.mp3",
+    "le sel": "fr/words/WeAAwKYcS06VmXw086yZ/le_sel.mp3",
+    "le serpent": "fr/words/WeAAwKYcS06VmXw086yZ/le_serpent.mp3",
+    "le serrurier": "fr/words/WeAAwKYcS06VmXw086yZ/le_serrurier.mp3",
+    "le serveur": "fr/words/WeAAwKYcS06VmXw086yZ/le_serveur.mp3",
+    "le service": "fr/words/WeAAwKYcS06VmXw086yZ/le_service.mp3",
+    "le sésame": "fr/words/WeAAwKYcS06VmXw086yZ/le_sésame.mp3",
+    "le singe": "fr/words/WeAAwKYcS06VmXw086yZ/le_singe.mp3",
+    "le soleil": "fr/words/WeAAwKYcS06VmXw086yZ/le_soleil.mp3",
+    "le soudeur": "fr/words/WeAAwKYcS06VmXw086yZ/le_soudeur.mp3",
+    "le sourcil": "fr/words/WeAAwKYcS06VmXw086yZ/le_sourcil.mp3",
+    "le squelette": "fr/words/WeAAwKYcS06VmXw086yZ/le_squelette.mp3",
+    "le stagiaire": "fr/words/WeAAwKYcS06VmXw086yZ/le_stagiaire.mp3",
+    "le style": "fr/words/WeAAwKYcS06VmXw086yZ/le_style.mp3",
+    "le sucre": "fr/words/WeAAwKYcS06VmXw086yZ/le_sucre.mp3",
+    "le surpoids": "fr/words/WeAAwKYcS06VmXw086yZ/le_surpoids.mp3",
+    "le sushi": "fr/words/WeAAwKYcS06VmXw086yZ/le_sushi.mp3",
+    "le thé": "fr/words/WeAAwKYcS06VmXw086yZ/le_thé.mp3",
+    "le thon": "fr/words/WeAAwKYcS06VmXw086yZ/le_thon.mp3",
+    "le ticket": "fr/words/WeAAwKYcS06VmXw086yZ/le_ticket.mp3",
+    "le tigre": "fr/words/WeAAwKYcS06VmXw086yZ/le_tigre.mp3",
+    "le train": "fr/words/WeAAwKYcS06VmXw086yZ/le_train.mp3",
+    "le tram": "fr/words/WeAAwKYcS06VmXw086yZ/le_tram.mp3",
+    "le tramway": "fr/words/WeAAwKYcS06VmXw086yZ/le_tramway.mp3",
+    "le vélo": "fr/words/WeAAwKYcS06VmXw086yZ/le_vélo.mp3",
+    "le ventre": "fr/words/WeAAwKYcS06VmXw086yZ/le_ventre.mp3",
+    "le vétérinaire": "fr/words/WeAAwKYcS06VmXw086yZ/le_vétérinaire.mp3",
+    "le village": "fr/words/WeAAwKYcS06VmXw086yZ/le_village.mp3",
+    "le vin": "fr/words/WeAAwKYcS06VmXw086yZ/le_vin.mp3",
+    "le visage": "fr/words/WeAAwKYcS06VmXw086yZ/le_visage.mp3",
+    "les cheveux": "fr/words/WeAAwKYcS06VmXw086yZ/les_cheveux.mp3",
+    "les épinards": "fr/words/WeAAwKYcS06VmXw086yZ/les_épinards.mp3",
+    "les frites": "fr/words/WeAAwKYcS06VmXw086yZ/les_frites.mp3",
+    "les œufs brouillés": "fr/words/WeAAwKYcS06VmXw086yZ/les_œufs_brouillés.mp3",
+    "les parents": "fr/words/WeAAwKYcS06VmXw086yZ/les_parents.mp3",
+    "les proches": "fr/words/WeAAwKYcS06VmXw086yZ/les_proches.mp3",
+    "les traits du visage": "fr/words/WeAAwKYcS06VmXw086yZ/les_traits_du_visage.mp3",
+    "lever": "fr/words/WeAAwKYcS06VmXw086yZ/lever.mp3",
+    "long": "fr/words/WeAAwKYcS06VmXw086yZ/long.mp3",
+    "magnifique": "fr/words/WeAAwKYcS06VmXw086yZ/magnifique.mp3",
+    "maigre": "fr/words/WeAAwKYcS06VmXw086yZ/maigre.mp3",
+    "maigrir": "fr/words/WeAAwKYcS06VmXw086yZ/maigrir.mp3",
+    "marié": "fr/words/WeAAwKYcS06VmXw086yZ/marié.mp3",
+    "marron": "fr/words/WeAAwKYcS06VmXw086yZ/marron.mp3",
+    "menue": "fr/words/WeAAwKYcS06VmXw086yZ/menue.mp3",
+    "meugler": "fr/words/WeAAwKYcS06VmXw086yZ/meugler.mp3",
+    "miauler": "fr/words/WeAAwKYcS06VmXw086yZ/miauler.mp3",
+    "mignon": "fr/words/WeAAwKYcS06VmXw086yZ/mignon.mp3",
+    "mince": "fr/words/WeAAwKYcS06VmXw086yZ/mince.mp3",
+    "moche": "fr/words/WeAAwKYcS06VmXw086yZ/moche.mp3",
+    "mordre": "fr/words/WeAAwKYcS06VmXw086yZ/mordre.mp3",
+    "mûr": "fr/words/WeAAwKYcS06VmXw086yZ/mûr.mp3",
+    "neuf": "fr/words/WeAAwKYcS06VmXw086yZ/neuf.mp3",
+    "noir": "fr/words/WeAAwKYcS06VmXw086yZ/noir.mp3",
+    "nouveau": "fr/words/WeAAwKYcS06VmXw086yZ/nouveau.mp3",
+    "orange": "fr/words/WeAAwKYcS06VmXw086yZ/orange.mp3",
+    "perdre du poids": "fr/words/WeAAwKYcS06VmXw086yZ/perdre_du_poids.mp3",
+    "petit": "fr/words/WeAAwKYcS06VmXw086yZ/petit.mp3",
+    "petite": "fr/words/WeAAwKYcS06VmXw086yZ/petite.mp3",
+    "piquant": "fr/words/WeAAwKYcS06VmXw086yZ/piquant.mp3",
+    "pourpre": "fr/words/WeAAwKYcS06VmXw086yZ/pourpre.mp3",
+    "prendre du poids": "fr/words/WeAAwKYcS06VmXw086yZ/prendre_du_poids.mp3",
+    "propre": "fr/words/WeAAwKYcS06VmXw086yZ/propre.mp3",
+    "quatre": "fr/words/WeAAwKYcS06VmXw086yZ/quatre.mp3",
+    "rafraîchissant": "fr/words/WeAAwKYcS06VmXw086yZ/rafraîchissant.mp3",
+    "raide": "fr/words/WeAAwKYcS06VmXw086yZ/raide.mp3",
+    "remuer": "fr/words/WeAAwKYcS06VmXw086yZ/remuer.mp3",
+    "rose": "fr/words/WeAAwKYcS06VmXw086yZ/rose.mp3",
+    "rouge": "fr/words/WeAAwKYcS06VmXw086yZ/rouge.mp3",
+    "roux": "fr/words/WeAAwKYcS06VmXw086yZ/roux.mp3",
+    "sale": "fr/words/WeAAwKYcS06VmXw086yZ/sale.mp3",
+    "savoureux": "fr/words/WeAAwKYcS06VmXw086yZ/savoureux.mp3",
+    "se marier": "fr/words/WeAAwKYcS06VmXw086yZ/se_marier.mp3",
+    "séduisant": "fr/words/WeAAwKYcS06VmXw086yZ/séduisant.mp3",
+    "sept": "fr/words/WeAAwKYcS06VmXw086yZ/sept.mp3",
+    "six": "fr/words/WeAAwKYcS06VmXw086yZ/six.mp3",
+    "soulever": "fr/words/WeAAwKYcS06VmXw086yZ/soulever.mp3",
+    "sucré": "fr/words/WeAAwKYcS06VmXw086yZ/sucré.mp3",
+    "svelte": "fr/words/WeAAwKYcS06VmXw086yZ/svelte.mp3",
+    "trois": "fr/words/WeAAwKYcS06VmXw086yZ/trois.mp3",
+    "un": "fr/words/WeAAwKYcS06VmXw086yZ/un.mp3",
+    "urbain": "fr/words/WeAAwKYcS06VmXw086yZ/urbain.mp3",
+    "valider": "fr/words/WeAAwKYcS06VmXw086yZ/valider.mp3",
+    "vert": "fr/words/WeAAwKYcS06VmXw086yZ/vert.mp3",
+    "vieux": "fr/words/WeAAwKYcS06VmXw086yZ/vieux.mp3",
+    "vif": "fr/words/WeAAwKYcS06VmXw086yZ/vif.mp3",
+    "violet": "fr/words/WeAAwKYcS06VmXw086yZ/violet.mp3"
   }
 }

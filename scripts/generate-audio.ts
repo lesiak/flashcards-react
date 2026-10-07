@@ -2,10 +2,14 @@
  * Generates pronunciation audio for the cards in one or more deck files
  * using the ElevenLabs text-to-speech API and stores the mp3s under
  * audio-cache/{lang}/{group}/{voiceId}/{name}.mp3, recording each in
- * audio-cache/{lang}/{group}/manifest.json. The group is the deck group
- * folder (words, a1), so each group keeps its own clips. Changing a
- * language's voice starts a fresh directory and never overwrites earlier
- * recordings.
+ * audio-cache/{lang}/{group}/manifest.json keyed by the voiced text. The
+ * group is the deck group folder (words, a1), so each group keeps its own
+ * clips. Changing a language's voice starts a fresh directory and never
+ * overwrites earlier recordings.
+ *
+ * A clip whose file already exists on disk is reused without a TTS call
+ * even if the manifest does not list it, so rewording a card's marks or
+ * alternatives never re-voices what was already recorded.
  *
  * Usage:
  *   npm run audio -- public/wordfiles/es/words/17_Anatomy.json [more files...]
@@ -33,11 +37,7 @@ import { basename, dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { audioFilePath, deriveVoicedTexts } from '../src/service/AudioNaming.ts';
 import type { Lesson } from '../src/model/Lesson.ts';
-import type {
-  AudioManifest as Manifest,
-  AudioManifestEntry as ManifestEntry,
-  VoiceConfig,
-} from '../src/model/AudioManifest.ts';
+import type { AudioManifest as Manifest, VoiceConfig } from '../src/model/AudioManifest.ts';
 
 // ---------------------------------------------------------------- types
 
@@ -107,13 +107,13 @@ function loadManifest(lang: string, group: string, voice: VoiceConfig): Manifest
   const path = manifestPath(lang, group);
   if (existsSync(path)) {
     const manifest = readJson<Manifest>(path);
-    if (manifest.version !== 2) {
-      fail(`${path} is a version ${manifest.version} manifest; expected version 2 (lang/group/voice layout)`);
+    if (manifest.version !== 3) {
+      fail(`${path} is a version ${manifest.version} manifest; expected version 3 (clips keyed by voiced text)`);
     }
     manifest.voice = voice;
     return manifest;
   }
-  return { version: 2, lang, group, voice, entries: {} };
+  return { version: 3, lang, group, voice, clips: {} };
 }
 
 function saveManifest(manifest: Manifest): void {
@@ -172,31 +172,32 @@ async function processDeck(
   apiKey: string,
   counters: Counters,
 ): Promise<void> {
-  const { lang, group, voice } = manifest;
+  const { lang, group, voice, clips } = manifest;
   const lesson = readJson<Lesson>(file);
-  const groupEntries = manifest.entries;
-  // Detects two different texts collapsing onto one file name within this run.
-  const claimedNames = new Map<string, string>();
+  // Every file the manifest already uses, so a new text that would collapse
+  // onto the recording of a different text is refused.
+  const ownerOfFile = new Map<string, string>();
+  for (const [text, clipFile] of Object.entries(clips)) ownerOfFile.set(clipFile, text);
 
   console.log(`\n${lesson.name} (${lang}/${group}, ${lesson.cards.length} cards) <- ${file}`);
 
   for (const card of lesson.cards) {
-    const texts = deriveVoicedTexts(card.word);
-    const entries: ManifestEntry[] = [];
-
-    for (const text of texts) {
+    for (const text of deriveVoicedTexts(card.word)) {
       const relPath = audioFilePath(lang, group, voice.voiceId, text);
       const absPath = join(AUDIO_ROOT, relPath);
 
-      const previousOwner = claimedNames.get(relPath);
-      if (previousOwner !== undefined && previousOwner !== text) {
-        fail(`Name collision: "${previousOwner}" and "${text}" both map to ${relPath}`);
+      const owner = ownerOfFile.get(relPath);
+      if (owner !== undefined && owner !== text) {
+        fail(`Name collision: "${owner}" and "${text}" both map to ${relPath}`);
       }
-      claimedNames.set(relPath, text);
-      entries.push({ text, file: relPath });
+      ownerOfFile.set(relPath, text);
 
-      const alreadyRecorded = groupEntries[card.word]?.some((e) => e.file === relPath) ?? false;
-      if (alreadyRecorded && existsSync(absPath)) {
+      if (existsSync(absPath)) {
+        // Recorded earlier, possibly under a card that has since been reworded.
+        if (clips[text] !== relPath && !options.dryRun) {
+          clips[text] = relPath;
+          saveManifest(manifest);
+        }
         counters.skipped++;
         continue;
       }
@@ -211,20 +212,15 @@ async function processDeck(
         const audio = await synthesize(text, lang, voice, apiKey);
         mkdirSync(dirname(absPath), { recursive: true });
         writeFileSync(absPath, audio);
+        // Recorded only once the file is on disk, so a failed call is retried next run.
+        clips[text] = relPath;
+        saveManifest(manifest);
         console.log(`  generated  ${relPath}  <- "${text}"  (${audio.length} bytes)`);
         counters.generated++;
       } catch (error) {
         console.error(`  ERROR  ${relPath}: ${(error as Error).message}`);
         counters.errors++;
       }
-    }
-
-    // Only record entries whose files actually exist, so a failed call
-    // is retried on the next run instead of being marked done.
-    const existing = entries.filter((e) => options.dryRun || existsSync(join(AUDIO_ROOT, e.file)));
-    if (existing.length > 0 && !options.dryRun) {
-      groupEntries[card.word] = existing;
-      saveManifest(manifest);
     }
   }
 }
