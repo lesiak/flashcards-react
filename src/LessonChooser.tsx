@@ -1,22 +1,36 @@
-import {Lesson} from './model/Lesson.ts';
+import {Lesson, LessonGroup} from './model/Lesson.ts';
 import React from 'react';
 import {LessonIndexCard} from './LessonIndexCard.tsx';
+import {makeStyles, Subtitle1, tokens} from '@fluentui/react-components';
 
 interface LessonChooserProps {
-  lessons: Lesson[];
+  groups: LessonGroup[];
   onLessonSelected: (lesson: Lesson) => void;
 }
 
-export const LessonChooser: React.FC<LessonChooserProps> = ({lessons, onLessonSelected}) => {
+const useStyles = makeStyles({
+  heading: {
+    display: 'block',
+    marginTop: tokens.spacingVerticalL,
+    marginBottom: tokens.spacingVerticalXS,
+    marginLeft: '0.5rem',
+  },
+});
+
+export const LessonChooser: React.FC<LessonChooserProps> = ({groups, onLessonSelected}) => {
+  const styles = useStyles();
   return (
-    <div className="fl-grid">
-    {lessons.map(lesson =>
-      <div key={`${lesson.name}`} className="lesson-card fl-span4" onClick={() => onLessonSelected(lesson)}>
-        <LessonIndexCard lesson={lesson}/>
-      </div>)
-    }
-    </div>
-  )
-}
-
-
+    <>
+      {groups.map((group) =>
+        <section key={group.id}>
+          <Subtitle1 as="h2" className={styles.heading}>{group.name}</Subtitle1>
+          <div className="fl-grid">
+            {group.lessons.map((lesson) =>
+              <div key={lesson.id} className="lesson-card fl-span4" onClick={() => onLessonSelected(lesson)}>
+                <LessonIndexCard lesson={lesson}/>
+              </div>)}
+          </div>
+        </section>)}
+    </>
+  );
+};

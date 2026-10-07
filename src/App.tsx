@@ -10,12 +10,12 @@ import {Card} from "./model/Card.ts";
 import {LanguageContext} from "./context/LanguageContext.tsx";
 import {NavBar} from './NavBar.tsx';
 import {HomePage} from './HomePage.tsx';
-import {loadAllDLessonsIgnoringErrors, loadDeckNames} from './service/DeckLoader.ts';
-import {Lesson} from './model/Lesson.ts';
+import {loadDeckIndex, loadLessonGroups} from './service/DeckLoader.ts';
+import {LessonGroup} from './model/Lesson.ts';
 
 function App() {
   const {currentLanguage} = useContext(LanguageContext);
-  const [lessons, setLessons] = useState([] as Lesson[])
+  const [lessonGroups, setLessonGroups] = useState([] as LessonGroup[])
   const [allCards, setAllCards] = useState([] as Card[])
   const [selectedTab, setSelectedTab] = useState<TabValue>("homeTab");
 
@@ -52,11 +52,10 @@ function App() {
 
 useEffect(() => {
     const fetchData = async () => {
-      const deckNames = await loadDeckNames();
-      const lessons = await loadAllDLessonsIgnoringErrors(currentLanguage, deckNames);
-      setLessons(lessons);
-      const newAllCards = lessons.flatMap(l => l.cards)
-      setAllCards(newAllCards);
+      const index = await loadDeckIndex();
+      const groups = await loadLessonGroups(currentLanguage.code, index);
+      setLessonGroups(groups);
+      setAllCards(groups.flatMap(g => g.lessons).flatMap(l => l.cards));
     }
     fetchData().catch(console.error);
     }, [currentLanguage.code])
@@ -64,7 +63,7 @@ useEffect(() => {
     return (
       <>
         <NavBar selectedTab={selectedTab} onTabSelect={onTabSelect}/>
-        {selectedTab === 'homeTab' && <HomePage lessons={lessons}/>}
+        {selectedTab === 'homeTab' && <HomePage groups={lessonGroups}/>}
         {selectedTab === 'dictionaryTab' && <Dictionary cards={allCards} currentLanguage={currentLanguage}/>}
       </>
     )

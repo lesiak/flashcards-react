@@ -1,21 +1,35 @@
-[
-  "01_NatureBeginner",
-  "02_City",
-  "03_City_Transport",
-  "04_Colours",
-  "05_Numbers1to10",
-  "06_Fruits",
-  "07_Vegetables",
-  "08_Animals",
-  "09_Wild_Animals",
-  "10_Food",
-  "11_Appearance",
-  "12_Greetings",
-  "13_Family",
-  "14_Plants_Basic",
-  "15_Professions",
-  "16_AppearancePeople",
-  "17_Anatomy",
-  "A1_Level_Part1",
-  "A1_Level_Part2"
-]
+{
+  "groups": [
+    {
+      "id": "words",
+      "name": "Vocabulary",
+      "decks": [
+        "01_NatureBeginner",
+        "02_City",
+        "03_City_Transport",
+        "04_Colours",
+        "05_Numbers1to10",
+        "06_Fruits",
+        "07_Vegetables",
+        "08_Animals",
+        "09_Wild_Animals",
+        "10_Food",
+        "11_Appearance",
+        "12_Greetings",
+        "13_Family",
+        "14_Plants_Basic",
+        "15_Professions",
+        "16_AppearancePeople",
+        "17_Anatomy"
+      ]
+    },
+    {
+      "id": "a1",
+      "name": "A1 Level",
+      "decks": [
+        "A1_Level_Part1",
+        "A1_Level_Part2"
+      ]
+    }
+  ]
+}

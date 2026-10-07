@@ -1,8 +1,22 @@
 # Deck files
 
-One JSON file per deck per language: `public/wordfiles/<lang>/<Deck>.json`.
-`Lessons.json` lists the deck names shown in the app; a language that has
-no file for a listed deck simply skips it.
+One JSON file per deck per language: `public/wordfiles/<lang>/<group>/<Deck>.json`.
+Decks are organised in groups, each a folder under the language and a heading
+in the app: `words` holds the thematic vocabulary decks, `a1` the A1 course.
+`Lessons.json` lists the groups and the deck names in each; a language that
+has no file for a listed deck simply skips it, and a group with no decks for
+a language is not shown.
+
+```json
+{
+  "groups": [
+    { "id": "words", "name": "Vocabulary", "decks": ["01_NatureBeginner", "02_City"] },
+    { "id": "a1",    "name": "A1 Level",   "decks": ["A1_Level_Part1", "A1_Level_Part2"] }
+  ]
+}
+```
+
+A deck file:
 
 ```json
 {
