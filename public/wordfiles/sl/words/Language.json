@@ -1,0 +1,29 @@
+{
+  "name": "Language & Writing",
+  "description": "Language & Writing",
+  "image": "",
+  "cards": [
+    { "en": "language",             "word": "" },
+    { "en": "word",                 "word": "" },
+    { "en": "sentence",             "word": "" },
+    { "en": "alphabet",             "word": "" },
+    { "en": "grammar",              "word": "" },
+    { "en": "dictionary",           "word": "" },
+    { "en": "encyclopedia",         "word": "" },
+    { "en": "meaning",              "word": "" },
+    { "en": "read",                 "word": "" },
+    { "en": "write",                "word": "" },
+    { "en": "page",                 "word": "" },
+    { "en": "chapter",              "word": "" },
+    { "en": "a draft",              "word": "" },
+    { "en": "rule",                 "word": "" },
+    { "en": "principle",            "word": "" },
+    { "en": "example",              "word": "" },
+    { "en": "for example",          "word": "" },
+    { "en": "letter (of alphabet)", "word": "" },
+    { "en": "to translate",         "word": "" },
+    { "en": "translation",          "word": "" },
+    { "en": "to spell",             "word": "" },
+    { "en": "to pronounce",         "word": "" }
+  ]
+}

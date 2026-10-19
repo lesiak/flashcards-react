@@ -20,6 +20,8 @@
     { "en": "colourless",      "word": "kleurloos" },
     { "en": "light (colour)",  "word": "licht" },
     { "en": "dark (colour)",   "word": "donker" },
-    { "en": "bright (colour)", "word": "fel | helder" }
+    { "en": "bright (colour)", "word": "fel | helder" },
+    { "en": "pale",            "word": "" },
+    { "en": "to dye",          "word": "" }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Fruits",
+  "description": "Fruits",
+  "image": "https://images.unsplash.com/photo-1517496768306-b5a5d671f013",
+  "cards": [
+    { "en": "fruit",          "word": "" },
+    { "en": "apple",          "word": "" },
+    { "en": "pear",           "word": "" },
+    { "en": "plum",           "word": "" },
+    { "en": "cherry",         "word": "" },
+    { "en": "peach",          "word": "" },
+    { "en": "apricot",        "word": "" },
+    { "en": "strawberry",     "word": "" },
+    { "en": "raspberry",      "word": "" },
+    { "en": "blackberry",     "word": "" },
+    { "en": "blueberry",      "word": "" },
+    { "en": "grape",          "word": "" },
+    { "en": "currant",        "word": "" },
+    { "en": "gooseberry",     "word": "" },
+    { "en": "banana",         "word": "" },
+    { "en": "lemon",          "word": "" },
+    { "en": "pineapple",      "word": "" },
+    { "en": "watermelon",     "word": "" },
+    { "en": "orange (fruit)", "word": "" },
+    { "en": "nut",            "word": "" },
+    { "en": "hazelnut",       "word": "" },
+    { "en": "walnut",         "word": "" },
+    { "en": "almond",         "word": "" },
+    { "en": "ripe",           "word": "" }
+  ]
+}

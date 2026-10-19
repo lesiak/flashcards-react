@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "פועל | עובד" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "נגר" },
     { "en": "electrician", "word": "חשמלאי" },
     { "en": "plumber",     "word": "שרברב | אינסטלטור" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "קצב" },
     { "en": "hairdresser", "word": "ספר" },
     { "en": "watchmaker",  "word": "שען" },
-    { "en": "cleaner",     "word": "מנקה" }
+    { "en": "cleaner",     "word": "מנקה" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

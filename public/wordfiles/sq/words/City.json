@@ -6,6 +6,7 @@
     { "en": "city",              "word": "qytet" },
     { "en": "village",           "word": "fshat" },
     { "en": "town hall",         "word": "bashki" },
+    { "en": "town",              "word": "" },
     { "en": "(city) centre",     "word": "qendër" },
     { "en": "square (in city)",  "word": "shesh" },
     { "en": "street",            "word": "rrugë" },
@@ -23,9 +24,15 @@
     { "en": "bench",             "word": "stol" },
     { "en": "bank",              "word": "bankë" },
     { "en": "pharmacy",          "word": "farmaci" },
+    { "en": "prison",            "word": "" },
     { "en": "factory",           "word": "fabrikë" },
+    { "en": "police station",    "word": "" },
     { "en": "suburb",            "word": "periferi" },
     { "en": "neighbourhood",     "word": "lagje" },
-    { "en": "urban",             "word": "urban" }
+    { "en": "crowd",             "word": "" },
+    { "en": "crowded",           "word": "" },
+    { "en": "urban",             "word": "urban" },
+    { "en": "town planning",     "word": "" },
+    { "en": "map",               "word": "" }
   ]
 }

@@ -21,6 +21,9 @@
     { "en": "hot pepper",  "word": "(le) piment" },
     { "en": "lettuce",     "word": "(la) salade | (la) laitue" },
     { "en": "leek",        "word": "(le) poireau" },
-    { "en": "mushroom",    "word": "(le) champignon" }
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "(le) champignon" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
   ]
 }

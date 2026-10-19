@@ -4,6 +4,11 @@
   "image": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5",
   "cards": [
     { "en": "road",                                     "word": "tie" },
+    { "en": "motorway",                                 "word": "" },
+    { "en": "ring road",                                "word": "" },
+    { "en": "roundabout",                               "word": "" },
+    { "en": "intersection",                             "word": "" },
+    { "en": "junction",                                 "word": "" },
     { "en": "tunnel",                                   "word": "tunneli" },
     { "en": "underpass",                                "word": "alikulkutunneli" },
     { "en": "passage (between buildings, underground)", "word": "läpikulku" },
@@ -14,6 +19,11 @@
     { "en": "traffic lights",                           "word": "liikennevalot" },
     { "en": "traffic",                                  "word": "liikenne" },
     { "en": "traffic jam",                              "word": "liikenneruuhka" },
+    { "en": "rush hour",                                "word": "" },
+    { "en": "road sign",                                "word": "" },
+    { "en": "one-way (street)",                         "word": "" },
+    { "en": "speed limit",                              "word": "" },
+    { "en": "roadworks",                                "word": "" },
     { "en": "street lamp (lamppost)",                   "word": "lyhtypylväs" },
     { "en": "postbox",                                  "word": "postilaatikko" },
     { "en": "other side",                               "word": "toinen puoli | toisella puolella" }

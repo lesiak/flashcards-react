@@ -1,0 +1,31 @@
+{
+  "name": "Animal Life",
+  "description": "Animal Life",
+  "image": "",
+  "cards": [
+    { "en": "wing",                       "word": "" },
+    { "en": "beak",                       "word": "" },
+    { "en": "fin",                        "word": "" },
+    { "en": "gill",                       "word": "" },
+    { "en": "tail",                       "word": "" },
+    { "en": "horn",                       "word": "" },
+    { "en": "fur",                        "word": "" },
+    { "en": "to bite",                    "word": "" },
+    { "en": "to wag",                     "word": "" },
+    { "en": "to bark",                    "word": "" },
+    { "en": "to meow",                    "word": "" },
+    { "en": "to moo",                     "word": "" },
+    { "en": "to croak",                   "word": "" },
+    { "en": "to caw (raven)",             "word": "" },
+    { "en": "to hibernate",               "word": "" },
+    { "en": "to have (a pet)",            "word": "" },
+    { "en": "to feed",                    "word": "" },
+    { "en": "to stroke",                  "word": "" },
+    { "en": "to tame",                    "word": "" },
+    { "en": "to break in (a horse)",      "word": "" },
+    { "en": "to train (teach an animal)", "word": "" },
+    { "en": "to breed",                   "word": "" },
+    { "en": "extinction",                 "word": "" },
+    { "en": "poaching",                   "word": "" }
+  ]
+}

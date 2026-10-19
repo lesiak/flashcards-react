@@ -1,0 +1,33 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",               "word": "" },
+    { "en": "partner",                "word": "" },
+    { "en": "boyfriend",              "word": "" },
+    { "en": "girlfriend",             "word": "" },
+    { "en": "fiancé",                 "word": "" },
+    { "en": "engagement (betrothal)", "word": "" },
+    { "en": "bride",                  "word": "" },
+    { "en": "groom",                  "word": "" },
+    { "en": "marriage",               "word": "" },
+    { "en": "married",                "word": "" },
+    { "en": "to get married",         "word": "" },
+    { "en": "single, unmarried",      "word": "" },
+    { "en": "a divorce",              "word": "" },
+    { "en": "divorced",               "word": "" },
+    { "en": "a date",                 "word": "" },
+    { "en": "blind date",             "word": "" },
+    { "en": "lover",                  "word": "" },
+    { "en": "to seduce",              "word": "" },
+    { "en": "to win (the heart of)",  "word": "" },
+    { "en": "to hug",                 "word": "" },
+    { "en": "to cuddle",              "word": "" },
+    { "en": "to kiss",                "word": "" },
+    { "en": "a kiss",                 "word": "" },
+    { "en": "friend",                 "word": "" },
+    { "en": "friendship",             "word": "" },
+    { "en": "enemy",                  "word": "" }
+  ]
+}

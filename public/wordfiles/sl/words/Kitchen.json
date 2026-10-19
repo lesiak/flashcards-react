@@ -1,0 +1,33 @@
+{
+  "name": "Kitchen & Cooking",
+  "description": "Kitchen & Cooking",
+  "image": "",
+  "cards": [
+    { "en": "to cook",           "word": "" },
+    { "en": "to bake",           "word": "" },
+    { "en": "to mix",            "word": "" },
+    { "en": "to cut",            "word": "" },
+    { "en": "to slice",          "word": "" },
+    { "en": "to grate",          "word": "" },
+    { "en": "a grater",          "word": "" },
+    { "en": "smoked",            "word": "" },
+    { "en": "pot",               "word": "" },
+    { "en": "kettle",            "word": "" },
+    { "en": "oven",              "word": "" },
+    { "en": "gas cooker",        "word": "" },
+    { "en": "rice cooker",       "word": "" },
+    { "en": "knife",             "word": "" },
+    { "en": "spoon",             "word": "" },
+    { "en": "fork",              "word": "" },
+    { "en": "chopsticks",        "word": "" },
+    { "en": "cup",               "word": "" },
+    { "en": "plate",             "word": "" },
+    { "en": "glass (for water)", "word": "" },
+    { "en": "glass (for wine)",  "word": "" },
+    { "en": "frying pan",        "word": "" },
+    { "en": "to boil",           "word": "" },
+    { "en": "to fry",            "word": "" },
+    { "en": "recipe",            "word": "" },
+    { "en": "microwave",         "word": "" }
+  ]
+}

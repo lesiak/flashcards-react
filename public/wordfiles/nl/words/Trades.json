@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "(de) arbeider | (de) werknemer" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "(de) timmerman" },
     { "en": "electrician", "word": "(de) elektricien" },
     { "en": "plumber",     "word": "(de) loodgieter" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "(de) slager" },
     { "en": "hairdresser", "word": "(de) kapper" },
     { "en": "watchmaker",  "word": "(de) horlogemaker" },
-    { "en": "cleaner",     "word": "(de) schoonmaker" }
+    { "en": "cleaner",     "word": "(de) schoonmaker" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Wild Animals",
   "description": "Wild Animals",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1568961656559-ea30134003b6",
   "cards": [
     { "en": "bear",      "word": "דוב" },
     { "en": "wolf",      "word": "זאב" },
@@ -13,6 +13,7 @@
     { "en": "hedgehog",  "word": "קיפוד" },
     { "en": "hare",      "word": "ארנבת" },
     { "en": "squirrel",  "word": "סנאי" },
+    { "en": "bat",       "word": "" },
     { "en": "monkey",    "word": "קוף" },
     { "en": "lion",      "word": "אריה" },
     { "en": "tiger",     "word": "נמר" },
@@ -21,6 +22,8 @@
     { "en": "camel",     "word": "גמל" },
     { "en": "snake",     "word": "נחש" },
     { "en": "crocodile", "word": "תנין" },
-    { "en": "frog",      "word": "צפרדע" }
+    { "en": "frog",      "word": "צפרדע" },
+    { "en": "dinosaur",  "word": "" },
+    { "en": "mammal",    "word": "" }
   ]
 }

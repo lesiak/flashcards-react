@@ -1,0 +1,25 @@
+{
+  "name": "Film & TV",
+  "description": "Film & TV",
+  "image": "",
+  "cards": [
+    { "en": "movie",                             "word": "" },
+    { "en": "actor",                             "word": "" },
+    { "en": "actress",                           "word": "" },
+    { "en": "movie star",                        "word": "" },
+    { "en": "director",                          "word": "" },
+    { "en": "a role (acting)",                   "word": "" },
+    { "en": "to play (a role)",                  "word": "" },
+    { "en": "scenario",                          "word": "" },
+    { "en": "plot",                              "word": "" },
+    { "en": "the plot thickens",                 "word": "" },
+    { "en": "series",                            "word": "" },
+    { "en": "an episode",                        "word": "" },
+    { "en": "channel",                           "word": "" },
+    { "en": "programme",                         "word": "" },
+    { "en": "a comeback",                        "word": "" },
+    { "en": "make a comeback",                   "word": "" },
+    { "en": "entertainment",                     "word": "" },
+    { "en": "perform (in front of an audience)", "word": "" }
+  ]
+}

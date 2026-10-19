@@ -1,0 +1,33 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "" },
+    { "en": "bricklayer",  "word": "" },
+    { "en": "carpenter",   "word": "" },
+    { "en": "electrician", "word": "" },
+    { "en": "plumber",     "word": "" },
+    { "en": "mechanic",    "word": "" },
+    { "en": "locksmith",   "word": "" },
+    { "en": "welder",      "word": "" },
+    { "en": "miner",       "word": "" },
+    { "en": "mine",        "word": "" },
+    { "en": "fisherman",   "word": "" },
+    { "en": "hunter",      "word": "" },
+    { "en": "baker",       "word": "" },
+    { "en": "butcher",     "word": "" },
+    { "en": "hairdresser", "word": "" },
+    { "en": "watchmaker",  "word": "" },
+    { "en": "cleaner",     "word": "" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
+  ]
+}

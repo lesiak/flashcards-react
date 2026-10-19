@@ -3,10 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
   "cards": [
+    { "en": "food",           "word": "" },
     { "en": "bread",          "word": "לחם" },
     { "en": "flour",          "word": "קמח" },
     { "en": "rice",           "word": "אורז" },
     { "en": "meat",           "word": "בשר" },
+    { "en": "poultry",        "word": "" },
+    { "en": "turkey",         "word": "" },
     { "en": "bacon",          "word": "בייקון" },
     { "en": "sausage",        "word": "נקניקייה | נקניק" },
     { "en": "egg",            "word": "ביצה" },
@@ -31,6 +34,10 @@
     { "en": "cake",           "word": "עוגה" },
     { "en": "cookie",         "word": "עוגייה" },
     { "en": "candy",          "word": "סוכרייה | ממתק" },
-    { "en": "ice cream",      "word": "גלידה" }
+    { "en": "ice cream",      "word": "גלידה" },
+    { "en": "fast food",      "word": "" },
+    { "en": "pepper (spice)", "word": "" },
+    { "en": "fish (food)",    "word": "" },
+    { "en": "pasta",          "word": "" }
   ]
 }

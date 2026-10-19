@@ -6,6 +6,7 @@
     { "en": "city",              "word": "cidade" },
     { "en": "village",           "word": "" },
     { "en": "town hall",         "word": "prefeitura" },
+    { "en": "town",              "word": "" },
     { "en": "(city) centre",     "word": "centro (da cidade)" },
     { "en": "square (in city)",  "word": "aukio" },
     { "en": "street",            "word": "rua" },
@@ -23,9 +24,15 @@
     { "en": "bench",             "word": "banco" },
     { "en": "bank",              "word": "banco" },
     { "en": "pharmacy",          "word": "farmacia" },
+    { "en": "prison",            "word": "" },
     { "en": "factory",           "word": "fábrica" },
+    { "en": "police station",    "word": "" },
     { "en": "suburb",            "word": "subúrbio" },
     { "en": "neighbourhood",     "word": "bairro" },
-    { "en": "urban",             "word": "urbano" }
+    { "en": "crowd",             "word": "" },
+    { "en": "crowded",           "word": "" },
+    { "en": "urban",             "word": "urbano" },
+    { "en": "town planning",     "word": "" },
+    { "en": "map",               "word": "" }
   ]
 }

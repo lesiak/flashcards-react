@@ -20,6 +20,8 @@
     { "en": "colourless",      "word": "חסר צבע" },
     { "en": "light (colour)",  "word": "בהיר" },
     { "en": "dark (colour)",   "word": "כהה" },
-    { "en": "bright (colour)", "word": "עז | בוהק" }
+    { "en": "bright (colour)", "word": "עז | בוהק" },
+    { "en": "pale",            "word": "" },
+    { "en": "to dye",          "word": "" }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Wild Animals",
   "description": "Wild Animals",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1568961656559-ea30134003b6",
   "cards": [
     { "en": "bear",      "word": "ayı" },
     { "en": "wolf",      "word": "kurt" },
@@ -13,6 +13,7 @@
     { "en": "hedgehog",  "word": "kirpi" },
     { "en": "hare",      "word": "tavşan" },
     { "en": "squirrel",  "word": "sincap" },
+    { "en": "bat",       "word": "" },
     { "en": "monkey",    "word": "apina" },
     { "en": "lion",      "word": "leijona" },
     { "en": "tiger",     "word": "tiikeri" },
@@ -22,6 +23,8 @@
     { "en": "snake",     "word": "käärme" },
     { "en": "crocodile", "word": "krokotiili" },
     { "en": "frog",      "word": "sammakko" },
+    { "en": "dinosaur",  "word": "" },
+    { "en": "mammal",    "word": "" },
     { "en": "caracal",   "word": "karakulak" }
   ]
 }

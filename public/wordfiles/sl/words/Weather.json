@@ -1,9 +1,35 @@
 {
   "name": "Weather",
   "description": "Weather",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1517610725865-58531a8a5a02",
   "cards": [
-    { "en": "fog", "word": "megla" },
-    { "en": "ice", "word": "led" }
+    { "en": "weather",                 "word": "" },
+    { "en": "climate",                 "word": "" },
+    { "en": "rain",                    "word": "" },
+    { "en": "to rain",                 "word": "" },
+    { "en": "snow",                    "word": "" },
+    { "en": "to snow",                 "word": "" },
+    { "en": "a snowfall",              "word": "" },
+    { "en": "snowstorm",               "word": "" },
+    { "en": "wind",                    "word": "" },
+    { "en": "fog",                     "word": "megla" },
+    { "en": "frost",                   "word": "" },
+    { "en": "ice",                     "word": "led" },
+    { "en": "storm",                   "word": "" },
+    { "en": "lightning",               "word": "" },
+    { "en": "thunder",                 "word": "" },
+    { "en": "cloudy",                  "word": "" },
+    { "en": "sunny",                   "word": "" },
+    { "en": "warm",                    "word": "" },
+    { "en": "cold",                    "word": "" },
+    { "en": "hot",                     "word": "" },
+    { "en": "dry",                     "word": "" },
+    { "en": "wet",                     "word": "" },
+    { "en": "thermometer",             "word": "" },
+    { "en": "flood",                   "word": "" },
+    { "en": "to subside (snow, wind)", "word": "" },
+    { "en": "moonlight",               "word": "" },
+    { "en": "degree",                  "word": "" },
+    { "en": "temperature",             "word": "" }
   ]
 }

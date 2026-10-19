@@ -21,6 +21,9 @@
     { "en": "hot pepper",  "word": "feferon | čili" },
     { "en": "lettuce",     "word": "solata | zelena solata" },
     { "en": "leek",        "word": "por" },
-    { "en": "mushroom",    "word": "goba" }
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "goba" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
   ]
 }

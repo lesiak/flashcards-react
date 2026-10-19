@@ -21,6 +21,9 @@
     { "en": "hot pepper",  "word": "פלפל חריף" },
     { "en": "lettuce",     "word": "חסה" },
     { "en": "leek",        "word": "כרישה" },
-    { "en": "mushroom",    "word": "פטרייה" }
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "פטרייה" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
   ]
 }

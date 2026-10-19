@@ -1,7 +1,7 @@
 {
   "name": "Wild Animals",
   "description": "Wild Animals",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1568961656559-ea30134003b6",
   "cards": [
     { "en": "bear",      "word": "medvjed" },
     { "en": "wolf",      "word": "vuk" },
@@ -13,6 +13,7 @@
     { "en": "hedgehog",  "word": "jež" },
     { "en": "hare",      "word": "zec" },
     { "en": "squirrel",  "word": "vjeverica" },
+    { "en": "bat",       "word": "" },
     { "en": "monkey",    "word": "majmun" },
     { "en": "lion",      "word": "lav" },
     { "en": "tiger",     "word": "tigar" },
@@ -21,6 +22,8 @@
     { "en": "camel",     "word": "deva" },
     { "en": "snake",     "word": "zmija" },
     { "en": "crocodile", "word": "krokodil" },
-    { "en": "frog",      "word": "žaba" }
+    { "en": "frog",      "word": "žaba" },
+    { "en": "dinosaur",  "word": "" },
+    { "en": "mammal",    "word": "" }
   ]
 }

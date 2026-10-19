@@ -7,6 +7,11 @@
     { "en": "two",   "word": "kaksi" },
     { "en": "three", "word": "kolme" },
     { "en": "four",  "word": "neljä" },
-    { "en": "five",  "word": "viisi" }
+    { "en": "five",  "word": "viisi" },
+    { "en": "six",   "word": "" },
+    { "en": "seven", "word": "" },
+    { "en": "eight", "word": "" },
+    { "en": "nine",  "word": "" },
+    { "en": "ten",   "word": "" }
   ]
 }

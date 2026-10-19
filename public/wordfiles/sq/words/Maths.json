@@ -1,0 +1,31 @@
+{
+  "name": "Maths",
+  "description": "Maths",
+  "image": "",
+  "cards": [
+    { "en": "number",         "word": "" },
+    { "en": "to count",       "word": "" },
+    { "en": "to calculate",   "word": "" },
+    { "en": "calculator",     "word": "" },
+    { "en": "plus (maths)",   "word": "" },
+    { "en": "minus (maths)",  "word": "" },
+    { "en": "to add (maths)", "word": "" },
+    { "en": "to subtract",    "word": "" },
+    { "en": "to multiply",    "word": "" },
+    { "en": "to divide",      "word": "" },
+    { "en": "equation",       "word": "" },
+    { "en": "equal (to)",     "word": "" },
+    { "en": "point (maths)",  "word": "" },
+    { "en": "axis",           "word": "" },
+    { "en": "infinity",       "word": "" },
+    { "en": "triangle",       "word": "" },
+    { "en": "square",         "word": "" },
+    { "en": "circle",         "word": "" },
+    { "en": "disk (maths)",   "word": "" },
+    { "en": "minimum",        "word": "" },
+    { "en": "maximum",        "word": "" },
+    { "en": "line (maths)",   "word": "" },
+    { "en": "sum",            "word": "" },
+    { "en": "average",        "word": "" }
+  ]
+}

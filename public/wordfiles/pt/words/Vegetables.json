@@ -1,0 +1,29 @@
+{
+  "name": "Vegetables",
+  "description": "Vegetables",
+  "image": "https://images.unsplash.com/photo-1522184216316-3c25379f9760",
+  "cards": [
+    { "en": "garlic",      "word": "" },
+    { "en": "onion",       "word": "" },
+    { "en": "cucumber",    "word": "" },
+    { "en": "carrot",      "word": "" },
+    { "en": "aubergine",   "word": "" },
+    { "en": "potato",      "word": "" },
+    { "en": "tomato",      "word": "" },
+    { "en": "pumpkin",     "word": "" },
+    { "en": "courgette",   "word": "" },
+    { "en": "avocado",     "word": "" },
+    { "en": "cabbage",     "word": "" },
+    { "en": "cauliflower", "word": "" },
+    { "en": "broccoli",    "word": "" },
+    { "en": "spinach",     "word": "" },
+    { "en": "bell pepper", "word": "" },
+    { "en": "hot pepper",  "word": "" },
+    { "en": "lettuce",     "word": "" },
+    { "en": "leek",        "word": "" },
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
+  ]
+}

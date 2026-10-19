@@ -21,6 +21,9 @@
     { "en": "hot pepper",  "word": "(de) chilipeper | (het) pepertje" },
     { "en": "lettuce",     "word": "(de) sla" },
     { "en": "leek",        "word": "(de) prei" },
-    { "en": "mushroom",    "word": "(de) paddenstoel | (de) champignon" }
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "(de) paddenstoel | (de) champignon" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
   ]
 }

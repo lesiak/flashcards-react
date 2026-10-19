@@ -18,15 +18,21 @@
     { "en": "twin",          "word": "תאום" },
     { "en": "grandmother",   "word": "סבתא" },
     { "en": "grandma",       "word": "סבתא'לה" },
+    { "en": "grandfather",   "word": "" },
+    { "en": "grandpa",       "word": "" },
     { "en": "grandson",      "word": "נכד" },
     { "en": "granddaughter", "word": "נכדה" },
     { "en": "uncle",         "word": "דוד" },
     { "en": "aunt",          "word": "דודה" },
     { "en": "cousin",        "word": "בן דוד | בת דודה" },
+    { "en": "nephew",        "word": "" },
+    { "en": "niece",         "word": "" },
     { "en": "stepmother",    "word": "אם חורגת" },
     { "en": "stepfather",    "word": "אב חורג" },
     { "en": "relatives",     "word": "קרובי משפחה" },
     { "en": "generation",    "word": "דור" },
-    { "en": "single parent", "word": "הורה יחיד | הורה עצמאי" }
+    { "en": "single parent", "word": "הורה יחיד | הורה עצמאי" },
+    { "en": "father-in-law", "word": "" },
+    { "en": "mother-in-law", "word": "" }
   ]
 }

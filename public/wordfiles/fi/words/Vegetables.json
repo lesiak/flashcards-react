@@ -21,6 +21,9 @@
     { "en": "hot pepper",  "word": "kuuma pippuria" },
     { "en": "lettuce",     "word": "lehtisalaatti" },
     { "en": "leek",        "word": "purjo" },
-    { "en": "mushroom",    "word": "sieni" }
+    { "en": "corn",        "word": "" },
+    { "en": "mushroom",    "word": "sieni" },
+    { "en": "peas",        "word": "" },
+    { "en": "beans",       "word": "" }
   ]
 }

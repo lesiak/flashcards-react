@@ -158,7 +158,13 @@ function listedDecks(index: DeckIndex): Map<string, Set<string>> {
 /** Clip file name -> voiced text it came from, per lang/group, to catch two texts that would share a file. */
 type ClipNames = Map<string, string>;
 
-function checkDeck(path: string, where: string, group: string, clipNames: ClipNames): void {
+/** Cards seen and cards without a word, summed over a language's course so untranslated decks give one warning, not hundreds. */
+interface CardStats {
+  cards: number;
+  untranslated: number;
+}
+
+function checkDeck(path: string, where: string, group: string, clipNames: ClipNames, stats: CardStats): void {
   const raw = readJson(path, where);
   if (raw === undefined) return;
   if (!isRecord(raw)) {
@@ -232,7 +238,8 @@ function checkDeck(path: string, where: string, group: string, clipNames: ClipNa
       clipNames.set(file, text);
     }
   });
-  if (untranslated > 0) warn(where, `${untranslated} of ${deck.cards.length} cards have no "word" yet`);
+  stats.cards += deck.cards.length;
+  stats.untranslated += untranslated;
 }
 
 // ---------------------------------------------------------------- manifests
@@ -268,6 +275,7 @@ function main(): void {
         continue;
       }
       const clipNames: ClipNames = new Map();
+      const stats: CardStats = {cards: 0, untranslated: 0};
       for (const name of names) {
         const deckName = name.slice(0, -'.json'.length);
         const where = `${lang}/${group}/${name}`;
@@ -277,7 +285,10 @@ function main(): void {
           error(where, `deck is not listed under course "${group}" in ${INDEX_FILE}`);
         }
         files++;
-        checkDeck(join(dir, name), where, group, clipNames);
+        checkDeck(join(dir, name), where, group, clipNames, stats);
+      }
+      if (stats.untranslated > 0) {
+        warn(`${lang}/${group}`, `${stats.untranslated} of ${stats.cards} cards have no "word" yet`);
       }
       checkManifest(lang, group);
     }

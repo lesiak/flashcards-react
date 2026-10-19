@@ -3,6 +3,29 @@
   "description": "Streets & Traffic",
   "image": "",
   "cards": [
-    { "en": "road", "word": "(la) route" }
+    { "en": "road",                                     "word": "(la) route" },
+    { "en": "motorway",                                 "word": "" },
+    { "en": "ring road",                                "word": "" },
+    { "en": "roundabout",                               "word": "" },
+    { "en": "intersection",                             "word": "" },
+    { "en": "junction",                                 "word": "" },
+    { "en": "tunnel",                                   "word": "" },
+    { "en": "underpass",                                "word": "" },
+    { "en": "passage (between buildings, underground)", "word": "" },
+    { "en": "passage (way through)",                    "word": "" },
+    { "en": "pedestrian",                               "word": "" },
+    { "en": "pedestrian crossing",                      "word": "" },
+    { "en": "to cross (a road)",                        "word": "" },
+    { "en": "traffic lights",                           "word": "" },
+    { "en": "traffic",                                  "word": "" },
+    { "en": "traffic jam",                              "word": "" },
+    { "en": "rush hour",                                "word": "" },
+    { "en": "road sign",                                "word": "" },
+    { "en": "one-way (street)",                         "word": "" },
+    { "en": "speed limit",                              "word": "" },
+    { "en": "roadworks",                                "word": "" },
+    { "en": "street lamp (lamppost)",                   "word": "" },
+    { "en": "postbox",                                  "word": "" },
+    { "en": "other side",                               "word": "" }
   ]
 }

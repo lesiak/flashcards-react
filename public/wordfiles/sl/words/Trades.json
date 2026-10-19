@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "delavec" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "mizar | tesar" },
     { "en": "electrician", "word": "električar" },
     { "en": "plumber",     "word": "vodovodar | inštalater" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "mesar" },
     { "en": "hairdresser", "word": "frizer" },
     { "en": "watchmaker",  "word": "urar" },
-    { "en": "cleaner",     "word": "čistilec | čistilka" }
+    { "en": "cleaner",     "word": "čistilec | čistilka" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

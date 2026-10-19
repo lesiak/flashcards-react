@@ -41,6 +41,11 @@ export async function loadLesson(lang: string, group: string, deck: string): Pro
       console.log(`Invalid deck ${deckUrl}`);
     }
   }
+  // Every language lists the same cards; one with an empty word is not translated yet and is not shown.
+  lesson.cards = lesson.cards.filter((card) => card.word !== undefined && card.word.length > 0);
+  if (lesson.cards.length === 0) {
+    throw new Error(`Deck ${deckUrl} has no translated cards`);
+  }
   lesson.group = group;
   lesson.id = `${group}/${deck}`;
   return lesson;

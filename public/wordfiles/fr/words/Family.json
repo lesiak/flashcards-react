@@ -18,15 +18,21 @@
     { "en": "twin",          "word": "(le) jumeau | (la) jumelle" },
     { "en": "grandmother",   "word": "(la) grand-mère" },
     { "en": "grandma",       "word": "(la) mamie" },
+    { "en": "grandfather",   "word": "" },
+    { "en": "grandpa",       "word": "" },
     { "en": "grandson",      "word": "(le) petit-fils" },
     { "en": "granddaughter", "word": "(la) petite-fille" },
     { "en": "uncle",         "word": "(l')oncle" },
     { "en": "aunt",          "word": "(la) tante" },
     { "en": "cousin",        "word": "(le) cousin | (la) cousine" },
+    { "en": "nephew",        "word": "" },
+    { "en": "niece",         "word": "" },
     { "en": "stepmother",    "word": "(la) belle-mère" },
     { "en": "stepfather",    "word": "(le) beau-père" },
     { "en": "relatives",     "word": "(les) proches | (la) parenté" },
     { "en": "generation",    "word": "(la) génération" },
-    { "en": "single parent", "word": "(le) parent isolé" }
+    { "en": "single parent", "word": "(le) parent isolé" },
+    { "en": "father-in-law", "word": "" },
+    { "en": "mother-in-law", "word": "" }
   ]
 }

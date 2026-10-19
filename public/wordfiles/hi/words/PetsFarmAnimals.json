@@ -1,0 +1,33 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "animal",           "word": "" },
+    { "en": "cat",              "word": "" },
+    { "en": "dog",              "word": "" },
+    { "en": "puppy",            "word": "" },
+    { "en": "hamster",          "word": "" },
+    { "en": "guinea pig",       "word": "" },
+    { "en": "rabbit",           "word": "" },
+    { "en": "mouse (animal)",   "word": "" },
+    { "en": "horse",            "word": "" },
+    { "en": "cow",              "word": "" },
+    { "en": "pig",              "word": "" },
+    { "en": "sheep",            "word": "" },
+    { "en": "goat",             "word": "" },
+    { "en": "donkey",           "word": "" },
+    { "en": "chicken",          "word": "" },
+    { "en": "duck",             "word": "" },
+    { "en": "goose",            "word": "" },
+    { "en": "turkey (animal)",  "word": "" },
+    { "en": "cattle",           "word": "" },
+    { "en": "female (animals)", "word": "" },
+    { "en": "male (animals)",   "word": "" },
+    { "en": "cage",             "word": "" },
+    { "en": "aquarium",         "word": "" },
+    { "en": "leash",            "word": "" },
+    { "en": "pet crate",        "word": "" },
+    { "en": "vet",              "word": "" }
+  ]
+}

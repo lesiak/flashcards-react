@@ -1,0 +1,25 @@
+{
+  "name": "Books & Media",
+  "description": "Books & Media",
+  "image": "",
+  "cards": [
+    { "en": "book",               "word": "" },
+    { "en": "a paperback",        "word": "" },
+    { "en": "literature",         "word": "" },
+    { "en": "story",              "word": "" },
+    { "en": "tale",               "word": "" },
+    { "en": "poem",               "word": "" },
+    { "en": "poet",               "word": "" },
+    { "en": "writer",             "word": "" },
+    { "en": "newspaper",          "word": "" },
+    { "en": "magazine",           "word": "" },
+    { "en": "news",               "word": "" },
+    { "en": "press (publishing)", "word": "" },
+    { "en": "journalism",         "word": "" },
+    { "en": "to publish",         "word": "" },
+    { "en": "publishing house",   "word": "" },
+    { "en": "interview",          "word": "" },
+    { "en": "enquiry",            "word": "" },
+    { "en": "fan",                "word": "" }
+  ]
+}

@@ -20,6 +20,8 @@
     { "en": "colourless",      "word": "անգույն" },
     { "en": "light (colour)",  "word": "բաց" },
     { "en": "dark (colour)",   "word": "մուգ" },
-    { "en": "bright (colour)", "word": "վառ" }
+    { "en": "bright (colour)", "word": "վառ" },
+    { "en": "pale",            "word": "" },
+    { "en": "to dye",          "word": "" }
   ]
 }

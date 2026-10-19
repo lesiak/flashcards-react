@@ -3,10 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1610439901577-cf832e5c2320",
   "cards": [
+    { "en": "food",           "word": "" },
     { "en": "bread",          "word": "leipä" },
     { "en": "flour",          "word": "jauhot" },
     { "en": "rice",           "word": "riisi" },
     { "en": "meat",           "word": "liha" },
+    { "en": "poultry",        "word": "" },
+    { "en": "turkey",         "word": "" },
     { "en": "bacon",          "word": "pekoni" },
     { "en": "sausage",        "word": "makkara" },
     { "en": "egg",            "word": "muna" },
@@ -31,6 +34,10 @@
     { "en": "cake",           "word": "kakku" },
     { "en": "cookie",         "word": "pikkuleipä" },
     { "en": "candy",          "word": "karkki | karamelli" },
-    { "en": "ice cream",      "word": "jätski | jäätelö" }
+    { "en": "ice cream",      "word": "jätski | jäätelö" },
+    { "en": "fast food",      "word": "" },
+    { "en": "pepper (spice)", "word": "" },
+    { "en": "fish (food)",    "word": "" },
+    { "en": "pasta",          "word": "" }
   ]
 }

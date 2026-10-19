@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "puuseppä" },
     { "en": "electrician", "word": "sähköasentaja | sähkömies" },
     { "en": "plumber",     "word": "putkimies" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "teurastaja" },
     { "en": "hairdresser", "word": "kampaaja" },
     { "en": "watchmaker",  "word": "kelloseppä" },
-    { "en": "cleaner",     "word": "siivooja" }
+    { "en": "cleaner",     "word": "siivooja" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

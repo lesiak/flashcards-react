@@ -1,7 +1,7 @@
 {
   "name": "Wild Animals",
   "description": "Wild Animals",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1568961656559-ea30134003b6",
   "cards": [
     { "en": "bear",      "word": "(l')ours" },
     { "en": "wolf",      "word": "(le) loup" },
@@ -13,6 +13,7 @@
     { "en": "hedgehog",  "word": "(le) hérisson" },
     { "en": "hare",      "word": "(le) lièvre" },
     { "en": "squirrel",  "word": "(l')écureuil" },
+    { "en": "bat",       "word": "" },
     { "en": "monkey",    "word": "(le) singe" },
     { "en": "lion",      "word": "(le) lion" },
     { "en": "tiger",     "word": "(le) tigre" },
@@ -21,6 +22,8 @@
     { "en": "camel",     "word": "(le) chameau" },
     { "en": "snake",     "word": "(le) serpent" },
     { "en": "crocodile", "word": "(le) crocodile" },
-    { "en": "frog",      "word": "(la) grenouille" }
+    { "en": "frog",      "word": "(la) grenouille" },
+    { "en": "dinosaur",  "word": "" },
+    { "en": "mammal",    "word": "" }
   ]
 }

@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "բանվոր" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "ատաղձագործ | հյուսն" },
     { "en": "electrician", "word": "էլեկտրիկ" },
     { "en": "plumber",     "word": "ջրմուղագործ | սանտեխնիկ" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "մսագործ" },
     { "en": "hairdresser", "word": "վարսավիր" },
     { "en": "watchmaker",  "word": "ժամագործ" },
-    { "en": "cleaner",     "word": "հավաքարար" }
+    { "en": "cleaner",     "word": "հավաքարար" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

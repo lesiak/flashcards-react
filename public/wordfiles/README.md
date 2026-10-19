@@ -31,6 +31,14 @@ means voicing it again.
 Deck names carry no numbers; `Lessons.json` alone decides the order, so a
 deck can be moved or inserted without renaming files in every language. A
 `words` deck holds at most 100 cards, ideally around 50; 20 is fine too.
+
+Spanish is the reference for the `words` course: every language has the
+same deck files with the same `en` cards in the same order, and a card the
+language has no translation for yet has `"word": ""`. The app hides such a
+card, and a deck with no translated card at all, so a language can be
+filled in deck by deck. A language may add cards Spanish lacks (Hebrew
+gendered numbers, Turkish paternal/maternal relatives); they go at the end
+of the deck.
 `toDrop.json` is the one deck allowed on disk without an entry here: it
 collects cards waiting to be sorted into a theme or removed, and the app
 never shows it.

@@ -1,0 +1,28 @@
+{
+  "name": "Materials",
+  "description": "Materials",
+  "image": "",
+  "cards": [
+    { "en": "gold",     "word": "" },
+    { "en": "silver",   "word": "" },
+    { "en": "iron",     "word": "" },
+    { "en": "steel",    "word": "" },
+    { "en": "wood",     "word": "" },
+    { "en": "glass",    "word": "" },
+    { "en": "paper",    "word": "" },
+    { "en": "rubber",   "word": "" },
+    { "en": "asphalt",  "word": "" },
+    { "en": "clay",     "word": "" },
+    { "en": "carbon",   "word": "" },
+    { "en": "oxygen",   "word": "" },
+    { "en": "nitrogen", "word": "" },
+    { "en": "sulphur",  "word": "" },
+    { "en": "gas",      "word": "" },
+    { "en": "a liquid", "word": "" },
+    { "en": "pressure", "word": "" },
+    { "en": "molten",   "word": "" },
+    { "en": "plastic",  "word": "" },
+    { "en": "metal",    "word": "" },
+    { "en": "copper",   "word": "" }
+  ]
+}

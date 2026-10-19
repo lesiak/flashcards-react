@@ -6,6 +6,7 @@
     { "en": "city",              "word": "քաղաք" },
     { "en": "village",           "word": "գյուղ" },
     { "en": "town hall",         "word": "քաղաքապետարան" },
+    { "en": "town",              "word": "" },
     { "en": "(city) centre",     "word": "կենտրոն" },
     { "en": "square (in city)",  "word": "հրապարակ" },
     { "en": "street",            "word": "փողոց" },
@@ -23,9 +24,15 @@
     { "en": "bench",             "word": "նստարան" },
     { "en": "bank",              "word": "բանկ" },
     { "en": "pharmacy",          "word": "դեղատուն" },
+    { "en": "prison",            "word": "" },
     { "en": "factory",           "word": "գործարան" },
+    { "en": "police station",    "word": "" },
     { "en": "suburb",            "word": "ծայրամաս" },
     { "en": "neighbourhood",     "word": "թաղամաս" },
-    { "en": "urban",             "word": "քաղաքային" }
+    { "en": "crowd",             "word": "" },
+    { "en": "crowded",           "word": "" },
+    { "en": "urban",             "word": "քաղաքային" },
+    { "en": "town planning",     "word": "" },
+    { "en": "map",               "word": "" }
   ]
 }

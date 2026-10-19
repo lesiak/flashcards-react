@@ -6,6 +6,7 @@
     { "en": "city",              "word": "(la) ville" },
     { "en": "village",           "word": "(le) village" },
     { "en": "town hall",         "word": "(la) mairie | (l')hôtel de ville" },
+    { "en": "town",              "word": "" },
     { "en": "(city) centre",     "word": "(le) centre-ville" },
     { "en": "square (in city)",  "word": "(la) place" },
     { "en": "street",            "word": "(la) rue" },
@@ -23,9 +24,15 @@
     { "en": "bench",             "word": "(le) banc" },
     { "en": "bank",              "word": "(la) banque" },
     { "en": "pharmacy",          "word": "(la) pharmacie" },
+    { "en": "prison",            "word": "" },
     { "en": "factory",           "word": "(l')usine" },
+    { "en": "police station",    "word": "" },
     { "en": "suburb",            "word": "(la) banlieue" },
     { "en": "neighbourhood",     "word": "(le) quartier" },
-    { "en": "urban",             "word": "urbain" }
+    { "en": "crowd",             "word": "" },
+    { "en": "crowded",           "word": "" },
+    { "en": "urban",             "word": "urbain" },
+    { "en": "town planning",     "word": "" },
+    { "en": "map",               "word": "" }
   ]
 }

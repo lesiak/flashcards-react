@@ -1,0 +1,27 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",          "word": "" },
+    { "en": "white",           "word": "" },
+    { "en": "black",           "word": "" },
+    { "en": "red",             "word": "" },
+    { "en": "blue",            "word": "" },
+    { "en": "green",           "word": "" },
+    { "en": "orange",          "word": "" },
+    { "en": "pink",            "word": "" },
+    { "en": "brown",           "word": "" },
+    { "en": "grey",            "word": "" },
+    { "en": "violet",          "word": "" },
+    { "en": "purple",          "word": "" },
+    { "en": "colour",          "word": "" },
+    { "en": "colorful",        "word": "" },
+    { "en": "colourless",      "word": "" },
+    { "en": "light (colour)",  "word": "" },
+    { "en": "dark (colour)",   "word": "" },
+    { "en": "bright (colour)", "word": "" },
+    { "en": "pale",            "word": "" },
+    { "en": "to dye",          "word": "" }
+  ]
+}

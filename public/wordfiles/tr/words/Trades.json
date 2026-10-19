@@ -4,6 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "işçi" },
+    { "en": "bricklayer",  "word": "" },
     { "en": "carpenter",   "word": "marangoz" },
     { "en": "electrician", "word": "elektrikçi" },
     { "en": "plumber",     "word": "tesisatçı" },
@@ -18,6 +19,15 @@
     { "en": "butcher",     "word": "kasap" },
     { "en": "hairdresser", "word": "kuaför" },
     { "en": "watchmaker",  "word": "saatçi" },
-    { "en": "cleaner",     "word": "temizleyici" }
+    { "en": "cleaner",     "word": "temizleyici" },
+    { "en": "publisher",   "word": "" },
+    { "en": "officer",     "word": "" },
+    { "en": "soldier",     "word": "" },
+    { "en": "priest",      "word": "" },
+    { "en": "monk",        "word": "" },
+    { "en": "nun",         "word": "" },
+    { "en": "prostitute",  "word": "" },
+    { "en": "sniper",      "word": "" },
+    { "en": "headmaster",  "word": "" }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Going Out",
+  "description": "Going Out",
+  "image": "",
+  "cards": [
+    { "en": "discotheque",              "word": "" },
+    { "en": "a venue",                  "word": "" },
+    { "en": "ticket (entry)",           "word": "" },
+    { "en": "a queue",                  "word": "" },
+    { "en": "to queue",                 "word": "" },
+    { "en": "cloakroom",                "word": "" },
+    { "en": "stamp",                    "word": "" },
+    { "en": "bouncer",                  "word": "" },
+    { "en": "to have a good time",      "word": "" },
+    { "en": "bachelor party",           "word": "" },
+    { "en": "hen party",                "word": "" },
+    { "en": "massage",                  "word": "" },
+    { "en": "to massage",               "word": "" },
+    { "en": "invitation",               "word": "" },
+    { "en": "to invite",                "word": "" },
+    { "en": "hobby",                    "word": "" },
+    { "en": "activity (entertainment)", "word": "" },
+    { "en": "toy",                      "word": "" },
+    { "en": "doll",                     "word": "" }
+  ]
+}

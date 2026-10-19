@@ -6,6 +6,7 @@
     { "en": "city",              "word": "grad" },
     { "en": "village",           "word": "selo" },
     { "en": "town hall",         "word": "gradska vijećnica" },
+    { "en": "town",              "word": "" },
     { "en": "(city) centre",     "word": "središte (grada)" },
     { "en": "square (in city)",  "word": "trg" },
     { "en": "street",            "word": "ulica" },
@@ -23,9 +24,15 @@
     { "en": "bench",             "word": "klupa" },
     { "en": "bank",              "word": "banka" },
     { "en": "pharmacy",          "word": "ljekarna" },
+    { "en": "prison",            "word": "" },
     { "en": "factory",           "word": "tvornica | fabrika" },
+    { "en": "police station",    "word": "" },
     { "en": "suburb",            "word": "predgrađe" },
     { "en": "neighbourhood",     "word": "kvart | četvrt" },
-    { "en": "urban",             "word": "gradski" }
+    { "en": "crowd",             "word": "" },
+    { "en": "crowded",           "word": "" },
+    { "en": "urban",             "word": "gradski" },
+    { "en": "town planning",     "word": "" },
+    { "en": "map",               "word": "" }
   ]
 }

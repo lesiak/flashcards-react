@@ -1,0 +1,31 @@
+{
+  "name": "Daily Routine",
+  "description": "Daily Routine",
+  "image": "",
+  "cards": [
+    { "en": "to wake up",             "word": "" },
+    { "en": "get up",                 "word": "" },
+    { "en": "to get dressed",         "word": "" },
+    { "en": "to oversleep",           "word": "" },
+    { "en": "breakfast",              "word": "" },
+    { "en": "lunch",                  "word": "" },
+    { "en": "dinner",                 "word": "" },
+    { "en": "to have lunch",          "word": "" },
+    { "en": "to have breakfast",      "word": "" },
+    { "en": "to have dinner",         "word": "" },
+    { "en": "to wash oneself",        "word": "" },
+    { "en": "to have a shower",       "word": "" },
+    { "en": "to have a bath",         "word": "" },
+    { "en": "to wash one's face",     "word": "" },
+    { "en": "to brush (one's teeth)", "word": "" },
+    { "en": "to shave",               "word": "" },
+    { "en": "shaving",                "word": "" },
+    { "en": "to blow one's nose",     "word": "" },
+    { "en": "go to bed",              "word": "" },
+    { "en": "fall asleep",            "word": "" },
+    { "en": "sleep",                  "word": "" },
+    { "en": "to rest",                "word": "" },
+    { "en": "rest",                   "word": "" },
+    { "en": "routine",                "word": "" }
+  ]
+}

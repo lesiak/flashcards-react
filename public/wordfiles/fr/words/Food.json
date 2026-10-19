@@ -3,10 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1608855238293-a8853e7f7c98",
   "cards": [
+    { "en": "food",           "word": "" },
     { "en": "bread",          "word": "(le) pain" },
     { "en": "flour",          "word": "(la) farine" },
     { "en": "rice",           "word": "(le) riz" },
     { "en": "meat",           "word": "(la) viande" },
+    { "en": "poultry",        "word": "" },
+    { "en": "turkey",         "word": "" },
     { "en": "bacon",          "word": "(le) lard | (le) bacon" },
     { "en": "sausage",        "word": "(la) saucisse" },
     { "en": "egg",            "word": "(l')œuf" },
@@ -31,6 +34,10 @@
     { "en": "cake",           "word": "(le) gâteau" },
     { "en": "cookie",         "word": "(le) biscuit" },
     { "en": "candy",          "word": "(le) bonbon" },
-    { "en": "ice cream",      "word": "(la) glace" }
+    { "en": "ice cream",      "word": "(la) glace" },
+    { "en": "fast food",      "word": "" },
+    { "en": "pepper (spice)", "word": "" },
+    { "en": "fish (food)",    "word": "" },
+    { "en": "pasta",          "word": "" }
   ]
 }

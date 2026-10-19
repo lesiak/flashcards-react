@@ -18,15 +18,21 @@
     { "en": "twin",          "word": "blizanac" },
     { "en": "grandmother",   "word": "baka" },
     { "en": "grandma",       "word": "bakica" },
+    { "en": "grandfather",   "word": "" },
+    { "en": "grandpa",       "word": "" },
     { "en": "grandson",      "word": "unuk" },
     { "en": "granddaughter", "word": "unuka" },
     { "en": "uncle",         "word": "stric | ujak" },
     { "en": "aunt",          "word": "teta | tetka" },
     { "en": "cousin",        "word": "rođak | kuzen" },
+    { "en": "nephew",        "word": "" },
+    { "en": "niece",         "word": "" },
     { "en": "stepmother",    "word": "maćeha" },
     { "en": "stepfather",    "word": "očuh" },
     { "en": "relatives",     "word": "rođaci" },
     { "en": "generation",    "word": "generacija | naraštaj" },
-    { "en": "single parent", "word": "samohrani roditelj" }
+    { "en": "single parent", "word": "samohrani roditelj" },
+    { "en": "father-in-law", "word": "" },
+    { "en": "mother-in-law", "word": "" }
   ]
 }

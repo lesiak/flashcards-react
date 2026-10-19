@@ -3,6 +3,22 @@
   "description": "Farm & Countryside",
   "image": "",
   "cards": [
-    { "en": "farmer", "word": "(de) boer" }
+    { "en": "countryside",  "word": "" },
+    { "en": "farm",         "word": "" },
+    { "en": "agriculture",  "word": "" },
+    { "en": "farmer",       "word": "(de) boer" },
+    { "en": "barn",         "word": "" },
+    { "en": "field",        "word": "" },
+    { "en": "meadow",       "word": "" },
+    { "en": "soil, ground", "word": "" },
+    { "en": "a well",       "word": "" },
+    { "en": "vineyard",     "word": "" },
+    { "en": "plough",       "word": "" },
+    { "en": "to harvest",   "word": "" },
+    { "en": "hay",          "word": "" },
+    { "en": "hops",         "word": "" },
+    { "en": "landowner",    "word": "" },
+    { "en": "day laborer",  "word": "" },
+    { "en": "scarecrow",    "word": "" }
   ]
 }

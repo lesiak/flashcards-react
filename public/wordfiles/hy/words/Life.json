@@ -1,0 +1,28 @@
+{
+  "name": "Life & Personal Details",
+  "description": "Life & Personal Details",
+  "image": "",
+  "cards": [
+    { "en": "life",           "word": "" },
+    { "en": "to be born",     "word": "" },
+    { "en": "to grow up",     "word": "" },
+    { "en": "to grow old",    "word": "" },
+    { "en": "young",          "word": "" },
+    { "en": "youth",          "word": "" },
+    { "en": "old (person)",   "word": "" },
+    { "en": "age",            "word": "" },
+    { "en": "birthday",       "word": "" },
+    { "en": "date of birth",  "word": "" },
+    { "en": "place of birth", "word": "" },
+    { "en": "name",           "word": "" },
+    { "en": "surname",        "word": "" },
+    { "en": "address",        "word": "" },
+    { "en": "nationality",    "word": "" },
+    { "en": "death",          "word": "" },
+    { "en": "dead",           "word": "" },
+    { "en": "a dead person",  "word": "" },
+    { "en": "to bury",        "word": "" },
+    { "en": "funeral",        "word": "" },
+    { "en": "grave",          "word": "" }
+  ]
+}
