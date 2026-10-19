@@ -5,9 +5,10 @@
  * hand before committing deck changes; it is not part of the build.
  *
  * Checked:
- *   - Lessons.json: every group has an id, a name and a list of deck names,
- *     with no duplicates; every listed deck exists for at least one language.
- *   - Every deck file sits in a listed group and is itself listed, except
+ *   - Lessons.json: every course has an id, a name and sections, each with a
+ *     name and deck names, no duplicates within a course; every listed deck
+ *     exists for at least one language.
+ *   - Every deck file sits in a listed course folder and is itself listed, except
  *     "toDrop", which is kept on disk only while its cards are sorted out.
  *   - A deck has a name, a description, an optional image URL and at least
  *     one card; a card has "en" and "word" and optionally "note", nothing else.
@@ -110,30 +111,46 @@ function loadIndex(): DeckIndex | undefined {
   const where = INDEX_FILE;
   const raw = readJson(join(WORDFILES, INDEX_FILE), where);
   if (raw === undefined) return undefined;
-  if (!isRecord(raw) || !Array.isArray(raw.groups)) {
-    error(where, 'expected an object with a "groups" array');
+  if (!isRecord(raw) || !Array.isArray(raw.courses)) {
+    error(where, 'expected an object with a "courses" array');
     return undefined;
   }
-  const groupIds = new Set<string>();
-  for (const [i, group] of raw.groups.entries()) {
-    if (!isRecord(group) || typeof group.id !== 'string' || typeof group.name !== 'string' || !Array.isArray(group.decks)) {
-      error(where, `groups[${i}] needs string "id" and "name" and a "decks" array`);
+  const courseIds = new Set<string>();
+  for (const [i, course] of raw.courses.entries()) {
+    if (!isRecord(course) || typeof course.id !== 'string' || typeof course.name !== 'string' || !Array.isArray(course.sections)) {
+      error(where, `courses[${i}] needs string "id" and "name" and a "sections" array`);
       return undefined;
     }
-    if (groupIds.has(group.id)) error(where, `group "${group.id}" is listed twice`);
-    groupIds.add(group.id);
+    if (courseIds.has(course.id)) error(where, `course "${course.id}" is listed twice`);
+    courseIds.add(course.id);
+    if (course.sections.length === 0) error(where, `course "${course.id}" has no sections`);
+    const sectionNames = new Set<string>();
     const deckNames = new Set<string>();
-    for (const deck of group.decks) {
-      if (typeof deck !== 'string' || deck.length === 0) {
-        error(where, `group "${group.id}" has a deck name that is not a non-empty string`);
-      } else if (deckNames.has(deck)) {
-        error(where, `group "${group.id}" lists deck "${deck}" twice`);
-      } else {
-        deckNames.add(deck);
+    for (const [j, section] of course.sections.entries()) {
+      if (!isRecord(section) || typeof section.name !== 'string' || section.name.length === 0 || !Array.isArray(section.decks)) {
+        error(where, `course "${course.id}" sections[${j}] needs a non-empty string "name" and a "decks" array`);
+        return undefined;
+      }
+      if (sectionNames.has(section.name)) error(where, `course "${course.id}" has two sections named "${section.name}"`);
+      sectionNames.add(section.name);
+      if (section.decks.length === 0) error(where, `course "${course.id}" section "${section.name}" has no decks`);
+      for (const deck of section.decks) {
+        if (typeof deck !== 'string' || deck.length === 0) {
+          error(where, `course "${course.id}" section "${section.name}" has a deck name that is not a non-empty string`);
+        } else if (deckNames.has(deck)) {
+          error(where, `course "${course.id}" lists deck "${deck}" twice`);
+        } else {
+          deckNames.add(deck);
+        }
       }
     }
   }
   return raw as unknown as DeckIndex;
+}
+
+/** Course id -> every deck name its sections list. */
+function listedDecks(index: DeckIndex): Map<string, Set<string>> {
+  return new Map(index.courses.map((c) => [c.id, new Set(c.sections.flatMap((s) => s.decks))]));
 }
 
 // ---------------------------------------------------------------- decks
@@ -236,17 +253,18 @@ function checkManifest(lang: string, group: string): void {
 function main(): void {
   const index = loadIndex();
   if (!index) return;
-  const groups = new Map(index.groups.map((g) => [g.id, new Set(g.decks)]));
+  const courses = listedDecks(index);
   const seenListed = new Set<string>();
   let files = 0;
 
+  // A language folder holds one folder per course; the course id doubles as the audio group.
   for (const lang of subdirs(WORDFILES)) {
     for (const group of subdirs(join(WORDFILES, lang))) {
-      const listed = groups.get(group);
+      const listed = courses.get(group);
       const dir = join(WORDFILES, lang, group);
       const names = deckFiles(dir);
       if (!listed) {
-        if (names.length > 0) error(`${lang}/${group}`, `folder is not a group in ${INDEX_FILE}`);
+        if (names.length > 0) error(`${lang}/${group}`, `folder is not a course in ${INDEX_FILE}`);
         continue;
       }
       const clipNames: ClipNames = new Map();
@@ -256,7 +274,7 @@ function main(): void {
         if (listed.has(deckName)) {
           seenListed.add(`${group}/${deckName}`);
         } else if (!UNLISTED_DECKS.has(deckName)) {
-          error(where, `deck is not listed under group "${group}" in ${INDEX_FILE}`);
+          error(where, `deck is not listed under course "${group}" in ${INDEX_FILE}`);
         }
         files++;
         checkDeck(join(dir, name), where, group, clipNames);
@@ -265,9 +283,9 @@ function main(): void {
     }
   }
 
-  for (const group of index.groups) {
-    for (const deck of group.decks) {
-      if (!seenListed.has(`${group.id}/${deck}`)) error(INDEX_FILE, `deck "${group.id}/${deck}" has no file in any language`);
+  for (const [courseId, decks] of courses) {
+    for (const deck of decks) {
+      if (!seenListed.has(`${courseId}/${deck}`)) error(INDEX_FILE, `deck "${courseId}/${deck}" has no file in any language`);
     }
   }
 

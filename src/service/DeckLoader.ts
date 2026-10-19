@@ -1,16 +1,22 @@
-import {Lesson, LessonGroup} from '../model/Lesson.ts';
+import {Course, Lesson, Section} from '../model/Lesson.ts';
 
-/** Shape of public/wordfiles/Lessons.json: the groups and deck names every language may provide. */
+/** Shape of public/wordfiles/Lessons.json: the courses, their sections and the deck names every language may provide. */
 export interface DeckIndex {
-  groups: DeckGroupIndex[];
+  courses: CourseIndex[];
 }
 
-export interface DeckGroupIndex {
-  /** Folder name under each language, e.g. "words" or "a1". */
+export interface CourseIndex {
+  /** Folder name under each language, e.g. "words" or "a1". Also the audio group. */
   id: string;
-  /** Heading shown above the group's decks. */
+  /** Name shown when choosing a course. */
   name: string;
-  /** Deck file names without ".json". */
+  sections: SectionIndex[];
+}
+
+export interface SectionIndex {
+  /** Heading shown above the section's decks. */
+  name: string;
+  /** Deck file names without ".json", all in the course folder. */
   decks: string[];
 }
 
@@ -40,19 +46,24 @@ export async function loadLesson(lang: string, group: string, deck: string): Pro
   return lesson;
 }
 
+async function loadSection(lang: string, course: CourseIndex, section: SectionIndex): Promise<Section> {
+  const maybeLessons = await Promise.all(section.decks.map((deck) =>
+    loadLesson(lang, course.id, deck).catch((e) => {
+      console.log(`Skipping deck ${course.id}/${deck} for ${lang}`, e);
+      return null;
+    })));
+  return {name: section.name, lessons: maybeLessons.filter((l): l is Lesson => l !== null)};
+}
+
 /**
  * Loads every deck the index lists for `lang`. A deck the language has no
- * file for is skipped, and a group left with no decks is dropped.
+ * file for is skipped, a section left with no decks is dropped, and so is a
+ * course left with no sections.
  */
-export async function loadLessonGroups(lang: string, index: DeckIndex): Promise<LessonGroup[]> {
-  const groups = await Promise.all(index.groups.map(async (group) => {
-    const maybeLessons = await Promise.all(group.decks.map((deck) =>
-      loadLesson(lang, group.id, deck).catch((e) => {
-        console.log(`Skipping deck ${group.id}/${deck} for ${lang}`, e);
-        return null;
-      })));
-    const lessons = maybeLessons.filter((l): l is Lesson => l !== null);
-    return {id: group.id, name: group.name, lessons};
+export async function loadCourses(lang: string, index: DeckIndex): Promise<Course[]> {
+  const courses = await Promise.all(index.courses.map(async (course) => {
+    const sections = await Promise.all(course.sections.map((section) => loadSection(lang, course, section)));
+    return {id: course.id, name: course.name, sections: sections.filter((s) => s.lessons.length > 0)};
   }));
-  return groups.filter((g) => g.lessons.length > 0);
+  return courses.filter((c) => c.sections.length > 0);
 }

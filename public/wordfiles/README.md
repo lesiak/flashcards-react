@@ -1,20 +1,32 @@
 # Deck files
 
-One JSON file per deck per language: `public/wordfiles/<lang>/<group>/<Deck>.json`.
-Decks are organised in groups, each a folder under the language and a heading
-in the app: `words` holds the thematic vocabulary decks, `a1` the A1 course.
-`Lessons.json` lists the groups and the deck names in each; a language that
-has no file for a listed deck simply skips it, and a group with no decks for
-a language is not shown.
+One JSON file per deck per language: `public/wordfiles/<lang>/<course>/<Deck>.json`.
+Decks are organised in courses, each a folder under the language: `words`
+holds the thematic vocabulary decks, `a1` the A1 course. The app asks for a
+course first and remembers the choice. Inside a course, `Lessons.json`
+arranges the decks in sections; a course with a single section shows its
+decks directly. A language that has no file for a listed deck simply skips
+it, and a section or course with no decks for a language is not shown.
 
 ```json
 {
-  "groups": [
-    { "id": "words", "name": "Vocabulary", "decks": ["Nature", "Landscape", "Weather"] },
-    { "id": "a1",    "name": "A1 Level",   "decks": ["A1_Level_Part1", "A1_Level_Part2"] }
+  "courses": [
+    { "id": "words", "name": "Vocabulary", "sections": [
+      { "name": "Basics", "decks": ["Nature", "Landscape", "Weather"] },
+      { "name": "People", "decks": ["Family", "Relationships"] }
+    ] },
+    { "id": "a1", "name": "A1 Level", "sections": [
+      { "name": "A1 Level", "decks": ["A1_Level_Part1", "A1_Level_Part2"] }
+    ] }
   ]
 }
 ```
+
+Sections live only in `Lessons.json`. The files stay in the course folder
+and the audio is stored and keyed per course folder, so moving a deck to
+another section, reordering decks or moving a word between decks of one
+course never touches a recording. Only moving a deck to another course
+means voicing it again.
 
 Deck names carry no numbers; `Lessons.json` alone decides the order, so a
 deck can be moved or inserted without renaming files in every language. A
