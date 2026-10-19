@@ -1,7 +1,7 @@
 {
   "name": "Weather",
   "description": "Weather",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1779220133616-3d1e63b8c130",
   "cards": [
     { "en": "fog", "word": "ערפל" },
     { "en": "ice", "word": "קרח" }

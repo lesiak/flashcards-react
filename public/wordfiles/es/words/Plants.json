@@ -1,7 +1,7 @@
 {
   "name": "Plants & Trees",
   "description": "Plants & Trees",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1698036867785-a8aeb0f59c48",
   "cards": [
     { "en": "plant",            "word": "(la) planta" },
     { "en": "flower",           "word": "(la) flor" },

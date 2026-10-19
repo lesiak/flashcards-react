@@ -1,7 +1,7 @@
 {
   "name": "Birds, Fish & Insects",
   "description": "Birds, Fish & Insects",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1764708415844-90cfe32608d3",
   "cards": [
     { "en": "bird",       "word": "(el) ave" },
     { "en": "pigeon",     "word": "(la) paloma" },

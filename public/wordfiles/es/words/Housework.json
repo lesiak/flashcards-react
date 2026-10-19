@@ -1,7 +1,7 @@
 {
   "name": "Housework",
   "description": "Housework",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1765970101432-f96b47d727cb",
   "cards": [
     { "en": "to clean",             "word": "limpiar" },
     { "en": "to wash",              "word": "(+clothes, car) lavar | (+floor) fregar" },

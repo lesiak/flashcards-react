@@ -1,7 +1,7 @@
 {
   "name": "Weather",
   "description": "Weather",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1517610725865-58531a8a5a02",
   "cards": [
     { "en": "weather",                 "word": "(el) tiempo" },
     { "en": "climate",                 "word": "(el) clima" },
