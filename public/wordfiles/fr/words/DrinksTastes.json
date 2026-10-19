@@ -1,7 +1,7 @@
 {
   "name": "Drinks & Tastes",
   "description": "Drinks & Tastes",
-  "image": "",
+  "image": "https://images.unsplash.com/photo-1656936632096-59fcacae533f",
   "cards": [
     { "en": "tea",        "word": "(le) thé" },
     { "en": "coffee",     "word": "(le) café" },
