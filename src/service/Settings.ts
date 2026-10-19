@@ -5,20 +5,28 @@
  */
 
 const COURSE_KEY = 'flashcards.course';
+const LANGUAGE_KEY = 'flashcards.language';
 
-/** Id of the course the user last opened, or null when none is stored. */
-export function loadStoredCourse(): string | null {
+function load(key: string): string | null {
   try {
-    return window.localStorage.getItem(COURSE_KEY);
+    return window.localStorage.getItem(key);
   } catch {
     return null;
   }
 }
 
-export function storeCourse(courseId: string): void {
+function store(key: string, value: string): void {
   try {
-    window.localStorage.setItem(COURSE_KEY, courseId);
+    window.localStorage.setItem(key, value);
   } catch {
-    // Not remembered this time; the chooser is shown again on the next start.
+    // Not remembered this time; the default applies on the next start.
   }
 }
+
+/** Id of the course the user last opened, or null when none is stored. */
+export const loadStoredCourse = (): string | null => load(COURSE_KEY);
+export const storeCourse = (courseId: string): void => store(COURSE_KEY, courseId);
+
+/** Code of the language the user last picked, or null when none is stored. */
+export const loadStoredLanguage = (): string | null => load(LANGUAGE_KEY);
+export const storeLanguage = (code: string): void => store(LANGUAGE_KEY, code);
