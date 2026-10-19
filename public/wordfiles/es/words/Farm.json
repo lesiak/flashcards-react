@@ -1,0 +1,24 @@
+{
+  "name": "Farm & Countryside",
+  "description": "Farm & Countryside",
+  "image": "",
+  "cards": [
+    { "en": "countryside",  "word": "(el) campo" },
+    { "en": "farm",         "word": "(la) granja" },
+    { "en": "agriculture",  "word": "(la) agricultura" },
+    { "en": "farmer",       "word": "(el) granjero | (el) agricultor" },
+    { "en": "barn",         "word": "(el) establo" },
+    { "en": "field",        "word": "(el) campo" },
+    { "en": "meadow",       "word": "(el) prado | (la) pradera" },
+    { "en": "soil, ground", "word": "(la) tierra" },
+    { "en": "a well",       "word": "(el) pozo" },
+    { "en": "vineyard",     "word": "(la) viña" },
+    { "en": "plough",       "word": "(el) arado" },
+    { "en": "to harvest",   "word": "cosechar" },
+    { "en": "hay",          "word": "(el) heno" },
+    { "en": "hops",         "word": "(el) lúpulo" },
+    { "en": "landowner",    "word": "(el) terrateniente" },
+    { "en": "day laborer",  "word": "(el) jornalero" },
+    { "en": "scarecrow",    "word": "(el) espantapájaros" }
+  ]
+}

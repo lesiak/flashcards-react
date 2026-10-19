@@ -1,0 +1,25 @@
+{
+  "name": "Books & Media",
+  "description": "Books & Media",
+  "image": "",
+  "cards": [
+    { "en": "book",               "word": "(el) libro" },
+    { "en": "a paperback",        "word": "(el) libro de bolsillo" },
+    { "en": "literature",         "word": "(la) literatura" },
+    { "en": "story",              "word": "(la) historia" },
+    { "en": "tale",               "word": "(el) cuento" },
+    { "en": "poem",               "word": "(el) poema" },
+    { "en": "poet",               "word": "(el) poeta" },
+    { "en": "writer",             "word": "(el) escritor" },
+    { "en": "newspaper",          "word": "(el) periódico | (el) diario" },
+    { "en": "magazine",           "word": "(la) revista" },
+    { "en": "news",               "word": "(las) noticias" },
+    { "en": "press (publishing)", "word": "(la) prensa" },
+    { "en": "journalism",         "word": "(el) periodismo" },
+    { "en": "to publish",         "word": "publicar" },
+    { "en": "publishing house",   "word": "(casa) editorial" },
+    { "en": "interview",          "word": "(la) entrevista" },
+    { "en": "enquiry",            "word": "(la) encuesta | (la) investigación" },
+    { "en": "fan",                "word": "(el) aficionado | (el) fan | (el) admirador | (el) fanático" }
+  ]
+}

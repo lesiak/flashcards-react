@@ -1,0 +1,26 @@
+{
+  "name": "Bathroom & Hygiene",
+  "description": "Bathroom & Hygiene",
+  "image": "",
+  "cards": [
+    { "en": "bathroom",          "word": "(el) baño" },
+    { "en": "bath (bathtub)",    "word": "(la) bañera" },
+    { "en": "shower",            "word": "(la) ducha" },
+    { "en": "sink",              "word": "(el) lavabo" },
+    { "en": "tap",               "word": "(el) grifo" },
+    { "en": "mirror",            "word": "(el) espejo" },
+    { "en": "towel",             "word": "(la) toalla" },
+    { "en": "soap",              "word": "(el) jabón" },
+    { "en": "shampoo",           "word": "(el) champú" },
+    { "en": "cream (cosmetics)", "word": "(la) crema" },
+    { "en": "toothpaste",        "word": "(la) pasta de dientes | (el) dentífrico" },
+    { "en": "toothbrush",        "word": "(el) cepillo de dientes" },
+    { "en": "comb",              "word": "(el) peine" },
+    { "en": "razor",             "word": "(la) navaja" },
+    { "en": "razor (electric)",  "word": "(la) maquinilla de afeitar" },
+    { "en": "handkerchief",      "word": "(el) pañuelo" },
+    { "en": "toilet paper",      "word": "(el) papel higiénico" },
+    { "en": "urinal",            "word": "(el) urinario" },
+    { "en": "toilet",            "word": "(el) inodoro | (el) váter" }
+  ]
+}

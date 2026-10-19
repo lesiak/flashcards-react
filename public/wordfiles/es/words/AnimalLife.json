@@ -1,0 +1,31 @@
+{
+  "name": "Animal Life",
+  "description": "Animal Life",
+  "image": "",
+  "cards": [
+    { "en": "wing",                       "word": "(el) ala" },
+    { "en": "beak",                       "word": "(el) pico" },
+    { "en": "fin",                        "word": "(la) aleta" },
+    { "en": "gill",                       "word": "(la) branquia" },
+    { "en": "tail",                       "word": "(la) cola" },
+    { "en": "horn",                       "word": "(el) cuerno" },
+    { "en": "fur",                        "word": "(el) pelo" },
+    { "en": "to bite",                    "word": "morder" },
+    { "en": "to wag",                     "word": "menear (la cola)" },
+    { "en": "to bark",                    "word": "ladrar" },
+    { "en": "to meow",                    "word": "maullar" },
+    { "en": "to moo",                     "word": "mugir" },
+    { "en": "to croak",                   "word": "croar" },
+    { "en": "to caw (raven)",             "word": "graznar" },
+    { "en": "to hibernate",               "word": "hibernar" },
+    { "en": "to have (a pet)",            "word": "tener" },
+    { "en": "to feed",                    "word": "alimentar" },
+    { "en": "to stroke",                  "word": "acariciar" },
+    { "en": "to tame",                    "word": "domar" },
+    { "en": "to break in (a horse)",      "word": "domar" },
+    { "en": "to train (teach an animal)", "word": "adiestrar" },
+    { "en": "to breed",                   "word": "criar" },
+    { "en": "extinction",                 "word": "(la) extinción" },
+    { "en": "poaching",                   "word": "(la) caza furtiva" }
+  ]
+}

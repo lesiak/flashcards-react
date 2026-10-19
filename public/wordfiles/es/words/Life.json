@@ -1,0 +1,28 @@
+{
+  "name": "Life & Personal Details",
+  "description": "Life & Personal Details",
+  "image": "",
+  "cards": [
+    { "en": "life",           "word": "(la) vida" },
+    { "en": "to be born",     "word": "nacer" },
+    { "en": "to grow up",     "word": "crecer" },
+    { "en": "to grow old",    "word": "envejecer" },
+    { "en": "young",          "word": "joven" },
+    { "en": "youth",          "word": "(la) juventud" },
+    { "en": "old (person)",   "word": "mayor | viejo" },
+    { "en": "age",            "word": "(la) edad" },
+    { "en": "birthday",       "word": "(el) cumpleaños" },
+    { "en": "date of birth",  "word": "(la) fecha de nacimiento" },
+    { "en": "place of birth", "word": "(el) lugar de nacimiento" },
+    { "en": "name",           "word": "(el) nombre" },
+    { "en": "surname",        "word": "(el) apellido" },
+    { "en": "address",        "word": "(la) dirección" },
+    { "en": "nationality",    "word": "(la) nacionalidad" },
+    { "en": "death",          "word": "(la) muerte" },
+    { "en": "dead",           "word": "muerto" },
+    { "en": "a dead person",  "word": "(el) muerto" },
+    { "en": "to bury",        "word": "enterrar" },
+    { "en": "funeral",        "word": "(el) funeral" },
+    { "en": "grave",          "word": "(la) tumba" }
+  ]
+}

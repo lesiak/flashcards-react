@@ -1,0 +1,31 @@
+{
+  "name": "Maths",
+  "description": "Maths",
+  "image": "",
+  "cards": [
+    { "en": "number",         "word": "(el) número" },
+    { "en": "to count",       "word": "contar" },
+    { "en": "to calculate",   "word": "calcular" },
+    { "en": "calculator",     "word": "(la) calculadora" },
+    { "en": "plus (maths)",   "word": "(el) más" },
+    { "en": "minus (maths)",  "word": "(el) menos" },
+    { "en": "to add (maths)", "word": "sumar" },
+    { "en": "to subtract",    "word": "restar" },
+    { "en": "to multiply",    "word": "multiplicar" },
+    { "en": "to divide",      "word": "dividir" },
+    { "en": "equation",       "word": "(la) ecuación" },
+    { "en": "equal (to)",     "word": "igual (a)" },
+    { "en": "point (maths)",  "word": "(el) punto" },
+    { "en": "axis",           "word": "(el) eje" },
+    { "en": "infinity",       "word": "(el) infinito" },
+    { "en": "triangle",       "word": "(el) triángulo" },
+    { "en": "square",         "word": "(el) cuadrado" },
+    { "en": "circle",         "word": "(el) círculo" },
+    { "en": "disk (maths)",   "word": "(el) disco" },
+    { "en": "minimum",        "word": "mínimo" },
+    { "en": "maximum",        "word": "máximo" },
+    { "en": "line (maths)",   "word": "(la) línea" },
+    { "en": "sum",            "word": "(la) suma" },
+    { "en": "average",        "word": "(la) media" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Going Out",
+  "description": "Going Out",
+  "image": "",
+  "cards": [
+    { "en": "discotheque",              "word": "(la) discoteca" },
+    { "en": "a venue",                  "word": "(el) local" },
+    { "en": "ticket (entry)",           "word": "(la) entrada" },
+    { "en": "a queue",                  "word": "(la) cola" },
+    { "en": "to queue",                 "word": "hacer cola" },
+    { "en": "cloakroom",                "word": "(el) guardarropa" },
+    { "en": "stamp",                    "word": "(el) cuño" },
+    { "en": "bouncer",                  "word": "(el) gorila | (el) sacaborrachos" },
+    { "en": "to have a good time",      "word": "pasarlo bomba" },
+    { "en": "bachelor party",           "word": "(la) despedida de soltero" },
+    { "en": "hen party",                "word": "(la) despedida de soltera" },
+    { "en": "massage",                  "word": "(el) masaje" },
+    { "en": "to massage",               "word": "masajear" },
+    { "en": "invitation",               "word": "(la) invitación" },
+    { "en": "to invite",                "word": "invitar" },
+    { "en": "hobby",                    "word": "(el) pasatiempo | (el) hobby" },
+    { "en": "activity (entertainment)", "word": "(la) actividad" },
+    { "en": "toy",                      "word": "(el) juguete" },
+    { "en": "doll",                     "word": "(la) muñeca" }
+  ]
+}

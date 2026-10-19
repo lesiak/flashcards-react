@@ -1,0 +1,26 @@
+{
+  "name": "Phone & Email",
+  "description": "Phone & Email",
+  "image": "",
+  "cards": [
+    { "en": "phone",                       "word": "(el) teléfono" },
+    { "en": "cell phone",                  "word": "(el) móvil" },
+    { "en": "smartphone",                  "word": "(el) teléfono inteligente | (el) smartphone" },
+    { "en": "telephone call",              "word": "(la) llamada (telefónica)" },
+    { "en": "to call (by phone)",          "word": "llamar" },
+    { "en": "to answer (receive a phone)", "word": "contestar | coger (el teléfono)" },
+    { "en": "voicemail",                   "word": "(el) buzón de voz" },
+    { "en": "engaged (UK), busy (US)",     "word": "ocupado" },
+    { "en": "to pass on (on telephone)",   "word": "pasar | poner [con alguien]" },
+    { "en": "(phone) number",              "word": "(el) número (de teléfono)" },
+    { "en": "message",                     "word": "(el) mensaje" },
+    { "en": "email",                       "word": "(el) correo electrónico" },
+    { "en": "at (@)",                      "word": "(la) arroba" },
+    { "en": "attachment",                  "word": "(el) archivo adjunto" },
+    { "en": "send",                        "word": "enviar" },
+    { "en": "memo",                        "word": "(la) nota" },
+    { "en": "letter (mail)",               "word": "(la) carta" },
+    { "en": "a (post) stamp",              "word": "(el) sello" },
+    { "en": "envelope",                    "word": "(el) sobre" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Housework",
+  "description": "Housework",
+  "image": "",
+  "cards": [
+    { "en": "to clean",             "word": "limpiar" },
+    { "en": "to wash",              "word": "(+clothes, car) lavar | (+floor) fregar" },
+    { "en": "to wipe",              "word": "limpiar | pasar un trapo" },
+    { "en": "to sweep",             "word": "barrer" },
+    { "en": "broom",                "word": "(la) escoba" },
+    { "en": "brush (sweeper)",      "word": "(el) cepillo" },
+    { "en": "dust pan",             "word": "(el) recogedor" },
+    { "en": "to make the bed",      "word": "hacer la cama" },
+    { "en": "stain",                "word": "(la) mancha" },
+    { "en": "to iron",              "word": "planchar" },
+    { "en": "to sew",               "word": "coser" },
+    { "en": "rubbish",              "word": "(la) basura" },
+    { "en": "recycling",            "word": "(el) reciclaje" },
+    { "en": "bucket",               "word": "(el) cubo | (el) balde" },
+    { "en": "dust",                 "word": "(el) polvo" },
+    { "en": "to tidy up",           "word": "ordenar" },
+    { "en": "dishwasher",           "word": "(el) lavavajillas" },
+    { "en": "to do the washing-up", "word": "fregar los platos" }
+  ]
+}

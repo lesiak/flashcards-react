@@ -1,0 +1,28 @@
+{
+  "name": "Materials",
+  "description": "Materials",
+  "image": "",
+  "cards": [
+    { "en": "gold",     "word": "(el) oro" },
+    { "en": "silver",   "word": "(la) plata" },
+    { "en": "iron",     "word": "(el) hierro" },
+    { "en": "steel",    "word": "(el) acero" },
+    { "en": "wood",     "word": "(la) madera" },
+    { "en": "glass",    "word": "(el) vidrio" },
+    { "en": "paper",    "word": "(el) papel" },
+    { "en": "rubber",   "word": "(el) caucho" },
+    { "en": "asphalt",  "word": "(el) asfalto" },
+    { "en": "clay",     "word": "(la) arcilla | (el) barro" },
+    { "en": "carbon",   "word": "(el) carbono" },
+    { "en": "oxygen",   "word": "(el) oxígeno" },
+    { "en": "nitrogen", "word": "(el) nitrógeno" },
+    { "en": "sulphur",  "word": "(el) azufre" },
+    { "en": "gas",      "word": "(el) gas" },
+    { "en": "a liquid", "word": "(el) líquido" },
+    { "en": "pressure", "word": "(la) presión" },
+    { "en": "molten",   "word": "fundido" },
+    { "en": "plastic",  "word": "(el) plástico" },
+    { "en": "metal",    "word": "(el) metal" },
+    { "en": "copper",   "word": "(el) cobre" }
+  ]
+}

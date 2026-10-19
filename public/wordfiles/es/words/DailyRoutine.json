@@ -1,0 +1,31 @@
+{
+  "name": "Daily Routine",
+  "description": "Daily Routine",
+  "image": "",
+  "cards": [
+    { "en": "to wake up",             "word": "despertarse" },
+    { "en": "get up",                 "word": "levantarse" },
+    { "en": "to get dressed",         "word": "vestirse" },
+    { "en": "to oversleep",           "word": "quedarse dormido" },
+    { "en": "breakfast",              "word": "(el) desayuno" },
+    { "en": "lunch",                  "word": "(el) almuerzo" },
+    { "en": "dinner",                 "word": "(la) cena" },
+    { "en": "to have lunch",          "word": "almorzar" },
+    { "en": "to have breakfast",      "word": "desayunar" },
+    { "en": "to have dinner",         "word": "cenar" },
+    { "en": "to wash oneself",        "word": "lavarse" },
+    { "en": "to have a shower",       "word": "ducharse" },
+    { "en": "to have a bath",         "word": "bañarse" },
+    { "en": "to wash one's face",     "word": "lavarse la cara" },
+    { "en": "to brush (one's teeth)", "word": "cepillarse (los dientes)" },
+    { "en": "to shave",               "word": "afeitarse" },
+    { "en": "shaving",                "word": "(el) afeitado" },
+    { "en": "to blow one's nose",     "word": "sonarse la nariz" },
+    { "en": "go to bed",              "word": "acostarse" },
+    { "en": "fall asleep",            "word": "dormirse" },
+    { "en": "sleep",                  "word": "dormir" },
+    { "en": "to rest",                "word": "descansar" },
+    { "en": "rest",                   "word": "(el) descanso" },
+    { "en": "routine",                "word": "(la) rutina" }
+  ]
+}

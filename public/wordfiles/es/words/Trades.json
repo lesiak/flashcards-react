@@ -1,0 +1,33 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "(el) obrero" },
+    { "en": "bricklayer",  "word": "(el) albañil" },
+    { "en": "carpenter",   "word": "(el) carpintero" },
+    { "en": "electrician", "word": "(el) electricista" },
+    { "en": "plumber",     "word": "(el) fontanero | plomero" },
+    { "en": "mechanic",    "word": "(el) mecánico" },
+    { "en": "locksmith",   "word": "(el) cerrajero" },
+    { "en": "welder",      "word": "(el) soldador" },
+    { "en": "miner",       "word": "(el) minero" },
+    { "en": "mine",        "word": "(la) mina" },
+    { "en": "fisherman",   "word": "(el) pescador" },
+    { "en": "hunter",      "word": "(el) cazador" },
+    { "en": "baker",       "word": "(el) panadero" },
+    { "en": "butcher",     "word": "(el) carnicero" },
+    { "en": "hairdresser", "word": "(el) peluquero" },
+    { "en": "watchmaker",  "word": "(el) relojero" },
+    { "en": "cleaner",     "word": "(el) limpiador" },
+    { "en": "publisher",   "word": "(el) editor" },
+    { "en": "officer",     "word": "(el) oficial" },
+    { "en": "soldier",     "word": "(el) soldado" },
+    { "en": "priest",      "word": "(el) sacerdote" },
+    { "en": "monk",        "word": "(el) monje" },
+    { "en": "nun",         "word": "(la) monja" },
+    { "en": "prostitute",  "word": "(la) prostituta" },
+    { "en": "sniper",      "word": "(el) francotirador" },
+    { "en": "headmaster",  "word": "(el) director (de escuela)" }
+  ]
+}

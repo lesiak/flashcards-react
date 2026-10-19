@@ -1,0 +1,29 @@
+{
+  "name": "Language & Writing",
+  "description": "Language & Writing",
+  "image": "",
+  "cards": [
+    { "en": "language",             "word": "(el) idioma | (la) lengua" },
+    { "en": "word",                 "word": "(la) palabra" },
+    { "en": "sentence",             "word": "(la) frase" },
+    { "en": "alphabet",             "word": "(el) alfabeto" },
+    { "en": "grammar",              "word": "(la) gramática" },
+    { "en": "dictionary",           "word": "(el) diccionario" },
+    { "en": "encyclopedia",         "word": "(la) enciclopedia" },
+    { "en": "meaning",              "word": "(el) significado [of word, phrase] | (el) sentido [of life, work]" },
+    { "en": "read",                 "word": "leer" },
+    { "en": "write",                "word": "escribir" },
+    { "en": "page",                 "word": "(la) página" },
+    { "en": "chapter",              "word": "(el) capítulo" },
+    { "en": "a draft",              "word": "(el) borrador" },
+    { "en": "rule",                 "word": "(la) regla" },
+    { "en": "principle",            "word": "(el) principio" },
+    { "en": "example",              "word": "ejemplo" },
+    { "en": "for example",          "word": "por ejemplo" },
+    { "en": "letter (of alphabet)", "word": "(la) letra" },
+    { "en": "to translate",         "word": "traducir" },
+    { "en": "translation",          "word": "(la) traducción" },
+    { "en": "to spell",             "word": "deletrear" },
+    { "en": "to pronounce",         "word": "pronunciar" }
+  ]
+}

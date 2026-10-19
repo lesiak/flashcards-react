@@ -1,0 +1,27 @@
+{
+  "name": "Eating Out",
+  "description": "Eating Out",
+  "image": "",
+  "cards": [
+    { "en": "restaurant",          "word": "(el) restaurante" },
+    { "en": "cafe",                "word": "(el) café" },
+    { "en": "pub, bar",            "word": "(el) bar" },
+    { "en": "to eat out",          "word": "comer fuera" },
+    { "en": "menu",                "word": "(la) carta" },
+    { "en": "to order",            "word": "pedir" },
+    { "en": "order",               "word": "(el) pedido" },
+    { "en": "meal",                "word": "(la) comida" },
+    { "en": "a dish",              "word": "(el) plato" },
+    { "en": "starter",             "word": "(el) entrante" },
+    { "en": "main course",         "word": "(el) plato principal" },
+    { "en": "dessert",             "word": "(el) postre" },
+    { "en": "snack",               "word": "(el) tentempié" },
+    { "en": "cuisine",             "word": "(la) cocina" },
+    { "en": "chef",                "word": "(el) chef" },
+    { "en": "diet",                "word": "(la) dieta" },
+    { "en": "a tip (money)",       "word": "(la) propina" },
+    { "en": "bill",                "word": "(la) cuenta" },
+    { "en": "to serve (customer)", "word": "atender" },
+    { "en": "to be full",          "word": "estar lleno" }
+  ]
+}

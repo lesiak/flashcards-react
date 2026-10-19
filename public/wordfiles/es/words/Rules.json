@@ -1,0 +1,28 @@
+{
+  "name": "Rules & Permission",
+  "description": "Rules & Permission",
+  "image": "",
+  "cards": [
+    { "en": "to allow",         "word": "permitir | dejar" },
+    { "en": "to forbid",        "word": "prohibir" },
+    { "en": "to restrict",      "word": "restringir | limitar" },
+    { "en": "restriction",      "word": "(la) restricción" },
+    { "en": "limit",            "word": "(el) límite" },
+    { "en": "to limit",         "word": "limitar" },
+    { "en": "exception",        "word": "(la) excepción" },
+    { "en": "obligatory",       "word": "obligatorio" },
+    { "en": "voluntary",        "word": "voluntario" },
+    { "en": "voluntarily",      "word": "voluntariamente" },
+    { "en": "to demand",        "word": "exigir" },
+    { "en": "demanding",        "word": "exigente" },
+    { "en": "to force",         "word": "forzar" },
+    { "en": "force",            "word": "(la) fuerza" },
+    { "en": "to consent",       "word": "consentir" },
+    { "en": "to obey",          "word": "obedecer" },
+    { "en": "permission",       "word": "(el) permiso" },
+    { "en": "condition",        "word": "(la) condición" },
+    { "en": "instruction",      "word": "(la) instrucción" },
+    { "en": "to take measures", "word": "tomar medidas" },
+    { "en": "measure (step)",   "word": "(la) medida" }
+  ]
+}

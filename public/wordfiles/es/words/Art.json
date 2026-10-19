@@ -1,0 +1,28 @@
+{
+  "name": "Art & Architecture",
+  "description": "Art & Architecture",
+  "image": "",
+  "cards": [
+    { "en": "art",                "word": "(el) arte" },
+    { "en": "culture",            "word": "(la) cultura" },
+    { "en": "to draw",            "word": "dibujar" },
+    { "en": "picture (drawing)",  "word": "(el) dibujo" },
+    { "en": "to paint",           "word": "pintar" },
+    { "en": "picture (painting)", "word": "(el) cuadro" },
+    { "en": "abstract (adj)",     "word": "abstracto" },
+    { "en": "realistic (adj)",    "word": "realista" },
+    { "en": "architecture",       "word": "(la) arquitectura" },
+    { "en": "architect",          "word": "(el) arquitecto" },
+    { "en": "to build",           "word": "construir" },
+    { "en": "to rebuild",         "word": "reconstruir" },
+    { "en": "column",             "word": "(la) columna" },
+    { "en": "dome",               "word": "(la) cúpula" },
+    { "en": "tower",              "word": "(la) torre" },
+    { "en": "(glazed) tile",      "word": "(el) azulejo" },
+    { "en": "baroque",            "word": "barroco" },
+    { "en": "to demolish",        "word": "demoler" },
+    { "en": "to assemble",        "word": "montar" },
+    { "en": "self-expression",    "word": "(la) expresión personal" },
+    { "en": "brick",              "word": "(el) ladrillo" }
+  ]
+}

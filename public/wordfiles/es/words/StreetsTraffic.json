@@ -1,0 +1,31 @@
+{
+  "name": "Streets & Traffic",
+  "description": "Streets & Traffic",
+  "image": "",
+  "cards": [
+    { "en": "road",                                     "word": "(el) camino | (la) carretera" },
+    { "en": "motorway",                                 "word": "(la) autopista" },
+    { "en": "ring road",                                "word": "(la) circunvalación" },
+    { "en": "roundabout",                               "word": "(la) glorieta" },
+    { "en": "intersection",                             "word": "(la) intersección" },
+    { "en": "junction",                                 "word": "(el) cruce" },
+    { "en": "tunnel",                                   "word": "(el) túnel" },
+    { "en": "underpass",                                "word": "(el) paso" },
+    { "en": "passage (between buildings, underground)", "word": "(el) pasaje" },
+    { "en": "passage (way through)",                    "word": "(el) paso" },
+    { "en": "pedestrian",                               "word": "(el) peatón" },
+    { "en": "pedestrian crossing",                      "word": "(el) paso de peatones | (el) paso de cebra" },
+    { "en": "to cross (a road)",                        "word": "atravesar | pasar" },
+    { "en": "traffic lights",                           "word": "(el) semáforo" },
+    { "en": "traffic",                                  "word": "(el) tráfico" },
+    { "en": "traffic jam",                              "word": "(el) atasco | (el) embotellamiento" },
+    { "en": "rush hour",                                "word": "(la) hora punta" },
+    { "en": "road sign",                                "word": "(el) señal de tráfico" },
+    { "en": "one-way (street)",                         "word": "de sentido único" },
+    { "en": "speed limit",                              "word": "(el) límite de velocidad" },
+    { "en": "roadworks",                                "word": "obras (de carretera)" },
+    { "en": "street lamp (lamppost)",                   "word": "(la) farola" },
+    { "en": "postbox",                                  "word": "(el) buzón" },
+    { "en": "other side",                               "word": "(el) otro lado" }
+  ]
+}

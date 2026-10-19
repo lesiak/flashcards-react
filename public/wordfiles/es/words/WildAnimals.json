@@ -1,0 +1,29 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "(el) oso" },
+    { "en": "wolf",      "word": "(el) lobo" },
+    { "en": "fox",       "word": "(el) zorro" },
+    { "en": "deer",      "word": "(el) corzo" },
+    { "en": "moose",     "word": "(el) alce" },
+    { "en": "reindeer",  "word": "(el) reno" },
+    { "en": "wild boar", "word": "(el) jabalí" },
+    { "en": "hedgehog",  "word": "(el) erizo" },
+    { "en": "hare",      "word": "(la) liebre" },
+    { "en": "squirrel",  "word": "(la) ardilla" },
+    { "en": "bat",       "word": "(el) murciélago" },
+    { "en": "monkey",    "word": "(el) mono" },
+    { "en": "lion",      "word": "(el) león" },
+    { "en": "tiger",     "word": "(el) tigre" },
+    { "en": "elephant",  "word": "(el) elefante" },
+    { "en": "giraffe",   "word": "(la) jirafa" },
+    { "en": "camel",     "word": "(el) camello" },
+    { "en": "snake",     "word": "(la) serpiente" },
+    { "en": "crocodile", "word": "(el) cocodrilo" },
+    { "en": "frog",      "word": "(la) rana" },
+    { "en": "dinosaur",  "word": "(el) dinosaurio" },
+    { "en": "mammal",    "word": "(el) mamífero" }
+  ]
+}

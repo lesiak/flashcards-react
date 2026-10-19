@@ -1,0 +1,25 @@
+{
+  "name": "Film & TV",
+  "description": "Film & TV",
+  "image": "",
+  "cards": [
+    { "en": "movie",                             "word": "(la) película" },
+    { "en": "actor",                             "word": "(el) actor" },
+    { "en": "actress",                           "word": "(la) actriz" },
+    { "en": "movie star",                        "word": "(la) estrella de cine" },
+    { "en": "director",                          "word": "(el) director" },
+    { "en": "a role (acting)",                   "word": "(el) papel" },
+    { "en": "to play (a role)",                  "word": "desempeñar" },
+    { "en": "scenario",                          "word": "(el) guion [film] | (el) argumento [theatre]" },
+    { "en": "plot",                              "word": "(el) trama" },
+    { "en": "the plot thickens",                 "word": "el asunto se complica" },
+    { "en": "series",                            "word": "(la) serie" },
+    { "en": "an episode",                        "word": "(el) episodio | (el) capítulo" },
+    { "en": "channel",                           "word": "(el) canal" },
+    { "en": "programme",                         "word": "(el) programa" },
+    { "en": "a comeback",                        "word": "(la) vuelta | (el) regreso" },
+    { "en": "make a comeback",                   "word": "volver" },
+    { "en": "entertainment",                     "word": "(el) entretenimiento" },
+    { "en": "perform (in front of an audience)", "word": "actuar" }
+  ]
+}

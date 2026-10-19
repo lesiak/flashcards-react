@@ -1,0 +1,33 @@
+{
+  "name": "Kitchen & Cooking",
+  "description": "Kitchen & Cooking",
+  "image": "",
+  "cards": [
+    { "en": "to cook",           "word": "cocinar | cocer" },
+    { "en": "to bake",           "word": "hornear | cocer al horno" },
+    { "en": "to mix",            "word": "mezclar" },
+    { "en": "to cut",            "word": "cortar" },
+    { "en": "to slice",          "word": "rebanar" },
+    { "en": "to grate",          "word": "rallar" },
+    { "en": "a grater",          "word": "(el) rallador" },
+    { "en": "smoked",            "word": "ahumado" },
+    { "en": "pot",               "word": "(la) olla" },
+    { "en": "kettle",            "word": "(la) tetera | (el) hervidor" },
+    { "en": "oven",              "word": "(el) horno" },
+    { "en": "gas cooker",        "word": "(la) cocina de gas" },
+    { "en": "rice cooker",       "word": "(la) arrocera" },
+    { "en": "knife",             "word": "(el) cuchillo" },
+    { "en": "spoon",             "word": "(la) cuchara" },
+    { "en": "fork",              "word": "(el) tenedor" },
+    { "en": "chopsticks",        "word": "(los) palillos" },
+    { "en": "cup",               "word": "(la) taza" },
+    { "en": "plate",             "word": "(el) plato" },
+    { "en": "glass (for water)", "word": "(el) vaso" },
+    { "en": "glass (for wine)",  "word": "(la) copa" },
+    { "en": "frying pan",        "word": "(la) sartén" },
+    { "en": "to boil",           "word": "hervir" },
+    { "en": "to fry",            "word": "freír" },
+    { "en": "recipe",            "word": "(la) receta" },
+    { "en": "microwave",         "word": "(el) microondas" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "",
+  "cards": [
+    { "en": "bird",       "word": "(el) ave" },
+    { "en": "pigeon",     "word": "(la) paloma" },
+    { "en": "eagle",      "word": "(el) águila" },
+    { "en": "sparrow",    "word": "(el) gorrión" },
+    { "en": "swan",       "word": "(el) cisne" },
+    { "en": "stork",      "word": "(la) cigüeña" },
+    { "en": "gull",       "word": "(la) gaviota" },
+    { "en": "owl",        "word": "(la) lechuza" },
+    { "en": "parrot",     "word": "(el) loro" },
+    { "en": "nest",       "word": "(el) nido" },
+    { "en": "fish",       "word": "(el) pez" },
+    { "en": "dolphin",    "word": "(el) delfín" },
+    { "en": "shark",      "word": "(el) tiburón" },
+    { "en": "eel",        "word": "(la) anguila" },
+    { "en": "tuna",       "word": "(el) atún" },
+    { "en": "starfish",   "word": "(la) estrella de mar" },
+    { "en": "seahorse",   "word": "(el) caballito de mar" },
+    { "en": "ant",        "word": "(la) hormiga" },
+    { "en": "butterfly",  "word": "(la) mariposa" },
+    { "en": "bee",        "word": "(la) abeja" },
+    { "en": "wasp",       "word": "(la) avispa" },
+    { "en": "bug",        "word": "(el) bicho" },
+    { "en": "a fly",      "word": "(la) mosca" },
+    { "en": "a mosquito", "word": "(el) mosquito" },
+    { "en": "a spider",   "word": "(la) araña" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",               "word": "(la) pareja" },
+    { "en": "partner",                "word": "(la) pareja" },
+    { "en": "boyfriend",              "word": "(el) novio" },
+    { "en": "girlfriend",             "word": "(la) novia" },
+    { "en": "fiancé",                 "word": "(el) novio | (el) prometido" },
+    { "en": "engagement (betrothal)", "word": "(el) compromiso" },
+    { "en": "bride",                  "word": "(la) novia" },
+    { "en": "groom",                  "word": "(el) novio" },
+    { "en": "marriage",               "word": "(el) matrimonio" },
+    { "en": "married",                "word": "casado" },
+    { "en": "to get married",         "word": "casarse (con)" },
+    { "en": "single, unmarried",      "word": "soltero" },
+    { "en": "a divorce",              "word": "(el) divorcio" },
+    { "en": "divorced",               "word": "divorciado" },
+    { "en": "a date",                 "word": "(la) cita" },
+    { "en": "blind date",             "word": "(la) cita a ciegas" },
+    { "en": "lover",                  "word": "(el) amante" },
+    { "en": "to seduce",              "word": "seducir" },
+    { "en": "to win (the heart of)",  "word": "conquistar" },
+    { "en": "to hug",                 "word": "abrazar" },
+    { "en": "to cuddle",              "word": "acurrucar" },
+    { "en": "to kiss",                "word": "besar" },
+    { "en": "a kiss",                 "word": "(el) beso" },
+    { "en": "friend",                 "word": "(el) amigo" },
+    { "en": "friendship",             "word": "(la) amistad" },
+    { "en": "enemy",                  "word": "(el) enemigo" }
+  ]
+}
