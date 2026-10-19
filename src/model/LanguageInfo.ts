@@ -99,18 +99,14 @@ export const korean: LanguageInfo = {
   flagUrl: flagOfSouthKorea
 }
 
-export const appLangs = [
-  finnish,
-  spanish,
-  french,
-  brazilianPortuguese,
-  croatian,
-  dutch,
-  turkish,
-  hindi,
-  hebrew,
-  armenian,
-  albanian,
-  slovenian,
-  korean
+/** Languages as the picker shows them: each inner list is a block, separated from the next by a divider. */
+export const appLangGroups: LanguageInfo[][] = [
+  [finnish],
+  [spanish, french, brazilianPortuguese],
+  [croatian, slovenian, albanian],
+  [dutch],
+  [armenian, hebrew, turkish],
+  [korean, hindi],
 ];
+
+export const appLangs: LanguageInfo[] = appLangGroups.flat();

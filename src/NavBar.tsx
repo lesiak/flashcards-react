@@ -2,7 +2,7 @@ import React, {useContext} from 'react';
 import {
   Avatar, Image,
   makeStyles,
-  Menu, MenuGroupHeader, MenuItem,
+  Menu, MenuDivider, MenuGroupHeader, MenuItem,
   MenuItemLink,
   MenuList,
   MenuPopover,
@@ -16,7 +16,7 @@ import {
 import {PersonRegular} from '@fluentui/react-icons';
 import {SelectTabEventHandler} from '@fluentui/react-tabs';
 import {LanguageContext} from './context/LanguageContext.tsx';
-import {LanguageInfo, appLangs} from './model/LanguageInfo.ts';
+import {LanguageInfo, appLangGroups} from './model/LanguageInfo.ts';
 
 type NavBarProps = {
   selectedTab: TabValue,
@@ -88,9 +88,13 @@ export const NavBar: React.FC<NavBarProps> = ({selectedTab, onTabSelect}) => {
         <MenuPopover>
           <MenuList>
             <MenuGroupHeader>Select Language</MenuGroupHeader>
-            {appLangs.map(lang => <ChangeLanguageMenuItem key={lang.code}
-                                                          lang={lang}
-                                                          onLangClicked={lang => setCurrentLanguage(lang)}/>)}
+            {appLangGroups.map((group, i) =>
+              <React.Fragment key={group[0].code}>
+                {i > 0 && <MenuDivider/>}
+                {group.map(lang => <ChangeLanguageMenuItem key={lang.code}
+                                                           lang={lang}
+                                                           onLangClicked={lang => setCurrentLanguage(lang)}/>)}
+              </React.Fragment>)}
           </MenuList>
         </MenuPopover>
       </Menu>
