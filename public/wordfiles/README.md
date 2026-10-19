@@ -10,11 +10,26 @@ a language is not shown.
 ```json
 {
   "groups": [
-    { "id": "words", "name": "Vocabulary", "decks": ["01_NatureBeginner", "02_City"] },
+    { "id": "words", "name": "Vocabulary", "decks": ["Nature", "Landscape", "Weather"] },
     { "id": "a1",    "name": "A1 Level",   "decks": ["A1_Level_Part1", "A1_Level_Part2"] }
   ]
 }
 ```
+
+Deck names carry no numbers; `Lessons.json` alone decides the order, so a
+deck can be moved or inserted without renaming files in every language. A
+`words` deck holds at most 100 cards, ideally around 50; 20 is fine too.
+`toDrop.json` is the one deck allowed on disk without an entry here: it
+collects cards waiting to be sorted into a theme or removed, and the app
+never shows it.
+
+## Checks
+
+`npm run decks:check` validates every deck file and `Lessons.json` against
+the rules on this page (structure, listed decks, duplicate `en`, deck size,
+bracket and `|` marks, clip-name collisions) and fails the build on the
+first error, so run it before committing deck changes. A card with an empty
+`word` is only a warning: it marks a translation still to be written.
 
 A deck file:
 
