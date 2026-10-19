@@ -22,12 +22,12 @@
     { "en": "pineapple",      "word": "אננס" },
     { "en": "watermelon",     "word": "אבטיח" },
     { "en": "orange (fruit)", "word": "" },
+    { "en": "fig",            "word": "תאנה" },
     { "en": "nut",            "word": "אגוז" },
     { "en": "hazelnut",       "word": "אגוז לוז" },
     { "en": "walnut",         "word": "אגוז מלך" },
     { "en": "almond",         "word": "שקד" },
     { "en": "ripe",           "word": "בשל" },
-    { "en": "fig",            "word": "תאנה" },
     { "en": "pomegranate",    "word": "רימון" }
   ]
 }

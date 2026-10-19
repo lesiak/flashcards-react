@@ -22,11 +22,11 @@
     { "en": "pineapple",      "word": "ananas" },
     { "en": "watermelon",     "word": "lubenica" },
     { "en": "orange (fruit)", "word": "" },
+    { "en": "fig",            "word": "smokva" },
     { "en": "nut",            "word": "orah" },
     { "en": "hazelnut",       "word": "lješnjak" },
     { "en": "walnut",         "word": "orah" },
     { "en": "almond",         "word": "badem" },
-    { "en": "ripe",           "word": "zrelo" },
-    { "en": "fig",            "word": "smokva" }
+    { "en": "ripe",           "word": "zrelo" }
   ]
 }
