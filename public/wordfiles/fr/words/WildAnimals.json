@@ -1,0 +1,26 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "(l')ours" },
+    { "en": "wolf",      "word": "(le) loup" },
+    { "en": "fox",       "word": "(le) renard" },
+    { "en": "deer",      "word": "(le) cerf" },
+    { "en": "moose",     "word": "(l')élan" },
+    { "en": "reindeer",  "word": "(le) renne" },
+    { "en": "wild boar", "word": "(le) sanglier" },
+    { "en": "hedgehog",  "word": "(le) hérisson" },
+    { "en": "hare",      "word": "(le) lièvre" },
+    { "en": "squirrel",  "word": "(l')écureuil" },
+    { "en": "monkey",    "word": "(le) singe" },
+    { "en": "lion",      "word": "(le) lion" },
+    { "en": "tiger",     "word": "(le) tigre" },
+    { "en": "elephant",  "word": "(l')éléphant" },
+    { "en": "giraffe",   "word": "(la) girafe" },
+    { "en": "camel",     "word": "(le) chameau" },
+    { "en": "snake",     "word": "(le) serpent" },
+    { "en": "crocodile", "word": "(le) crocodile" },
+    { "en": "frog",      "word": "(la) grenouille" }
+  ]
+}

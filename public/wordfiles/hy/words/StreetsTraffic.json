@@ -1,0 +1,8 @@
+{
+  "name": "Streets & Traffic",
+  "description": "Streets & Traffic",
+  "image": "",
+  "cards": [
+    { "en": "road", "word": "ճանապարհ" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Transport",
+  "description": "Transport",
+  "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
+  "cards": [
+    { "en": "car",                 "word": "auto | automobil" },
+    { "en": "bus",                 "word": "autobus" },
+    { "en": "train",               "word": "vlak" },
+    { "en": "metro",               "word": "metro | podzemna željeznica" },
+    { "en": "tram",                "word": "tramvaj" },
+    { "en": "bicycle",             "word": "bicikl" },
+    { "en": "motorcycle",          "word": "motocikl | motor" },
+    { "en": "ship",                "word": "brod" },
+    { "en": "railway",             "word": "željeznica" },
+    { "en": "railway station",     "word": "željeznički kolodvor" },
+    { "en": "ticket",              "word": "karta" },
+    { "en": "validate (a ticket)", "word": "poništiti | validirati" },
+    { "en": "bus stop",            "word": "autobusna stanica" }
+  ]
+}

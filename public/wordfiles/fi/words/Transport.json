@@ -1,0 +1,20 @@
+{
+  "name": "Transport",
+  "description": "Transport",
+  "image": "https://images.unsplash.com/photo-1522885411213-fed07f49473d",
+  "cards": [
+    { "en": "car",                 "word": "auto" },
+    { "en": "bus",                 "word": "bussi | linja-auto" },
+    { "en": "train",               "word": "juna" },
+    { "en": "metro",               "word": "maanalainen" },
+    { "en": "tram",                "word": "raitiovaunu" },
+    { "en": "bicycle",             "word": "polkupyörä" },
+    { "en": "motorcycle",          "word": "moottoripyörä" },
+    { "en": "ship",                "word": "laiva" },
+    { "en": "railway",             "word": "rautatie" },
+    { "en": "railway station",     "word": "rautatieasema" },
+    { "en": "ticket",              "word": "lippu" },
+    { "en": "validate (a ticket)", "word": "" },
+    { "en": "bus stop",            "word": "bussipysäkki" }
+  ]
+}

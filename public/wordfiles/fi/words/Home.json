@@ -1,0 +1,10 @@
+{
+  "name": "Home",
+  "description": "Home",
+  "image": "",
+  "cards": [
+    { "en": "staircase",      "word": "portaikko" },
+    { "en": "lift",           "word": "hissi" },
+    { "en": "floor (storey)", "word": "kerros" }
+  ]
+}

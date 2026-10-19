@@ -1,0 +1,15 @@
+{
+  "name": "Describing Things",
+  "description": "Describing Things",
+  "image": "https://images.unsplash.com/photo-1648942521610-68024b5d6e29",
+  "cards": [
+    { "en": "big",           "word": "büyük" },
+    { "en": "small, little", "word": "küçük" },
+    { "en": "long",          "word": "uzun" },
+    { "en": "short",         "word": "kısa" },
+    { "en": "new",           "word": "yeni" },
+    { "en": "old",           "word": "eski" },
+    { "en": "clean",         "word": "temiz" },
+    { "en": "dirty",         "word": "kirli" }
+  ]
+}

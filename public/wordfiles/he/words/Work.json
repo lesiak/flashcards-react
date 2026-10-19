@@ -1,0 +1,10 @@
+{
+  "name": "Work & Office",
+  "description": "Work & Office",
+  "image": "",
+  "cards": [
+    { "en": "department",         "word": "מחלקה" },
+    { "en": "head of department", "word": "ראש מחלקה | מנהל מחלקה" },
+    { "en": "intern",             "word": "מתמחה" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Inside the Body & Senses",
+  "description": "Inside the Body & Senses",
+  "image": "",
+  "cards": [
+    { "en": "heart",    "word": "srce" },
+    { "en": "brain",    "word": "mozak" },
+    { "en": "lung",     "word": "pluća" },
+    { "en": "stomach",  "word": "želudac" },
+    { "en": "liver",    "word": "jetra" },
+    { "en": "blood",    "word": "krv" },
+    { "en": "a bone",   "word": "kost" },
+    { "en": "skeleton", "word": "kostur | skelet" },
+    { "en": "skull",    "word": "lubanja" }
+  ]
+}

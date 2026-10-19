@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1528563066973-f5e4230fc89f",
+  "cards": [
+    { "en": "city",              "word": "qytet" },
+    { "en": "village",           "word": "fshat" },
+    { "en": "town hall",         "word": "bashki" },
+    { "en": "(city) centre",     "word": "qendër" },
+    { "en": "square (in city)",  "word": "shesh" },
+    { "en": "street",            "word": "rrugë" },
+    { "en": "avenue",            "word": "bulevard" },
+    { "en": "alley, backstreet", "word": "rrugicë" },
+    { "en": "(street) corner",   "word": "cep i rrugës" },
+    { "en": "bridge",            "word": "urë" },
+    { "en": "building",          "word": "ndërtesë" },
+    { "en": "church",            "word": "kishë" },
+    { "en": "castle",            "word": "kështjellë" },
+    { "en": "museum",            "word": "muze" },
+    { "en": "gallery",           "word": "galeri" },
+    { "en": "statue",            "word": "statuja" },
+    { "en": "fountain",          "word": "shatërvan" },
+    { "en": "bench",             "word": "stol" },
+    { "en": "bank",              "word": "bankë" },
+    { "en": "pharmacy",          "word": "farmaci" },
+    { "en": "factory",           "word": "fabrikë" },
+    { "en": "suburb",            "word": "periferi" },
+    { "en": "neighbourhood",     "word": "lagje" },
+    { "en": "urban",             "word": "urban" }
+  ]
+}

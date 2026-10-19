@@ -1,0 +1,9 @@
+{
+  "name": "Getting Around",
+  "description": "Getting Around",
+  "image": "",
+  "cards": [
+    { "en": "left",  "word": "שמאל" },
+    { "en": "right", "word": "ימין" }
+  ]
+}

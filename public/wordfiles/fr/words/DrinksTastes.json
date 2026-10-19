@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "(le) thé" },
+    { "en": "coffee",     "word": "(le) café" },
+    { "en": "juice",      "word": "(le) jus" },
+    { "en": "beer",       "word": "(la) bière" },
+    { "en": "wine",       "word": "(le) vin" },
+    { "en": "vodka",      "word": "(la) vodka" },
+    { "en": "alcohol",    "word": "(l')alcool" },
+    { "en": "sweet",      "word": "sucré" },
+    { "en": "bitter",     "word": "amer" },
+    { "en": "sour",       "word": "aigre | acide" },
+    { "en": "spicy",      "word": "épicé | piquant" },
+    { "en": "mild",       "word": "doux" },
+    { "en": "fresh",      "word": "frais" },
+    { "en": "refreshing", "word": "rafraîchissant" },
+    { "en": "tasty",      "word": "savoureux | bon" },
+    { "en": "delicious",  "word": "délicieux" },
+    { "en": "disgusting", "word": "dégoûtant" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Inside the Body & Senses",
+  "description": "Inside the Body & Senses",
+  "image": "",
+  "cards": [
+    { "en": "heart",    "word": "לב" },
+    { "en": "brain",    "word": "מוח" },
+    { "en": "lung",     "word": "ריאה" },
+    { "en": "stomach",  "word": "קיבה" },
+    { "en": "liver",    "word": "כבד" },
+    { "en": "blood",    "word": "דם" },
+    { "en": "a bone",   "word": "עצם" },
+    { "en": "skeleton", "word": "שלד" },
+    { "en": "skull",    "word": "גולגולת" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "teacher",       "word": "učitelj | nastavnik" },
+    { "en": "policeman",     "word": "policajac" },
+    { "en": "fireman",       "word": "vatrogasac" },
+    { "en": "lawyer",        "word": "odvjetnik | pravnik" },
+    { "en": "judge",         "word": "sudac" },
+    { "en": "prosecutor",    "word": "tužitelj" },
+    { "en": "journalist",    "word": "novinar" },
+    { "en": "photographer",  "word": "fotograf" },
+    { "en": "scientist",     "word": "znanstvenik" },
+    { "en": "engineer",      "word": "inženjer" },
+    { "en": "manager",       "word": "menadžer | upravitelj" },
+    { "en": "secretary",     "word": "tajnica | tajnik" },
+    { "en": "accountant",    "word": "računovođa | knjigovođa" },
+    { "en": "cashier",       "word": "blagajnik | blagajnica" },
+    { "en": "waiter",        "word": "konobar" },
+    { "en": "cook",          "word": "kuhar" },
+    { "en": "barman",        "word": "barmen" },
+    { "en": "pilot",         "word": "pilot" },
+    { "en": "stewardess",    "word": "stjuardesa" },
+    { "en": "taxi driver",   "word": "taksist" },
+    { "en": "dancer",        "word": "plesač | plesačica" },
+    { "en": "painter",       "word": "slikar" },
+    { "en": "sculptor",      "word": "kipar" },
+    { "en": "artist",        "word": "umjetnik" },
+    { "en": "designer",      "word": "dizajner" },
+    { "en": "fashion model", "word": "manekenka | model" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "զույգ" },
+    { "en": "partner",           "word": "զուգընկեր" },
+    { "en": "boyfriend",         "word": "ընկեր" },
+    { "en": "fiancé",            "word": "նշանած" },
+    { "en": "bride",             "word": "հարս" },
+    { "en": "groom",             "word": "փեսա" },
+    { "en": "marriage",          "word": "ամուսնություն" },
+    { "en": "married",           "word": "ամուսնացած" },
+    { "en": "to get married",    "word": "ամուսնանալ" },
+    { "en": "single, unmarried", "word": "ամուրի | չամուսնացած" }
+  ]
+}

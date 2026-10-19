@@ -1,0 +1,31 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "animal",           "word": "חיה | בעל חיים" },
+    { "en": "cat",              "word": "חתול" },
+    { "en": "dog",              "word": "כלב" },
+    { "en": "puppy",            "word": "גור | כלבלב" },
+    { "en": "hamster",          "word": "אוגר" },
+    { "en": "guinea pig",       "word": "שרקן" },
+    { "en": "rabbit",           "word": "ארנב | ארנבון" },
+    { "en": "horse",            "word": "סוס" },
+    { "en": "cow",              "word": "פרה" },
+    { "en": "pig",              "word": "חזיר" },
+    { "en": "sheep",            "word": "כבשה" },
+    { "en": "goat",             "word": "עז" },
+    { "en": "donkey",           "word": "חמור" },
+    { "en": "chicken",          "word": "תרנגולת | עוף" },
+    { "en": "duck",             "word": "ברווז" },
+    { "en": "goose",            "word": "אווז" },
+    { "en": "cattle",           "word": "בקר" },
+    { "en": "female (animals)", "word": "נקבה" },
+    { "en": "male (animals)",   "word": "זכר" },
+    { "en": "cage",             "word": "כלוב" },
+    { "en": "aquarium",         "word": "אקווריום" },
+    { "en": "leash",            "word": "רצועה" },
+    { "en": "pet crate",        "word": "כלוב נשיאה" },
+    { "en": "vet",              "word": "וטרינר" }
+  ]
+}

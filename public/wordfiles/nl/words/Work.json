@@ -1,0 +1,10 @@
+{
+  "name": "Work & Office",
+  "description": "Work & Office",
+  "image": "",
+  "cards": [
+    { "en": "department",         "word": "(de) afdeling" },
+    { "en": "head of department", "word": "(het) afdelingshoofd" },
+    { "en": "intern",             "word": "(de) stagiair" }
+  ]
+}

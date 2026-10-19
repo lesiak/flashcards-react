@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "բանվոր" },
+    { "en": "carpenter",   "word": "ատաղձագործ | հյուսն" },
+    { "en": "electrician", "word": "էլեկտրիկ" },
+    { "en": "plumber",     "word": "ջրմուղագործ | սանտեխնիկ" },
+    { "en": "mechanic",    "word": "մեխանիկ" },
+    { "en": "locksmith",   "word": "փականագործ" },
+    { "en": "welder",      "word": "եռակցող" },
+    { "en": "miner",       "word": "հանքափոր" },
+    { "en": "mine",        "word": "հանք" },
+    { "en": "fisherman",   "word": "ձկնորս" },
+    { "en": "hunter",      "word": "որսորդ" },
+    { "en": "baker",       "word": "հացթուխ" },
+    { "en": "butcher",     "word": "մսագործ" },
+    { "en": "hairdresser", "word": "վարսավիր" },
+    { "en": "watchmaker",  "word": "ժամագործ" },
+    { "en": "cleaner",     "word": "հավաքարար" }
+  ]
+}

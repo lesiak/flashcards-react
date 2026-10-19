@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "işçi" },
+    { "en": "carpenter",   "word": "marangoz" },
+    { "en": "electrician", "word": "elektrikçi" },
+    { "en": "plumber",     "word": "tesisatçı" },
+    { "en": "mechanic",    "word": "mekanik" },
+    { "en": "locksmith",   "word": "çilingir" },
+    { "en": "welder",      "word": "kaynakçı" },
+    { "en": "miner",       "word": "madenci" },
+    { "en": "mine",        "word": "maden" },
+    { "en": "fisherman",   "word": "balıkçı" },
+    { "en": "hunter",      "word": "avcı" },
+    { "en": "baker",       "word": "fırıncı | ekmekçi" },
+    { "en": "butcher",     "word": "kasap" },
+    { "en": "hairdresser", "word": "kuaför" },
+    { "en": "watchmaker",  "word": "saatçi" },
+    { "en": "cleaner",     "word": "temizleyici" }
+  ]
+}

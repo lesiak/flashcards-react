@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "תה" },
+    { "en": "coffee",     "word": "קפה" },
+    { "en": "juice",      "word": "מיץ" },
+    { "en": "beer",       "word": "בירה" },
+    { "en": "wine",       "word": "יין" },
+    { "en": "vodka",      "word": "וודקה" },
+    { "en": "alcohol",    "word": "אלכוהול" },
+    { "en": "sweet",      "word": "מתוק" },
+    { "en": "bitter",     "word": "מר" },
+    { "en": "sour",       "word": "חמוץ" },
+    { "en": "spicy",      "word": "חריף" },
+    { "en": "mild",       "word": "עדין" },
+    { "en": "fresh",      "word": "טרי" },
+    { "en": "refreshing", "word": "מרענן" },
+    { "en": "tasty",      "word": "טעים" },
+    { "en": "delicious",  "word": "טעים מאוד" },
+    { "en": "disgusting", "word": "מגעיל" }
+  ]
+}

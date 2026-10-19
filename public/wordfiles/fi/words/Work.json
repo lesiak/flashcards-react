@@ -1,0 +1,10 @@
+{
+  "name": "Work & Office",
+  "description": "Work & Office",
+  "image": "",
+  "cards": [
+    { "en": "department",         "word": "osasto" },
+    { "en": "head of department", "word": "osastopäällikkö" },
+    { "en": "intern",             "word": "harjoittelija" }
+  ]
+}

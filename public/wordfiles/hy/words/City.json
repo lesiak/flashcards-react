@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1",
+  "cards": [
+    { "en": "city",              "word": "քաղաք" },
+    { "en": "village",           "word": "գյուղ" },
+    { "en": "town hall",         "word": "քաղաքապետարան" },
+    { "en": "(city) centre",     "word": "կենտրոն" },
+    { "en": "square (in city)",  "word": "հրապարակ" },
+    { "en": "street",            "word": "փողոց" },
+    { "en": "avenue",            "word": "պողոտա" },
+    { "en": "alley, backstreet", "word": "նրբանցք" },
+    { "en": "(street) corner",   "word": "փողոցի անկյուն" },
+    { "en": "bridge",            "word": "կամուրջ" },
+    { "en": "building",          "word": "շենք" },
+    { "en": "church",            "word": "եկեղեցի" },
+    { "en": "castle",            "word": "ամրոց" },
+    { "en": "museum",            "word": "թանգարան" },
+    { "en": "gallery",           "word": "պատկերասրահ" },
+    { "en": "statue",            "word": "արձան" },
+    { "en": "fountain",          "word": "շատրվան" },
+    { "en": "bench",             "word": "նստարան" },
+    { "en": "bank",              "word": "բանկ" },
+    { "en": "pharmacy",          "word": "դեղատուն" },
+    { "en": "factory",           "word": "գործարան" },
+    { "en": "suburb",            "word": "ծայրամաս" },
+    { "en": "neighbourhood",     "word": "թաղամաս" },
+    { "en": "urban",             "word": "քաղաքային" }
+  ]
+}

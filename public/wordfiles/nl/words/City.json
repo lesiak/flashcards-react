@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1",
+  "cards": [
+    { "en": "city",              "word": "(de) stad" },
+    { "en": "village",           "word": "(het) dorp" },
+    { "en": "town hall",         "word": "(het) stadhuis | (het) gemeentehuis" },
+    { "en": "(city) centre",     "word": "(het) centrum" },
+    { "en": "square (in city)",  "word": "(het) plein" },
+    { "en": "street",            "word": "(de) straat" },
+    { "en": "avenue",            "word": "(de) laan" },
+    { "en": "alley, backstreet", "word": "(de) steeg" },
+    { "en": "(street) corner",   "word": "(de) hoek" },
+    { "en": "bridge",            "word": "(de) brug" },
+    { "en": "building",          "word": "(het) gebouw" },
+    { "en": "church",            "word": "(de) kerk" },
+    { "en": "castle",            "word": "(het) kasteel" },
+    { "en": "museum",            "word": "(het) museum" },
+    { "en": "gallery",           "word": "(de) galerie" },
+    { "en": "statue",            "word": "(het) standbeeld" },
+    { "en": "fountain",          "word": "(de) fontein" },
+    { "en": "bench",             "word": "(het) bankje | (de) bank" },
+    { "en": "bank",              "word": "(de) bank" },
+    { "en": "pharmacy",          "word": "(de) apotheek" },
+    { "en": "factory",           "word": "(de) fabriek" },
+    { "en": "suburb",            "word": "(de) buitenwijk | (de) voorstad" },
+    { "en": "neighbourhood",     "word": "(de) wijk | (de) buurt" },
+    { "en": "urban",             "word": "stedelijk" }
+  ]
+}

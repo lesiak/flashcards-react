@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1555990794-6d00be0d6f95",
+  "cards": [
+    { "en": "city",              "word": "grad" },
+    { "en": "village",           "word": "selo" },
+    { "en": "town hall",         "word": "gradska vijećnica" },
+    { "en": "(city) centre",     "word": "središte (grada)" },
+    { "en": "square (in city)",  "word": "trg" },
+    { "en": "street",            "word": "ulica" },
+    { "en": "avenue",            "word": "avenija" },
+    { "en": "alley, backstreet", "word": "sporedna ulica" },
+    { "en": "(street) corner",   "word": "ugao ulice" },
+    { "en": "bridge",            "word": "most" },
+    { "en": "building",          "word": "zgrada" },
+    { "en": "church",            "word": "crkva" },
+    { "en": "castle",            "word": "dvorac | zamak" },
+    { "en": "museum",            "word": "muzej" },
+    { "en": "gallery",           "word": "galerija" },
+    { "en": "statue",            "word": "kip | statua" },
+    { "en": "fountain",          "word": "fontana" },
+    { "en": "bench",             "word": "klupa" },
+    { "en": "bank",              "word": "banka" },
+    { "en": "pharmacy",          "word": "ljekarna" },
+    { "en": "factory",           "word": "tvornica | fabrika" },
+    { "en": "suburb",            "word": "predgrađe" },
+    { "en": "neighbourhood",     "word": "kvart | četvrt" },
+    { "en": "urban",             "word": "gradski" }
+  ]
+}

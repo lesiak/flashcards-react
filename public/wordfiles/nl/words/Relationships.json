@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "(het) stel | (het) paar" },
+    { "en": "partner",           "word": "(de) partner" },
+    { "en": "boyfriend",         "word": "(de) vriend" },
+    { "en": "fiancé",            "word": "(de) verloofde" },
+    { "en": "bride",             "word": "(de) bruid" },
+    { "en": "groom",             "word": "(de) bruidegom" },
+    { "en": "marriage",          "word": "(het) huwelijk" },
+    { "en": "married",           "word": "getrouwd | gehuwd" },
+    { "en": "to get married",    "word": "trouwen" },
+    { "en": "single, unmarried", "word": "vrijgezel | ongehuwd" }
+  ]
+}

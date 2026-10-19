@@ -1,0 +1,22 @@
+{
+  "name": "Animal Life",
+  "description": "Animal Life",
+  "image": "",
+  "cards": [
+    { "en": "wing",           "word": "krilo | perut" },
+    { "en": "beak",           "word": "kljun" },
+    { "en": "fin",            "word": "plavut" },
+    { "en": "gill",           "word": "škrge" },
+    { "en": "tail",           "word": "rep" },
+    { "en": "horn",           "word": "rog" },
+    { "en": "fur",            "word": "krzno | kožuh" },
+    { "en": "to bite",        "word": "ugrizniti" },
+    { "en": "to wag",         "word": "mahati" },
+    { "en": "to bark",        "word": "lajati" },
+    { "en": "to meow",        "word": "mijavkati" },
+    { "en": "to moo",         "word": "mukati" },
+    { "en": "to croak",       "word": "regljati" },
+    { "en": "to caw (raven)", "word": "krakati" },
+    { "en": "to hibernate",   "word": "prezimovati | hibernirati" }
+  ]
+}

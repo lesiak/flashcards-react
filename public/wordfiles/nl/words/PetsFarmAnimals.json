@@ -1,0 +1,27 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "cat",              "word": "(de) kat" },
+    { "en": "dog",              "word": "(de) hond" },
+    { "en": "puppy",            "word": "(de) puppy" },
+    { "en": "hamster",          "word": "(de) hamster" },
+    { "en": "guinea pig",       "word": "(de) cavia" },
+    { "en": "horse",            "word": "(het) paard" },
+    { "en": "cow",              "word": "(de) koe" },
+    { "en": "pig",              "word": "(het) varken" },
+    { "en": "sheep",            "word": "(het) schaap" },
+    { "en": "goat",             "word": "(de) geit" },
+    { "en": "donkey",           "word": "(de) ezel" },
+    { "en": "chicken",          "word": "(de) kip" },
+    { "en": "cattle",           "word": "(het) vee" },
+    { "en": "female (animals)", "word": "(het) vrouwtje | (het) wijfje" },
+    { "en": "male (animals)",   "word": "(het) mannetje" },
+    { "en": "cage",             "word": "(de) kooi" },
+    { "en": "aquarium",         "word": "(het) aquarium" },
+    { "en": "leash",            "word": "(de) riem | (de) hondenriem" },
+    { "en": "pet crate",        "word": "(de) transportbox | (de) reismand" },
+    { "en": "vet",              "word": "(de) dierenarts" }
+  ]
+}

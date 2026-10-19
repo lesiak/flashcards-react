@@ -1,0 +1,33 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "teacher",       "word": "(le) professeur | (l')enseignant" },
+    { "en": "policeman",     "word": "(le) policier" },
+    { "en": "fireman",       "word": "(le) pompier" },
+    { "en": "lawyer",        "word": "(l')avocat" },
+    { "en": "judge",         "word": "(le) juge" },
+    { "en": "prosecutor",    "word": "(le) procureur" },
+    { "en": "journalist",    "word": "(le) journaliste" },
+    { "en": "photographer",  "word": "(le) photographe" },
+    { "en": "scientist",     "word": "(le) scientifique" },
+    { "en": "engineer",      "word": "(l')ingénieur" },
+    { "en": "manager",       "word": "(le) directeur | (le) manager" },
+    { "en": "secretary",     "word": "(la) secrétaire" },
+    { "en": "accountant",    "word": "(le) comptable" },
+    { "en": "cashier",       "word": "(le) caissier | (la) caissière" },
+    { "en": "waiter",        "word": "(le) serveur" },
+    { "en": "cook",          "word": "(le) cuisinier" },
+    { "en": "barman",        "word": "(le) barman" },
+    { "en": "pilot",         "word": "(le) pilote" },
+    { "en": "stewardess",    "word": "(l')hôtesse de l'air" },
+    { "en": "taxi driver",   "word": "(le) chauffeur de taxi" },
+    { "en": "dancer",        "word": "(le) danseur | (la) danseuse" },
+    { "en": "painter",       "word": "(le) peintre" },
+    { "en": "sculptor",      "word": "(le) sculpteur" },
+    { "en": "artist",        "word": "(l')artiste" },
+    { "en": "designer",      "word": "(le) designer | (le) concepteur" },
+    { "en": "fashion model", "word": "(le) mannequin" }
+  ]
+}

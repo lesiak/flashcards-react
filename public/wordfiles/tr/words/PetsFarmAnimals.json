@@ -1,0 +1,31 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "animal",           "word": "eläin" },
+    { "en": "cat",              "word": "kedi" },
+    { "en": "dog",              "word": "köpek" },
+    { "en": "puppy",            "word": "yavru köpek" },
+    { "en": "hamster",          "word": "hamster" },
+    { "en": "guinea pig",       "word": "kobay" },
+    { "en": "rabbit",           "word": "tavşan" },
+    { "en": "horse",            "word": "atış" },
+    { "en": "cow",              "word": "inek " },
+    { "en": "pig",              "word": "domuz" },
+    { "en": "sheep",            "word": "koyun" },
+    { "en": "goat",             "word": "keçi" },
+    { "en": "donkey",           "word": "eşek" },
+    { "en": "chicken",          "word": "tavuk" },
+    { "en": "duck",             "word": "ankka" },
+    { "en": "goose",            "word": "hahni" },
+    { "en": "cattle",           "word": "sığır" },
+    { "en": "female (animals)", "word": "dişi" },
+    { "en": "male (animals)",   "word": "erkek" },
+    { "en": "cage",             "word": "kafes" },
+    { "en": "aquarium",         "word": "akvaryum" },
+    { "en": "leash",            "word": "tasma" },
+    { "en": "pet crate",        "word": "" },
+    { "en": "vet",              "word": "veteriner" }
+  ]
+}

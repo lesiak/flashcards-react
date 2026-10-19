@@ -1,0 +1,33 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "teacher",       "word": "מורה" },
+    { "en": "policeman",     "word": "שוטר" },
+    { "en": "fireman",       "word": "כבאי" },
+    { "en": "lawyer",        "word": "עורך דין" },
+    { "en": "judge",         "word": "שופט" },
+    { "en": "prosecutor",    "word": "תובע" },
+    { "en": "journalist",    "word": "עיתונאי" },
+    { "en": "photographer",  "word": "צלם" },
+    { "en": "scientist",     "word": "מדען" },
+    { "en": "engineer",      "word": "מהנדס" },
+    { "en": "manager",       "word": "מנהל" },
+    { "en": "secretary",     "word": "מזכירה | מזכיר" },
+    { "en": "accountant",    "word": "רואה חשבון" },
+    { "en": "cashier",       "word": "קופאי | קופאית" },
+    { "en": "waiter",        "word": "מלצר" },
+    { "en": "cook",          "word": "טבח" },
+    { "en": "barman",        "word": "ברמן" },
+    { "en": "pilot",         "word": "טייס" },
+    { "en": "stewardess",    "word": "דיילת" },
+    { "en": "taxi driver",   "word": "נהג מונית" },
+    { "en": "dancer",        "word": "רקדן | רקדנית" },
+    { "en": "painter",       "word": "צייר" },
+    { "en": "sculptor",      "word": "פסל" },
+    { "en": "artist",        "word": "אמן" },
+    { "en": "designer",      "word": "מעצב" },
+    { "en": "fashion model", "word": "דוגמנית | דוגמן" }
+  ]
+}

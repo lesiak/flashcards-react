@@ -1,0 +1,21 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1478088913771-e3a36f50bb63",
+  "cards": [
+    { "en": "fire",    "word": "ogenj" },
+    { "en": "light",   "word": "svetloba | luč" },
+    { "en": "water",   "word": "voda" },
+    { "en": "river",   "word": "reka" },
+    { "en": "sea",     "word": "morje" },
+    { "en": "forest",  "word": "gozd" },
+    { "en": "tree",    "word": "drevo" },
+    { "en": "sun",     "word": "sonce" },
+    { "en": "moon",    "word": "luna | mesec" },
+    { "en": "star",    "word": "zvezda" },
+    { "en": "sky",     "word": "nebo" },
+    { "en": "cloud",   "word": "oblak" },
+    { "en": "rainbow", "word": "mavrica" },
+    { "en": "air",     "word": "zrak" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Getting Around",
+  "description": "Getting Around",
+  "image": "",
+  "cards": [
+    { "en": "left",  "word": "lijevi" },
+    { "en": "right", "word": "desni" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "" },
+    { "en": "carpenter",   "word": "puuseppä" },
+    { "en": "electrician", "word": "sähköasentaja | sähkömies" },
+    { "en": "plumber",     "word": "putkimies" },
+    { "en": "mechanic",    "word": "mekaanikko" },
+    { "en": "locksmith",   "word": "lukkoseppä" },
+    { "en": "welder",      "word": "hitsaaja" },
+    { "en": "miner",       "word": "kaivosmies" },
+    { "en": "mine",        "word": "kaivos" },
+    { "en": "fisherman",   "word": "kalastaja" },
+    { "en": "hunter",      "word": "metsästäjä" },
+    { "en": "baker",       "word": "leipuri" },
+    { "en": "butcher",     "word": "teurastaja" },
+    { "en": "hairdresser", "word": "kampaaja" },
+    { "en": "watchmaker",  "word": "kelloseppä" },
+    { "en": "cleaner",     "word": "siivooja" }
+  ]
+}

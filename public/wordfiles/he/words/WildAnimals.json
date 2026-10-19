@@ -1,0 +1,26 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "דוב" },
+    { "en": "wolf",      "word": "זאב" },
+    { "en": "fox",       "word": "שועל" },
+    { "en": "deer",      "word": "צבי | אייל" },
+    { "en": "moose",     "word": "אייל קורא" },
+    { "en": "reindeer",  "word": "אייל הצפון" },
+    { "en": "wild boar", "word": "חזיר בר" },
+    { "en": "hedgehog",  "word": "קיפוד" },
+    { "en": "hare",      "word": "ארנבת" },
+    { "en": "squirrel",  "word": "סנאי" },
+    { "en": "monkey",    "word": "קוף" },
+    { "en": "lion",      "word": "אריה" },
+    { "en": "tiger",     "word": "נמר" },
+    { "en": "elephant",  "word": "פיל" },
+    { "en": "giraffe",   "word": "ג'ירפה" },
+    { "en": "camel",     "word": "גמל" },
+    { "en": "snake",     "word": "נחש" },
+    { "en": "crocodile", "word": "תנין" },
+    { "en": "frog",      "word": "צפרדע" }
+  ]
+}

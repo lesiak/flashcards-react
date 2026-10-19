@@ -1,0 +1,9 @@
+{
+  "name": "Weather",
+  "description": "Weather",
+  "image": "",
+  "cards": [
+    { "en": "fog", "word": "(de) mist | (de) nevel" },
+    { "en": "ice", "word": "(het) ijs" }
+  ]
+}

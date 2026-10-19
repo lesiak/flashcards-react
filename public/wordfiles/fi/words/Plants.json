@@ -1,0 +1,9 @@
+{
+  "name": "Plants & Trees",
+  "description": "Plants & Trees",
+  "image": "",
+  "cards": [
+    { "en": "bush",  "word": "pensas" },
+    { "en": "grass", "word": "ruoho | nurmi" }
+  ]
+}

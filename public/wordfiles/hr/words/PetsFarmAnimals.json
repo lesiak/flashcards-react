@@ -1,0 +1,31 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "animal",           "word": "životinja" },
+    { "en": "cat",              "word": "mačka" },
+    { "en": "dog",              "word": "pas" },
+    { "en": "puppy",            "word": "štene" },
+    { "en": "hamster",          "word": "hrčak" },
+    { "en": "guinea pig",       "word": "zamorac" },
+    { "en": "rabbit",           "word": "kunić" },
+    { "en": "horse",            "word": "konj" },
+    { "en": "cow",              "word": "krava" },
+    { "en": "pig",              "word": "svinja" },
+    { "en": "sheep",            "word": "ovca" },
+    { "en": "goat",             "word": "koza" },
+    { "en": "donkey",           "word": "magarac" },
+    { "en": "chicken",          "word": "kokoš | pile" },
+    { "en": "duck",             "word": "patka" },
+    { "en": "goose",            "word": "guska" },
+    { "en": "cattle",           "word": "stoka | goveda" },
+    { "en": "female (animals)", "word": "ženka" },
+    { "en": "male (animals)",   "word": "mužjak" },
+    { "en": "cage",             "word": "kavez" },
+    { "en": "aquarium",         "word": "akvarij" },
+    { "en": "leash",            "word": "povodac" },
+    { "en": "pet crate",        "word": "transporter" },
+    { "en": "vet",              "word": "veterinar" }
+  ]
+}

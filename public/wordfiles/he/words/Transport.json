@@ -1,0 +1,20 @@
+{
+  "name": "Transport",
+  "description": "Transport",
+  "image": "https://images.unsplash.com/photo-1717272776190-a43be146d25d",
+  "cards": [
+    { "en": "car",                 "word": "מכונית | אוטו" },
+    { "en": "bus",                 "word": "אוטובוס" },
+    { "en": "train",               "word": "רכבת" },
+    { "en": "metro",               "word": "רכבת תחתית" },
+    { "en": "tram",                "word": "חשמלית" },
+    { "en": "bicycle",             "word": "אופניים" },
+    { "en": "motorcycle",          "word": "אופנוע" },
+    { "en": "ship",                "word": "ספינה | אונייה" },
+    { "en": "railway",             "word": "מסילת ברזל" },
+    { "en": "railway station",     "word": "תחנת רכבת" },
+    { "en": "ticket",              "word": "כרטיס" },
+    { "en": "validate (a ticket)", "word": "לתקף" },
+    { "en": "bus stop",            "word": "תחנת אוטובוס" }
+  ]
+}

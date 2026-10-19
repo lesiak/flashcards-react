@@ -1,0 +1,33 @@
+{
+  "name": "Family",
+  "description": "Family",
+  "image": "https://images.unsplash.com/photo-1560328055-e938bb2ed50a",
+  "cards": [
+    { "en": "family",         "word": "aile" },
+    { "en": "father",         "word": "baba" },
+    { "en": "mother",         "word": "anne" },
+    { "en": "parents",        "word": "ebeveynler" },
+    { "en": "child",          "word": "çocuk" },
+    { "en": "son",            "word": "oğul" },
+    { "en": "daughter",       "word": "kız çocuğu" },
+    { "en": "baby",           "word": "bebek" },
+    { "en": "wife",           "word": "eş" },
+    { "en": "husband",        "word": "koca" },
+    { "en": "sister",         "word": "kız kardeş" },
+    { "en": "brother",        "word": "erkek kardeş" },
+    { "en": "twin",           "word": "ikiz" },
+    { "en": "grandmother",    "word": "büyükanne" },
+    { "en": "grandson",       "word": "torun" },
+    { "en": "granddaughter",  "word": "torunu" },
+    { "en": "cousin",         "word": "kuzen" },
+    { "en": "stepmother",     "word": "üvey anne" },
+    { "en": "stepfather",     "word": "üvey baba" },
+    { "en": "relatives",      "word": "akrabalar" },
+    { "en": "generation",     "word": "nesil" },
+    { "en": "single parent",  "word": "tek ebeveyn" },
+    { "en": "paternal uncle", "word": "amca" },
+    { "en": "maternal uncle", "word": "dayı" },
+    { "en": "paternal aunt",  "word": "hala" },
+    { "en": "maternal aunt",  "word": "teyze" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "karhu" },
+    { "en": "wolf",      "word": "susi" },
+    { "en": "fox",       "word": "kettu" },
+    { "en": "deer",      "word": "peura" },
+    { "en": "moose",     "word": "hirvi" },
+    { "en": "reindeer",  "word": "poro" },
+    { "en": "wild boar", "word": "villisika" },
+    { "en": "hedgehog",  "word": "siili" },
+    { "en": "hare",      "word": "jänis" },
+    { "en": "squirrel",  "word": "orava" },
+    { "en": "monkey",    "word": "apina" },
+    { "en": "lion",      "word": "leijona" },
+    { "en": "tiger",     "word": "tiikeri" },
+    { "en": "elephant",  "word": "norsu" },
+    { "en": "giraffe",   "word": "kirahvi" },
+    { "en": "camel",     "word": "kameli" },
+    { "en": "snake",     "word": "käärme" },
+    { "en": "crocodile", "word": "krokotiili" },
+    { "en": "frog",      "word": "sammakko" }
+  ]
+}

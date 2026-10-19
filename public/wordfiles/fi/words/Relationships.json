@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "pari" },
+    { "en": "partner",           "word": "kumppani | partneri" },
+    { "en": "boyfriend",         "word": "poikaystävä" },
+    { "en": "fiancé",            "word": "sulhanen" },
+    { "en": "bride",             "word": "morsian" },
+    { "en": "groom",             "word": "sulhanen" },
+    { "en": "marriage",          "word": "avioliitto | häät" },
+    { "en": "married",           "word": "naimisissa" },
+    { "en": "to get married",    "word": "mennä naimisiin" },
+    { "en": "single, unmarried", "word": "naimaton" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "(de) arbeider | (de) werknemer" },
+    { "en": "carpenter",   "word": "(de) timmerman" },
+    { "en": "electrician", "word": "(de) elektricien" },
+    { "en": "plumber",     "word": "(de) loodgieter" },
+    { "en": "mechanic",    "word": "(de) monteur | (de) mecanicien" },
+    { "en": "locksmith",   "word": "(de) slotenmaker" },
+    { "en": "welder",      "word": "(de) lasser" },
+    { "en": "miner",       "word": "(de) mijnwerker" },
+    { "en": "mine",        "word": "(de) mijn" },
+    { "en": "fisherman",   "word": "(de) visser" },
+    { "en": "hunter",      "word": "(de) jager" },
+    { "en": "baker",       "word": "(de) bakker" },
+    { "en": "butcher",     "word": "(de) slager" },
+    { "en": "hairdresser", "word": "(de) kapper" },
+    { "en": "watchmaker",  "word": "(de) horlogemaker" },
+    { "en": "cleaner",     "word": "(de) schoonmaker" }
+  ]
+}

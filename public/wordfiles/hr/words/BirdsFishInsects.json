@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "ptica" },
+    { "en": "pigeon",     "word": "golub" },
+    { "en": "eagle",      "word": "orao" },
+    { "en": "sparrow",    "word": "vrabac" },
+    { "en": "swan",       "word": "labud" },
+    { "en": "stork",      "word": "roda" },
+    { "en": "gull",       "word": "galeb" },
+    { "en": "owl",        "word": "sova" },
+    { "en": "parrot",     "word": "papiga" },
+    { "en": "nest",       "word": "gnijezdo" },
+    { "en": "fish",       "word": "riba" },
+    { "en": "dolphin",    "word": "dupin" },
+    { "en": "shark",      "word": "morski pas" },
+    { "en": "eel",        "word": "jegulja" },
+    { "en": "tuna",       "word": "tuna" },
+    { "en": "starfish",   "word": "morska zvijezda" },
+    { "en": "seahorse",   "word": "morski konjic" },
+    { "en": "ant",        "word": "mrav" },
+    { "en": "butterfly",  "word": "leptir" },
+    { "en": "bee",        "word": "pčela" },
+    { "en": "wasp",       "word": "osa" },
+    { "en": "bug",        "word": "kukac" },
+    { "en": "a fly",      "word": "muha" },
+    { "en": "a mosquito", "word": "komarac" },
+    { "en": "a spider",   "word": "pauk" }
+  ]
+}

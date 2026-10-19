@@ -1,0 +1,16 @@
+{
+  "name": "Inside the Body & Senses",
+  "description": "Inside the Body & Senses",
+  "image": "",
+  "cards": [
+    { "en": "heart",    "word": "(het) hart" },
+    { "en": "brain",    "word": "(de) hersenen | (het) brein" },
+    { "en": "lung",     "word": "(de) long" },
+    { "en": "stomach",  "word": "(de) maag" },
+    { "en": "liver",    "word": "(de) lever" },
+    { "en": "blood",    "word": "(het) bloed" },
+    { "en": "a bone",   "word": "(het) bot" },
+    { "en": "skeleton", "word": "(het) skelet | (het) geraamte" },
+    { "en": "skull",    "word": "(de) schedel" }
+  ]
+}

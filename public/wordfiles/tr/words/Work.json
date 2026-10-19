@@ -1,0 +1,10 @@
+{
+  "name": "Work & Office",
+  "description": "Work & Office",
+  "image": "",
+  "cards": [
+    { "en": "department",         "word": "bölüm" },
+    { "en": "head of department", "word": "bölüm başkanı" },
+    { "en": "intern",             "word": "stajyer" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "medvjed" },
+    { "en": "wolf",      "word": "vuk" },
+    { "en": "fox",       "word": "lisica" },
+    { "en": "deer",      "word": "jelen" },
+    { "en": "moose",     "word": "los" },
+    { "en": "reindeer",  "word": "sob" },
+    { "en": "wild boar", "word": "divlja svinja" },
+    { "en": "hedgehog",  "word": "jež" },
+    { "en": "hare",      "word": "zec" },
+    { "en": "squirrel",  "word": "vjeverica" },
+    { "en": "monkey",    "word": "majmun" },
+    { "en": "lion",      "word": "lav" },
+    { "en": "tiger",     "word": "tigar" },
+    { "en": "elephant",  "word": "slon" },
+    { "en": "giraffe",   "word": "žirafa" },
+    { "en": "camel",     "word": "deva" },
+    { "en": "snake",     "word": "zmija" },
+    { "en": "crocodile", "word": "krokodil" },
+    { "en": "frog",      "word": "žaba" }
+  ]
+}

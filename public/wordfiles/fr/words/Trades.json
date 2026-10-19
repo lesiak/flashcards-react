@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "(l')ouvrier" },
+    { "en": "carpenter",   "word": "(le) charpentier | (le) menuisier" },
+    { "en": "electrician", "word": "(l')électricien" },
+    { "en": "plumber",     "word": "(le) plombier" },
+    { "en": "mechanic",    "word": "(le) mécanicien" },
+    { "en": "locksmith",   "word": "(le) serrurier" },
+    { "en": "welder",      "word": "(le) soudeur" },
+    { "en": "miner",       "word": "(le) mineur" },
+    { "en": "mine",        "word": "(la) mine" },
+    { "en": "fisherman",   "word": "(le) pêcheur" },
+    { "en": "hunter",      "word": "(le) chasseur" },
+    { "en": "baker",       "word": "(le) boulanger" },
+    { "en": "butcher",     "word": "(le) boucher" },
+    { "en": "hairdresser", "word": "(le) coiffeur" },
+    { "en": "watchmaker",  "word": "(l')horloger" },
+    { "en": "cleaner",     "word": "(l')agent d'entretien" }
+  ]
+}

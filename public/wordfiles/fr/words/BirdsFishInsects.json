@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "(l')oiseau" },
+    { "en": "pigeon",     "word": "(le) pigeon" },
+    { "en": "eagle",      "word": "(l')aigle" },
+    { "en": "sparrow",    "word": "(le) moineau" },
+    { "en": "swan",       "word": "(le) cygne" },
+    { "en": "stork",      "word": "(la) cigogne" },
+    { "en": "gull",       "word": "(la) mouette" },
+    { "en": "owl",        "word": "(le) hibou | (la) chouette" },
+    { "en": "parrot",     "word": "(le) perroquet" },
+    { "en": "nest",       "word": "(le) nid" },
+    { "en": "fish",       "word": "(le) poisson" },
+    { "en": "dolphin",    "word": "(le) dauphin" },
+    { "en": "shark",      "word": "(le) requin" },
+    { "en": "eel",        "word": "(l')anguille" },
+    { "en": "tuna",       "word": "(le) thon" },
+    { "en": "starfish",   "word": "(l')étoile de mer" },
+    { "en": "seahorse",   "word": "(l')hippocampe" },
+    { "en": "ant",        "word": "(la) fourmi" },
+    { "en": "butterfly",  "word": "(le) papillon" },
+    { "en": "bee",        "word": "(l')abeille" },
+    { "en": "wasp",       "word": "(la) guêpe" },
+    { "en": "bug",        "word": "(l')insecte" },
+    { "en": "a fly",      "word": "(la) mouche" },
+    { "en": "a mosquito", "word": "(le) moustique" },
+    { "en": "a spider",   "word": "(l')araignée" }
+  ]
+}

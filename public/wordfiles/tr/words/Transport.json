@@ -1,0 +1,20 @@
+{
+  "name": "Transport",
+  "description": "Transport",
+  "image": "https://images.unsplash.com/photo-1490079397423-a3931fd75940",
+  "cards": [
+    { "en": "car",                 "word": "araba" },
+    { "en": "bus",                 "word": "otobüs" },
+    { "en": "train",               "word": "tren" },
+    { "en": "metro",               "word": "metro" },
+    { "en": "tram",                "word": "tramvay" },
+    { "en": "bicycle",             "word": "bisiklet" },
+    { "en": "motorcycle",          "word": "motosiklet" },
+    { "en": "ship",                "word": "gemi" },
+    { "en": "railway",             "word": "demiryolu" },
+    { "en": "railway station",     "word": "tren istasyonu" },
+    { "en": "ticket",              "word": "bilet" },
+    { "en": "validate (a ticket)", "word": "" },
+    { "en": "bus stop",            "word": "otobüs durağı" }
+  ]
+}

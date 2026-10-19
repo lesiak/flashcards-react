@@ -1,0 +1,31 @@
+{
+  "name": "Pets & Farm Animals",
+  "description": "Pets & Farm Animals",
+  "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+  "cards": [
+    { "en": "animal",           "word": "eläin" },
+    { "en": "cat",              "word": "kissa" },
+    { "en": "dog",              "word": "koira" },
+    { "en": "puppy",            "word": "pentu" },
+    { "en": "hamster",          "word": "hamsteri" },
+    { "en": "guinea pig",       "word": "marsu" },
+    { "en": "rabbit",           "word": "kani" },
+    { "en": "horse",            "word": "hevonen" },
+    { "en": "cow",              "word": "lehmä" },
+    { "en": "pig",              "word": "sika" },
+    { "en": "sheep",            "word": "lammas" },
+    { "en": "goat",             "word": "vuohi" },
+    { "en": "donkey",           "word": "aasi" },
+    { "en": "chicken",          "word": "kana" },
+    { "en": "duck",             "word": "ankka" },
+    { "en": "goose",            "word": "hahni" },
+    { "en": "cattle",           "word": "" },
+    { "en": "female (animals)", "word": "naaras" },
+    { "en": "male (animals)",   "word": "" },
+    { "en": "cage",             "word": "häkki" },
+    { "en": "aquarium",         "word": "akvaario" },
+    { "en": "leash",            "word": "talutin" },
+    { "en": "pet crate",        "word": "" },
+    { "en": "vet",              "word": "eläinlääkäri" }
+  ]
+}

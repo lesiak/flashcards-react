@@ -1,0 +1,9 @@
+{
+  "name": "To Drop",
+  "description": "To Drop",
+  "image": "",
+  "cards": [
+    { "en": "female",   "word": "ženska" },
+    { "en": "to raise", "word": "dvigniti" }
+  ]
+}

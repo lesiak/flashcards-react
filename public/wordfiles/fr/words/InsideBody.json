@@ -1,0 +1,16 @@
+{
+  "name": "Inside the Body & Senses",
+  "description": "Inside the Body & Senses",
+  "image": "",
+  "cards": [
+    { "en": "heart",    "word": "(le) cœur" },
+    { "en": "brain",    "word": "(le) cerveau" },
+    { "en": "lung",     "word": "(le) poumon" },
+    { "en": "stomach",  "word": "(l')estomac" },
+    { "en": "liver",    "word": "(le) foie" },
+    { "en": "blood",    "word": "(le) sang" },
+    { "en": "a bone",   "word": "(l')os" },
+    { "en": "skeleton", "word": "(le) squelette" },
+    { "en": "skull",    "word": "(le) crâne" }
+  ]
+}

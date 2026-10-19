@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "פועל | עובד" },
+    { "en": "carpenter",   "word": "נגר" },
+    { "en": "electrician", "word": "חשמלאי" },
+    { "en": "plumber",     "word": "שרברב | אינסטלטור" },
+    { "en": "mechanic",    "word": "מכונאי" },
+    { "en": "locksmith",   "word": "מנעולן" },
+    { "en": "welder",      "word": "רתך" },
+    { "en": "miner",       "word": "כורה" },
+    { "en": "mine",        "word": "מכרה" },
+    { "en": "fisherman",   "word": "דייג" },
+    { "en": "hunter",      "word": "צייד" },
+    { "en": "baker",       "word": "אופה" },
+    { "en": "butcher",     "word": "קצב" },
+    { "en": "hairdresser", "word": "ספר" },
+    { "en": "watchmaker",  "word": "שען" },
+    { "en": "cleaner",     "word": "מנקה" }
+  ]
+}

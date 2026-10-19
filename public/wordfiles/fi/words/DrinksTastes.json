@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "tee" },
+    { "en": "coffee",     "word": "kahvi" },
+    { "en": "juice",      "word": "mehu" },
+    { "en": "beer",       "word": "olut" },
+    { "en": "wine",       "word": "viini" },
+    { "en": "vodka",      "word": "vodka" },
+    { "en": "alcohol",    "word": "alkoholi" },
+    { "en": "sweet",      "word": "makea" },
+    { "en": "bitter",     "word": "kitkerä" },
+    { "en": "sour",       "word": "hapan" },
+    { "en": "spicy",      "word": "mausteinen" },
+    { "en": "mild",       "word": "mieto" },
+    { "en": "fresh",      "word": "tuore" },
+    { "en": "refreshing", "word": "virkistävä" },
+    { "en": "tasty",      "word": "" },
+    { "en": "delicious",  "word": "" },
+    { "en": "disgusting", "word": "" }
+  ]
+}

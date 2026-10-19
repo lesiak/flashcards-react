@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325",
+  "cards": [
+    { "en": "city",              "word": "cidade" },
+    { "en": "village",           "word": "??" },
+    { "en": "town hall",         "word": "prefeitura" },
+    { "en": "(city) centre",     "word": "centro (da cidade)" },
+    { "en": "square (in city)",  "word": "aukio" },
+    { "en": "street",            "word": "rua" },
+    { "en": "avenue",            "word": "avenida" },
+    { "en": "alley, backstreet", "word": "ruela" },
+    { "en": "(street) corner",   "word": "esquina (da rua)" },
+    { "en": "bridge",            "word": "ponte" },
+    { "en": "building",          "word": "edifício" },
+    { "en": "church",            "word": "igreja" },
+    { "en": "castle",            "word": "castelo" },
+    { "en": "museum",            "word": "museo" },
+    { "en": "gallery",           "word": "galeria" },
+    { "en": "statue",            "word": "estátua" },
+    { "en": "fountain",          "word": "fonte" },
+    { "en": "bench",             "word": "banco" },
+    { "en": "bank",              "word": "banco" },
+    { "en": "pharmacy",          "word": "farmacia" },
+    { "en": "factory",           "word": "fábrica" },
+    { "en": "suburb",            "word": "subúrbio" },
+    { "en": "neighbourhood",     "word": "bairro" },
+    { "en": "urban",             "word": "urbano" }
+  ]
+}

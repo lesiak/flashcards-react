@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "ציפור" },
+    { "en": "pigeon",     "word": "יונה" },
+    { "en": "eagle",      "word": "נשר | עיט" },
+    { "en": "sparrow",    "word": "דרור" },
+    { "en": "swan",       "word": "ברבור" },
+    { "en": "stork",      "word": "חסידה" },
+    { "en": "gull",       "word": "שחף" },
+    { "en": "owl",        "word": "ינשוף" },
+    { "en": "parrot",     "word": "תוכי" },
+    { "en": "nest",       "word": "קן" },
+    { "en": "fish",       "word": "דג" },
+    { "en": "dolphin",    "word": "דולפין" },
+    { "en": "shark",      "word": "כריש" },
+    { "en": "eel",        "word": "צלופח" },
+    { "en": "tuna",       "word": "טונה" },
+    { "en": "starfish",   "word": "כוכב ים" },
+    { "en": "seahorse",   "word": "סוסון ים" },
+    { "en": "ant",        "word": "נמלה" },
+    { "en": "butterfly",  "word": "פרפר" },
+    { "en": "bee",        "word": "דבורה" },
+    { "en": "wasp",       "word": "צרעה" },
+    { "en": "bug",        "word": "חרק" },
+    { "en": "a fly",      "word": "זבוב" },
+    { "en": "a mosquito", "word": "יתוש" },
+    { "en": "a spider",   "word": "עכביש" }
+  ]
+}

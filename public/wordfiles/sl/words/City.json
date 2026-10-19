@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1599925354198-e81495b03f7d",
+  "cards": [
+    { "en": "city",              "word": "mesto" },
+    { "en": "village",           "word": "vas" },
+    { "en": "town hall",         "word": "mestna hiša | rotovž" },
+    { "en": "(city) centre",     "word": "središče (mesta) | center" },
+    { "en": "square (in city)",  "word": "trg" },
+    { "en": "street",            "word": "ulica" },
+    { "en": "avenue",            "word": "avenija | drevored" },
+    { "en": "alley, backstreet", "word": "uličica | stranska ulica" },
+    { "en": "(street) corner",   "word": "vogal (ulice)" },
+    { "en": "bridge",            "word": "most" },
+    { "en": "building",          "word": "stavba | zgradba" },
+    { "en": "church",            "word": "cerkev" },
+    { "en": "castle",            "word": "grad" },
+    { "en": "museum",            "word": "muzej" },
+    { "en": "gallery",           "word": "galerija" },
+    { "en": "statue",            "word": "kip" },
+    { "en": "fountain",          "word": "vodnjak | fontana" },
+    { "en": "bench",             "word": "klop" },
+    { "en": "bank",              "word": "banka" },
+    { "en": "pharmacy",          "word": "lekarna" },
+    { "en": "factory",           "word": "tovarna" },
+    { "en": "suburb",            "word": "predmestje" },
+    { "en": "neighbourhood",     "word": "soseska | četrt" },
+    { "en": "urban",             "word": "mestni | urbani" }
+  ]
+}

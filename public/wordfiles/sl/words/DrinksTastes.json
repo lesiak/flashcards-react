@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "čaj" },
+    { "en": "coffee",     "word": "kava" },
+    { "en": "juice",      "word": "sok" },
+    { "en": "beer",       "word": "pivo" },
+    { "en": "wine",       "word": "vino" },
+    { "en": "vodka",      "word": "vodka" },
+    { "en": "alcohol",    "word": "alkohol" },
+    { "en": "sweet",      "word": "sladek" },
+    { "en": "bitter",     "word": "grenek" },
+    { "en": "sour",       "word": "kisel" },
+    { "en": "spicy",      "word": "pekoč" },
+    { "en": "mild",       "word": "blag" },
+    { "en": "fresh",      "word": "svež" },
+    { "en": "refreshing", "word": "osvežilen" },
+    { "en": "tasty",      "word": "okusen" },
+    { "en": "delicious",  "word": "slasten | odličen" },
+    { "en": "disgusting", "word": "ogaben | odvraten" }
+  ]
+}

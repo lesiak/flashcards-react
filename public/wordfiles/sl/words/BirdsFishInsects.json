@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "ptica | ptič" },
+    { "en": "pigeon",     "word": "golob" },
+    { "en": "eagle",      "word": "orel" },
+    { "en": "sparrow",    "word": "vrabec" },
+    { "en": "swan",       "word": "labod" },
+    { "en": "stork",      "word": "štorklja" },
+    { "en": "gull",       "word": "galeb" },
+    { "en": "owl",        "word": "sova" },
+    { "en": "parrot",     "word": "papiga" },
+    { "en": "nest",       "word": "gnezdo" },
+    { "en": "fish",       "word": "riba" },
+    { "en": "dolphin",    "word": "delfin" },
+    { "en": "shark",      "word": "morski pes" },
+    { "en": "eel",        "word": "jegulja" },
+    { "en": "tuna",       "word": "tuna | tun" },
+    { "en": "starfish",   "word": "morska zvezda" },
+    { "en": "seahorse",   "word": "morski konjiček" },
+    { "en": "ant",        "word": "mravlja" },
+    { "en": "butterfly",  "word": "metulj" },
+    { "en": "bee",        "word": "čebela" },
+    { "en": "wasp",       "word": "osa" },
+    { "en": "bug",        "word": "žuželka | hrošč" },
+    { "en": "a fly",      "word": "muha" },
+    { "en": "a mosquito", "word": "komar" },
+    { "en": "a spider",   "word": "pajek" }
+  ]
+}

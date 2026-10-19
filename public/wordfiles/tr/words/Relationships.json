@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "çift" },
+    { "en": "partner",           "word": "partner" },
+    { "en": "boyfriend",         "word": "erkek arkadaş" },
+    { "en": "fiancé",            "word": "nişanlı" },
+    { "en": "bride",             "word": "gelin" },
+    { "en": "groom",             "word": "damat" },
+    { "en": "marriage",          "word": "evlilik" },
+    { "en": "married",           "word": "naimisissa" },
+    { "en": "to get married",    "word": "evlenmek" },
+    { "en": "single, unmarried", "word": "evlenmemiş" }
+  ]
+}

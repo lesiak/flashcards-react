@@ -1,0 +1,32 @@
+{
+  "name": "Professions",
+  "description": "Professions",
+  "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+  "cards": [
+    { "en": "teacher",       "word": "öğretmen" },
+    { "en": "policeman",     "word": "polis memuru" },
+    { "en": "fireman",       "word": "itfaiyeci | ateşçi" },
+    { "en": "lawyer",        "word": "avukat" },
+    { "en": "judge",         "word": "yargıç" },
+    { "en": "prosecutor",    "word": "savcı" },
+    { "en": "journalist",    "word": "gazeteci" },
+    { "en": "photographer",  "word": "fotoğrafçı" },
+    { "en": "scientist",     "word": "bilim adamı" },
+    { "en": "engineer",      "word": "mühendis" },
+    { "en": "manager",       "word": "müdür" },
+    { "en": "secretary",     "word": "sekreter" },
+    { "en": "accountant",    "word": "muhasebeci" },
+    { "en": "cashier",       "word": "kasiyer" },
+    { "en": "waiter",        "word": "garson" },
+    { "en": "cook",          "word": "aşçı" },
+    { "en": "barman",        "word": "barmen" },
+    { "en": "pilot",         "word": "pilot" },
+    { "en": "stewardess",    "word": "hostes" },
+    { "en": "dancer",        "word": "dansçı" },
+    { "en": "painter",       "word": "ressam" },
+    { "en": "sculptor",      "word": "heykeltıraş" },
+    { "en": "artist",        "word": "sanatçı" },
+    { "en": "designer",      "word": "tasarımcı | desinatör" },
+    { "en": "fashion model", "word": "modeli" }
+  ]
+}

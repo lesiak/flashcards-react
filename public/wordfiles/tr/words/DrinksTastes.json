@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "çay" },
+    { "en": "coffee",     "word": "kahve" },
+    { "en": "juice",      "word": "meyve suyu" },
+    { "en": "beer",       "word": "bira" },
+    { "en": "wine",       "word": "şarap" },
+    { "en": "vodka",      "word": "votka" },
+    { "en": "alcohol",    "word": "alkol" },
+    { "en": "sweet",      "word": "tatlı" },
+    { "en": "bitter",     "word": "acı" },
+    { "en": "sour",       "word": "ekşi" },
+    { "en": "spicy",      "word": "baharatlı" },
+    { "en": "mild",       "word": "yumuşak" },
+    { "en": "fresh",      "word": "taze" },
+    { "en": "refreshing", "word": "ferahlatıcı" },
+    { "en": "tasty",      "word": "lezzetli" },
+    { "en": "delicious",  "word": "lezzetli" },
+    { "en": "disgusting", "word": "iğrenç" }
+  ]
+}

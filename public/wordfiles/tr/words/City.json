@@ -1,0 +1,31 @@
+{
+  "name": "City",
+  "description": "City",
+  "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+  "cards": [
+    { "en": "city",              "word": "şehir" },
+    { "en": "village",           "word": "köy" },
+    { "en": "town hall",         "word": "belediye binası" },
+    { "en": "(city) centre",     "word": "merkez" },
+    { "en": "square (in city)",  "word": "meydan" },
+    { "en": "street",            "word": "sokak" },
+    { "en": "avenue",            "word": "cadde" },
+    { "en": "alley, backstreet", "word": "sokak" },
+    { "en": "(street) corner",   "word": "sokak köşesi" },
+    { "en": "bridge",            "word": "köprü" },
+    { "en": "building",          "word": "bina" },
+    { "en": "church",            "word": "kilise" },
+    { "en": "castle",            "word": "kale" },
+    { "en": "museum",            "word": "müze" },
+    { "en": "gallery",           "word": "galeri" },
+    { "en": "statue",            "word": "heykel" },
+    { "en": "fountain",          "word": "çeşme" },
+    { "en": "bench",             "word": "tezgah" },
+    { "en": "bank",              "word": "banka" },
+    { "en": "pharmacy",          "word": "eczane" },
+    { "en": "factory",           "word": "fabrika" },
+    { "en": "suburb",            "word": "banliyö" },
+    { "en": "neighbourhood",     "word": "semt" },
+    { "en": "urban",             "word": "kentsel | şehir" }
+  ]
+}

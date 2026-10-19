@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "lintu" },
+    { "en": "pigeon",     "word": "kyyhkynen" },
+    { "en": "eagle",      "word": "kotka" },
+    { "en": "sparrow",    "word": "varpunen" },
+    { "en": "swan",       "word": "joutsen" },
+    { "en": "stork",      "word": "haikara" },
+    { "en": "gull",       "word": "lokki" },
+    { "en": "owl",        "word": "pöllö" },
+    { "en": "parrot",     "word": "papukaija" },
+    { "en": "nest",       "word": "pesä" },
+    { "en": "fish",       "word": "kala" },
+    { "en": "dolphin",    "word": "delfiini" },
+    { "en": "shark",      "word": "hai" },
+    { "en": "eel",        "word": "ankerias" },
+    { "en": "tuna",       "word": "" },
+    { "en": "starfish",   "word": "" },
+    { "en": "seahorse",   "word": "" },
+    { "en": "ant",        "word": "muurahainen" },
+    { "en": "butterfly",  "word": "perhonen" },
+    { "en": "bee",        "word": "mehiläinen" },
+    { "en": "wasp",       "word": "" },
+    { "en": "bug",        "word": "" },
+    { "en": "a fly",      "word": "" },
+    { "en": "a mosquito", "word": "" },
+    { "en": "a spider",   "word": "" }
+  ]
+}

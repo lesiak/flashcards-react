@@ -1,0 +1,24 @@
+{
+  "name": "Drinks & Tastes",
+  "description": "Drinks & Tastes",
+  "image": "",
+  "cards": [
+    { "en": "tea",        "word": "թեյ" },
+    { "en": "coffee",     "word": "սուրճ" },
+    { "en": "juice",      "word": "հյութ" },
+    { "en": "beer",       "word": "գարեջուր" },
+    { "en": "wine",       "word": "գինի" },
+    { "en": "vodka",      "word": "օղի" },
+    { "en": "alcohol",    "word": "ալկոհոլ" },
+    { "en": "sweet",      "word": "քաղցր" },
+    { "en": "bitter",     "word": "դառը" },
+    { "en": "sour",       "word": "թթու" },
+    { "en": "spicy",      "word": "կծու" },
+    { "en": "mild",       "word": "մեղմ" },
+    { "en": "fresh",      "word": "թարմ" },
+    { "en": "refreshing", "word": "թարմացնող" },
+    { "en": "tasty",      "word": "համեղ" },
+    { "en": "delicious",  "word": "շատ համեղ" },
+    { "en": "disgusting", "word": "զզվելի" }
+  ]
+}

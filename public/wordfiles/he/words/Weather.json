@@ -1,0 +1,9 @@
+{
+  "name": "Weather",
+  "description": "Weather",
+  "image": "",
+  "cards": [
+    { "en": "fog", "word": "ערפל" },
+    { "en": "ice", "word": "קרח" }
+  ]
+}

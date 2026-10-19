@@ -1,0 +1,23 @@
+{
+  "name": "Trades",
+  "description": "Trades",
+  "image": "",
+  "cards": [
+    { "en": "worker",      "word": "radnik" },
+    { "en": "carpenter",   "word": "stolar | tesar" },
+    { "en": "electrician", "word": "električar" },
+    { "en": "plumber",     "word": "vodoinstalater" },
+    { "en": "mechanic",    "word": "mehaničar" },
+    { "en": "locksmith",   "word": "bravar" },
+    { "en": "welder",      "word": "zavarivač" },
+    { "en": "miner",       "word": "rudar" },
+    { "en": "mine",        "word": "rudnik" },
+    { "en": "fisherman",   "word": "ribar" },
+    { "en": "hunter",      "word": "lovac" },
+    { "en": "baker",       "word": "pekar" },
+    { "en": "butcher",     "word": "mesar" },
+    { "en": "hairdresser", "word": "frizer" },
+    { "en": "watchmaker",  "word": "urar" },
+    { "en": "cleaner",     "word": "čistač | čistačica" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "ayı" },
+    { "en": "wolf",      "word": "kurt" },
+    { "en": "fox",       "word": "tilki" },
+    { "en": "deer",      "word": "geyik" },
+    { "en": "moose",     "word": "geyik" },
+    { "en": "reindeer",  "word": "ren geyiği" },
+    { "en": "wild boar", "word": "yaban domuzu" },
+    { "en": "hedgehog",  "word": "kirpi" },
+    { "en": "hare",      "word": "tavşan" },
+    { "en": "squirrel",  "word": "sincap" },
+    { "en": "monkey",    "word": "apina" },
+    { "en": "lion",      "word": "leijona" },
+    { "en": "tiger",     "word": "tiikeri" },
+    { "en": "elephant",  "word": "norsu" },
+    { "en": "giraffe",   "word": "kirahvi" },
+    { "en": "camel",     "word": "kameli" },
+    { "en": "snake",     "word": "käärme" },
+    { "en": "crocodile", "word": "krokotiili" },
+    { "en": "frog",      "word": "sammakko" },
+    { "en": "caracal",   "word": "karakulak" }
+  ]
+}

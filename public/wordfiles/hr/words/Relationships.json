@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "par" },
+    { "en": "partner",           "word": "partner | partnerica" },
+    { "en": "boyfriend",         "word": "dečko" },
+    { "en": "fiancé",            "word": "zaručnik" },
+    { "en": "bride",             "word": "mladenka | nevjesta" },
+    { "en": "groom",             "word": "mladoženja" },
+    { "en": "marriage",          "word": "brak" },
+    { "en": "married",           "word": "oženjen | udana" },
+    { "en": "to get married",    "word": "vjenčati se | oženiti se" },
+    { "en": "single, unmarried", "word": "samac | neoženjen" }
+  ]
+}

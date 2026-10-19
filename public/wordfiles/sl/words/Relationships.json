@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "par" },
+    { "en": "partner",           "word": "partner | partnerka" },
+    { "en": "boyfriend",         "word": "fant" },
+    { "en": "fiancé",            "word": "zaročenec" },
+    { "en": "bride",             "word": "nevesta" },
+    { "en": "groom",             "word": "ženin" },
+    { "en": "marriage",          "word": "zakon | zakonska zveza" },
+    { "en": "married",           "word": "poročen" },
+    { "en": "to get married",    "word": "poročiti se" },
+    { "en": "single, unmarried", "word": "samski | neporočen" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Work & Office",
+  "description": "Work & Office",
+  "image": "",
+  "cards": [
+    { "en": "department",         "word": "oddelek" },
+    { "en": "head of department", "word": "vodja oddelka" },
+    { "en": "intern",             "word": "pripravnik | praktikant" }
+  ]
+}

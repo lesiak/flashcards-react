@@ -1,0 +1,26 @@
+{
+  "name": "Wild Animals",
+  "description": "Wild Animals",
+  "image": "",
+  "cards": [
+    { "en": "bear",      "word": "արջ" },
+    { "en": "wolf",      "word": "գայլ" },
+    { "en": "fox",       "word": "աղվես" },
+    { "en": "deer",      "word": "եղջերու" },
+    { "en": "moose",     "word": "լոս" },
+    { "en": "reindeer",  "word": "հյուսիսային եղջերու" },
+    { "en": "wild boar", "word": "վարազ" },
+    { "en": "hedgehog",  "word": "ոզնի" },
+    { "en": "hare",      "word": "նապաստակ" },
+    { "en": "squirrel",  "word": "սկյուռ" },
+    { "en": "monkey",    "word": "կապիկ" },
+    { "en": "lion",      "word": "առյուծ" },
+    { "en": "tiger",     "word": "վագր" },
+    { "en": "elephant",  "word": "փիղ" },
+    { "en": "giraffe",   "word": "ընձուղտ" },
+    { "en": "camel",     "word": "ուղտ" },
+    { "en": "snake",     "word": "օձ" },
+    { "en": "crocodile", "word": "կոկորդիլոս" },
+    { "en": "frog",      "word": "գորտ" }
+  ]
+}

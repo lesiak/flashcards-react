@@ -1,0 +1,32 @@
+{
+  "name": "Family",
+  "description": "Family",
+  "image": "https://images.unsplash.com/photo-1560328055-e938bb2ed50a",
+  "cards": [
+    { "en": "family",        "word": "(la) famille" },
+    { "en": "father",        "word": "(le) père" },
+    { "en": "mother",        "word": "(la) mère" },
+    { "en": "parents",       "word": "(les) parents" },
+    { "en": "child",         "word": "(l')enfant" },
+    { "en": "son",           "word": "(le) fils" },
+    { "en": "daughter",      "word": "(la) fille" },
+    { "en": "baby",          "word": "(le) bébé" },
+    { "en": "wife",          "word": "(la) femme | (l')épouse" },
+    { "en": "husband",       "word": "(le) mari | (l')époux" },
+    { "en": "sister",        "word": "(la) sœur" },
+    { "en": "brother",       "word": "(le) frère" },
+    { "en": "twin",          "word": "(le) jumeau | (la) jumelle" },
+    { "en": "grandmother",   "word": "(la) grand-mère" },
+    { "en": "grandma",       "word": "(la) mamie" },
+    { "en": "grandson",      "word": "(le) petit-fils" },
+    { "en": "granddaughter", "word": "(la) petite-fille" },
+    { "en": "uncle",         "word": "(l')oncle" },
+    { "en": "aunt",          "word": "(la) tante" },
+    { "en": "cousin",        "word": "(le) cousin | (la) cousine" },
+    { "en": "stepmother",    "word": "(la) belle-mère" },
+    { "en": "stepfather",    "word": "(le) beau-père" },
+    { "en": "relatives",     "word": "(les) proches | (la) parenté" },
+    { "en": "generation",    "word": "(la) génération" },
+    { "en": "single parent", "word": "(le) parent isolé" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Love & Relationships",
+  "description": "Love & Relationships",
+  "image": "",
+  "cards": [
+    { "en": "a couple",          "word": "זוג" },
+    { "en": "partner",           "word": "בן זוג | בת זוג" },
+    { "en": "boyfriend",         "word": "חבר" },
+    { "en": "fiancé",            "word": "ארוס" },
+    { "en": "bride",             "word": "כלה" },
+    { "en": "groom",             "word": "חתן" },
+    { "en": "marriage",          "word": "נישואים" },
+    { "en": "married",           "word": "נשוי" },
+    { "en": "to get married",    "word": "להתחתן" },
+    { "en": "single, unmarried", "word": "רווק" }
+  ]
+}

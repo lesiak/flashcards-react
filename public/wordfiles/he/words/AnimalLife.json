@@ -1,0 +1,22 @@
+{
+  "name": "Animal Life",
+  "description": "Animal Life",
+  "image": "",
+  "cards": [
+    { "en": "wing",           "word": "כנף" },
+    { "en": "beak",           "word": "מקור" },
+    { "en": "fin",            "word": "סנפיר" },
+    { "en": "gill",           "word": "זים" },
+    { "en": "tail",           "word": "זנב" },
+    { "en": "horn",           "word": "קרן" },
+    { "en": "fur",            "word": "פרווה" },
+    { "en": "to bite",        "word": "לנשוך" },
+    { "en": "to wag",         "word": "לכשכש" },
+    { "en": "to bark",        "word": "לנבוח" },
+    { "en": "to meow",        "word": "ליילל" },
+    { "en": "to moo",         "word": "לגעות" },
+    { "en": "to croak",       "word": "לקרקר" },
+    { "en": "to caw (raven)", "word": "לקרקר" },
+    { "en": "to hibernate",   "word": "לחרוף" }
+  ]
+}

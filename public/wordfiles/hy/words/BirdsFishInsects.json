@@ -1,0 +1,32 @@
+{
+  "name": "Birds, Fish & Insects",
+  "description": "Birds, Fish & Insects",
+  "image": "https://images.unsplash.com/photo-1589659344494-f2f07ecff3ac",
+  "cards": [
+    { "en": "bird",       "word": "թռչուն" },
+    { "en": "pigeon",     "word": "աղավնի" },
+    { "en": "eagle",      "word": "արծիվ" },
+    { "en": "sparrow",    "word": "ճնճղուկ" },
+    { "en": "swan",       "word": "կարապ" },
+    { "en": "stork",      "word": "արագիլ" },
+    { "en": "gull",       "word": "ճայ" },
+    { "en": "owl",        "word": "բու" },
+    { "en": "parrot",     "word": "թութակ" },
+    { "en": "nest",       "word": "բույն" },
+    { "en": "fish",       "word": "ձուկ" },
+    { "en": "dolphin",    "word": "դելֆին" },
+    { "en": "shark",      "word": "շնաձուկ" },
+    { "en": "eel",        "word": "օձաձուկ" },
+    { "en": "tuna",       "word": "թունա" },
+    { "en": "starfish",   "word": "ծովաստղ" },
+    { "en": "seahorse",   "word": "ծովաձի" },
+    { "en": "ant",        "word": "մրջյուն" },
+    { "en": "butterfly",  "word": "թիթեռ" },
+    { "en": "bee",        "word": "մեղու" },
+    { "en": "wasp",       "word": "կրետ" },
+    { "en": "bug",        "word": "միջատ" },
+    { "en": "a fly",      "word": "ճանճ" },
+    { "en": "a mosquito", "word": "մոծակ" },
+    { "en": "a spider",   "word": "սարդ" }
+  ]
+}

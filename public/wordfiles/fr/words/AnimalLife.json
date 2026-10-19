@@ -1,0 +1,22 @@
+{
+  "name": "Animal Life",
+  "description": "Animal Life",
+  "image": "",
+  "cards": [
+    { "en": "wing",           "word": "(l')aile" },
+    { "en": "beak",           "word": "(le) bec" },
+    { "en": "fin",            "word": "(la) nageoire" },
+    { "en": "gill",           "word": "(la) branchie" },
+    { "en": "tail",           "word": "(la) queue" },
+    { "en": "horn",           "word": "(la) corne" },
+    { "en": "fur",            "word": "(la) fourrure" },
+    { "en": "to bite",        "word": "mordre" },
+    { "en": "to wag",         "word": "remuer" },
+    { "en": "to bark",        "word": "aboyer" },
+    { "en": "to meow",        "word": "miauler" },
+    { "en": "to moo",         "word": "meugler" },
+    { "en": "to croak",       "word": "coasser" },
+    { "en": "to caw (raven)", "word": "croasser" },
+    { "en": "to hibernate",   "word": "hiberner" }
+  ]
+}

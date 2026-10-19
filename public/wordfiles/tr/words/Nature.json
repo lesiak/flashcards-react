@@ -1,0 +1,22 @@
+{
+  "name": "Nature",
+  "description": "Nature",
+  "image": "https://images.unsplash.com/photo-1604750201786-0eeb77924f0f",
+  "cards": [
+    { "en": "fire",    "word": "ateş" },
+    { "en": "light",   "word": "ışık" },
+    { "en": "water",   "word": "su" },
+    { "en": "river",   "word": "nehir" },
+    { "en": "sea",     "word": "deniz" },
+    { "en": "forest",  "word": "orman" },
+    { "en": "tree",    "word": "ağaç" },
+    { "en": "leaf",    "word": "yaprak" },
+    { "en": "sun",     "word": "güneş" },
+    { "en": "moon",    "word": "ay" },
+    { "en": "star",    "word": "yıldız" },
+    { "en": "sky",     "word": "gök | gökyüzü" },
+    { "en": "cloud",   "word": "bulut" },
+    { "en": "rainbow", "word": "gökkuşağı" },
+    { "en": "air",     "word": "hava" }
+  ]
+}
