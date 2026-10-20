@@ -1,7 +1,7 @@
 {
   "name": "Greetings",
   "description": "Greetings",
-  "image": "",
+  "image": "https://plus.unsplash.com/premium_photo-1683121291576-786e1d36fc2c",
   "cards": [
     { "en": "hello",                         "word": "hei | terve" },
     { "en": "hi",                            "word": "moi | hei" },
