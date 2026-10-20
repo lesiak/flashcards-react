@@ -3,13 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
   "cards": [
-    { "en": "food",           "word": "" },
+    { "en": "food",           "word": "սնունդ | ուտելիք" },
     { "en": "bread",          "word": "հաց" },
     { "en": "flour",          "word": "ալյուր" },
     { "en": "rice",           "word": "բրինձ" },
     { "en": "meat",           "word": "միս" },
-    { "en": "poultry",        "word": "" },
-    { "en": "turkey",         "word": "" },
+    { "en": "poultry",        "word": "թռչնի միս" },
+    { "en": "turkey",         "word": "հնդկահավ" },
     { "en": "bacon",          "word": "բեկոն" },
     { "en": "sausage",        "word": "երշիկ | նրբերշիկ" },
     { "en": "egg",            "word": "ձու" },
@@ -35,9 +35,9 @@
     { "en": "cookie",         "word": "թխվածքաբլիթ" },
     { "en": "candy",          "word": "կոնֆետ" },
     { "en": "ice cream",      "word": "պաղպաղակ" },
-    { "en": "fast food",      "word": "" },
-    { "en": "pepper (spice)", "word": "" },
-    { "en": "fish (food)",    "word": "" },
-    { "en": "pasta",          "word": "" }
+    { "en": "fast food",      "word": "արագ սնունդ | ֆաստ ֆուդ" },
+    { "en": "pepper (spice)", "word": "պղպեղ" },
+    { "en": "fish (food)",    "word": "ձուկ" },
+    { "en": "pasta",          "word": "մակարոն | պաստա" }
   ]
 }

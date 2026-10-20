@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "բանվոր" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "որմնադիր" },
     { "en": "carpenter",   "word": "ատաղձագործ | հյուսն" },
     { "en": "electrician", "word": "էլեկտրիկ" },
     { "en": "plumber",     "word": "ջրմուղագործ | սանտեխնիկ" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "վարսավիր" },
     { "en": "watchmaker",  "word": "ժամագործ" },
     { "en": "cleaner",     "word": "հավաքարար" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "հրատարակիչ" },
+    { "en": "officer",     "word": "սպա" },
+    { "en": "soldier",     "word": "զինվոր" },
+    { "en": "priest",      "word": "քահանա" },
+    { "en": "monk",        "word": "վանական" },
+    { "en": "nun",         "word": "միանձնուհի" },
+    { "en": "prostitute",  "word": "մարմնավաճառ" },
+    { "en": "sniper",      "word": "դիպուկահար" },
+    { "en": "headmaster",  "word": "տնօրեն (դպրոցի)" }
   ]
 }

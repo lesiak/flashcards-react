@@ -3,13 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
   "cards": [
-    { "en": "food",           "word": "" },
+    { "en": "food",           "word": "(het) eten | (het) voedsel" },
     { "en": "bread",          "word": "(het) brood" },
     { "en": "flour",          "word": "(de) bloem | (het) meel" },
     { "en": "rice",           "word": "(de) rijst" },
     { "en": "meat",           "word": "(het) vlees" },
-    { "en": "poultry",        "word": "" },
-    { "en": "turkey",         "word": "" },
+    { "en": "poultry",        "word": "(het) gevogelte" },
+    { "en": "turkey",         "word": "(de) kalkoen" },
     { "en": "bacon",          "word": "(het) spek" },
     { "en": "sausage",        "word": "(de) worst" },
     { "en": "egg",            "word": "(het) ei" },
@@ -35,9 +35,9 @@
     { "en": "cookie",         "word": "(het) koekje" },
     { "en": "candy",          "word": "(het) snoepje" },
     { "en": "ice cream",      "word": "(het) ijsje | (het) ijs" },
-    { "en": "fast food",      "word": "" },
-    { "en": "pepper (spice)", "word": "" },
-    { "en": "fish (food)",    "word": "" },
-    { "en": "pasta",          "word": "" }
+    { "en": "fast food",      "word": "(de) fastfood" },
+    { "en": "pepper (spice)", "word": "(de) peper" },
+    { "en": "fish (food)",    "word": "(de) vis" },
+    { "en": "pasta",          "word": "(de) pasta" }
   ]
 }

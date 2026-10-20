@@ -21,7 +21,7 @@
     { "en": "light (colour)",  "word": "vaalea" },
     { "en": "dark (colour)",   "word": "tumma" },
     { "en": "bright (colour)", "word": "kirkas" },
-    { "en": "pale",            "word": "" },
-    { "en": "to dye",          "word": "" }
+    { "en": "pale",            "word": "kalpea | vaalea" },
+    { "en": "to dye",          "word": "värjätä" }
   ]
 }

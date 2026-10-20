@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "מים" },
     { "en": "tea",                     "word": "תה" },
     { "en": "coffee",                  "word": "קפה" },
     { "en": "juice",                   "word": "מיץ" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "יין" },
     { "en": "vodka",                   "word": "וודקה" },
     { "en": "alcohol",                 "word": "אלכוהול" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "לשתות" },
+    { "en": "to eat",                  "word": "לאכול" },
+    { "en": "hunger",                  "word": "רעב" },
+    { "en": "thirst",                  "word": "צמא" },
+    { "en": "I am hungry",             "word": "אני רעב." },
+    { "en": "I am full",               "word": "אני שבע." },
     { "en": "sweet",                   "word": "מתוק" },
     { "en": "bitter",                  "word": "מר" },
     { "en": "sour",                    "word": "חמוץ" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "טעים" },
     { "en": "delicious",               "word": "טעים מאוד" },
     { "en": "disgusting",              "word": "מגעיל" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "שיכור" },
+    { "en": "sober",                   "word": "פיכח" },
+    { "en": "cheers (!)",              "word": "לחיים!" },
+    { "en": "to toast (with a drink)", "word": "להרים כוסית" }
   ]
 }

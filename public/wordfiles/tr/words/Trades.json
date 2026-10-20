@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "işçi" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "duvarcı | duvar ustası" },
     { "en": "carpenter",   "word": "marangoz" },
     { "en": "electrician", "word": "elektrikçi" },
     { "en": "plumber",     "word": "tesisatçı" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "kuaför" },
     { "en": "watchmaker",  "word": "saatçi" },
     { "en": "cleaner",     "word": "temizleyici" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "yayıncı | yayımcı" },
+    { "en": "officer",     "word": "subay | memur" },
+    { "en": "soldier",     "word": "asker" },
+    { "en": "priest",      "word": "rahip | papaz" },
+    { "en": "monk",        "word": "keşiş | rahip" },
+    { "en": "nun",         "word": "rahibe" },
+    { "en": "prostitute",  "word": "fahişe | hayat kadını" },
+    { "en": "sniper",      "word": "keskin nişancı" },
+    { "en": "headmaster",  "word": "okul müdürü | müdür" }
   ]
 }

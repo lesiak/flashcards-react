@@ -18,21 +18,21 @@
     { "en": "twin",          "word": "(de) tweeling" },
     { "en": "grandmother",   "word": "(de) grootmoeder" },
     { "en": "grandma",       "word": "(de) oma" },
-    { "en": "grandfather",   "word": "" },
-    { "en": "grandpa",       "word": "" },
+    { "en": "grandfather",   "word": "(de) grootvader" },
+    { "en": "grandpa",       "word": "(de) opa" },
     { "en": "grandson",      "word": "(de) kleinzoon" },
     { "en": "granddaughter", "word": "(de) kleindochter" },
     { "en": "uncle",         "word": "(de) oom" },
     { "en": "aunt",          "word": "(de) tante" },
     { "en": "cousin",        "word": "(de) neef | (de) nicht" },
-    { "en": "nephew",        "word": "" },
-    { "en": "niece",         "word": "" },
+    { "en": "nephew",        "word": "(de) neef [sibling's son]" },
+    { "en": "niece",         "word": "(de) nicht [sibling's daughter]" },
     { "en": "stepmother",    "word": "(de) stiefmoeder" },
     { "en": "stepfather",    "word": "(de) stiefvader" },
     { "en": "relatives",     "word": "(de) familieleden | (de) verwanten" },
     { "en": "generation",    "word": "(de) generatie" },
     { "en": "single parent", "word": "(de) alleenstaande ouder" },
-    { "en": "father-in-law", "word": "" },
-    { "en": "mother-in-law", "word": "" }
+    { "en": "father-in-law", "word": "(de) schoonvader" },
+    { "en": "mother-in-law", "word": "(de) schoonmoeder" }
   ]
 }

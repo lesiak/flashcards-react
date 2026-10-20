@@ -6,7 +6,7 @@
     { "en": "city",              "word": "kaupunki" },
     { "en": "village",           "word": "kylä" },
     { "en": "town hall",         "word": "kaupungintalo" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "kaupunki" },
     { "en": "(city) centre",     "word": "keskusta" },
     { "en": "square (in city)",  "word": "aukio" },
     { "en": "street",            "word": "katu" },
@@ -26,13 +26,13 @@
     { "en": "pharmacy",          "word": "apteekki" },
     { "en": "prison",            "word": "vankila" },
     { "en": "factory",           "word": "tehdas" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "poliisiasema" },
     { "en": "suburb",            "word": "esikaupunki" },
     { "en": "neighbourhood",     "word": "kaupunginosa" },
     { "en": "crowd",             "word": "väkijoukko" },
     { "en": "crowded",           "word": "tungosta" },
     { "en": "urban",             "word": "kaupunki-" },
-    { "en": "town planning",     "word": "" },
+    { "en": "town planning",     "word": "kaupunkisuunnittelu" },
     { "en": "map",               "word": "kartta" }
   ]
 }

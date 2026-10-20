@@ -6,7 +6,7 @@
     { "en": "city",              "word": "עיר" },
     { "en": "village",           "word": "כפר" },
     { "en": "town hall",         "word": "עירייה | בית העירייה" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "עיר | עיירה" },
     { "en": "(city) centre",     "word": "מרכז העיר" },
     { "en": "square (in city)",  "word": "כיכר" },
     { "en": "street",            "word": "רחוב" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "ספסל" },
     { "en": "bank",              "word": "בנק" },
     { "en": "pharmacy",          "word": "בית מרקחת" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "בית סוהר | כלא" },
     { "en": "factory",           "word": "מפעל" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "תחנת משטרה" },
     { "en": "suburb",            "word": "פרבר" },
     { "en": "neighbourhood",     "word": "שכונה" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "קהל | המון" },
+    { "en": "crowded",           "word": "צפוף" },
     { "en": "urban",             "word": "עירוני" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "תכנון עירוני" },
+    { "en": "map",               "word": "מפה" }
   ]
 }

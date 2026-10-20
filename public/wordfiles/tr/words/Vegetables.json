@@ -21,9 +21,9 @@
     { "en": "hot pepper",  "word": "acı biber" },
     { "en": "lettuce",     "word": "marul" },
     { "en": "leek",        "word": "pırasa" },
-    { "en": "corn",        "word": "" },
+    { "en": "corn",        "word": "mısır" },
     { "en": "mushroom",    "word": "mantar" },
-    { "en": "peas",        "word": "" },
-    { "en": "beans",       "word": "" }
+    { "en": "peas",        "word": "bezelye" },
+    { "en": "beans",       "word": "fasulye" }
   ]
 }

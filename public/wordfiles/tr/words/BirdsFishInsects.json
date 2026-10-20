@@ -17,16 +17,16 @@
     { "en": "dolphin",    "word": "delfiini" },
     { "en": "shark",      "word": "hai" },
     { "en": "eel",        "word": "ankerias" },
-    { "en": "tuna",       "word": "" },
-    { "en": "starfish",   "word": "" },
-    { "en": "seahorse",   "word": "" },
+    { "en": "tuna",       "word": "ton balığı | orkinos" },
+    { "en": "starfish",   "word": "denizyıldızı" },
+    { "en": "seahorse",   "word": "denizatı" },
     { "en": "ant",        "word": "muurahainen" },
     { "en": "butterfly",  "word": "perhonen" },
     { "en": "bee",        "word": "mehiläinen" },
-    { "en": "wasp",       "word": "" },
-    { "en": "bug",        "word": "" },
-    { "en": "a fly",      "word": "" },
-    { "en": "a mosquito", "word": "" },
-    { "en": "a spider",   "word": "" }
+    { "en": "wasp",       "word": "eşek arısı | yaban arısı" },
+    { "en": "bug",        "word": "böcek" },
+    { "en": "a fly",      "word": "sinek" },
+    { "en": "a mosquito", "word": "sivrisinek" },
+    { "en": "a spider",   "word": "örümcek" }
   ]
 }

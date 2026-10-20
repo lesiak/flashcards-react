@@ -6,7 +6,7 @@
     { "en": "city",              "word": "mesto" },
     { "en": "village",           "word": "vas" },
     { "en": "town hall",         "word": "mestna hiša | rotovž" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "mesto" },
     { "en": "(city) centre",     "word": "središče (mesta) | center" },
     { "en": "square (in city)",  "word": "trg" },
     { "en": "street",            "word": "ulica" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "klop" },
     { "en": "bank",              "word": "banka" },
     { "en": "pharmacy",          "word": "lekarna" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "zapor | ječa" },
     { "en": "factory",           "word": "tovarna" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "policijska postaja" },
     { "en": "suburb",            "word": "predmestje" },
     { "en": "neighbourhood",     "word": "soseska | četrt" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "množica | gneča" },
+    { "en": "crowded",           "word": "natrpan | poln ljudi" },
     { "en": "urban",             "word": "mestni | urbani" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "urbanizem" },
+    { "en": "map",               "word": "zemljevid" }
   ]
 }

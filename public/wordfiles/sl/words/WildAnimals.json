@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "jež" },
     { "en": "hare",      "word": "zajec" },
     { "en": "squirrel",  "word": "veverica" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "netopir" },
     { "en": "monkey",    "word": "opica" },
     { "en": "lion",      "word": "lev" },
     { "en": "tiger",     "word": "tiger" },
@@ -23,7 +23,7 @@
     { "en": "snake",     "word": "kača" },
     { "en": "crocodile", "word": "krokodil" },
     { "en": "frog",      "word": "žaba" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" }
+    { "en": "dinosaur",  "word": "dinozaver" },
+    { "en": "mammal",    "word": "sesalec" }
   ]
 }

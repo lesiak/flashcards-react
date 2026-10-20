@@ -18,14 +18,14 @@
     { "en": "to croak",                   "word": "kreketati" },
     { "en": "to caw (raven)",             "word": "graktati" },
     { "en": "to hibernate",               "word": "hibernirati" },
-    { "en": "to have (a pet)",            "word": "" },
-    { "en": "to feed",                    "word": "" },
-    { "en": "to stroke",                  "word": "" },
-    { "en": "to tame",                    "word": "" },
-    { "en": "to break in (a horse)",      "word": "" },
-    { "en": "to train (teach an animal)", "word": "" },
-    { "en": "to breed",                   "word": "" },
-    { "en": "extinction",                 "word": "" },
-    { "en": "poaching",                   "word": "" }
+    { "en": "to have (a pet)",            "word": "imati" },
+    { "en": "to feed",                    "word": "hraniti" },
+    { "en": "to stroke",                  "word": "maziti | milovati" },
+    { "en": "to tame",                    "word": "pripitomiti | pripitomljavati" },
+    { "en": "to break in (a horse)",      "word": "ukrotiti" },
+    { "en": "to train (teach an animal)", "word": "dresirati" },
+    { "en": "to breed",                   "word": "uzgajati" },
+    { "en": "extinction",                 "word": "izumiranje" },
+    { "en": "poaching",                   "word": "krivolov" }
   ]
 }

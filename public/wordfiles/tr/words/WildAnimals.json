@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "kirpi" },
     { "en": "hare",      "word": "tavşan" },
     { "en": "squirrel",  "word": "sincap" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "yarasa" },
     { "en": "monkey",    "word": "apina" },
     { "en": "lion",      "word": "leijona" },
     { "en": "tiger",     "word": "tiikeri" },
@@ -23,8 +23,8 @@
     { "en": "snake",     "word": "käärme" },
     { "en": "crocodile", "word": "krokotiili" },
     { "en": "frog",      "word": "sammakko" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" },
+    { "en": "dinosaur",  "word": "dinozor" },
+    { "en": "mammal",    "word": "memeli" },
     { "en": "caracal",   "word": "karakulak" }
   ]
 }

@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "https://images.unsplash.com/photo-1656936632096-59fcacae533f",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "(l')eau" },
     { "en": "tea",                     "word": "(le) thé" },
     { "en": "coffee",                  "word": "(le) café" },
     { "en": "juice",                   "word": "(le) jus" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "(le) vin" },
     { "en": "vodka",                   "word": "(la) vodka" },
     { "en": "alcohol",                 "word": "(l')alcool" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "boire" },
+    { "en": "to eat",                  "word": "manger" },
+    { "en": "hunger",                  "word": "(la) faim" },
+    { "en": "thirst",                  "word": "(la) soif" },
+    { "en": "I am hungry",             "word": "J'ai faim." },
+    { "en": "I am full",               "word": "Je n'ai plus faim. | Je suis rassasié." },
     { "en": "sweet",                   "word": "sucré" },
     { "en": "bitter",                  "word": "amer" },
     { "en": "sour",                    "word": "aigre | acide" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "savoureux | bon" },
     { "en": "delicious",               "word": "délicieux" },
     { "en": "disgusting",              "word": "dégoûtant" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "ivre | saoul" },
+    { "en": "sober",                   "word": "sobre" },
+    { "en": "cheers (!)",              "word": "santé ! | tchin-tchin !" },
+    { "en": "to toast (with a drink)", "word": "trinquer" }
   ]
 }

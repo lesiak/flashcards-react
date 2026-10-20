@@ -10,7 +10,7 @@
     { "en": "hamster",          "word": "hamsteri" },
     { "en": "guinea pig",       "word": "marsu" },
     { "en": "rabbit",           "word": "kani" },
-    { "en": "mouse (animal)",   "word": "" },
+    { "en": "mouse (animal)",   "word": "hiiri" },
     { "en": "horse",            "word": "hevonen" },
     { "en": "cow",              "word": "lehmä" },
     { "en": "pig",              "word": "sika" },
@@ -20,14 +20,14 @@
     { "en": "chicken",          "word": "kana" },
     { "en": "duck",             "word": "ankka" },
     { "en": "goose",            "word": "hahni" },
-    { "en": "turkey (animal)",  "word": "" },
-    { "en": "cattle",           "word": "" },
+    { "en": "turkey (animal)",  "word": "kalkkuna" },
+    { "en": "cattle",           "word": "nautakarja | karja" },
     { "en": "female (animals)", "word": "naaras" },
-    { "en": "male (animals)",   "word": "" },
+    { "en": "male (animals)",   "word": "uros" },
     { "en": "cage",             "word": "häkki" },
     { "en": "aquarium",         "word": "akvaario" },
     { "en": "leash",            "word": "talutin" },
-    { "en": "pet crate",        "word": "" },
+    { "en": "pet crate",        "word": "kuljetuslaatikko | kuljetushäkki" },
     { "en": "vet",              "word": "eläinlääkäri" }
   ]
 }

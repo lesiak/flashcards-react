@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "פועל | עובד" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "בנאי" },
     { "en": "carpenter",   "word": "נגר" },
     { "en": "electrician", "word": "חשמלאי" },
     { "en": "plumber",     "word": "שרברב | אינסטלטור" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "ספר" },
     { "en": "watchmaker",  "word": "שען" },
     { "en": "cleaner",     "word": "מנקה" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "מוציא לאור | מו\"ל" },
+    { "en": "officer",     "word": "קצין" },
+    { "en": "soldier",     "word": "חייל" },
+    { "en": "priest",      "word": "כומר" },
+    { "en": "monk",        "word": "נזיר" },
+    { "en": "nun",         "word": "נזירה" },
+    { "en": "prostitute",  "word": "זונה" },
+    { "en": "sniper",      "word": "צלף" },
+    { "en": "headmaster",  "word": "מנהל בית ספר" }
   ]
 }

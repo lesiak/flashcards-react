@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "radnik" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "zidar" },
     { "en": "carpenter",   "word": "stolar | tesar" },
     { "en": "electrician", "word": "električar" },
     { "en": "plumber",     "word": "vodoinstalater" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "frizer" },
     { "en": "watchmaker",  "word": "urar" },
     { "en": "cleaner",     "word": "čistač | čistačica" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "izdavač | nakladnik" },
+    { "en": "officer",     "word": "časnik | oficir" },
+    { "en": "soldier",     "word": "vojnik" },
+    { "en": "priest",      "word": "svećenik" },
+    { "en": "monk",        "word": "redovnik | monah" },
+    { "en": "nun",         "word": "časna sestra | redovnica" },
+    { "en": "prostitute",  "word": "prostitutka" },
+    { "en": "sniper",      "word": "snajperist" },
+    { "en": "headmaster",  "word": "ravnatelj" }
   ]
 }

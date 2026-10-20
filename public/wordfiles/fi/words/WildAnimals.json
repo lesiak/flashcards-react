@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "siili" },
     { "en": "hare",      "word": "jänis" },
     { "en": "squirrel",  "word": "orava" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "lepakko" },
     { "en": "monkey",    "word": "apina" },
     { "en": "lion",      "word": "leijona" },
     { "en": "tiger",     "word": "tiikeri" },
@@ -23,7 +23,7 @@
     { "en": "snake",     "word": "käärme" },
     { "en": "crocodile", "word": "krokotiili" },
     { "en": "frog",      "word": "sammakko" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" }
+    { "en": "dinosaur",  "word": "dinosaurus" },
+    { "en": "mammal",    "word": "nisäkäs" }
   ]
 }

@@ -6,7 +6,7 @@
     { "en": "city",              "word": "(de) stad" },
     { "en": "village",           "word": "(het) dorp" },
     { "en": "town hall",         "word": "(het) stadhuis | (het) gemeentehuis" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "(de) stad" },
     { "en": "(city) centre",     "word": "(het) centrum" },
     { "en": "square (in city)",  "word": "(het) plein" },
     { "en": "street",            "word": "(de) straat" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "(het) bankje | (de) bank" },
     { "en": "bank",              "word": "(de) bank" },
     { "en": "pharmacy",          "word": "(de) apotheek" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "(de) gevangenis" },
     { "en": "factory",           "word": "(de) fabriek" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "(het) politiebureau" },
     { "en": "suburb",            "word": "(de) buitenwijk | (de) voorstad" },
     { "en": "neighbourhood",     "word": "(de) wijk | (de) buurt" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "(de) menigte" },
+    { "en": "crowded",           "word": "druk | vol" },
     { "en": "urban",             "word": "stedelijk" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "(de) stedenbouw | (de) ruimtelijke ordening" },
+    { "en": "map",               "word": "(de) kaart | (de) plattegrond" }
   ]
 }

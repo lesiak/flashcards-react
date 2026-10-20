@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "(le) hérisson" },
     { "en": "hare",      "word": "(le) lièvre" },
     { "en": "squirrel",  "word": "(l')écureuil" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "(la) chauve-souris" },
     { "en": "monkey",    "word": "(le) singe" },
     { "en": "lion",      "word": "(le) lion" },
     { "en": "tiger",     "word": "(le) tigre" },
@@ -23,7 +23,7 @@
     { "en": "snake",     "word": "(le) serpent" },
     { "en": "crocodile", "word": "(le) crocodile" },
     { "en": "frog",      "word": "(la) grenouille" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" }
+    { "en": "dinosaur",  "word": "(le) dinosaure" },
+    { "en": "mammal",    "word": "(le) mammifère" }
   ]
 }

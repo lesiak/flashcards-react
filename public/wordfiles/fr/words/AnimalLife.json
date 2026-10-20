@@ -18,14 +18,14 @@
     { "en": "to croak",                   "word": "coasser" },
     { "en": "to caw (raven)",             "word": "croasser" },
     { "en": "to hibernate",               "word": "hiberner" },
-    { "en": "to have (a pet)",            "word": "" },
-    { "en": "to feed",                    "word": "" },
-    { "en": "to stroke",                  "word": "" },
-    { "en": "to tame",                    "word": "" },
-    { "en": "to break in (a horse)",      "word": "" },
-    { "en": "to train (teach an animal)", "word": "" },
-    { "en": "to breed",                   "word": "" },
-    { "en": "extinction",                 "word": "" },
-    { "en": "poaching",                   "word": "" }
+    { "en": "to have (a pet)",            "word": "avoir" },
+    { "en": "to feed",                    "word": "nourrir" },
+    { "en": "to stroke",                  "word": "caresser" },
+    { "en": "to tame",                    "word": "apprivoiser | dompter" },
+    { "en": "to break in (a horse)",      "word": "dresser | débourrer" },
+    { "en": "to train (teach an animal)", "word": "dresser" },
+    { "en": "to breed",                   "word": "élever" },
+    { "en": "extinction",                 "word": "(l')extinction" },
+    { "en": "poaching",                   "word": "(le) braconnage" }
   ]
 }

@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "(het) water" },
     { "en": "tea",                     "word": "(de) thee" },
     { "en": "coffee",                  "word": "(de) koffie" },
     { "en": "juice",                   "word": "(het) sap" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "(de) wijn" },
     { "en": "vodka",                   "word": "(de) wodka" },
     { "en": "alcohol",                 "word": "(de) alcohol" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "drinken" },
+    { "en": "to eat",                  "word": "eten" },
+    { "en": "hunger",                  "word": "(de) honger" },
+    { "en": "thirst",                  "word": "(de) dorst" },
+    { "en": "I am hungry",             "word": "Ik heb honger." },
+    { "en": "I am full",               "word": "Ik zit vol." },
     { "en": "sweet",                   "word": "zoet" },
     { "en": "bitter",                  "word": "bitter" },
     { "en": "sour",                    "word": "zuur" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "lekker | smakelijk" },
     { "en": "delicious",               "word": "heerlijk | verrukkelijk" },
     { "en": "disgusting",              "word": "vies | walgelijk" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "dronken" },
+    { "en": "sober",                   "word": "nuchter" },
+    { "en": "cheers (!)",              "word": "proost!" },
+    { "en": "to toast (with a drink)", "word": "proosten | toosten" }
   ]
 }

@@ -3,15 +3,15 @@
   "description": "Numbers 1–10",
   "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
   "cards": [
-    { "en": "one",   "word": "" },
-    { "en": "two",   "word": "" },
-    { "en": "three", "word": "" },
-    { "en": "four",  "word": "" },
-    { "en": "five",  "word": "" },
-    { "en": "six",   "word": "" },
-    { "en": "seven", "word": "" },
-    { "en": "eight", "word": "" },
-    { "en": "nine",  "word": "" },
-    { "en": "ten",   "word": "" }
+    { "en": "one",   "word": "um" },
+    { "en": "two",   "word": "dois" },
+    { "en": "three", "word": "três" },
+    { "en": "four",  "word": "quatro" },
+    { "en": "five",  "word": "cinco" },
+    { "en": "six",   "word": "seis" },
+    { "en": "seven", "word": "sete" },
+    { "en": "eight", "word": "oito" },
+    { "en": "nine",  "word": "nove" },
+    { "en": "ten",   "word": "dez" }
   ]
 }

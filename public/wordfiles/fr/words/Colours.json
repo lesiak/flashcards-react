@@ -21,7 +21,7 @@
     { "en": "light (colour)",  "word": "clair" },
     { "en": "dark (colour)",   "word": "foncé" },
     { "en": "bright (colour)", "word": "vif" },
-    { "en": "pale",            "word": "" },
-    { "en": "to dye",          "word": "" }
+    { "en": "pale",            "word": "pâle" },
+    { "en": "to dye",          "word": "teindre" }
   ]
 }

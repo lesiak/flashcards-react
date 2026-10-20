@@ -21,9 +21,9 @@
     { "en": "hot pepper",  "word": "ljuta papričica | feferon" },
     { "en": "lettuce",     "word": "zelena salata" },
     { "en": "leek",        "word": "poriluk" },
-    { "en": "corn",        "word": "" },
+    { "en": "corn",        "word": "kukuruz" },
     { "en": "mushroom",    "word": "gljiva" },
-    { "en": "peas",        "word": "" },
-    { "en": "beans",       "word": "" }
+    { "en": "peas",        "word": "grašak" },
+    { "en": "beans",       "word": "grah" }
   ]
 }

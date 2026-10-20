@@ -3,15 +3,15 @@
   "description": "Numbers 1–10",
   "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
   "cards": [
-    { "en": "one",   "word": "" },
-    { "en": "two",   "word": "" },
-    { "en": "three", "word": "" },
-    { "en": "four",  "word": "" },
-    { "en": "five",  "word": "" },
-    { "en": "six",   "word": "" },
-    { "en": "seven", "word": "" },
-    { "en": "eight", "word": "" },
-    { "en": "nine",  "word": "" },
-    { "en": "ten",   "word": "" }
+    { "en": "one",   "word": "një" },
+    { "en": "two",   "word": "dy" },
+    { "en": "three", "word": "tre" },
+    { "en": "four",  "word": "katër" },
+    { "en": "five",  "word": "pesë" },
+    { "en": "six",   "word": "gjashtë" },
+    { "en": "seven", "word": "shtatë" },
+    { "en": "eight", "word": "tetë" },
+    { "en": "nine",  "word": "nëntë" },
+    { "en": "ten",   "word": "dhjetë" }
   ]
 }

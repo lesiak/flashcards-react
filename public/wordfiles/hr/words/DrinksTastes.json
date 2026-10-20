@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "voda" },
     { "en": "tea",                     "word": "čaj" },
     { "en": "coffee",                  "word": "kava" },
     { "en": "juice",                   "word": "sok" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "vino" },
     { "en": "vodka",                   "word": "votka" },
     { "en": "alcohol",                 "word": "alkohol" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "piti" },
+    { "en": "to eat",                  "word": "jesti" },
+    { "en": "hunger",                  "word": "glad" },
+    { "en": "thirst",                  "word": "žeđ" },
+    { "en": "I am hungry",             "word": "Gladan sam." },
+    { "en": "I am full",               "word": "Sit sam." },
     { "en": "sweet",                   "word": "slatko" },
     { "en": "bitter",                  "word": "gorko" },
     { "en": "sour",                    "word": "kiselo" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "ukusno" },
     { "en": "delicious",               "word": "prefino | izvrsno" },
     { "en": "disgusting",              "word": "odvratno" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "pijan" },
+    { "en": "sober",                   "word": "trijezan" },
+    { "en": "cheers (!)",              "word": "živjeli!" },
+    { "en": "to toast (with a drink)", "word": "nazdraviti | nazdravljati" }
   ]
 }

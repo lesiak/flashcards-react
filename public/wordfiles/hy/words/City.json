@@ -6,7 +6,7 @@
     { "en": "city",              "word": "քաղաք" },
     { "en": "village",           "word": "գյուղ" },
     { "en": "town hall",         "word": "քաղաքապետարան" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "քաղաք" },
     { "en": "(city) centre",     "word": "կենտրոն" },
     { "en": "square (in city)",  "word": "հրապարակ" },
     { "en": "street",            "word": "փողոց" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "նստարան" },
     { "en": "bank",              "word": "բանկ" },
     { "en": "pharmacy",          "word": "դեղատուն" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "բանտ" },
     { "en": "factory",           "word": "գործարան" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "ոստիկանության բաժին | ոստիկանատուն" },
     { "en": "suburb",            "word": "ծայրամաս" },
     { "en": "neighbourhood",     "word": "թաղամաս" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "ամբոխ | բազմություն" },
+    { "en": "crowded",           "word": "մարդաշատ" },
     { "en": "urban",             "word": "քաղաքային" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "քաղաքաշինություն" },
+    { "en": "map",               "word": "քարտեզ" }
   ]
 }

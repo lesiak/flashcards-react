@@ -4,9 +4,9 @@
   "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325",
   "cards": [
     { "en": "city",              "word": "cidade" },
-    { "en": "village",           "word": "" },
+    { "en": "village",           "word": "(a) aldeia | (o) vilarejo" },
     { "en": "town hall",         "word": "prefeitura" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "(a) cidade" },
     { "en": "(city) centre",     "word": "centro (da cidade)" },
     { "en": "square (in city)",  "word": "aukio" },
     { "en": "street",            "word": "rua" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "banco" },
     { "en": "bank",              "word": "banco" },
     { "en": "pharmacy",          "word": "farmacia" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "(a) prisão | (a) cadeia" },
     { "en": "factory",           "word": "fábrica" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "(a) delegacia" },
     { "en": "suburb",            "word": "subúrbio" },
     { "en": "neighbourhood",     "word": "bairro" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "(a) multidão" },
+    { "en": "crowded",           "word": "lotado | cheio (de gente)" },
     { "en": "urban",             "word": "urbano" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "(o) urbanismo | (o) planejamento urbano" },
+    { "en": "map",               "word": "(o) mapa" }
   ]
 }

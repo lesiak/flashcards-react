@@ -3,13 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
   "cards": [
-    { "en": "food",           "word": "" },
+    { "en": "food",           "word": "hrana" },
     { "en": "bread",          "word": "kruh" },
     { "en": "flour",          "word": "moka" },
     { "en": "rice",           "word": "riž" },
     { "en": "meat",           "word": "meso" },
-    { "en": "poultry",        "word": "" },
-    { "en": "turkey",         "word": "" },
+    { "en": "poultry",        "word": "perutnina" },
+    { "en": "turkey",         "word": "puran" },
     { "en": "bacon",          "word": "slanina" },
     { "en": "sausage",        "word": "klobasa" },
     { "en": "egg",            "word": "jajce" },
@@ -35,9 +35,9 @@
     { "en": "cookie",         "word": "piškot" },
     { "en": "candy",          "word": "bonbon" },
     { "en": "ice cream",      "word": "sladoled" },
-    { "en": "fast food",      "word": "" },
-    { "en": "pepper (spice)", "word": "" },
-    { "en": "fish (food)",    "word": "" },
-    { "en": "pasta",          "word": "" }
+    { "en": "fast food",      "word": "hitra hrana" },
+    { "en": "pepper (spice)", "word": "poper" },
+    { "en": "fish (food)",    "word": "riba" },
+    { "en": "pasta",          "word": "testenine" }
   ]
 }

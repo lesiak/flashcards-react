@@ -3,15 +3,15 @@
   "description": "Numbers 1–10",
   "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
   "cards": [
-    { "en": "one",   "word": "" },
-    { "en": "two",   "word": "" },
-    { "en": "three", "word": "" },
-    { "en": "four",  "word": "" },
-    { "en": "five",  "word": "" },
-    { "en": "six",   "word": "" },
-    { "en": "seven", "word": "" },
-    { "en": "eight", "word": "" },
-    { "en": "nine",  "word": "" },
-    { "en": "ten",   "word": "" }
+    { "en": "one",   "word": "하나 | 일" },
+    { "en": "two",   "word": "둘 | 이" },
+    { "en": "three", "word": "셋 | 삼" },
+    { "en": "four",  "word": "넷 | 사" },
+    { "en": "five",  "word": "다섯 | 오" },
+    { "en": "six",   "word": "여섯 | 육" },
+    { "en": "seven", "word": "일곱 | 칠" },
+    { "en": "eight", "word": "여덟 | 팔" },
+    { "en": "nine",  "word": "아홉 | 구" },
+    { "en": "ten",   "word": "열 | 십" }
   ]
 }

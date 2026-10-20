@@ -3,13 +3,13 @@
   "description": "Food",
   "image": "https://images.unsplash.com/photo-1518732751612-2c0787ff5684",
   "cards": [
-    { "en": "food",           "word": "" },
+    { "en": "food",           "word": "אוכל" },
     { "en": "bread",          "word": "לחם" },
     { "en": "flour",          "word": "קמח" },
     { "en": "rice",           "word": "אורז" },
     { "en": "meat",           "word": "בשר" },
-    { "en": "poultry",        "word": "" },
-    { "en": "turkey",         "word": "" },
+    { "en": "poultry",        "word": "עוף" },
+    { "en": "turkey",         "word": "הודו" },
     { "en": "bacon",          "word": "בייקון" },
     { "en": "sausage",        "word": "נקניקייה | נקניק" },
     { "en": "egg",            "word": "ביצה" },
@@ -35,9 +35,9 @@
     { "en": "cookie",         "word": "עוגייה" },
     { "en": "candy",          "word": "סוכרייה | ממתק" },
     { "en": "ice cream",      "word": "גלידה" },
-    { "en": "fast food",      "word": "" },
-    { "en": "pepper (spice)", "word": "" },
-    { "en": "fish (food)",    "word": "" },
-    { "en": "pasta",          "word": "" }
+    { "en": "fast food",      "word": "מזון מהיר" },
+    { "en": "pepper (spice)", "word": "פלפל [spice]" },
+    { "en": "fish (food)",    "word": "דג" },
+    { "en": "pasta",          "word": "פסטה" }
   ]
 }

@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "delavec" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "zidar" },
     { "en": "carpenter",   "word": "mizar | tesar" },
     { "en": "electrician", "word": "električar" },
     { "en": "plumber",     "word": "vodovodar | inštalater" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "frizer" },
     { "en": "watchmaker",  "word": "urar" },
     { "en": "cleaner",     "word": "čistilec | čistilka" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "založnik" },
+    { "en": "officer",     "word": "častnik | oficir" },
+    { "en": "soldier",     "word": "vojak" },
+    { "en": "priest",      "word": "duhovnik" },
+    { "en": "monk",        "word": "menih" },
+    { "en": "nun",         "word": "nuna | redovnica" },
+    { "en": "prostitute",  "word": "prostitutka" },
+    { "en": "sniper",      "word": "ostrostrelec" },
+    { "en": "headmaster",  "word": "ravnatelj" }
   ]
 }

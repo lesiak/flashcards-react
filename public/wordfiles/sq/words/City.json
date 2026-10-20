@@ -6,7 +6,7 @@
     { "en": "city",              "word": "qytet" },
     { "en": "village",           "word": "fshat" },
     { "en": "town hall",         "word": "bashki" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "qytet" },
     { "en": "(city) centre",     "word": "qendër" },
     { "en": "square (in city)",  "word": "shesh" },
     { "en": "street",            "word": "rrugë" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "stol" },
     { "en": "bank",              "word": "bankë" },
     { "en": "pharmacy",          "word": "farmaci" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "burg" },
     { "en": "factory",           "word": "fabrikë" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "komisariat | rajon policie" },
     { "en": "suburb",            "word": "periferi" },
     { "en": "neighbourhood",     "word": "lagje" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "turmë" },
+    { "en": "crowded",           "word": "plot me njerëz | i stërmbushur" },
     { "en": "urban",             "word": "urban" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "urbanistikë" },
+    { "en": "map",               "word": "hartë" }
   ]
 }

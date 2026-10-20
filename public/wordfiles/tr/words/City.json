@@ -6,7 +6,7 @@
     { "en": "city",              "word": "şehir" },
     { "en": "village",           "word": "köy" },
     { "en": "town hall",         "word": "belediye binası" },
-    { "en": "town",              "word": "" },
+    { "en": "town",              "word": "şehir | kasaba" },
     { "en": "(city) centre",     "word": "merkez" },
     { "en": "square (in city)",  "word": "meydan" },
     { "en": "street",            "word": "sokak" },
@@ -24,15 +24,15 @@
     { "en": "bench",             "word": "tezgah" },
     { "en": "bank",              "word": "banka" },
     { "en": "pharmacy",          "word": "eczane" },
-    { "en": "prison",            "word": "" },
+    { "en": "prison",            "word": "hapishane | cezaevi" },
     { "en": "factory",           "word": "fabrika" },
-    { "en": "police station",    "word": "" },
+    { "en": "police station",    "word": "karakol | polis merkezi" },
     { "en": "suburb",            "word": "banliyö" },
     { "en": "neighbourhood",     "word": "semt" },
-    { "en": "crowd",             "word": "" },
-    { "en": "crowded",           "word": "" },
+    { "en": "crowd",             "word": "kalabalık" },
+    { "en": "crowded",           "word": "kalabalık" },
     { "en": "urban",             "word": "kentsel | şehir" },
-    { "en": "town planning",     "word": "" },
-    { "en": "map",               "word": "" }
+    { "en": "town planning",     "word": "şehir planlaması | şehircilik" },
+    { "en": "map",               "word": "harita" }
   ]
 }

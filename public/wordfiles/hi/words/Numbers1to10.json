@@ -3,15 +3,15 @@
   "description": "Numbers 1–10",
   "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
   "cards": [
-    { "en": "one",   "word": "" },
-    { "en": "two",   "word": "" },
-    { "en": "three", "word": "" },
-    { "en": "four",  "word": "" },
-    { "en": "five",  "word": "" },
-    { "en": "six",   "word": "" },
-    { "en": "seven", "word": "" },
-    { "en": "eight", "word": "" },
-    { "en": "nine",  "word": "" },
-    { "en": "ten",   "word": "" }
+    { "en": "one",   "word": "एक" },
+    { "en": "two",   "word": "दो" },
+    { "en": "three", "word": "तीन" },
+    { "en": "four",  "word": "चार" },
+    { "en": "five",  "word": "पाँच" },
+    { "en": "six",   "word": "छह" },
+    { "en": "seven", "word": "सात" },
+    { "en": "eight", "word": "आठ" },
+    { "en": "nine",  "word": "नौ" },
+    { "en": "ten",   "word": "दस" }
   ]
 }

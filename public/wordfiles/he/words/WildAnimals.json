@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "קיפוד" },
     { "en": "hare",      "word": "ארנבת" },
     { "en": "squirrel",  "word": "סנאי" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "עטלף" },
     { "en": "monkey",    "word": "קוף" },
     { "en": "lion",      "word": "אריה" },
     { "en": "tiger",     "word": "נמר" },
@@ -23,7 +23,7 @@
     { "en": "snake",     "word": "נחש" },
     { "en": "crocodile", "word": "תנין" },
     { "en": "frog",      "word": "צפרדע" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" }
+    { "en": "dinosaur",  "word": "דינוזאור" },
+    { "en": "mammal",    "word": "יונק" }
   ]
 }

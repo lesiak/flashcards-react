@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "ջուր" },
     { "en": "tea",                     "word": "թեյ" },
     { "en": "coffee",                  "word": "սուրճ" },
     { "en": "juice",                   "word": "հյութ" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "գինի" },
     { "en": "vodka",                   "word": "օղի" },
     { "en": "alcohol",                 "word": "ալկոհոլ" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "խմել" },
+    { "en": "to eat",                  "word": "ուտել" },
+    { "en": "hunger",                  "word": "քաղց | սով" },
+    { "en": "thirst",                  "word": "ծարավ" },
+    { "en": "I am hungry",             "word": "Քաղցած եմ։ | Սոված եմ։" },
+    { "en": "I am full",               "word": "Կուշտ եմ։" },
     { "en": "sweet",                   "word": "քաղցր" },
     { "en": "bitter",                  "word": "դառը" },
     { "en": "sour",                    "word": "թթու" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "համեղ" },
     { "en": "delicious",               "word": "շատ համեղ" },
     { "en": "disgusting",              "word": "զզվելի" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "հարբած" },
+    { "en": "sober",                   "word": "սթափ" },
+    { "en": "cheers (!)",              "word": "կենացդ | կենաց" },
+    { "en": "to toast (with a drink)", "word": "կենաց ասել | բաժակ բարձրացնել" }
   ]
 }

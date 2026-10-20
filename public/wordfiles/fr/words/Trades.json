@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "(l')ouvrier" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "(le) maçon" },
     { "en": "carpenter",   "word": "(le) charpentier | (le) menuisier" },
     { "en": "electrician", "word": "(l')électricien" },
     { "en": "plumber",     "word": "(le) plombier" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "(le) coiffeur" },
     { "en": "watchmaker",  "word": "(l')horloger" },
     { "en": "cleaner",     "word": "(l')agent d'entretien" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "(l')éditeur" },
+    { "en": "officer",     "word": "(l')officier" },
+    { "en": "soldier",     "word": "(le) soldat" },
+    { "en": "priest",      "word": "(le) prêtre | (le) curé" },
+    { "en": "monk",        "word": "(le) moine" },
+    { "en": "nun",         "word": "(la) religieuse | (la) nonne" },
+    { "en": "prostitute",  "word": "(la) prostituée" },
+    { "en": "sniper",      "word": "(le) tireur d'élite | (le) sniper" },
+    { "en": "headmaster",  "word": "(le) directeur d'école | (le) proviseur" }
   ]
 }

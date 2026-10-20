@@ -4,7 +4,7 @@
   "image": "",
   "cards": [
     { "en": "worker",      "word": "(de) arbeider | (de) werknemer" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "bricklayer",  "word": "(de) metselaar" },
     { "en": "carpenter",   "word": "(de) timmerman" },
     { "en": "electrician", "word": "(de) elektricien" },
     { "en": "plumber",     "word": "(de) loodgieter" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "(de) kapper" },
     { "en": "watchmaker",  "word": "(de) horlogemaker" },
     { "en": "cleaner",     "word": "(de) schoonmaker" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "(de) uitgever" },
+    { "en": "officer",     "word": "(de) officier" },
+    { "en": "soldier",     "word": "(de) soldaat" },
+    { "en": "priest",      "word": "(de) priester" },
+    { "en": "monk",        "word": "(de) monnik" },
+    { "en": "nun",         "word": "(de) non" },
+    { "en": "prostitute",  "word": "(de) prostituee" },
+    { "en": "sniper",      "word": "(de) sluipschutter | (de) scherpschutter" },
+    { "en": "headmaster",  "word": "(de) schooldirecteur | (het) schoolhoofd" }
   ]
 }

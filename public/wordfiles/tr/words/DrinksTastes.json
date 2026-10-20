@@ -3,7 +3,7 @@
   "description": "Drinks & Tastes",
   "image": "",
   "cards": [
-    { "en": "water (to drink)",        "word": "" },
+    { "en": "water (to drink)",        "word": "su" },
     { "en": "tea",                     "word": "çay" },
     { "en": "coffee",                  "word": "kahve" },
     { "en": "juice",                   "word": "meyve suyu" },
@@ -11,12 +11,12 @@
     { "en": "wine",                    "word": "şarap" },
     { "en": "vodka",                   "word": "votka" },
     { "en": "alcohol",                 "word": "alkol" },
-    { "en": "to drink",                "word": "" },
-    { "en": "to eat",                  "word": "" },
-    { "en": "hunger",                  "word": "" },
-    { "en": "thirst",                  "word": "" },
-    { "en": "I am hungry",             "word": "" },
-    { "en": "I am full",               "word": "" },
+    { "en": "to drink",                "word": "içmek" },
+    { "en": "to eat",                  "word": "yemek" },
+    { "en": "hunger",                  "word": "açlık" },
+    { "en": "thirst",                  "word": "susuzluk" },
+    { "en": "I am hungry",             "word": "Açım. | Karnım aç." },
+    { "en": "I am full",               "word": "Doydum. | Tokum." },
     { "en": "sweet",                   "word": "tatlı" },
     { "en": "bitter",                  "word": "acı" },
     { "en": "sour",                    "word": "ekşi" },
@@ -27,9 +27,9 @@
     { "en": "tasty",                   "word": "lezzetli" },
     { "en": "delicious",               "word": "lezzetli" },
     { "en": "disgusting",              "word": "iğrenç" },
-    { "en": "drunk",                   "word": "" },
-    { "en": "sober",                   "word": "" },
-    { "en": "cheers (!)",              "word": "" },
-    { "en": "to toast (with a drink)", "word": "" }
+    { "en": "drunk",                   "word": "sarhoş" },
+    { "en": "sober",                   "word": "ayık" },
+    { "en": "cheers (!)",              "word": "Şerefe!" },
+    { "en": "to toast (with a drink)", "word": "kadeh kaldırmak" }
   ]
 }

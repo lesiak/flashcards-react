@@ -18,14 +18,14 @@
     { "en": "to croak",                   "word": "կռկռալ" },
     { "en": "to caw (raven)",             "word": "կռնչել" },
     { "en": "to hibernate",               "word": "ձմեռել" },
-    { "en": "to have (a pet)",            "word": "" },
-    { "en": "to feed",                    "word": "" },
-    { "en": "to stroke",                  "word": "" },
-    { "en": "to tame",                    "word": "" },
-    { "en": "to break in (a horse)",      "word": "" },
-    { "en": "to train (teach an animal)", "word": "" },
-    { "en": "to breed",                   "word": "" },
-    { "en": "extinction",                 "word": "" },
-    { "en": "poaching",                   "word": "" }
+    { "en": "to have (a pet)",            "word": "ունենալ | պահել" },
+    { "en": "to feed",                    "word": "կերակրել" },
+    { "en": "to stroke",                  "word": "շոյել" },
+    { "en": "to tame",                    "word": "ընտելացնել" },
+    { "en": "to break in (a horse)",      "word": "վարժեցնել (ձի) | սանձահարել" },
+    { "en": "to train (teach an animal)", "word": "վարժեցնել" },
+    { "en": "to breed",                   "word": "բուծել" },
+    { "en": "extinction",                 "word": "անհետացում" },
+    { "en": "poaching",                   "word": "որսագողություն" }
   ]
 }

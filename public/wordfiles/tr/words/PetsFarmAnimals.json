@@ -10,7 +10,7 @@
     { "en": "hamster",          "word": "hamster" },
     { "en": "guinea pig",       "word": "kobay" },
     { "en": "rabbit",           "word": "tavşan" },
-    { "en": "mouse (animal)",   "word": "" },
+    { "en": "mouse (animal)",   "word": "fare" },
     { "en": "horse",            "word": "atış" },
     { "en": "cow",              "word": "inek" },
     { "en": "pig",              "word": "domuz" },
@@ -20,14 +20,14 @@
     { "en": "chicken",          "word": "tavuk" },
     { "en": "duck",             "word": "ankka" },
     { "en": "goose",            "word": "hahni" },
-    { "en": "turkey (animal)",  "word": "" },
+    { "en": "turkey (animal)",  "word": "hindi" },
     { "en": "cattle",           "word": "sığır" },
     { "en": "female (animals)", "word": "dişi" },
     { "en": "male (animals)",   "word": "erkek" },
     { "en": "cage",             "word": "kafes" },
     { "en": "aquarium",         "word": "akvaryum" },
     { "en": "leash",            "word": "tasma" },
-    { "en": "pet crate",        "word": "" },
+    { "en": "pet crate",        "word": "taşıma kafesi | pet taşıma çantası" },
     { "en": "vet",              "word": "veteriner" }
   ]
 }

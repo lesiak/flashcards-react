@@ -21,7 +21,7 @@
     { "en": "light (colour)",  "word": "açık" },
     { "en": "dark (colour)",   "word": "koyu" },
     { "en": "bright (colour)", "word": "parlak" },
-    { "en": "pale",            "word": "" },
-    { "en": "to dye",          "word": "" }
+    { "en": "pale",            "word": "soluk | solgun" },
+    { "en": "to dye",          "word": "boyamak" }
   ]
 }

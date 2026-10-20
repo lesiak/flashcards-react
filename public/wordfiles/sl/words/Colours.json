@@ -21,7 +21,7 @@
     { "en": "light (colour)",  "word": "svetel" },
     { "en": "dark (colour)",   "word": "temen" },
     { "en": "bright (colour)", "word": "živ" },
-    { "en": "pale",            "word": "" },
-    { "en": "to dye",          "word": "" }
+    { "en": "pale",            "word": "bled" },
+    { "en": "to dye",          "word": "barvati" }
   ]
 }

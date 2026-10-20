@@ -3,8 +3,8 @@
   "description": "Trades",
   "image": "",
   "cards": [
-    { "en": "worker",      "word": "" },
-    { "en": "bricklayer",  "word": "" },
+    { "en": "worker",      "word": "työläinen | työntekijä" },
+    { "en": "bricklayer",  "word": "muurari" },
     { "en": "carpenter",   "word": "puuseppä" },
     { "en": "electrician", "word": "sähköasentaja | sähkömies" },
     { "en": "plumber",     "word": "putkimies" },
@@ -20,14 +20,14 @@
     { "en": "hairdresser", "word": "kampaaja" },
     { "en": "watchmaker",  "word": "kelloseppä" },
     { "en": "cleaner",     "word": "siivooja" },
-    { "en": "publisher",   "word": "" },
-    { "en": "officer",     "word": "" },
-    { "en": "soldier",     "word": "" },
-    { "en": "priest",      "word": "" },
-    { "en": "monk",        "word": "" },
-    { "en": "nun",         "word": "" },
-    { "en": "prostitute",  "word": "" },
-    { "en": "sniper",      "word": "" },
-    { "en": "headmaster",  "word": "" }
+    { "en": "publisher",   "word": "kustantaja" },
+    { "en": "officer",     "word": "upseeri" },
+    { "en": "soldier",     "word": "sotilas" },
+    { "en": "priest",      "word": "pappi" },
+    { "en": "monk",        "word": "munkki" },
+    { "en": "nun",         "word": "nunna" },
+    { "en": "prostitute",  "word": "prostituoitu" },
+    { "en": "sniper",      "word": "tarkka-ampuja" },
+    { "en": "headmaster",  "word": "rehtori" }
   ]
 }

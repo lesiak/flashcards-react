@@ -18,14 +18,14 @@
     { "en": "to croak",                   "word": "לקרקר" },
     { "en": "to caw (raven)",             "word": "לקרקר" },
     { "en": "to hibernate",               "word": "לחרוף" },
-    { "en": "to have (a pet)",            "word": "" },
-    { "en": "to feed",                    "word": "" },
-    { "en": "to stroke",                  "word": "" },
-    { "en": "to tame",                    "word": "" },
-    { "en": "to break in (a horse)",      "word": "" },
-    { "en": "to train (teach an animal)", "word": "" },
-    { "en": "to breed",                   "word": "" },
-    { "en": "extinction",                 "word": "" },
-    { "en": "poaching",                   "word": "" }
+    { "en": "to have (a pet)",            "word": "להחזיק" },
+    { "en": "to feed",                    "word": "להאכיל" },
+    { "en": "to stroke",                  "word": "ללטף" },
+    { "en": "to tame",                    "word": "לאלף | לביית" },
+    { "en": "to break in (a horse)",      "word": "לאלף" },
+    { "en": "to train (teach an animal)", "word": "לאלף | לאמן" },
+    { "en": "to breed",                   "word": "לגדל" },
+    { "en": "extinction",                 "word": "הכחדה" },
+    { "en": "poaching",                   "word": "ציד בלתי חוקי" }
   ]
 }

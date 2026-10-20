@@ -18,21 +18,21 @@
     { "en": "twin",          "word": "երկվորյակ" },
     { "en": "grandmother",   "word": "տատիկ" },
     { "en": "grandma",       "word": "տատ" },
-    { "en": "grandfather",   "word": "" },
-    { "en": "grandpa",       "word": "" },
+    { "en": "grandfather",   "word": "պապ | պապիկ" },
+    { "en": "grandpa",       "word": "պապիկ | պապի" },
     { "en": "grandson",      "word": "թոռ" },
     { "en": "granddaughter", "word": "թոռնուհի" },
     { "en": "uncle",         "word": "հորեղբայր | քեռի" },
     { "en": "aunt",          "word": "հորաքույր | մորաքույր" },
     { "en": "cousin",        "word": "զարմիկ | զարմուհի" },
-    { "en": "nephew",        "word": "" },
-    { "en": "niece",         "word": "" },
+    { "en": "nephew",        "word": "եղբոր տղա | քրոջ տղա" },
+    { "en": "niece",         "word": "եղբոր աղջիկ | քրոջ աղջիկ" },
     { "en": "stepmother",    "word": "խորթ մայր" },
     { "en": "stepfather",    "word": "խորթ հայր" },
     { "en": "relatives",     "word": "ազգականներ | բարեկամներ" },
     { "en": "generation",    "word": "սերունդ" },
     { "en": "single parent", "word": "միայնակ ծնող" },
-    { "en": "father-in-law", "word": "" },
-    { "en": "mother-in-law", "word": "" }
+    { "en": "father-in-law", "word": "սկեսրայր [husband's father] | աներ [wife's father]" },
+    { "en": "mother-in-law", "word": "սկեսուր [husband's mother] | զոքանչ [wife's mother]" }
   ]
 }

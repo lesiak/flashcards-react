@@ -13,7 +13,7 @@
     { "en": "hedgehog",  "word": "ոզնի" },
     { "en": "hare",      "word": "նապաստակ" },
     { "en": "squirrel",  "word": "սկյուռ" },
-    { "en": "bat",       "word": "" },
+    { "en": "bat",       "word": "չղջիկ" },
     { "en": "monkey",    "word": "կապիկ" },
     { "en": "lion",      "word": "առյուծ" },
     { "en": "tiger",     "word": "վագր" },
@@ -23,7 +23,7 @@
     { "en": "snake",     "word": "օձ" },
     { "en": "crocodile", "word": "կոկորդիլոս" },
     { "en": "frog",      "word": "գորտ" },
-    { "en": "dinosaur",  "word": "" },
-    { "en": "mammal",    "word": "" }
+    { "en": "dinosaur",  "word": "դինոզավր" },
+    { "en": "mammal",    "word": "կաթնասուն" }
   ]
 }
