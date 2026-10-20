@@ -64,7 +64,7 @@ useEffect(() => {
       <>
         <NavBar selectedTab={selectedTab} onTabSelect={onTabSelect}/>
         {selectedTab === 'homeTab' && <HomePage courses={courses}/>}
-        {selectedTab === 'dictionaryTab' && <Dictionary cards={allCards} currentLanguage={currentLanguage}/>}
+        {selectedTab === 'dictionaryTab' && <Dictionary cards={allCards} groups={courses.map(c => c.id)} currentLanguage={currentLanguage}/>}
       </>
     )
   }

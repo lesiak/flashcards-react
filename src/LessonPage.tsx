@@ -11,16 +11,11 @@ import {
 } from '@fluentui/react-components';
 import {ChevronLeftRegular, ChevronRightRegular, Speaker2Regular} from '@fluentui/react-icons';
 import {useAudioManifest} from './service/AudioManifestLoader.ts';
-import {playCachedAudio} from './service/AudioCache.ts';
-import {audioUrl, deriveVoicedTexts} from './service/AudioNaming.ts';
+import {findPronunciations, playPronunciation} from './service/Pronunciation.ts';
 import {AudioManifestEntry} from './model/AudioManifest.ts';
 
 // Stable empty list so effects depending on it do not re-run every render.
 const NO_PRONUNCIATIONS: AudioManifestEntry[] = [];
-
-const playPronunciation = (entry: AudioManifestEntry) => {
-  playCachedAudio(audioUrl(entry.file)).catch((e) => console.warn(`Cannot play "${entry.text}"`, e));
-}
 
 const useStyles = makeStyles({
   page: {
@@ -119,9 +114,7 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
   // autoplay effect below sees the same list until the card or manifest changes.
   const pronunciations = useMemo<AudioManifestEntry[]>(() => {
     if (!audioManifest) return NO_PRONUNCIATIONS;
-    const found = deriveVoicedTexts(card.word)
-      .map((text) => ({text, file: audioManifest.clips[text]}))
-      .filter((entry): entry is AudioManifestEntry => entry.file !== undefined);
+    const found = findPronunciations(audioManifest.clips, card.word);
     return found.length > 0 ? found : NO_PRONUNCIATIONS;
   }, [audioManifest, card.word]);
 

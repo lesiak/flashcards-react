@@ -49,3 +49,31 @@ export function useAudioManifest(lang: string, group: string): AudioManifest | n
 
   return manifest;
 }
+
+const NO_CLIPS: Record<string, string> = {};
+
+/**
+ * React hook: the clips of every group in `groups` merged into one map, for
+ * views that show cards from several courses at once. Clips are keyed by the
+ * voiced text, so the same text recorded in two groups is one entry. Empty
+ * until the manifests load; a group without audio adds nothing.
+ */
+export function useMergedAudioClips(lang: string, groups: string[]): Record<string, string> {
+  const [clips, setClips] = useState(NO_CLIPS);
+  // Depend on the contents, not the array, so a new array with the same groups does not reload.
+  const groupsKey = groups.join('/');
+
+  useEffect(() => {
+    let cancelled = false;
+    setClips(NO_CLIPS);
+    Promise.all(groupsKey.split('/').filter((g) => g.length > 0).map((g) => loadAudioManifest(lang, g)))
+      .then((manifests) => {
+        if (!cancelled) setClips(Object.assign({}, ...manifests.map((m) => m?.clips ?? {})));
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [lang, groupsKey]);
+
+  return clips;
+}
