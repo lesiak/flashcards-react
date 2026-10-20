@@ -16,8 +16,14 @@ const WHITESPACE = /\s+/g;
 // Illegal in file names on at least one OS, awkward inside a URL path segment,
 // or a control character (Unicode category Cc).
 const UNSAFE_IN_FILE_NAME = /[\\/:*?"<>|#%&\p{Cc}]/gu;
-// Sentence punctuation adds nothing to a name, and a trailing "." would double up with ".mp3".
-const SENTENCE_PUNCTUATION = /[.,!?¿¡…]/g;
+// A question or an exclamation is voiced with its own intonation, so the mark
+// has to keep "como" and "como?" apart. "?" is unsafe in a file name and "!"
+// trips shell history expansion, so each becomes a short suffix token instead.
+const QUESTION_MARK = /\?/g;
+const EXCLAMATION_MARK = /!/g;
+// Other sentence punctuation adds nothing to a name: the opening Spanish marks
+// mirror the closing one, and a trailing "." would double up with ".mp3".
+const SENTENCE_PUNCTUATION = /[.,¿¡…]/g;
 
 /**
  * Splits a deck `word` into the texts to voice, one per alternative.
@@ -39,12 +45,15 @@ export function deriveVoicedTexts(word: string): string[] {
 
 /**
  * File name for one voiced text, without directory: "el pecho" -> "el_pecho.mp3",
- * "¿Quieres esto?" -> "Quieres_esto.mp3". Non-Latin letters and accents are kept;
- * only whitespace, unsafe characters and sentence punctuation change.
+ * "¿Quieres esto?" -> "Quieres_esto_q.mp3", "natuurlijk!" -> "natuurlijk_excl.mp3".
+ * Non-Latin letters and accents are kept; only whitespace, unsafe characters
+ * and sentence punctuation change.
  */
 export function audioFileName(text: string): string {
   const name = text
     .normalize('NFC')
+    .replace(QUESTION_MARK, '_q')
+    .replace(EXCLAMATION_MARK, '_excl')
     .replace(UNSAFE_IN_FILE_NAME, '')
     .replace(SENTENCE_PUNCTUATION, '')
     .trim()

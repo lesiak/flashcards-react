@@ -96,7 +96,9 @@ Rules of thumb:
 - A gloss of two or three words goes in square brackets next to the word.
   Anything longer goes in `note`.
 - Sentences keep their punctuation, including `¿ ?` and the French space
-  before `?`. Punctuation never reaches a file name.
+  before `?`. A question mark or an exclamation mark changes how the clip is
+  spoken, so it also tells the clips apart (`como` and `como?` are two clips);
+  other punctuation never reaches a file name.
 
 ## Audio
 
@@ -107,7 +109,9 @@ separators never orphans its recordings, and two cards that share an
 alternative share one clip. Clips are stored under `<lang>/<group>/<voiceId>/`,
 so each group has its own audio and the same word in two groups is voiced
 once per group. The file name is derived
-from the voiced text: whitespace becomes `_`, unsafe characters and sentence
-punctuation are dropped, so `¿Quieres esto?` is stored as `Quieres_esto.mp3`.
-Two alternatives that differ only by punctuation would collide; the script
-refuses to run if that happens.
+from the voiced text: whitespace becomes `_`, `?` becomes `_q`, `!` becomes
+`_excl`, and the remaining sentence punctuation and unsafe characters are
+dropped, so `¿Quieres esto?` is stored as `Quieres_esto_q.mp3` and
+`natuurlijk!` as `natuurlijk_excl.mp3`. Two texts that would still share a
+file name (say, differing only by a comma) collide; `decks:check` reports
+it and the audio script refuses to run.
