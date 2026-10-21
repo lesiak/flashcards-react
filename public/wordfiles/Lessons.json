@@ -39,7 +39,7 @@
       "name": "A1 Level",
       "sections": [
         { "name": "A1 Level",
-          "decks": ["A1_Level_Part1", "A1_Level_Part2"] }
+          "decks": ["A1_Level_Part1", "A1_Level_Part2", "A1_Level_Part3"] }
       ]
     }
   ]
