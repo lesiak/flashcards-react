@@ -3,13 +3,13 @@
   "es": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "fr": { "voiceId": "WeAAwKYcS06VmXw086yZ", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "pt": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
-  "hr": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "hr": { "voiceId": "NfdaqpoTPn7nF7WBBRTv", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "nl": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
-  "tr": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "tr": { "voiceId": "mBUB5zYuPwfVE6DTcEjf", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "hi": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "he": { "voiceId": "6WRlPmU1fqPwYbSxeP16", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "hy": { "voiceId": "kyqw8ZqDBKvdhEqCx0j9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "sq": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "sl": { "voiceId": "WwFMMxYWrkm6h88c7f0n", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
-  "ko": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" }
+  "ko": { "voiceId": "8jHHF8rMqMlg8if2mOUe", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" }
 }
