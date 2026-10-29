@@ -11,5 +11,6 @@
   "hy": { "voiceId": "kyqw8ZqDBKvdhEqCx0j9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "sq": { "voiceId": "cgSgspJ2msm6clMCkdW9", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
   "sl": { "voiceId": "WwFMMxYWrkm6h88c7f0n", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
-  "ko": { "voiceId": "8jHHF8rMqMlg8if2mOUe", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" }
+  "ko": { "voiceId": "8jHHF8rMqMlg8if2mOUe", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" },
+  "zh": { "voiceId": "bhJUNIXWQQ94l8eI2VUf", "modelId": "eleven_v4", "outputFormat": "mp3_44100_128" }
 }
