@@ -1,0 +1,29 @@
+{
+  "name": "Colours",
+  "description": "Colours",
+  "image": "https://images.unsplash.com/photo-1600832331197-ad575931911b",
+  "cards": [
+    { "en": "yellow",          "word": "黄色 [huángsè]" },
+    { "en": "white",           "word": "白色 [báisè]" },
+    { "en": "black",           "word": "黑色 [hēisè]" },
+    { "en": "red",             "word": "红色 [hóngsè]" },
+    { "en": "blue",            "word": "蓝色 [lánsè]" },
+    { "en": "green",           "word": "绿色 [lǜsè]" },
+    { "en": "orange",          "word": "橙色 [chéngsè] | 橘黄色 [júhuángsè]" },
+    { "en": "pink",            "word": "粉红色 [fěnhóngsè] | 粉色 [fěnsè]" },
+    { "en": "brown",           "word": "棕色 [zōngsè] | 咖啡色 [kāfēisè]" },
+    { "en": "grey",            "word": "灰色 [huīsè]" },
+    { "en": "violet",          "word": "紫罗兰色 [zǐluólánsè]" },
+    { "en": "purple",          "word": "紫色 [zǐsè]" },
+    { "en": "colour",          "word": "颜色 [yánsè]" },
+    { "en": "colorful",        "word": "五颜六色 [wǔyán-liùsè] | 彩色 [cǎisè]" },
+    { "en": "colourless",      "word": "无色 [wúsè]" },
+    { "en": "light (colour)",  "word": "浅 [qiǎn]",
+      "note": "Comes before the colour: 浅蓝色 = light blue." },
+    { "en": "dark (colour)",   "word": "深 [shēn]",
+      "note": "Comes before the colour: 深蓝色 = dark blue." },
+    { "en": "bright (colour)", "word": "鲜艳 [xiānyàn]" },
+    { "en": "pale",            "word": "苍白 [cāngbái] | 淡 [dàn]" },
+    { "en": "to dye",          "word": "染 [rǎn] | 染色 [rǎnsè]" }
+  ]
+}
