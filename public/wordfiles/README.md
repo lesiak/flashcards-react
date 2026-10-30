@@ -23,14 +23,15 @@ it, and a section or course with no decks for a language is not shown.
 ```
 
 A course that makes sense for only some languages lists them in `languages`,
-e.g. the Chinese `hanzi` course of characters ordered from the easiest to
-write. Other languages never load it, and `decks:check` fails if a language
+e.g. the Chinese `tuttle-hanzi-hsk-level-a` course of characters, which
+follows the chapters of a Tuttle textbook. Other languages never load it, and `decks:check` fails if a language
 not listed has a folder of decks for it. A course without `languages` is open
 to every language that has decks for it.
 
 ```json
-{ "id": "hanzi", "name": "Characters", "languages": ["zh"], "sections": [
-  { "name": "Characters", "decks": ["OneTwoStrokes", "ThreeStrokes"] }
+{ "id": "tuttle-hanzi-hsk-level-a", "name": "Tuttle Chinese Characters: HSK Level A",
+  "languages": ["zh"], "sections": [
+  { "name": "Tuttle Chinese Characters: HSK Level A", "decks": ["Chapter1"] }
 ] }
 ```
 

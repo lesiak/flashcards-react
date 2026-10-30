@@ -1,0 +1,28 @@
+{
+  "name": "Chapter 1",
+  "description": "Chapter 1",
+  "cards": [
+    { "en": "one",     "word": "一", "romanization": "yī" },
+    { "en": "two",     "word": "二", "romanization": "èr" },
+    { "en": "three",   "word": "三", "romanization": "sān" },
+    { "en": "ten",     "word": "十", "romanization": "shí" },
+    { "en": "mouth",   "word": "口", "romanization": "kǒu" },
+    { "en": "sun",     "word": "日", "romanization": "rì" },
+    { "en": "several", "word": "几", "romanization": "jǐ",
+      "note": "Also asks about a small number: 几个人? = how many people?" },
+    { "en": "also",    "word": "也", "romanization": "yě" },
+    { "en": "not",     "word": "不", "romanization": "bù" },
+    { "en": "tree",    "word": "木", "romanization": "mù" },
+    { "en": "machine", "word": "机", "romanization": "jī",
+      "note": "Mostly used in words: 机器 = machine, 飞机 = aeroplane, 手机 = mobile phone." },
+    { "en": "cup",     "word": "杯", "romanization": "bēi",
+      "note": "On its own a cup is usually 杯子; 杯 is also the measure word: 一杯茶 = a cup of tea." },
+    { "en": "person",  "word": "人", "romanization": "rén" },
+    { "en": "he",      "word": "他", "romanization": "tā",
+      "note": "他 and 她 sound the same; only the written form shows he or she." },
+    { "en": "power",   "word": "力", "romanization": "lì" },
+    { "en": "woman",   "word": "女", "romanization": "nǚ" },
+    { "en": "she",     "word": "她", "romanization": "tā",
+      "note": "The woman radical 女 on the left marks she; 他 with 人 is he." }
+  ]
+}
