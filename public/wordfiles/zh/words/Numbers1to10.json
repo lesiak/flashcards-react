@@ -3,16 +3,16 @@
   "description": "Numbers 1–10",
   "image": "https://images.unsplash.com/photo-1624117987059-f1b8c83edfaa",
   "cards": [
-    { "en": "one",   "word": "一 [yī]" },
-    { "en": "two",   "word": "二 [èr] | 两 [liǎng]",
+    { "en": "one",   "word": "一", "romanization": "yī" },
+    { "en": "two",   "word": "二 | 两", "romanization": "èr | liǎng",
       "note": "两 is used before a measure word: 两个人 = two people. 二 is for counting and in numbers: 十二 = twelve." },
-    { "en": "three", "word": "三 [sān]" },
-    { "en": "four",  "word": "四 [sì]" },
-    { "en": "five",  "word": "五 [wǔ]" },
-    { "en": "six",   "word": "六 [liù]" },
-    { "en": "seven", "word": "七 [qī]" },
-    { "en": "eight", "word": "八 [bā]" },
-    { "en": "nine",  "word": "九 [jiǔ]" },
-    { "en": "ten",   "word": "十 [shí]" }
+    { "en": "three", "word": "三", "romanization": "sān" },
+    { "en": "four",  "word": "四", "romanization": "sì" },
+    { "en": "five",  "word": "五", "romanization": "wǔ" },
+    { "en": "six",   "word": "六", "romanization": "liù" },
+    { "en": "seven", "word": "七", "romanization": "qī" },
+    { "en": "eight", "word": "八", "romanization": "bā" },
+    { "en": "nine",  "word": "九", "romanization": "jiǔ" },
+    { "en": "ten",   "word": "十", "romanization": "shí" }
   ]
 }

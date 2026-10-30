@@ -84,6 +84,17 @@ A deck file:
 - `en` is the prompt. British English for sentences.
 - `word` is the answer in the target language. It is displayed as written and
   is also what gets voiced, following the marks below.
+- `romanization` is optional: how a word in a non-Latin script reads in Latin
+  letters, pinyin with tone marks for Chinese, a simple transliteration for
+  Hebrew (`kh` for ח and כ, `'` between vowels or after a glottal stop). It
+  has one part per `|` alternative of `word`, in the same order, and no
+  brackets; the app shows each part under its alternative, in a smaller,
+  lighter font, and never voices it. Keep the reading out of `word`: square
+  brackets are for glosses such as `[informal]`.
+
+  ```json
+  { "en": "two", "word": "二 | 两", "romanization": "èr | liǎng" }
+  ```
 - `note` is optional: a short usage remark shown under the answer once it is
   revealed, never voiced. Use it for nuances such as ser vs estar or a
   register difference. Add one only when a learner would otherwise be puzzled.

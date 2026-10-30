@@ -13,10 +13,13 @@
  *   - Every deck file sits in a listed course folder and is itself listed, except
  *     "toDrop", which is kept on disk only while its cards are sorted out.
  *   - A deck has a name, a description, an optional image URL and at least
- *     one card; a card has "en" and "word" and optionally "note", nothing else.
+ *     one card; a card has "en" and "word" and optionally "romanization" and
+ *     "note", nothing else.
  *   - "en" is unique within a deck, has no surrounding whitespace and is not
  *     empty. "word" has no surrounding or doubled whitespace, balanced and
  *     unnested brackets, and no empty alternative around "|".
+ *   - "romanization" has one non-empty part per "|" alternative of "word" and
+ *     no brackets, which belong in "word".
  *   - Two alternatives in one language group never collapse to the same clip
  *     file name, since the audio script refuses such a group.
  *   - A words deck has at most MAX_CARDS cards (the course decks are imported
@@ -50,7 +53,7 @@ const UNLISTED_DECKS = new Set(['toDrop']);
 /** Largest deck per group; a group not named here uses "default". */
 const MAX_CARDS: Record<string, number> = { default: 100, a1: 200 };
 
-const CARD_KEYS = new Set(['en', 'word', 'note']);
+const CARD_KEYS = new Set(['en', 'word', 'romanization', 'note']);
 
 // ---------------------------------------------------------------- reporting
 
@@ -171,6 +174,23 @@ interface CardStats {
   untranslated: number;
 }
 
+function checkRomanization(at: string, label: string, word: string, romanization: unknown): void {
+  if (typeof romanization !== 'string' || romanization.trim().length === 0) {
+    error(at, '"romanization" must be a non-empty string when present');
+    return;
+  }
+  const parts = romanization.split('|');
+  const alternatives = word.split('|').length;
+  if (parts.length !== alternatives) {
+    error(at, `"romanization" has ${parts.length} part(s) for ${alternatives} alternative(s) in ${label}`);
+  }
+  if (parts.some((part) => part.trim().length === 0)) error(at, `empty part around "|" in romanization of ${label}`);
+  if (/[()[\]]/.test(romanization)) error(at, `brackets in romanization of ${label}; they belong in "word"`);
+  if (romanization !== romanization.trim() || /\s{2,}/.test(romanization)) {
+    error(at, `"romanization" has surrounding or doubled whitespace in ${label}`);
+  }
+}
+
 function checkDeck(path: string, where: string, group: string, clipNames: ClipNames, stats: CardStats): void {
   const raw = readJson(path, where);
   if (raw === undefined) return;
@@ -203,7 +223,7 @@ function checkDeck(path: string, where: string, group: string, clipNames: ClipNa
     for (const key of Object.keys(card)) {
       if (!CARD_KEYS.has(key)) error(at, `unknown field "${key}"`);
     }
-    const { en, word, note } = card;
+    const { en, word, romanization, note } = card;
     if (typeof en !== 'string' || en.trim().length === 0) {
       error(at, '"en" must be a non-empty string');
     } else {
@@ -229,6 +249,7 @@ function checkDeck(path: string, where: string, group: string, clipNames: ClipNa
     const problem = bracketProblem(word);
     if (problem) error(at, `${problem} in ${label}`);
     if (word.split('|').some((alt) => alt.trim().length === 0)) error(at, `empty alternative around "|" in ${label}`);
+    if (romanization !== undefined) checkRomanization(at, label, word, romanization);
     if (problem) return;
     for (const text of deriveVoicedTexts(word)) {
       let file: string;

@@ -13,6 +13,7 @@ import {ChevronLeftRegular, ChevronRightRegular, Speaker2Regular} from '@fluentu
 import {useAudioManifest} from './service/AudioManifestLoader.ts';
 import {findPronunciations, playPronunciation} from './service/Pronunciation.ts';
 import {AudioManifestEntry} from './model/AudioManifest.ts';
+import {Answer} from './Answer.tsx';
 
 // Stable empty list so effects depending on it do not re-run every render.
 const NO_PRONUNCIATIONS: AudioManifestEntry[] = [];
@@ -187,7 +188,7 @@ export const LessonPage: React.FC<LessonPageProps> = ({currentLanguage, lesson, 
           <p className={answerClass}
              dir={currentLanguage.rtl ? 'rtl' : undefined}
              aria-hidden={!showAnswer}>
-            {card.word}
+            <Answer card={card}/>
           </p>
 
           {showAnswer && pronunciations.length > 0 &&

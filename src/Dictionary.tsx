@@ -16,6 +16,7 @@ import {LanguageInfo} from './model/LanguageInfo';
 import {AudioManifestEntry} from './model/AudioManifest.ts';
 import {useMergedAudioClips} from './service/AudioManifestLoader.ts';
 import {findPronunciations, playPronunciation} from './service/Pronunciation.ts';
+import {Answer} from './Answer.tsx';
 
 
 type DictionaryTableProps = {
@@ -32,6 +33,9 @@ const useStyles = makeStyles({
     columnGap: tokens.spacingHorizontalXS,
   },
 });
+
+/** Lower case without accents or tone marks, so "hai" finds "hǎi". */
+const fold = (text: string) => text.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 
 function deduplicateByProperty<T, K>(elements: T[], getProperty: (element: T) => K): T[] {
   return elements.reduce((acc: T[], current: T) => {
@@ -73,7 +77,8 @@ export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards
   const clips = useMergedAudioClips(currentLanguage.code, groups);
 
   const filteredCards = deduplicateByProperty(cards, card => card.en)
-    .filter(card => card.en.includes(searchTerm) || card.word.includes(searchTerm))
+    .filter(card => card.en.includes(searchTerm) || card.word.includes(searchTerm)
+      || (card.romanization !== undefined && fold(card.romanization).includes(fold(searchTerm))))
     .sort((c1, c2) => c1.en.localeCompare(c2.en));
 
   return (
@@ -99,7 +104,7 @@ export const Dictionary: React.FunctionComponent<DictionaryTableProps> = ({cards
               <TableCell>{card.en}</TableCell>
               <TableCell className={currentLanguage.code === 'he' ? 'hebrewFont' : undefined}
                          dir={currentLanguage.rtl ? 'rtl' : undefined}>
-                {card.word}
+                <Answer card={card}/>
               </TableCell>
               <TableCell>
                 <PronunciationButtons pronunciations={findPronunciations(clips, card.word)}/>
