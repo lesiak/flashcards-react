@@ -1,0 +1,27 @@
+{
+  "name": "3 strokes",
+  "description": "Characters written with 3 strokes",
+  "cards": [
+    { "en": "three",        "word": "三 [sān]" },
+    { "en": "up",           "word": "上 [shàng]" },
+    { "en": "down",         "word": "下 [xià]" },
+    { "en": "big",          "word": "大 [dà]" },
+    { "en": "small",        "word": "小 [xiǎo]" },
+    { "en": "mouth",        "word": "口 [kǒu]" },
+    { "en": "mountain",     "word": "山 [shān]" },
+    { "en": "woman",        "word": "女 [nǚ]" },
+    { "en": "child",        "word": "子 [zǐ]" },
+    { "en": "door",         "word": "门 [mén]" },
+    { "en": "earth",        "word": "土 [tǔ]" },
+    { "en": "work",         "word": "工 [gōng]" },
+    { "en": "thousand",     "word": "千 [qiān]" },
+    { "en": "ten thousand", "word": "万 [wàn]" },
+    { "en": "river",        "word": "川 [chuān]" },
+    { "en": "horse",        "word": "马 [mǎ]" },
+    { "en": "to fly",       "word": "飞 [fēi]" },
+    { "en": "also",         "word": "也 [yě]" },
+    { "en": "wide",         "word": "广 [guǎng]" },
+    { "en": "oneself",      "word": "己 [jǐ]" },
+    { "en": "evening",      "word": "夕 [xī]" }
+  ]
+}

@@ -22,6 +22,18 @@ it, and a section or course with no decks for a language is not shown.
 }
 ```
 
+A course that makes sense for only some languages lists them in `languages`,
+e.g. the Chinese `hanzi` course of characters ordered from the easiest to
+write. Other languages never load it, and `decks:check` fails if a language
+not listed has a folder of decks for it. A course without `languages` is open
+to every language that has decks for it.
+
+```json
+{ "id": "hanzi", "name": "Characters", "languages": ["zh"], "sections": [
+  { "name": "Characters", "decks": ["OneTwoStrokes", "ThreeStrokes"] }
+] }
+```
+
 Sections live only in `Lessons.json`. The files stay in the course folder
 and the audio is stored and keyed per course folder, so moving a deck to
 another section, reordering decks or moving a word between decks of one

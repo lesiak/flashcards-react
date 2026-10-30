@@ -41,6 +41,15 @@
         { "name": "A1 Level",
           "decks": ["A1_Level_Part1", "A1_Level_Part2", "A1_Level_Part3"] }
       ]
+    },
+    {
+      "id": "hanzi",
+      "name": "Characters",
+      "languages": ["zh"],
+      "sections": [
+        { "name": "Characters",
+          "decks": ["OneTwoStrokes", "ThreeStrokes", "FourStrokes", "FiveStrokes"] }
+      ]
     }
   ]
 }

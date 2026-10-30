@@ -8,6 +8,8 @@
  *   - Lessons.json: every course has an id, a name and sections, each with a
  *     name and deck names, no duplicates within a course; every listed deck
  *     exists for at least one language.
+ *   - A course's optional "languages" is a non-empty list of language codes,
+ *     and only those languages have a folder of decks for it.
  *   - Every deck file sits in a listed course folder and is itself listed, except
  *     "toDrop", which is kept on disk only while its cards are sorted out.
  *   - A deck has a name, a description, an optional image URL and at least
@@ -33,7 +35,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { audioFileName, deriveVoicedTexts } from '../src/service/AudioNaming.ts';
 import type { Lesson } from '../src/model/Lesson.ts';
-import type { DeckIndex } from '../src/service/DeckLoader.ts';
+import { courseIsFor, type DeckIndex } from '../src/service/DeckLoader.ts';
 
 // ---------------------------------------------------------------- settings
 
@@ -124,6 +126,11 @@ function loadIndex(): DeckIndex | undefined {
     if (courseIds.has(course.id)) error(where, `course "${course.id}" is listed twice`);
     courseIds.add(course.id);
     if (course.sections.length === 0) error(where, `course "${course.id}" has no sections`);
+    if (course.languages !== undefined && (!Array.isArray(course.languages) || course.languages.length === 0
+        || course.languages.some((lang) => typeof lang !== 'string' || lang.length === 0))) {
+      error(where, `course "${course.id}" "languages" must be a non-empty array of language codes`);
+      return undefined;
+    }
     const sectionNames = new Set<string>();
     const deckNames = new Set<string>();
     for (const [j, section] of course.sections.entries()) {
@@ -273,6 +280,10 @@ function main(): void {
       if (!listed) {
         if (names.length > 0) error(`${lang}/${group}`, `folder is not a course in ${INDEX_FILE}`);
         continue;
+      }
+      const course = index.courses.find((c) => c.id === group)!;
+      if (names.length > 0 && !courseIsFor(course, lang)) {
+        error(`${lang}/${group}`, `course "${group}" is only for ${course.languages!.join(', ')} in ${INDEX_FILE}`);
       }
       const clipNames: ClipNames = new Map();
       const stats: CardStats = {cards: 0, untranslated: 0};

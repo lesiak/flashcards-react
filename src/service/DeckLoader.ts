@@ -10,6 +10,11 @@ export interface CourseIndex {
   id: string;
   /** Name shown when choosing a course. */
   name: string;
+  /**
+   * Language codes the course is for, e.g. ["zh"] for a course on Chinese
+   * characters. Missing means every language that has decks for it.
+   */
+  languages?: string[];
   sections: SectionIndex[];
 }
 
@@ -60,13 +65,17 @@ async function loadSection(lang: string, course: CourseIndex, section: SectionIn
   return {name: section.name, lessons: maybeLessons.filter((l): l is Lesson => l !== null)};
 }
 
+export const courseIsFor = (course: CourseIndex, lang: string): boolean =>
+  course.languages === undefined || course.languages.includes(lang);
+
 /**
- * Loads every deck the index lists for `lang`. A deck the language has no
- * file for is skipped, a section left with no decks is dropped, and so is a
- * course left with no sections.
+ * Loads every deck the index lists for `lang`. A course meant for other
+ * languages is not fetched at all. A deck the language has no file for is
+ * skipped, a section left with no decks is dropped, and so is a course left
+ * with no sections.
  */
 export async function loadCourses(lang: string, index: DeckIndex): Promise<Course[]> {
-  const courses = await Promise.all(index.courses.map(async (course) => {
+  const courses = await Promise.all(index.courses.filter((course) => courseIsFor(course, lang)).map(async (course) => {
     const sections = await Promise.all(course.sections.map((section) => loadSection(lang, course, section)));
     return {id: course.id, name: course.name, sections: sections.filter((s) => s.lessons.length > 0)};
   }));

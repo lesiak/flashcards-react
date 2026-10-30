@@ -1,0 +1,22 @@
+{
+  "name": "1–2 strokes",
+  "description": "Characters written with 1–2 strokes",
+  "cards": [
+    { "en": "one",       "word": "一 [yī]" },
+    { "en": "two",       "word": "二 [èr]" },
+    { "en": "ten",       "word": "十 [shí]" },
+    { "en": "seven",     "word": "七 [qī]" },
+    { "en": "eight",     "word": "八 [bā]" },
+    { "en": "nine",      "word": "九 [jiǔ]" },
+    { "en": "person",    "word": "人 [rén]" },
+    { "en": "to enter",  "word": "入 [rù]" },
+    { "en": "strength",  "word": "力 [lì]" },
+    { "en": "knife",     "word": "刀 [dāo]" },
+    { "en": "how many?", "word": "几 [jǐ]",
+      "note": "Asks about a small number: 几个人? = how many people?" },
+    { "en": "again",     "word": "又 [yòu]",
+      "note": "For something that already happened again; 再 [zài] is for again in the future." },
+    { "en": "son",       "word": "儿 [ér]" },
+    { "en": "factory",   "word": "厂 [chǎng]" }
+  ]
+}
