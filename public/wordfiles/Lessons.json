@@ -43,12 +43,12 @@
       ]
     },
     {
-      "id": "hanzi",
-      "name": "Characters",
+      "id": "tuttle-hanzi-hsk-level-a",
+      "name": "Tuttle Chinese Characters: HSK Level A",
       "languages": ["zh"],
       "sections": [
-        { "name": "Characters",
-          "decks": ["OneTwoStrokes", "ThreeStrokes", "FourStrokes", "FiveStrokes"] }
+        { "name": "Tuttle Chinese Characters: HSK Level A",
+          "decks": ["Chapter1"] }
       ]
     }
   ]
