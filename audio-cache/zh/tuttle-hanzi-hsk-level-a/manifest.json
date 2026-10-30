@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "lang": "zh",
+  "group": "tuttle-hanzi-hsk-level-a",
+  "voice": {
+    "voiceId": "bhJUNIXWQQ94l8eI2VUf",
+    "modelId": "eleven_v4",
+    "outputFormat": "mp3_44100_128"
+  },
+  "clips": {
+    "一": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/一.mp3",
+    "二": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/二.mp3",
+    "三": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/三.mp3",
+    "十": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/十.mp3",
+    "口": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/口.mp3",
+    "日": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/日.mp3",
+    "几": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/几.mp3",
+    "也": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/也.mp3",
+    "不": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/不.mp3",
+    "木": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/木.mp3",
+    "机": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/机.mp3",
+    "杯": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/杯.mp3",
+    "人": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/人.mp3",
+    "他": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/他.mp3",
+    "力": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/力.mp3",
+    "女": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/女.mp3",
+    "她": "zh/tuttle-hanzi-hsk-level-a/bhJUNIXWQQ94l8eI2VUf/她.mp3"
+  }
+}
