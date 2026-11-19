@@ -11,7 +11,7 @@
   font-family: 'Noto Sans Hebrew', sans-serif;
 }
 
-/* --app-page, --app-accent and --app-glow are set from appTheme in main.tsx. */
+/* --app-page, --app-accent and --app-glow are set by ThemeContextProvider. */
 body {
   background-color: var(--app-page, #ffffff);
 }

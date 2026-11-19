@@ -1,17 +1,20 @@
-import {BrandVariants, createLightTheme, Theme} from '@fluentui/react-components';
+import {BrandVariants, createLightTheme, teamsLightTheme, Theme} from '@fluentui/react-components';
 
 /**
- * The app's colours: Harbour, combination 151 of Sanzo Wada's "A Dictionary
- * of Color Combinations" (colors.bible): Sulpher Yellow, Yellow Orange and
- * Vandar Poel's Blue.
+ * A colour scheme for the whole app. The Wada schemes come from Sanzo Wada's
+ * "A Dictionary of Color Combinations" (colors.bible), by combination number.
  */
 export interface AppTheme {
+  id: string;
+  name: string;
   /** Page background behind the cards. */
   page: string;
   /** Hover glow, selected tab, title of a hovered card. */
   accent: string;
-  /** Opacity of the hover glow in percent; the dark blue needs a strong one to show. */
-  glow: number;
+  /** Opacity of the hover glow in percent; a dark accent needs more to show. Default 35. */
+  glow?: number;
+  /** Colours shown in the chooser, the combination as Wada printed it. */
+  swatches: string[];
   fluent: Theme;
 }
 
@@ -31,19 +34,65 @@ function brandRamp(accent: string): BrandVariants {
   return ramp as BrandVariants;
 }
 
-const page = '#faf6e2';
-const accent = '#064f6e';
-const ink = '#0b3548';
-const muted = '#47606b';
+/**
+ * A Wada scheme: a light Fluent theme in the accent, with the text in the ink
+ * and the subtle fills (e.g. the card placeholder) tinted from the page colour.
+ */
+function wada(id: string, name: string, swatches: string[],
+              colours: {page: string, accent: string, ink: string, muted: string, glow?: number}): AppTheme {
+  const {page, accent, ink, muted, glow} = colours;
+  return {
+    id, name, page, accent, glow, swatches,
+    fluent: {
+      ...createLightTheme(brandRamp(accent)),
+      colorNeutralForeground1: ink,
+      colorNeutralForeground2: muted,
+      colorNeutralForeground3: muted,
+      colorNeutralBackground3: mix(page, ink, 0.06),
+    },
+  };
+}
 
-/** A light Fluent theme in the accent, with the text in the ink and the subtle fills (e.g. the card placeholder) tinted from the page. */
-export const appTheme: AppTheme = {
-  page, accent, glow: 65,
-  fluent: {
-    ...createLightTheme(brandRamp(accent)),
-    colorNeutralForeground1: ink,
-    colorNeutralForeground2: muted,
-    colorNeutralForeground3: muted,
-    colorNeutralBackground3: mix(page, ink, 0.06),
+// Wada 151: Sulpher Yellow, Yellow Orange, Vandar Poel's Blue.
+const harbour = wada('harbour', 'Harbour · Wada 151', ['#f5ecc2', '#f99d1b', '#064f6e'],
+  {page: '#faf6e2', accent: '#064f6e', ink: '#0b3548', muted: '#47606b', glow: 65});
+
+export const appThemes: AppTheme[] = [
+  {
+    id: 'default', name: 'Default',
+    page: '#ffffff', accent: '#646cff', swatches: ['#6264a7', '#646cff'],
+    fluent: teamsLightTheme,
   },
-};
+  // Wada 325: Eugenia Red, Naples Yellow, Yellow Ocher, Deep Slate Green.
+  wada('book', 'Book · Wada 325', ['#da525d', '#fbe6a0', '#e2b540', '#112f2c'],
+    {page: '#fdf7e4', accent: '#da525d', ink: '#112f2c', muted: '#4d5e5a'}),
+  harbour,
+  // Wada 343: Burnt Sienna, Ivory Buff, Deep Grayish Olive, Vandar Poel's Blue.
+  wada('earth', 'Earth · Wada 343', ['#ae5224', '#ebd3a2', '#635a3a', '#064f6e'],
+    {page: '#f8f0de', accent: '#ae5224', ink: '#0b3a50', muted: '#635a3a'}),
+  // Wada 321: Light Brown Drab, Sulpher Yellow, Deep Slate Olive, Salvia Blue (darkened to read as text).
+  wada('quiet', 'Quiet · Wada 321', ['#b59392', '#f5ecc2', '#253122', '#97acc8'],
+    {page: '#f9f5e4', accent: '#5f7aa0', ink: '#253122', muted: '#5a6457'}),
+];
+
+/** The scheme the app starts with: Harbour, not inverted. */
+export const defaultTheme: AppTheme = harbour;
+
+/**
+ * The theme with page and cards swapped: a white page, and the scheme's page
+ * colour on the cards and other surfaces. A white-page theme stays as it is.
+ */
+export function invert(theme: AppTheme): AppTheme {
+  const ink = theme.fluent.colorNeutralForeground1;
+  return {
+    ...theme,
+    page: '#ffffff',
+    fluent: {
+      ...theme.fluent,
+      colorNeutralBackground1: theme.page,
+      colorNeutralBackground1Hover: mix(theme.page, ink, 0.03),
+      colorNeutralBackground1Pressed: mix(theme.page, ink, 0.05),
+      colorNeutralBackground1Selected: mix(theme.page, ink, 0.05),
+    },
+  };
+}

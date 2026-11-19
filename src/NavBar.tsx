@@ -1,9 +1,9 @@
 import React, {useContext} from 'react';
 import {
-  Avatar, Image,
+  Avatar, Button, Image,
   makeStyles,
   Menu, MenuDivider, MenuGroupHeader, MenuItem,
-  MenuItemLink,
+  MenuItemCheckbox, MenuItemLink, MenuItemRadio,
   MenuList,
   MenuPopover,
   MenuTrigger,
@@ -14,8 +14,10 @@ import {
   TabValue
 } from '@fluentui/react-components';
 
-import {PersonRegular} from '@fluentui/react-icons';
+import {PaintBrushRegular, PersonRegular} from '@fluentui/react-icons';
 import {LanguageContext} from './context/LanguageContext.tsx';
+import {ThemeContext} from './context/ThemeContext.tsx';
+import {appThemes} from './model/AppTheme.ts';
 import {LanguageInfo, appLangGroups} from './model/LanguageInfo.ts';
 
 type NavBarProps = {
@@ -39,8 +41,51 @@ const useStyles = makeStyles({
   },
   circularImg: {
     objectFit: 'cover'
-  }
+  },
+  swatches: {
+    display: 'flex',
+    width: '48px',
+    height: '16px',
+    borderRadius: '3px',
+    overflow: 'hidden',
+    boxShadow: '0 0 0 1px rgba(0, 0, 0, 0.12)',
+  },
+  swatch: {
+    flexGrow: 1,
+  },
 });
+
+/** Picks the colour scheme for this session; the menu shows each scheme's colours. */
+const ThemeMenu: React.FC = () => {
+  const {currentTheme, setCurrentTheme, inverted, setInverted} = useContext(ThemeContext);
+  const styles = useStyles();
+  return <Menu checkedValues={{theme: [currentTheme.id], layout: inverted ? ['inverted'] : []}}
+               onCheckedValueChange={(_, {name, checkedItems}) => {
+                 if (name === 'layout') {
+                   setInverted(checkedItems.includes('inverted'));
+                 } else {
+                   setCurrentTheme(appThemes.find((t) => t.id === checkedItems[0]) ?? currentTheme);
+                 }
+               }}>
+    <MenuTrigger disableButtonEnhancement>
+      <Button appearance="subtle" shape="circular" icon={<PaintBrushRegular/>} aria-label="Colour scheme"/>
+    </MenuTrigger>
+    <MenuPopover>
+      <MenuList>
+        <MenuGroupHeader>Colour scheme</MenuGroupHeader>
+        {appThemes.map((theme) =>
+          <MenuItemRadio key={theme.id} name="theme" value={theme.id}
+                         secondaryContent={<span className={styles.swatches}>
+                           {theme.swatches.map((c) => <span key={c} className={styles.swatch} style={{backgroundColor: c}}/>)}
+                         </span>}>
+            {theme.name}
+          </MenuItemRadio>)}
+        <MenuDivider/>
+        <MenuItemCheckbox name="layout" value="inverted">Inverted: white page, tinted cards</MenuItemCheckbox>
+      </MenuList>
+    </MenuPopover>
+  </Menu>
+}
 
 const ChangeLanguageMenuItem: React.FC<{lang: LanguageInfo,
   onLangClicked: (lang: LanguageInfo) => void}> = ({lang, onLangClicked}) => {
@@ -62,6 +107,8 @@ export const NavBar: React.FC<NavBarProps> = ({selectedTab, onTabSelect}) => {
     </TabList>
 
     <div className={styles.rightIcons}>
+      <ThemeMenu/>
+
       <Menu>
         <MenuTrigger disableButtonEnhancement>
           <Avatar icon={<PersonRegular/>} aria-label="Group"/>
