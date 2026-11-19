@@ -36,7 +36,7 @@ export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
             <b>{lesson.name}</b>
           </Body1>
         }
-        description={<Caption1>Card description</Caption1>}
+        description={<Caption1>{lesson.cards.length} {lesson.cards.length === 1 ? 'word' : 'words'}</Caption1>}
       />
 
       <CardPreview>
@@ -48,6 +48,7 @@ export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
         {!lesson.image && <div>{lesson.name}</div>}
       </CardPreview>
 
+      {/* Placeholder for the deck's study progress. */}
       <CardFooter>
         Status
       </CardFooter>
