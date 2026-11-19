@@ -1,6 +1,7 @@
 {
   "name": "Chapter 2",
   "description": "Chapter 2",
+  "image": "/images/covers/tuttle-hanzi-hsk-level-a.svg",
   "cards": [
     { "en": "child",                "word": "子", "romanization": "zǐ",
       "note": "As the ending of a word it is toneless zi: 杯子 [bēizi] = cup." },

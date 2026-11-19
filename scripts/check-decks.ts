@@ -10,9 +10,11 @@
  *     exists for at least one language.
  *   - A course's optional "languages" is a non-empty list of language codes,
  *     and only those languages have a folder of decks for it.
+ *   - A deck "image" is empty, an http(s) URL or a path
+ *     starting with "/" to a file that exists under public.
  *   - Every deck file sits in a listed course folder and is itself listed, except
  *     "toDrop", which is kept on disk only while its cards are sorted out.
- *   - A deck has a name, a description, an optional image URL and at least
+ *   - A deck has a name, a description, an optional image and at least
  *     one card; a card has "en" and "word" and optionally "romanization" and
  *     "note", nothing else.
  *   - "en" is unique within a deck, has no surrounding whitespace and is not
@@ -43,7 +45,8 @@ import { courseIsFor, type DeckIndex } from '../src/service/DeckLoader.ts';
 // ---------------------------------------------------------------- settings
 
 const REPO_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const WORDFILES = join(REPO_ROOT, 'public', 'wordfiles');
+const PUBLIC = join(REPO_ROOT, 'public');
+const WORDFILES = join(PUBLIC, 'wordfiles');
 const AUDIO_ROOT = join(REPO_ROOT, 'audio-cache');
 const INDEX_FILE = 'Lessons.json';
 
@@ -83,6 +86,16 @@ function readJson(path: string, where: string): unknown {
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value);
+}
+
+/** A deck "image": missing, empty, an http(s) URL, or "/path" to a file under public. */
+function checkImage(where: string, image: unknown): void {
+  if (image === undefined || image === '' || (typeof image === 'string' && /^https?:\/\//.test(image))) return;
+  if (typeof image !== 'string' || !image.startsWith('/')) {
+    error(where, '"image" must be an http(s) URL, a "/path" under public or empty');
+  } else if (!existsSync(join(PUBLIC, image))) {
+    error(where, `"image" ${image} is not a file under public`);
+  }
 }
 
 function subdirs(dir: string): string[] {
@@ -201,9 +214,7 @@ function checkDeck(path: string, where: string, group: string, clipNames: ClipNa
   const deck = raw as Partial<Lesson> & Record<string, unknown>;
   if (typeof deck.name !== 'string' || deck.name.trim().length === 0) error(where, '"name" must be a non-empty string');
   if (typeof deck.description !== 'string') error(where, '"description" must be a string');
-  if (deck.image !== undefined && (typeof deck.image !== 'string' || (deck.image.length > 0 && !/^https?:\/\//.test(deck.image)))) {
-    error(where, '"image" must be an http(s) URL or empty');
-  }
+  checkImage(where, deck.image);
   if (!Array.isArray(deck.cards)) {
     error(where, '"cards" must be an array');
     return;
