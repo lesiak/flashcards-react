@@ -11,13 +11,23 @@
   font-family: 'Noto Sans Hebrew', sans-serif;
 }
 
-.lesson-card {
-
-  will-change: filter;
-  transition: filter 300ms;
+/* --app-page, --app-accent and --app-glow are set from appTheme in main.tsx. */
+body {
+  background-color: var(--app-page, #ffffff);
 }
-.lesson-card:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+
+/* On hover a card lifts and glows softly in the theme's accent, and its title takes the accent. */
+.lesson-card > * {
+  transition: transform 200ms, box-shadow 200ms;
+}
+.lesson-card:hover > * {
+  transform: translateY(-3px);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--app-accent) 25%, transparent),
+    0 6px 28px 4px color-mix(in srgb, var(--app-accent) var(--app-glow, 35%), transparent);
+}
+.lesson-card:hover b {
+  color: var(--app-accent);
 }
 
 .logo {
