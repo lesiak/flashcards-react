@@ -16,8 +16,9 @@ const useStyles = makeStyles({
     alignItems: 'center',
   },
   romanization: {
-    // Sized relative to the word so it stays discreet both on the card and in the dictionary.
-    fontSize: '0.6em',
+    // Sized relative to the word so it stays discreet both on the card and in the dictionary,
+    // but capped so a very large word on the card does not get a headline-sized reading.
+    fontSize: 'min(0.6em, 1.75rem)',
     lineHeight: 1.4,
     fontFamily: tokens.fontFamilyBase,
     fontWeight: tokens.fontWeightRegular,
@@ -29,15 +30,16 @@ const useStyles = makeStyles({
 });
 
 /**
- * A card's word as written. When the card has a romanization, each "|"
- * alternative is shown with its own reading under it.
+ * A card's word as written, each "|" alternative kept together so a long
+ * one wraps between alternatives, with a muted separator. When the card has
+ * a romanization, each alternative is shown with its own reading under it.
  */
 export const Answer: React.FC<{card: Card}> = ({card}) => {
   const styles = useStyles();
-  if (!card.romanization) {
+  if (!card.word.includes('|') && !card.romanization) {
     return <>{card.word}</>;
   }
-  const readings = card.romanization.split('|').map((r) => r.trim());
+  const readings = (card.romanization ?? '').split('|').map((r) => r.trim());
   return (
     <span className={styles.alternatives}>
       {card.word.split('|').map((alt, i) =>
