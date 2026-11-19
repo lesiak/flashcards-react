@@ -49,6 +49,7 @@ const Crumbs: React.FC<{crumbs: Crumb[]}> = ({crumbs}) => {
 };
 
 const deckCount = (sections: Section[]) => sections.reduce((n, s) => n + s.lessons.length, 0);
+const wordCount = (sections: Section[]) => sections.reduce((n, s) => n + s.lessons.reduce((m, l) => m + l.cards.length, 0), 0);
 const plural = (n: number, word: string) => `${n} ${word}${n === 1 ? '' : 's'}`;
 const firstImage = (lessons: Lesson[]) => lessons.find((l) => l.image)?.image;
 
@@ -102,7 +103,7 @@ export const HomePage: React.FC<HomePageProps> = ({courses}) => {
           {courses.map((c) =>
             <div key={c.id} className="lesson-card fl-span4">
               <IndexCard title={c.name}
-                         subtitle={plural(deckCount(c.sections), 'deck')}
+                         subtitle={`${plural(deckCount(c.sections), 'deck')}, ${plural(wordCount(c.sections), 'word')}`}
                          image={c.image || firstImage(c.sections.flatMap((s) => s.lessons))}
                          onClick={() => chooseCourse(c)}/>
             </div>)}
