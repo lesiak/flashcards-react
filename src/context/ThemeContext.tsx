@@ -20,7 +20,7 @@ export const ThemeContext = React.createContext<ThemeContextProps>({
 /**
  * Holds the colour scheme and whether it is inverted, for this session only:
  * a reload goes back to the default scheme. Wraps FluentProvider and hands the page colour and the accent to
- * plain CSS as --app-page, --app-accent and --app-glow.
+ * plain CSS as --app-page, --app-accent, --app-glow and --app-progress.
  */
 export const ThemeContextProvider: React.FC<PropsWithChildren> = (props) => {
   const [currentTheme, setCurrentTheme] = useState(defaultTheme);
@@ -31,6 +31,7 @@ export const ThemeContextProvider: React.FC<PropsWithChildren> = (props) => {
     root.setProperty('--app-page', shown.page);
     root.setProperty('--app-accent', shown.accent);
     root.setProperty('--app-glow', `${shown.glow ?? 35}%`);
+    root.setProperty('--app-progress', shown.progress);
   }, [shown]);
   return (
     <ThemeContext.Provider value={{currentTheme, setCurrentTheme, inverted, setInverted}}>

@@ -9,7 +9,9 @@ interface CardCoverProps {
 
 const useStyles = makeStyles({
   // Every cover takes the same box, so cards in a row line up whatever the image size.
+  // Block, so an image not placed straight in a CardPreview leaves no gap under it.
   cover: {
+    display: 'block',
     width: '100%',
     aspectRatio: '16 / 9',
   },
