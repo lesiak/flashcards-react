@@ -5,7 +5,6 @@ import {
 } from "@fluentui/react-components";
 import {
   Card,
-  CardFooter,
   CardHeader,
   CardPreview,
 } from "@fluentui/react-components";
@@ -38,16 +37,13 @@ export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
           </Body1>
         }
         description={<Caption1>{lesson.cards.length} {lesson.cards.length === 1 ? 'word' : 'words'}</Caption1>}
+        // Placeholder for the deck's study progress.
+        action={<Caption1>Status</Caption1>}
       />
 
       <CardPreview>
         <CardCover image={lesson.image} title={lesson.name}/>
       </CardPreview>
-
-      {/* Placeholder for the deck's study progress. */}
-      <CardFooter>
-        Status
-      </CardFooter>
     </Card>
   );
 };
