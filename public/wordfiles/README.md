@@ -30,10 +30,18 @@ to every language that has decks for it.
 
 ```json
 { "id": "tuttle-hanzi-hsk-level-a", "name": "Tuttle Chinese Characters: HSK Level A",
+  "image": "/images/covers/tuttle-hanzi-hsk-level-a.svg",
   "languages": ["zh"], "sections": [
   { "name": "Tuttle Chinese Characters: HSK Level A", "decks": ["Chapter1"] }
 ] }
 ```
+
+A course may have an `image`: the cover of its card, and the image of every
+deck in it that has no `image` of its own (or an empty one); a deck's own
+`image` overrides it. Without a course image the course card shows the first
+deck image it finds. An image is an http(s) URL or a path under `public`.
+A course that follows a book gets a cover drawn after the book's title as
+`public/images/covers/<course>.svg`; each book keeps its own style.
 
 Sections live only in `Lessons.json`. The files stay in the course folder
 and the audio is stored and keyed per course folder, so moving a deck to

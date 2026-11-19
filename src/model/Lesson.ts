@@ -26,5 +26,7 @@ export interface Section {
 export interface Course {
   id: string;
   name: string;
+  /** Cover of the course card; also the image of every deck that has none of its own. */
+  image?: string;
   sections: Section[];
 }

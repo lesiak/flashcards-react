@@ -10,7 +10,7 @@
  *     exists for at least one language.
  *   - A course's optional "languages" is a non-empty list of language codes,
  *     and only those languages have a folder of decks for it.
- *   - A deck "image" is empty, an http(s) URL or a path
+ *   - An "image", of a course or a deck, is empty, an http(s) URL or a path
  *     starting with "/" to a file that exists under public.
  *   - Every deck file sits in a listed course folder and is itself listed, except
  *     "toDrop", which is kept on disk only while its cards are sorted out.
@@ -88,7 +88,7 @@ function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value);
 }
 
-/** A deck "image": missing, empty, an http(s) URL, or "/path" to a file under public. */
+/** A course or deck "image": missing, empty, an http(s) URL, or "/path" to a file under public. */
 function checkImage(where: string, image: unknown): void {
   if (image === undefined || image === '' || (typeof image === 'string' && /^https?:\/\//.test(image))) return;
   if (typeof image !== 'string' || !image.startsWith('/')) {
@@ -142,6 +142,7 @@ function loadIndex(): DeckIndex | undefined {
     if (courseIds.has(course.id)) error(where, `course "${course.id}" is listed twice`);
     courseIds.add(course.id);
     if (course.sections.length === 0) error(where, `course "${course.id}" has no sections`);
+    checkImage(`${where} course "${course.id}"`, course.image);
     if (course.languages !== undefined && (!Array.isArray(course.languages) || course.languages.length === 0
         || course.languages.some((lang) => typeof lang !== 'string' || lang.length === 0))) {
       error(where, `course "${course.id}" "languages" must be a non-empty array of language codes`);

@@ -1,7 +1,6 @@
 {
   "name": "Chapter 3",
   "description": "Chapter 3",
-  "image": "/images/covers/tuttle-hanzi-hsk-level-a.svg",
   "cards": [
     { "en": "culture",                "word": "文", "romanization": "wén",
       "note": "Also writing or written language, as in 中文 and 日文." },

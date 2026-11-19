@@ -103,7 +103,7 @@ export const HomePage: React.FC<HomePageProps> = ({courses}) => {
             <div key={c.id} className="lesson-card fl-span4">
               <IndexCard title={c.name}
                          subtitle={plural(deckCount(c.sections), 'deck')}
-                         image={firstImage(c.sections.flatMap((s) => s.lessons))}
+                         image={c.image || firstImage(c.sections.flatMap((s) => s.lessons))}
                          onClick={() => chooseCourse(c)}/>
             </div>)}
         </div>

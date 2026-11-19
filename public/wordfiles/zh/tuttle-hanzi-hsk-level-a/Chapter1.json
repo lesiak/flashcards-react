@@ -1,7 +1,6 @@
 {
   "name": "Chapter 1",
   "description": "Chapter 1",
-  "image": "/images/covers/tuttle-hanzi-hsk-level-a.svg",
   "cards": [
     { "en": "one",     "word": "一", "romanization": "yī" },
     { "en": "two",     "word": "二", "romanization": "èr" },

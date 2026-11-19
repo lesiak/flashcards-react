@@ -11,6 +11,11 @@ export interface CourseIndex {
   /** Name shown when choosing a course. */
   name: string;
   /**
+   * Course cover: an http(s) URL or a path under public, e.g.
+   * "/images/covers/<course>.svg". A deck's own "image" overrides it.
+   */
+  image?: string;
+  /**
    * Language codes the course is for, e.g. ["zh"] for a course on Chinese
    * characters. Missing means every language that has decks for it.
    */
@@ -62,7 +67,12 @@ async function loadSection(lang: string, course: CourseIndex, section: SectionIn
       console.log(`Skipping deck ${course.id}/${deck} for ${lang}`, e);
       return null;
     })));
-  return {name: section.name, lessons: maybeLessons.filter((l): l is Lesson => l !== null)};
+  const lessons = maybeLessons.filter((l): l is Lesson => l !== null);
+  // A deck without an image of its own (missing or "") shows the course cover.
+  for (const lesson of lessons) {
+    lesson.image = lesson.image || course.image;
+  }
+  return {name: section.name, lessons};
 }
 
 export const courseIsFor = (course: CourseIndex, lang: string): boolean =>
@@ -77,7 +87,7 @@ export const courseIsFor = (course: CourseIndex, lang: string): boolean =>
 export async function loadCourses(lang: string, index: DeckIndex): Promise<Course[]> {
   const courses = await Promise.all(index.courses.filter((course) => courseIsFor(course, lang)).map(async (course) => {
     const sections = await Promise.all(course.sections.map((section) => loadSection(lang, course, section)));
-    return {id: course.id, name: course.name, sections: sections.filter((s) => s.lessons.length > 0)};
+    return {id: course.id, name: course.name, image: course.image, sections: sections.filter((s) => s.lessons.length > 0)};
   }));
   return courses.filter((c) => c.sections.length > 0);
 }

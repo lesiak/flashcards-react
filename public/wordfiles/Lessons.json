@@ -45,6 +45,7 @@
     {
       "id": "tuttle-hanzi-hsk-level-a",
       "name": "Tuttle Chinese Characters: HSK Level A",
+      "image": "/images/covers/tuttle-hanzi-hsk-level-a.svg",
       "languages": ["zh"],
       "sections": [
         { "name": "Tuttle Chinese Characters: HSK Level A",
