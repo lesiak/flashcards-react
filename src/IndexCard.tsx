@@ -1,5 +1,6 @@
-import {Body1, Caption1, Card, CardHeader, CardPreview, Image, makeStyles, tokens} from '@fluentui/react-components';
+import {Body1, Caption1, Card, CardHeader, CardPreview, makeStyles} from '@fluentui/react-components';
 import React from 'react';
+import {CardCover} from './CardCover.tsx';
 
 interface IndexCardProps {
   title: string;
@@ -14,15 +15,6 @@ const useStyles = makeStyles({
     width: '100%',
     cursor: 'pointer',
   },
-  placeholder: {
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    height: '120px',
-    backgroundColor: tokens.colorNeutralBackground3,
-    color: tokens.colorNeutralForeground3,
-    fontSize: tokens.fontSizeBase500,
-  },
 });
 
 /** A clickable tile for a course or a section; decks use LessonIndexCard. */
@@ -35,8 +27,7 @@ export const IndexCard: React.FC<IndexCardProps> = ({title, subtitle, image, onC
         description={subtitle && <Caption1>{subtitle}</Caption1>}
       />
       <CardPreview>
-        {image && <Image fit="cover" src={image + '?width=1920'} alt={title}/>}
-        {!image && <div className={styles.placeholder}>{title}</div>}
+        <CardCover image={image} title={title}/>
       </CardPreview>
     </Card>
   );

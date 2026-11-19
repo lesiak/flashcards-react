@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <rect width="1200" height="630" fill="#fff"/>
-  <rect x="1112" y="0" width="44" height="630" fill="#DE4B3E"/>
-  <rect x="64" y="95" width="1048" height="5" fill="#DE4B3E"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#fff"/>
+  <rect x="1112" y="0" width="44" height="675" fill="#DE4B3E"/>
+  <rect x="64" y="117" width="1048" height="5" fill="#DE4B3E"/>
   <g font-family="Didot, 'Bodoni 72', serif" font-size="140" fill="#1a1a1a">
-    <text x="64" y="228">LEARNING</text>
-    <text x="64" y="365" fill="#DE4B3E">CHINESE</text>
-    <text x="64" y="502">CHARACTERS</text>
+    <text x="64" y="250">LEARNING</text>
+    <text x="64" y="387" fill="#DE4B3E">CHINESE</text>
+    <text x="64" y="524">CHARACTERS</text>
   </g>
 </svg>

@@ -2,7 +2,6 @@ import {
   makeStyles,
   Body1,
   Caption1,
-  Image,
 } from "@fluentui/react-components";
 import {
   Card,
@@ -12,6 +11,7 @@ import {
 } from "@fluentui/react-components";
 import {Lesson} from './model/Lesson.ts';
 import React from 'react';
+import {CardCover} from './CardCover.tsx';
 
 interface LessonIndexCardProps {
   lesson: Lesson;
@@ -19,6 +19,7 @@ interface LessonIndexCardProps {
 
 const useStyles = makeStyles({
   card: {
+    width: '100%',
     //...shorthands.margin("10px", "auto"),
     //width: "720px",
     //maxWidth: "100%",
@@ -40,12 +41,7 @@ export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
       />
 
       <CardPreview>
-        {lesson.image && <Image
-            fit='cover'
-            src={lesson.image + "?width=1920"}
-            alt={lesson.description}
-        />}
-        {!lesson.image && <div>{lesson.name}</div>}
+        <CardCover image={lesson.image} title={lesson.name}/>
       </CardPreview>
 
       {/* Placeholder for the deck's study progress. */}
