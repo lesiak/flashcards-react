@@ -1,10 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <!-- The title keeps to the top: card titles are drawn over the bottom third. -->
   <rect width="1200" height="675" fill="#fff"/>
   <rect x="1112" y="0" width="44" height="675" fill="#DE4B3E"/>
-  <rect x="64" y="117" width="1048" height="5" fill="#DE4B3E"/>
-  <g font-family="Didot, 'Bodoni 72', serif" font-size="140" fill="#1a1a1a">
-    <text x="64" y="250">LEARNING</text>
-    <text x="64" y="387" fill="#DE4B3E">CHINESE</text>
-    <text x="64" y="524">CHARACTERS</text>
+  <rect x="64" y="70" width="1048" height="5" fill="#DE4B3E"/>
+  <g font-family="Didot, 'Bodoni 72', serif" font-size="100" fill="#1a1a1a">
+    <text x="64" y="165">LEARNING</text>
+    <text x="64" y="263" fill="#DE4B3E">CHINESE</text>
+    <text x="64" y="361">CHARACTERS</text>
   </g>
 </svg>

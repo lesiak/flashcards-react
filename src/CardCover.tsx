@@ -1,27 +1,22 @@
-import {Image, makeStyles, tokens} from '@fluentui/react-components';
+import {Image, makeStyles, mergeClasses, tokens} from '@fluentui/react-components';
 import React from 'react';
 
 interface CardCoverProps {
   image?: string;
-  /** Shown in the placeholder when there is no image, and as the image's alt text. */
+  /** The image's alt text. */
   title: string;
 }
 
 const useStyles = makeStyles({
   // Every cover takes the same box, so cards in a row line up whatever the image size.
   cover: {
+    display: 'block',
     width: '100%',
     aspectRatio: '16 / 9',
   },
-  // Inside the cover box: CardPreview sets its own children to display: block.
+  // Without an image the card's title, drawn over the cover, is all it shows.
   placeholder: {
-    height: '100%',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: tokens.colorNeutralBackground3,
-    color: tokens.colorNeutralForeground3,
-    fontSize: tokens.fontSizeBase500,
+    backgroundImage: `linear-gradient(135deg, ${tokens.colorBrandBackground}, ${tokens.colorBrandBackgroundPressed})`,
   },
 });
 
@@ -29,7 +24,7 @@ const useStyles = makeStyles({
 export const CardCover: React.FC<CardCoverProps> = ({image, title}) => {
   const styles = useStyles();
   if (!image) {
-    return <div className={styles.cover}><div className={styles.placeholder}>{title}</div></div>;
+    return <div className={mergeClasses(styles.cover, styles.placeholder)}/>;
   }
   return <Image className={styles.cover} fit="cover" src={image + '?width=1920'} alt={title}/>;
 };

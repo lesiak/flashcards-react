@@ -1,49 +1,14 @@
-import {
-  makeStyles,
-  Body1,
-  Caption1,
-} from "@fluentui/react-components";
-import {
-  Card,
-  CardHeader,
-  CardPreview,
-} from "@fluentui/react-components";
 import {Lesson} from './model/Lesson.ts';
 import React from 'react';
-import {CardCover} from './CardCover.tsx';
+import {IndexCard} from './IndexCard.tsx';
 
 interface LessonIndexCardProps {
   lesson: Lesson;
 }
 
-const useStyles = makeStyles({
-  card: {
-    width: '100%',
-    //...shorthands.margin("10px", "auto"),
-    //width: "720px",
-    //maxWidth: "100%",
-  },
-});
-
+/** A deck's tile: its cover, name and word count; LessonChooser handles the click. */
 export const LessonIndexCard: React.FC<LessonIndexCardProps> = ({lesson}) => {
-  const styles = useStyles();
-
-  return (
-    <Card className={styles.card}>
-      <CardHeader
-        header={
-          <Body1>
-            <b>{lesson.name}</b>
-          </Body1>
-        }
-        description={<Caption1>{lesson.cards.length} {lesson.cards.length === 1 ? 'word' : 'words'}</Caption1>}
-        // Placeholder for the deck's study progress.
-        action={<Caption1>Status</Caption1>}
-      />
-
-      <CardPreview>
-        <CardCover image={lesson.image} title={lesson.name}/>
-      </CardPreview>
-    </Card>
-  );
+  const words = `${lesson.cards.length} ${lesson.cards.length === 1 ? 'word' : 'words'}`;
+  // "Status" is a placeholder for the deck's study progress.
+  return <IndexCard title={lesson.name} subtitle={words} image={lesson.image} action="Status"/>;
 };
