@@ -30,6 +30,8 @@ const WORD_ANSWER = 16;
 const CHROME_HEIGHT = '144px';
 const PAGE_MARGIN_TOP = '8px';
 const PAGE_MARGIN_BOTTOM = 'clamp(24px, 5vh, 72px)';
+/** The height the card may take: the window less the nav bar and the margins. */
+const AVAILABLE_HEIGHT = `(100dvh - ${CHROME_HEIGHT} - ${PAGE_MARGIN_TOP} - ${PAGE_MARGIN_BOTTOM})`;
 
 const useStyles = makeStyles({
   // The card sits centred in the space under the nav bar, with a margin above and below.
@@ -42,14 +44,17 @@ const useStyles = makeStyles({
     minHeight: `calc(100dvh - ${CHROME_HEIGHT})`,
     ...shorthands.padding(PAGE_MARGIN_TOP, 0, PAGE_MARGIN_BOTTOM),
   },
-  // A flashcard shape sized to the screen; a long answer may make it taller.
+  // A 3:2 flashcard sized to the window. Its size never follows the content, so the
+  // header, the question, the rule and the button stay put from card to card;
+  // a long answer scrolls inside its zone.
   card: {
     position: 'relative',
     display: 'grid',
-    gridTemplateRows: 'auto 1fr auto',
-    width: `min(100%, 1100px, calc((100dvh - ${CHROME_HEIGHT} - ${PAGE_MARGIN_TOP} - ${PAGE_MARGIN_BOTTOM}) * 1.5))`,
+    gridTemplateRows: 'auto minmax(0, 1fr) auto',
+    width: `min(100%, 1100px, calc(${AVAILABLE_HEIGHT} * 1.5))`,
     minWidth: 'min(100%, 640px)',
     aspectRatio: '3 / 2',
+    minHeight: 0,
     backgroundColor: tokens.colorNeutralBackground1,
     boxShadow: tokens.shadow16,
     ...shorthands.borderRadius(tokens.borderRadiusXLarge),
@@ -59,7 +64,7 @@ const useStyles = makeStyles({
     '@media (orientation: portrait)': {
       width: 'min(100%, 720px)',
       aspectRatio: 'auto',
-      minHeight: `min(calc(100dvh - ${CHROME_HEIGHT} - ${PAGE_MARGIN_TOP} - ${PAGE_MARGIN_BOTTOM}), 960px)`,
+      height: `min(calc${AVAILABLE_HEIGHT}, 960px)`,
     },
   },
   // How far through the deck: a thin bar along the top edge.
@@ -92,9 +97,11 @@ const useStyles = makeStyles({
     fontVariantNumeric: 'tabular-nums',
   },
   // Question above a thin rule, answer below; the answer keeps its space while hidden.
+  // Fixed zones: the question sits on the rule a third of the way down the body, the answer below.
   body: {
     display: 'grid',
-    gridTemplateRows: '1fr auto 1.4fr',
+    gridTemplateRows: 'minmax(0, 1fr) auto minmax(0, 2fr)',
+    minHeight: 0,
     justifyItems: 'center',
     textAlign: 'center',
     ...shorthands.padding(0, 'clamp(18px, 3vw, 64px)'),
@@ -117,7 +124,12 @@ const useStyles = makeStyles({
     backgroundColor: tokens.colorNeutralStroke2,
   },
   answerArea: {
-    alignSelf: 'start',
+    alignSelf: 'stretch',
+    justifySelf: 'stretch',
+    minHeight: 0,
+    overflowY: 'auto',
+    // A long note scrolls; its bottom edge fades out so it reads as more below, not cut off.
+    maskImage: 'linear-gradient(to bottom, black calc(100% - 24px), transparent)',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
@@ -130,10 +142,11 @@ const useStyles = makeStyles({
     lineHeight: 1.1,
   },
   shortAnswer: {
-    fontSize: 'clamp(64px, 7vw, 150px)',
+    // Follows the window height too, so a short window still fits the answer zone.
+    fontSize: 'clamp(56px, min(7vw, 11vh), 150px)',
     lineHeight: 1,
     '@media (orientation: portrait)': {
-      fontSize: 'clamp(96px, 16vw, 170px)',
+      fontSize: 'clamp(96px, min(16vw, 13vh), 170px)',
     },
   },
   wordAnswer: {
